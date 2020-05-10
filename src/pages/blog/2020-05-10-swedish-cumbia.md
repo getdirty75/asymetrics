@@ -6,6 +6,7 @@ description: Argetina’s cumbia like, playing by psychedelic swedish band
 featuredpost: true
 featuredimage: /img/l049_goat_let_it_bleed_lo.jpg
 tags:
-  - sounds cumbia
+  - sounds
+  - cumbia
 ---
 hey hey
