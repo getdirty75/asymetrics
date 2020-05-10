@@ -8,4 +8,4 @@ featuredimage: /img/static1.squarespace.jpg
 tags:
   - knowledge
 ---
-un guide complet des meilleurs basslines ever.
+un guide complet des meilleures basslines ever.
