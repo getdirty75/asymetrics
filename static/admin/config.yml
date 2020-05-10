@@ -1,5 +1,6 @@
 backend:
-  name: git-gateway
+  name: github
+  repo: getdirty75/asymetrics
   branch: master
   commit_messages:
     create: 'Create {{collection}} “{{slug}}”'
