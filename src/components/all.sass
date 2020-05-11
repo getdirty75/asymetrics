@@ -1,17 +1,53 @@
 @import "~bulma/sass/utilities/initial-variables"
 
 @import url('https://fonts.googleapis.com/css2?family=Montserrat+Alternates:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Nunito+Sans:wght@200&display=swap');
 
-$font-stack:    Montserrat Alternates, sans-serif
+$font-stack: Montserrat Alternates, sans-serif
+$font-content: Nunito Sans, sans-serif
+
 $primary-color: hsla(0, 0%, 44%, 0.5) 
 
 body
   font: 100% $font-stack !important
   color: $primary-color !important
 
+.tagged
+  display: flex
+  flex-direction: row
+
+.bullet
+  font-size: 6px !important
+
+.nunito 
+  font: 100% $font-content !important
+
+.blog-roll
+  padding: 80px
+
+.blog-roll-tags 
+  font: 100% $font-content !important
+  font-size: 14px !important
+  color: hsla(0, 0%, 44%, 0.5) 
+
+.blog-roll-sub
+  display: flex
+  flex-direction: column
+  text-align: end
+  margin: 0.5em
+
+.blog-roll-img
+  height: 70%
+  width: auto
+  object-fit: cover
+
+.blog-roll-item-title
+  margin-bottom: 0.5em !important
+  margin-top: 0.5em
+
 // Config vars
 // Kaldi logo brand color: #FD461E
-$kaldi-red: #D64000
+$kaldi-red: hsla(0, 0%, 44%, 0.5) 
 $kaldi-red-invert: #fff
 
 $primary: $kaldi-red
@@ -23,6 +59,7 @@ $black: #2b2523
   box-shadow:none !important
 
 .content .taglist
+  font: 100% $font-content !important
   list-style: none
   margin-bottom: 0
   margin-left: 0
@@ -93,7 +130,6 @@ $black: #2b2523
   padding: 0 1rem
 footer.footer
   padding: 3rem 0rem 0rem
-  background-color: transparent
 
 //Menu overrides
 $menu-item-color: $white-ter
@@ -124,8 +160,6 @@ $menu-label-color: $white-ter
     display: inline
 
 // blog roll
-.blog-list-item.is-featured
-  background-color: #d6400033;
 .blog-list-item header
   display: flex;
   margin-bottom: 1em;

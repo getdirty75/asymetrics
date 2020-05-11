@@ -1,8 +1,8 @@
 module.exports = {
   siteMetadata: {
-    title: 'Black Gold of the Sun',
+    title: 'The Asymetrics',
     description:
-      'This repo contains asymetrics blog website. Made by Benoit',
+      'Asymetrics Magazine',
   },
   plugins: [
     'gatsby-plugin-react-helmet',
@@ -18,8 +18,8 @@ module.exports = {
     {
       resolve: 'gatsby-source-filesystem',
       options: {
-        path: `${__dirname}/src/pages`,
-        name: 'pages',
+        path: `${__dirname}/src/articles`,
+        name: 'articles',
       },
     },
     {

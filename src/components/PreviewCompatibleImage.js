@@ -8,17 +8,30 @@ const PreviewCompatibleImage = ({ imageInfo }) => {
 
   if (!!image && !!image.childImageSharp) {
     return (
-      <Img style={imageStyle} fluid={image.childImageSharp.fluid} alt={alt} />
+      <figure className="image is-2by3">
+        <img alt={alt} fluid={image.childImageSharp.fluid} />
+      </figure>
+      // <Img style={imageStyle} fluid={image.childImageSharp.fluid} alt={alt} />
     )
   }
 
   if (!!childImageSharp) {
-    return <Img style={imageStyle} fluid={childImageSharp.fluid} alt={alt} />
+    return (
+      <figure className="image is-2by3">
+        <img alt={alt} fluid={image.childImageSharp.fluid} />
+      </figure>
+    )
+    // return <Img style={imageStyle} fluid={childImageSharp.fluid} alt={alt} />
   }
 
-  if (!!image && typeof image === 'string')
-    return <img style={imageStyle} src={image} alt={alt} />
-
+  if (!!image && typeof image === 'string') {
+    return (
+      <figure className="image is-2by3">
+        <img alt={alt} src={image} />
+      </figure>
+    )
+    // return <img style={imageStyle} src={image} alt={alt} />
+  }
   return null
 }
 

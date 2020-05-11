@@ -10,8 +10,12 @@ import vimeo from '../img/social/vimeo.svg'
 const Footer = class extends React.Component {
   render() {
     return (
-      <footer className="footer has-background-black has-text-white-ter">
+      <footer className="footer">
         <div className="content has-text-centered">
+          <p>Made with 💫 by the asymetrics 2020 and beyond</p>
+          <p>Sky isn't the limit</p>
+        </div>
+        {/* <div className="content has-text-centered">
           <img
             src={logo}
             alt="Kaldi"
@@ -106,7 +110,7 @@ const Footer = class extends React.Component {
               </div>
             </div>
           </div>
-        </div>
+        </div> */}
       </footer>
     )
   }

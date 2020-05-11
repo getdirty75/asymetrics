@@ -6,7 +6,10 @@ description: Skinshape' next release
 featuredpost: true
 featuredimage: /img/a1873538026_16.jpg
 tags:
-  - sounds news
+  - sounds
+  - news
+categories:
+  - test
 ---
 ```
 <iframe 

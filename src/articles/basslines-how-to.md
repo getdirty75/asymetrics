@@ -7,5 +7,7 @@ featuredpost: false
 featuredimage: /img/static1.squarespace.jpg
 tags:
   - knowledge
+categories:
+  - test
 ---
 un guide complet des meilleures basslines ever.
