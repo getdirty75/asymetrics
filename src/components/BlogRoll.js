@@ -10,19 +10,21 @@ class BlogRoll extends React.Component {
     const { edges: posts } = data.allMarkdownRemark
 
     return (
-      <div className="blog-roll columns is-multiline">
+      <div className="blog-roll columns is-multiline is-three-quarters-mobile is-two-thirds-tablet is-half-desktop is-one-third-widescreen is-one-quarter-fullhd">
         {posts &&
           posts.map(({ node: post }) => (
             <div className="is-parent column is-4" key={post.id}> 
-              <img className="blog-roll-img"
+            <Link to={post.fields.slug}>
+            <img className="blog-roll-img"
                 alt={post.frontmatter.title}
                 src={post.frontmatter.featuredimage.childImageSharp.fluid.src} 
               />
+            </Link> 
               <article className="blog-list-item">
                 <div className="blog-roll-sub">
                   <div className="tagged">
                     {post.frontmatter.tags.map( (item, index) => (
-                      <Link className="blog-roll-tags" to={item} key={item}>
+                      <Link className="blog-roll-tags" to={`tags/${item}`} key={item}>
                         {index === 0 ? item : <p className="bullet">&nbsp;&nbsp;&nbsp;&nbsp;•&nbsp;&nbsp;&nbsp;&nbsp;<span className="blog-roll-tags">{item}</span></p> }  
                       </Link>
                     ))}

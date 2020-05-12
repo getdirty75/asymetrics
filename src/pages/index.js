@@ -7,8 +7,10 @@ const IndexPage = () => {
 
   return (
     <Layout>
-      <div className="section">
-        <BlogRoll />
+      <div className="container">
+        <div className="section">
+          <BlogRoll />
+        </div>
       </div>
     </Layout>
   )

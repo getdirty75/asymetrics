@@ -13,21 +13,11 @@ const Navbar = class extends React.Component {
   }
 
   toggleHamburger = () => {
-    // toggle the active boolean in the state
-    this.setState(
-      {
-        active: !this.state.active,
-      },
-      // after state has been updated,
+    this.setState({ active: !this.state.active },
       () => {
-        // set the class in state for the navbar accordingly
         this.state.active
-          ? this.setState({
-              navBarActiveClass: 'is-active',
-            })
-          : this.setState({
-              navBarActiveClass: '',
-            })
+          ? this.setState({ navBarActiveClass: 'is-active' })
+          : this.setState({ navBarActiveClass: '' })
       }
     )
   }
@@ -39,11 +29,10 @@ const Navbar = class extends React.Component {
         role="navigation"
         aria-label="main-navigation"
       >
-        <div className="container">
+        <div className="container is-three-quarters-mobile is-two-thirds-tablet is-half-desktop is-one-third-widescreen is-one-quarter-fullhd">
           <div className="navbar-brand">
             <Link to="/" className="navbar-item" title="Logo">
               <h1>Asymetrics</h1>
-              {/* <img src={logo} alt="Kaldi" style={{ width: '88px' }} /> */}
             </Link>
             
             {/* Hamburger menu */}
