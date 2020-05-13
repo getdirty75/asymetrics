@@ -6,11 +6,17 @@
 $font-stack: Montserrat Alternates, sans-serif
 $font-content: Nunito Sans, sans-serif
 
-$primary-color: hsla(0, 0%, 44%, 0.5) 
+$primary-color: hsla(0, 0%, 44%, 1) 
 
 body
   font: 100% $font-stack !important
   color: $primary-color !important
+
+.blog-post
+  img
+    height: auto;
+    max-width: 33% !important;
+    border-radius: 1rem;
 
 .tagged
   display: flex
@@ -45,16 +51,6 @@ body
 .blog-roll-item-title
   margin-bottom: 0.5em !important
   margin-top: 0.5em
-
-// Config vars
-// Kaldi logo brand color: #FD461E
-$kaldi-red: hsla(0, 0%, 44%, 0.5) 
-$kaldi-red-invert: #fff
-
-$primary: $kaldi-red
-$primary-invert: $kaldi-red-invert
-$body-color: #333
-$black: #2b2523
 
 .navbar .navbar-menu
   box-shadow:none !important
@@ -136,9 +132,9 @@ footer.footer
 $menu-item-color: $white-ter
 $menu-item-hover-color: $black !important
 $menu-item-hover-background-color: $black
-$menu-item-active-color: $kaldi-red-invert
-$menu-item-active-background-color:	$kaldi-red-invert
-$menu-list-border-left: 1px solid $kaldi-red-invert
+$menu-item-active-color: $primary-color 
+$menu-item-active-background-color:	$primary-color 
+$menu-list-border-left: 1px solid $primary-color 
 $menu-label-color: $white-ter
 
 
