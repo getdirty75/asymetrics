@@ -6,17 +6,21 @@
 $font-stack: Montserrat Alternates, sans-serif
 $font-content: Nunito Sans, sans-serif
 
-$primary-color: hsla(0, 0%, 44%, 1) 
+$primary-color: hsla(0, 0%, 44%, 1)
+$dark-blue-color: hsla(186, 81%, 22%, 1)
 
 body
   font: 100% $font-stack !important
   color: $primary-color !important
 
+.blogRoll__item
+  padding: 1.5rem !important
+
 .blog-post
   img
-    height: auto;
-    max-width: 33% !important;
-    border-radius: 1rem;
+    height: auto
+    max-width: 33% !important
+    border-radius: 1rem
 
 .tagged
   display: flex
@@ -24,18 +28,19 @@ body
   justify-content: flex-end
 
 .bullet
-  font-size: 6px !important
+  font-size: 16px !important
 
-.nunito 
+.nunito
   font: 100% $font-content !important
+  color: $primary-color !important
 
 .blog-roll
   padding: 0px
 
-.blog-roll-tags 
+.blog-roll-tags
   font: 100% $font-content !important
-  font-size: 14px !important
-  color: hsla(0, 0%, 44%, 0.5) 
+  font-size: 18px !important
+  color: hsla(0, 0%, 44%, 1)
 
 .blog-roll-sub
   display: flex
@@ -49,6 +54,7 @@ body
   object-fit: cover
 
 .blog-roll-item-title
+  color: $dark-blue-color !important
   margin-bottom: 0.5em !important
   margin-top: 0.5em
 
@@ -116,7 +122,11 @@ body
 
 .navbar-item
   color: $primary-color !important
-  font-size: 64px !important
+  font-size: 32px
+
+.navbar-subtitle
+  font-size: 16px
+
 
 // Override for use of svg's from https://simpleicons.org/
 .icon svg
@@ -132,9 +142,9 @@ footer.footer
 $menu-item-color: $white-ter
 $menu-item-hover-color: $black !important
 $menu-item-hover-background-color: $black
-$menu-item-active-color: $primary-color 
-$menu-item-active-background-color:	$primary-color 
-$menu-list-border-left: 1px solid $primary-color 
+$menu-item-active-color: $primary-color
+$menu-item-active-background-color:	$primary-color
+$menu-list-border-left: 1px solid $primary-color
 $menu-label-color: $white-ter
 
 
@@ -158,11 +168,11 @@ $menu-label-color: $white-ter
 
 // blog roll
 .blog-list-item header
-  display: flex;
-  margin-bottom: 1em;
+  display: flex
+  margin-bottom: 1em
 .blog-list-item .featured-thumbnail
-  flex-basis: 35%;
-  margin: 0 1.5em 0 0;
+  flex-basis: 35%
+  margin: 0 1.5em 0 0
 
 
 @import "~bulma"
@@ -171,12 +181,12 @@ $menu-label-color: $white-ter
 // responsiveness
 +tablet-only
   .blog-list-item .featured-thumbnail
-    flex-basis: 50%;
+    flex-basis: 50%
 
 +mobile
   .blog-list-item header
     display: block
   .blog-list-item .featured-thumbnail
-    text-align: center;
-    max-width: 70%;
-    margin: 0 0 1em;
+    text-align: center
+    max-width: 70%
+    margin: 0 0 1em
