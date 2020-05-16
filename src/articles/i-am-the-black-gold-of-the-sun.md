@@ -6,8 +6,8 @@ description: 'Story of a track: "I Am The Black Gold Of The Sun"'
 featuredpost: true
 featuredimage: /img/gold-sun.png
 tags:
-  - Knowledge
-  - Rhythm
+  - knowledge
+  - rhythm
 categories:
   - story of a track
 ---
