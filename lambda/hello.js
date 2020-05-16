@@ -1,6 +1,5 @@
 // For more info, check https://www.netlify.com/docs/functions/#javascript-lambda-functions
 module.exports.handler = async function(event, context) {
-  console.log("queryStringParameters", event.queryStringParameters)
   return {
     // return null to show no errors
     statusCode: 200, // http status code
