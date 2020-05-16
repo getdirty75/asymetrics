@@ -13,12 +13,6 @@ class BlogRoll extends React.Component {
         {posts &&
           posts.map(({ node: post }) => (
             <div className="is-parent column is-4 blogRoll__item" key={post.id}>
-            {/* <Link to={post.fields.slug}>
-            <img className="blog-roll-img"
-                alt={post.frontmatter.title}
-                src={post.frontmatter.featuredimage.childImageSharp.fluid.src}
-              />
-            </Link> */}
               <article className="blog-list-item">
               <figure class="image is-2by3">
               <img className="blog-roll-img"
