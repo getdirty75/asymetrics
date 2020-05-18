@@ -14,7 +14,7 @@ class BlogRoll extends React.Component {
           posts.map(({ node: post }) => (
             <div className="is-parent column is-4 blogRoll__item" key={post.id}>
               <article className="blog-list-item">
-              <figure class="image is-2by3">
+              <figure className="image is-5by3">
               <img className="blog-roll-img"
                 alt={post.frontmatter.title}
                 src={post.frontmatter.featuredimage.childImageSharp.fluid.src}
