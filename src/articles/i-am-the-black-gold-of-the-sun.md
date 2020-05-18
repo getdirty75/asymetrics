@@ -6,15 +6,14 @@ description: 'Story of a track: "I Am The Black Gold Of The Sun"'
 featuredpost: true
 featuredimage: /img/gold-sun.png
 tags:
-  - knowledge
-  - rhythm
+  - knowledge / wisdom / rhythm
 categories:
   - story of a track
 ---
 
 <br>
 <br>
-<iframe width="600" height="315" src="https://www.youtube.com/embed/SsY_rRFncGU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="280" height="315" src="https://www.youtube.com/embed/SsY_rRFncGU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <br>
 <br>
 <br>
@@ -34,7 +33,7 @@ Psychedelic soul, featuring [the queen Minnie Ripperton](https://en.wikipedia.or
 Taken from the "Hey Love" LP <br>
 <br>
 <br>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PL8a8cutYP7fpw8EHWfAjm7rpnngUhtVuS" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="280" height="315" src="https://www.youtube.com/embed/videoseries?list=PL8a8cutYP7fpw8EHWfAjm7rpnngUhtVuS" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <br>
 <br>
 <br>
@@ -48,7 +47,7 @@ their song "I Am The Black Gold Of The Sun" was to be later profusely covered & 
 One of the best covers to be made, in my humble opinion, is the 1997 version by Nuyorican Soul aka Little Louie Vega & Kenny Dope Gonzalez ([Masters At Work](https://en.wikipedia.org/wiki/Masters_at_Work) ​featuring [Jocelyn Brown](https://en.wikipedia.org/wiki/Jocelyn_Brown) on vocals.
 <br>
 <br>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Rwuy3go1-L8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="280" height="315" src="https://www.youtube.com/embed/Rwuy3go1-L8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <br>
 <br>
 
@@ -57,7 +56,7 @@ The same year, in 1997, definitely a good year for music in many aspects, [the b
 it was released on Giles Peterson ["Talkin' Loud" label](https://en.wikipedia.org/wiki/Talkin%27_Loud), beautiful gem of a track !   ![](/img/black-gold-5.jpg)
 <br>
 <br>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aYBT90PFmoM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="280" height="315" src="https://www.youtube.com/embed/aYBT90PFmoM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <br>
 <br>
 <div style="text-align:center; margin:10px" markdown="1">

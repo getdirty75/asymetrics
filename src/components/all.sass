@@ -1,21 +1,87 @@
 @import "~bulma/sass/utilities/initial-variables"
 
+//
+//   F O N T S
+//
 @import url('https://fonts.googleapis.com/css2?family=Montserrat+Alternates:wght@300&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Nunito+Sans:wght@200&display=swap');
-
 $font-stack: Montserrat Alternates, sans-serif
 $font-content: Nunito Sans, sans-serif
 
-$primary-color: hsla(0, 0%, 44%, 1)
+//
+//   C O L O R S
+//
+$color-grey: hsla(0, 0%, 44%, 1)
+$color-grey-dark: hsla(0, 9%, 9%, 1)
 $dark-blue-color: hsla(186, 81%, 22%, 1)
+$dark-purple-color: hsla(283, 79%, 17%, 1)
 
+//
+//   R E S E T
+//
 body
   font: 100% $font-stack !important
-  color: $primary-color !important
+  color: $color-grey !important
+a
+  font: 100% $font-content !important
+  color: $dark-purple-color !important
+  opacity: 1
+  transition: 0.4s
+  &:hover
+    opacity: 0.5
+
+//
+//   B L O G   R O L L S
+//
+.blogRoll
+  padding: 0px
+
+.blogRoll__bullet
+  font-size: 16px !important
+
+.blogRoll__img
+  border-radius: 0.2rem
+  height: 70%
+  width: auto
+  object-fit: cover
 
 .blogRoll__item
   padding: 1.5rem !important
 
+.blogRoll__itemTitle
+  color: $dark-blue-color !important
+  font-size: 22px !important
+  margin-bottom: 0.2em !important
+  margin-top: 0.2em
+
+.blogRoll__sub
+  display: flex
+  flex-direction: column
+  text-align: end
+  margin: 0.5em
+
+.blogRoll__tagsBox
+  display: flex
+  flex-direction: row
+  justify-content: flex-end
+
+.blogRoll__tags
+  font: 100% $font-content !important
+  font-size: 14px !important
+  color: hsla(0, 0%, 44%, 1)
+
+//
+//   B L O G   P O S T S
+//
+.blog-post
+  img
+    height: auto
+    max-width: 33% !important
+    border-radius: 1rem
+
+//
+//   H O M E
+//
 .home__desc
   font: 100% Nunito Sans, sans-serif !important
   padding: 1rem
@@ -24,6 +90,9 @@ body
   border-color: whitesmoke
   font-size: 14px !important
 
+//
+//   N A V B A R
+//
 .navbar__itemStyle
   font: 100% Nunito Sans, sans-serif !important
   padding: 1rem
@@ -31,52 +100,52 @@ body
   border-radius: 0.2rem
   font-size: 14px !important
 
-.blog-post
-  img
-    height: auto
-    max-width: 33% !important
-    border-radius: 1rem
-
-.tagged
-  display: flex
-  flex-direction: row
-  justify-content: flex-end
-
-.bullet
-  font-size: 16px !important
-
-.nunito
-  font: 100% $font-content !important
-  color: $primary-color !important
-
-.blog-roll
-  padding: 0px
-
-.blog-roll-tags
-  font: 100% $font-content !important
-  font-size: 18px !important
-  color: hsla(0, 0%, 44%, 1)
-
-.blog-roll-sub
-  display: flex
-  flex-direction: column
-  text-align: end
-  margin: 0.5em
-
-.blog-roll-img
-  border-radius: 0.2rem
-  height: 70%
-  width: auto
-  object-fit: cover
-
-.blog-roll-item-title
-  color: $dark-blue-color !important
-  margin-bottom: 0.5em !important
-  margin-top: 0.5em
-
 .navbar .navbar-menu
   box-shadow:none !important
 
+.navbar-item
+  color: $color-grey !important
+  font-size: 32px
+
+.navBar__title
+  color: $color-grey-dark !important
+  font-size: 22px
+
+.navBar__subtitle
+  color: $color-grey-dark !important
+  font-size: 16px
+
+//
+//   T A G S   P A G E
+//
+.tags__headerText
+  color: $color-grey !important
+  margin-bottom: 5rem !important
+
+//
+//   M I S C
+//
+.nunito
+  font: 100% $font-content !important
+  color: $color-grey !important
+
+.margin-top-0
+  margin-top: 0 !important
+
+// Override for use of svg's from https://simpleicons.org/
+.icon svg
+  width: 1.5rem
+  height: 1.5rem
+  fill: currentColor
+.navbar-brand .navbar-item.logo
+  padding: 0 1rem
+footer.footer
+  padding: 3rem 0rem 0rem
+
+
+//
+//  C O N T E N T
+//
 .content .taglist
   font: 100% $font-content !important
   list-style: none
@@ -93,7 +162,36 @@ body
     margin-bottom: 1.5rem
     margin-top: 0
 
-// Helper Classes
+//
+//  M E N U
+//
+$menu-item-color: $white-ter
+$menu-item-hover-color: $black !important
+$menu-item-hover-background-color: $black
+$menu-item-active-color: $color-grey
+$menu-item-active-background-color:	$color-grey
+$menu-list-border-left: 1px solid $color-grey
+$menu-label-color: $white-ter
+
+.menu-label
+  font-size: 1em !important
+  text-align: left
+.menu-list
+  list-style: none !important
+  text-align: left
+.social
+  padding: 2em
+// .social a
+//     padding: .5em .5em .3em .5em
+//     border-radius: 1em
+//     background-color: $white-ter
+//     margin: .5em
+//     width: 1em
+//     height: 1em
+//     vertical-align: middle
+//     display: inline
+
+  // Helper Classes
 .full-width-image-container
   width: 100vw
   height: 400px
@@ -133,67 +231,8 @@ body
     -webkit-transition: all .15s ease
     transition: all .15s ease
 
-.margin-top-0
-  margin-top: 0 !important
-
-.navbar-item
-  color: $primary-color !important
-  font-size: 32px
-
-.navbar-subtitle
-  font-size: 16px
-
-
-// Override for use of svg's from https://simpleicons.org/
-.icon svg
-  width: 1.5rem
-  height: 1.5rem
-  fill: currentColor
-.navbar-brand .navbar-item.logo
-  padding: 0 1rem
-footer.footer
-  padding: 3rem 0rem 0rem
-
-//Menu overrides
-$menu-item-color: $white-ter
-$menu-item-hover-color: $black !important
-$menu-item-hover-background-color: $black
-$menu-item-active-color: $primary-color
-$menu-item-active-background-color:	$primary-color
-$menu-list-border-left: 1px solid $primary-color
-$menu-label-color: $white-ter
-
-
-.menu-label
-  font-size: 1em !important
-  text-align: left
-.menu-list
-  list-style: none !important
-  text-align: left
-.social
-  padding: 2em
-.social a
-    padding: .5em .5em .3em .5em
-    border-radius: 1em
-    background-color: $white-ter
-    margin: .5em
-    width: 1em
-    height: 1em
-    vertical-align: middle
-    display: inline
-
-// blog roll
-.blog-list-item header
-  display: flex
-  margin-bottom: 1em
-.blog-list-item .featured-thumbnail
-  flex-basis: 35%
-  margin: 0 1.5em 0 0
-
 
 @import "~bulma"
-
-
 // responsiveness
 +tablet-only
   .blog-list-item .featured-thumbnail

@@ -8,7 +8,7 @@ const IndexPage = () => {
   return (
     <Layout>
       <div className="container">
-        <p className="home__desc">Creative Collective sharing stories about musics, life around the planet. Digging subjects through articles, podacasts, mixes and any others alternatives medium that will be create in the future.</p>
+        <p className="home__desc">The Asymetrics is a collective sharing knowledge about music, & culture from all around the world. <br/>Digging in different subjects through articles, podcasts, mixtapes and more...</p>
         <div className="section">
           <BlogRoll />
         </div>
