@@ -34,7 +34,7 @@ const Navbar = class extends React.Component {
               <img src={logo} alt="Kaldi" style={{ width: '88px' }} />
             </Link> */}
             <Link to="/" className="navbar-item is-flex-touch" title="Logo">
-              <h3>Asymetrics <p className="navbar-subtitle">playground</p></h3>
+              <h3>Asymetrics <p className="navbar-subtitle">Topics</p></h3>
             </Link>
             {/* Hamburger menu */}
             <div
@@ -53,8 +53,8 @@ const Navbar = class extends React.Component {
           >
             <div className="navbar-start has-text-centered">
             <Link className="navbar-item navbar__itemStyle" to="/tags/">All Categories</Link>
-            <Link className="navbar-item navbar__itemStyle" to="/tags/knowledge">Knowledge</Link>
-            <Link className="navbar-item navbar__itemStyle" to="/tags/sounds">Playlists / Podcast</Link>
+            <Link className="navbar-item navbar__itemStyle" to="/tags/knowledge">Knowledge / Wisdom / Rhythm</Link>
+            <Link className="navbar-item navbar__itemStyle" to="/tags/sounds">Mixtapes / Playlists / Podcasts</Link>
             <Link className="navbar-item navbar__itemStyle" to="/tags/news">News / Quickies</Link>
               {/* <Link className="navbar-item" to="/about">
                 Podcasts

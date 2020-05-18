@@ -6,17 +6,40 @@ import Layout from '../components/Layout'
 class TagRoute extends React.Component {
   render() {
     const posts = this.props.data.allMarkdownRemark.edges
+    console.log(posts)
     const postLinks = posts.map((post) => (
-      <li key={post.node.fields.slug}>
-        <Link to={post.node.fields.slug}>
-          <h2 className="is-size-2">{post.node.frontmatter.title}</h2>
+      <li className='is-parent' key={post.node.fields.slug}>
+        <article className='media columns'>
+          <figure className="media-left">
+            <p className="image is-128x128">
+              <img
+                alt={post.node.frontmatter.title}
+                src={post.node.frontmatter.featuredimage.childImageSharp.fluid.src} />
+            </p>
+          </figure>
+          <div className="media-content">
+            <div className="content">
+              <h3>{post.node.frontmatter.title}</h3>
+              <p>{post.node.frontmatter.description}</p>
+            </div>
+          </div>
+        </article>
+
+        {/* <Link to={post.node.fields.slug}>
+          <h4>{post.node.frontmatter.title}</h4>
+          <p>{post.node.frontmatter.description}</p>
         </Link>
+        <figure className="image is-128x128">
+          <img alt={post.node.frontmatter.title}
+              src={post.node.frontmatter.featuredimage.childImageSharp.fluid.src}
+              />
+          </figure> */}
       </li>
     ))
     const tag = this.props.pageContext.tag
     const title = this.props.data.site.siteMetadata.title
     const totalCount = this.props.data.allMarkdownRemark.totalCount
-    const tagHeader = `il y a ${totalCount} article${totalCount === 1 ? '' : 's'} taggé${totalCount === 1 ? '' : 's'} “${tag}”`
+    const tagHeader = `${totalCount} ${tag} gem${totalCount === 1 ? '' : 's'} to read`
 
     return (
       <Layout>
@@ -28,10 +51,10 @@ class TagRoute extends React.Component {
                 className="column is-10 is-offset-1"
                 style={{ marginBottom: '6rem' }}
               >
-                <h3 className="title is-size-4 is-bold-light">{tagHeader}</h3>
+                <p className='tags__headerText'>{tagHeader}</p>
                 <ul className="taglist">{postLinks}</ul>
                 <p>
-                  <Link to="/tags/">Rechercher tout les tags</Link>
+                  <Link to="/tags/">Search all categories</Link>
                 </p>
               </div>
             </div>
@@ -64,6 +87,14 @@ export const tagPageQuery = graphql`
           }
           frontmatter {
             title
+            description
+            featuredimage {
+              childImageSharp {
+                fluid(maxWidth: 100, quality: 100) {
+                  ...GatsbyImageSharpFluid
+                }
+              }
+            }
           }
         }
       }
