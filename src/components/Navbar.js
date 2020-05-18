@@ -1,6 +1,8 @@
 import React from 'react'
 import { Link } from 'gatsby'
 import github from '../img/github-icon.svg'
+import insta from '../img/social/instagram.svg'
+import twitter from '../img/social/twitter.svg'
 
 const Navbar = class extends React.Component {
   constructor(props) {
@@ -34,7 +36,7 @@ const Navbar = class extends React.Component {
               <img src={logo} alt="Kaldi" style={{ width: '88px' }} />
             </Link> */}
             <Link to="/" className="navbar-item is-flex-touch" title="Logo">
-              <h3>Asymetrics <p className="navbar-subtitle">Topics</p></h3>
+              <h2 className='navBar__title'>Asymetrics <p className="navBar__subtitle">Topics</p></h2>
             </Link>
             {/* Hamburger menu */}
             <div
@@ -53,24 +55,8 @@ const Navbar = class extends React.Component {
           >
             <div className="navbar-start has-text-centered">
             <Link className="navbar-item navbar__itemStyle" to="/tags/">All Categories</Link>
-            <Link className="navbar-item navbar__itemStyle" to="/tags/knowledge">Knowledge / Wisdom / Rhythm</Link>
-            <Link className="navbar-item navbar__itemStyle" to="/tags/sounds">Mixtapes / Playlists / Podcasts</Link>
-            <Link className="navbar-item navbar__itemStyle" to="/tags/news">News / Quickies</Link>
-              {/* <Link className="navbar-item" to="/about">
-                Podcasts
-              </Link>
-              <Link className="navbar-item" to="/products">
-                Dossiers
-              </Link> 
-              <Link className="navbar-item" to="/blog">
-                Histoires
-              </Link>
-               <Link className="navbar-item" to="/contact">
-                Contact
-              </Link>
-              <Link className="navbar-item" to="/contact/examples">
-                Shop
-              </Link> */}
+            <Link className="navbar-item navbar__itemStyle" to="/tags/knowledge-wisdom-rhythm">Knowledge / Wisdom / Rhythm</Link>
+            <Link className="navbar-item navbar__itemStyle" to="/tags/mixtapes-playlists-podcasts">Mixtapes / Playlists / Podcasts</Link>
             </div>
             <div className="navbar-end has-text-centered">
               <a
@@ -81,6 +67,26 @@ const Navbar = class extends React.Component {
               >
                 <span className="icon">
                   <img src={github} alt="Github" />
+                </span>
+              </a>
+              <a
+                className="navbar-item"
+                href="https://github.com/getdirty75/asymetrics"
+                target="_blank"
+                rel="noopener noreferrer"
+              >
+                <span className="icon">
+                  <img src={insta} alt="Instagram" />
+                </span>
+              </a>
+              <a
+                className="navbar-item"
+                href="https://github.com/getdirty75/asymetrics"
+                target="_blank"
+                rel="noopener noreferrer"
+              >
+                <span className="icon">
+                  <img src={twitter} alt="Twitter" />
                 </span>
               </a>
             </div>

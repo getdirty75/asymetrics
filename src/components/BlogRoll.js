@@ -9,50 +9,53 @@ class BlogRoll extends React.Component {
     const { edges: posts } = data.allMarkdownRemark
 
     return (
-      <div className="blog-roll columns is-multiline is-three-quarters-mobile is-two-thirds-tablet is-half-desktop is-one-third-widescreen is-one-quarter-fullhd">
-        {posts &&
-          posts.map(({ node: post }) => (
-            <div className="is-parent column is-4 blogRoll__item" key={post.id}>
-              <article className="blog-list-item">
-              <figure className="image is-5by3">
-              <img className="blog-roll-img"
+      <div>
+      <h5>Latest</h5>
+      <div className="blogRoll columns is-multiline is-three-quarters-mobile is-two-thirds-tablet is-half-desktop is-one-third-widescreen is-one-quarter-fullhd">
+
+        {posts && posts.map(({ node: post }) => (
+          <div className="is-parent column is-4 blogRoll__item" key={post.id}>
+            <article>
+            <Link to={post.fields.slug}>
+              <figure className="image is-5by4">
+              <img className="blogRoll__img"
                 alt={post.frontmatter.title}
                 src={post.frontmatter.featuredimage.childImageSharp.fluid.src}
               />
               </figure>
-                <div className="blog-roll-sub">
-                  <div className="tagged">
-                    {post.frontmatter.tags.map( (item, index) => (index === 0
-                      ? <Link className="blog-roll-tags" to={`tags/${item}`} key={item}>
-                        {item}
-                      </Link>
-                      : <p className="bullet" key={item}>&nbsp;•&nbsp;
-                          <span>
-                          <Link className="blog-roll-tags" to={`tags/${item}`}>
-                            {item}
-                          </Link>
-                          </span>
-                          </p>
-                      ))}
-                  </div>
-                  <Link
-                    className="blog-roll-item-title title is-size-4"
-                    to={post.fields.slug}
-                  >
-                    {post.frontmatter.title}
-                  </Link>
-                  <p className="blog-roll-tags">{post.frontmatter.description}</p>
+              </Link>
+
+              <div className="blogRoll__sub">
+                <div className="blogRoll__tagsBox">
+                  {post.frontmatter.tags.map( (item, index) => (index === 0
+                    ? <Link className="blogRoll__tags" to={`tags/${item}`} key={item}>
+                      {item}
+                    </Link>
+                    : <p className="blogRoll__bullet" key={item}>&nbsp;•&nbsp;
+                        <span>
+                        <Link className="blogRoll__tags" to={`tags/${item}`}>
+                          {item}
+                        </Link>
+                        </span>
+                        </p>
+                    ))}
                 </div>
-                <p>
-                  <br />
-                  <br />
-                  {/* <Link className="button" to={post.fields.slug}>
-                    Keep Reading →
-                  </Link> */}
-                </p>
-              </article>
-            </div>
+                <Link className="blogRoll__itemTitle" to={post.fields.slug}>
+                  {post.frontmatter.title}
+                </Link>
+                <p className="blogRoll__tags">{post.frontmatter.description}</p>
+              </div>
+              <p>
+                <br />
+                <br />
+                {/* <Link className="button" to={post.fields.slug}>
+                  Keep Reading →
+                </Link> */}
+              </p>
+            </article>
+          </div>
           ))}
+      </div>
       </div>
     )
   }

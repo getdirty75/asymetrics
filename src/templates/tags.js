@@ -24,16 +24,6 @@ class TagRoute extends React.Component {
             </div>
           </div>
         </article>
-
-        {/* <Link to={post.node.fields.slug}>
-          <h4>{post.node.frontmatter.title}</h4>
-          <p>{post.node.frontmatter.description}</p>
-        </Link>
-        <figure className="image is-128x128">
-          <img alt={post.node.frontmatter.title}
-              src={post.node.frontmatter.featuredimage.childImageSharp.fluid.src}
-              />
-          </figure> */}
       </li>
     ))
     const tag = this.props.pageContext.tag
