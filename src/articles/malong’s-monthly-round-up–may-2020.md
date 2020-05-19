@@ -1,0 +1,182 @@
+---
+templateKey: blog-post
+title: Malong’s monthly round-up – first round(May 2020)
+date: 2020-05-19T01:59:40.365Z
+description: A (somewhat) regular journey through vibrant past, present, and future tunes in no particular order, preference of genre, or other purpose but to make you feel fine!
+featuredpost: false
+featuredimage: /img/mael-roundup1/jovino.jpg
+tags:
+  - mixtapes / playlists / podcasts
+categories:
+  - samity
+---
+
+Featured tracks:
+<br>
+<br>
+
+### - Edu Lobo: Zum Zum (Akizzbeatzz remix)
+<div class="columns">
+  <div class="column">
+    <iframe src="https://www.youtube.com/embed/60yazKWu6Wk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  </div>
+  <div class="column">
+    Boss of Bossa’s classic 1970 hit from the album Cantiga de Longe gets finely and minimally remixed by Akizzbeatzz who gave it a recognizable funk swing with the ever-so sampled Funky Drummer loop.  Don’t be fooled by Edu’s angelic voice, under that baby face hid a wicked trickster who dropped, on the same album, such psychedelic trips as Aguaverde and Zanzibar:
+  </div>
+</div>
+<br>
+<br>
+
+### - Noor Jehan: Very Sorry
+<div class="columns">
+  <div class="column">
+    A special dancefloor killer that I have regularly pulled out of my 7” shoebox for a decade! A pillar of Pakistani music, who started in the 1930’s, legend Noor Jehan took an unexpected sidestep at the peak of Lollywood and, along with Kamal Ahmed, created a series of gems, including this one featured on “Finders Keepers” 2009 repress, a gorgeous tribute to this ass-shake-friendly bomb, composed for the movie “Warrant” (1975).  Very Sorry is also on the label’s cutting edge The Sound of Wonder compilation. This extract from the flick will give you a dazzling and rare insight into 70’s Pakistani movies, dimensions apart from today’s scene:
+  </div>
+  <div class="column">
+    <iframe src="https://www.youtube.com/embed/KlSprUw6y0o" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  </div>
+</div>
+<br>
+<br>
+
+### - Afrosound: Cabeza de Chorlito
+Classic Afro-Colombian psychedelic cumbia from the 70’s. Colombian maverick Fruko’s pet project, Afrosound and their ghostly synths still resonate in Colombia close to 4 decades later, and are now sitting on top of many a crate-digger/ World music head’s playlists. Extracted from their 1973 album La Danza de los Mirlos issued by the mighty Discos Fuentes label.
+<br>
+<br>
+
+### - Erick Cosaque: Embawgo
+<div class="columns">
+  <div class="column">
+
+![](/img/mael-roundup1/erick-cosaque.jpg)
+
+  </div>
+  <div class="column">
+    A totem of Guadeloupe’s music, Cosaque had explored many of the island’s unique music through his entire life, pushing Gwo-ka and pioneering Zouk. A recent compilation titled Chinal Ka courtesy of Paris’ Heavenly Sweetness did him posthumous justice – don’t miss this beautiful exploration through free-jazz infused traditional and emerging Antilles styles.
+  </div>
+</div>
+<br>
+<br>
+
+### - Cap’tain Creole: Fré Moin
+<div class="columns">
+  <div class="column">
+    Exceptional one-off  from an obscure Parisian 80’s reggae band originally named Trenchtown Meditation  (full story here). Legend has it that this 2 track release was their sole actual studio take, recorded on a whim in creole with a few friends, for the most intriguing result blending all the best that the mid-80’s had to offer!
+  </div>
+  <div class="column">
+
+![](/img/mael-roundup1/captain-creole.jpg)
+
+  </div>
+</div>
+<br>
+<br>
+
+### - Tita Duval: Batukacuto
+<div class="columns">
+  <div class="column">
+
+![](/img/mael-roundup1/tito-duval.jpg)
+
+  </div>
+  <div class="column">
+    Extracted from a 1974 record born to the Argentine power couple Tita Duval and Bobby Rey, who were based in Medellin at the time (oh oh!). This splendid tripped-out cumbia cut was recently re-released through Madrid-based Vampisoul – don’t miss their essential catalogue of beautiful music without borders.
+  </div>
+</div>
+<br>
+<br>
+
+### - Marlui Miranda: Tchori Tchori (with Uakti)
+<div class="columns">
+  <div class="column">
+    An researcher of indigenous music, Marlui Miranda called on to Philip Glass’ Brazilian protégés Uakti to illustrate a series of field recordings, eventually only self-released on CD in 1995.  Selvadiscos recently did us the favor of re-mastering and releasing this unique piece.
+  </div>
+  <div class="column">
+
+![](/img/mael-roundup1/marlui-miranda.jpg)
+
+  </div>
+</div>
+<br>
+<br>
+
+### - Karol Conka: Vogue do Gueto
+<div class="columns">
+  <div class="column">
+    <iframe src="https://www.youtube.com/embed/RokisLL29BM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  </div>
+  <div class="column">
+    Blurring the lines between rap, electronica, kuduro and baile funk, hyperactive Brazilian singer Karol Conka drops a favela-infused tribute to the Voguing movement.
+  </div>
+</div>
+<br>
+<br>
+
+### - Flamingo Pier: Boogie Meltdown
+<div class="columns">
+  <div class="column">
+    Killer label Soundway is responsible for this 2020 Kiwi boogie madness. Hailing from the Flamingo Pier, this one was just made for the pop & lock massive!
+  </div>
+  <div class="column">
+
+![](/img/mael-roundup1/flamingo-pier.jpg)
+
+  </div>
+</div>
+<br>
+<br>
+
+### - Bill Campbell: Body Beat
+<div class="columns">
+  <div class="column">
+
+![](/img/mael-roundup1/bill-campbell.jpg)
+
+  </div>
+  <div class="column">
+    From the brand new Soca Dub and Electronic Calypso print, this is a reminder of how rocking Calypso can be, even when taking obscure turns! It’s accessorily also yet another example of how insanely cool and versatile releases from Soundway are, one of this author’s hero labels, which you can be sure to hear more about in future round-ups.
+  </div>
+</div>
+<br>
+<br>
+
+### - The Mauskovic Dance Band: Space Drum Machine (Detroit Swindle’s flute mix)
+<div class="columns">
+  <div class="column">
+    Some Dutch goodness, courtesy of Soundway (yup, again). This remix by Amsterdam-based (as their name indicates) Detroit Swindle is a disco UFO with a tropical twist just made to tweak your brain connections and make that booty shake.
+  </div>
+  <div class="column">
+
+![](/img/mael-roundup1/mauskovic-dance-band.jpg)
+
+  </div>
+</div>
+<br>
+<br>
+
+### - Jovino Dos Santos: Bo Ta Cool
+<div class="columns">
+  <div class="column">
+
+![](/img/mael-roundup1/jovino.jpg)
+
+  </div>
+  <div class="column">
+    Incredible surprise when listening to New York City’s Ostinato Records’ wonderful compilation of Cape Verdean psychedelic synth funk, and early Funana: Jovino is somewhat of a childhood friend who once took me around the best islanders’ hangouts in Lisbon in the early 90s. I had never known he was a phenomenal musician in his youth!
+The entire compilation is a perfect follow-up to Analog Africa’s groundbreaking Space Echo album. Hot tip!
+  </div>
+</div>
+
+
+
+
+##### Two columns
+<div class="columns">
+  <div class="column">
+    First column
+  </div>
+  <div class="column">
+    Second column
+  </div>
+</div>
+
