@@ -17,19 +17,19 @@ export const BlogPostTemplate = ({
   const PostContent = contentComponent || Content
 
   return (
-    <section className="blog-post section">
+    <section className='blog-post section'>
       {helmet || ''}
-      <div className="container content">
-        <div className="columns">
-          <div className="column is-10 is-offset-1">
-            <h1 className="title is-size-2 has-text-weight-bold is-bold-light">
+      <div className='container content'>
+        <div className='columns'>
+          <div className='column is-10 is-offset-1'>
+            <h1 className=''>
               {title}
             </h1>
             <p>{description}</p>
-            <PostContent content={content} />
+            <PostContent className='blogPost__text' content={content} />
             {tags && tags.length ? (
               <div style={{ marginTop: `4rem` }}>
-                <ul className="taglist">
+                <ul className='taglist'>
                   {tags.map((tag) => (
                     <li key={tag + `tag`}>
                       <Link to={`/tags/${kebabCase(tag)}/`}>{tag}</Link>
@@ -66,7 +66,7 @@ const BlogPost = ({ data }) => {
           <Helmet titleTemplate="%s | Blog">
             <title>{`${post.frontmatter.title}`}</title>
             <meta
-              name="description"
+              name='description'
               content={`${post.frontmatter.description}`}
             />
           </Helmet>
