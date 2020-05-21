@@ -18,7 +18,9 @@ Featured tracks:
 ### - Edu Lobo: Zum Zum (Akizzbeatzz remix)
 <div class="columns">
   <div class="column">
-    <iframe src="https://www.youtube.com/embed/60yazKWu6Wk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    <div class='embed-container'>
+      <iframe src='https://www.youtube.com/embed/60yazKWu6Wklscreen'></iframe>
+    </div>
   </div>
   <div class="column">
     Boss of Bossa’s classic 1970 hit from the album Cantiga de Longe gets finely and minimally remixed by Akizzbeatzz who gave it a recognizable funk swing with the ever-so sampled Funky Drummer loop.  Don’t be fooled by Edu’s angelic voice, under that baby face hid a wicked trickster who dropped, on the same album, such psychedelic trips as Aguaverde and Zanzibar:
@@ -33,7 +35,9 @@ Featured tracks:
     A special dancefloor killer that I have regularly pulled out of my 7” shoebox for a decade! A pillar of Pakistani music, who started in the 1930’s, legend Noor Jehan took an unexpected sidestep at the peak of Lollywood and, along with Kamal Ahmed, created a series of gems, including this one featured on “Finders Keepers” 2009 repress, a gorgeous tribute to this ass-shake-friendly bomb, composed for the movie “Warrant” (1975).  Very Sorry is also on the label’s cutting edge The Sound of Wonder compilation. This extract from the flick will give you a dazzling and rare insight into 70’s Pakistani movies, dimensions apart from today’s scene:
   </div>
   <div class="column">
-    <iframe src="https://www.youtube.com/embed/KlSprUw6y0o" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    <div class='embed-container'>
+    <iframe src='https://www.youtube.com/embed/KlSprUw6y0o'></iframe>
+  </div>
   </div>
 </div>
 <br>
@@ -76,7 +80,7 @@ Classic Afro-Colombian psychedelic cumbia from the 70’s. Colombian maverick Fr
 <div class="columns">
   <div class="column">
 
-![](/img/mael-roundup1/tito-duval.jpg)
+![](/img/mael-roundup1/tita-duval.jpg)
 
   </div>
   <div class="column">
@@ -103,7 +107,9 @@ Classic Afro-Colombian psychedelic cumbia from the 70’s. Colombian maverick Fr
 ### - Karol Conka: Vogue do Gueto
 <div class="columns">
   <div class="column">
-    <iframe src="https://www.youtube.com/embed/RokisLL29BM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    <div class='embed-container'>
+      <iframe src='https://www.youtube.com/embed/RokisLL29BM'></iframe>
+    </div>
   </div>
   <div class="column">
     Blurring the lines between rap, electronica, kuduro and baile funk, hyperactive Brazilian singer Karol Conka drops a favela-infused tribute to the Voguing movement.
