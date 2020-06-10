@@ -4,7 +4,7 @@ title: I Am The Black Gold Of The Sun
 date: 2020-05-13T19:02:57.727Z
 description: 'Story of a track: "I Am The Black Gold Of The Sun"'
 featuredpost: true
-featuredimage: /img/gold-sun.png
+featuredimage: /img/black-gold-3-minnie-big.jpg
 tags:
   - knowledge / wisdom / rhythm
 categories:
