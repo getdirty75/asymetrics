@@ -1,14 +1,20 @@
 ---
 templateKey: blog-post
 title: "Malong’s Backtracking Selecta "
-date: 2020-06-10T19:15:17.373Z
-description: Back to the warehouse (June 2020 Jungle mix)
-featuredpost: true
+teaser: Back to the warehouse (June 2020 Jungle mix)
 featuredimage: /img/1280px-bruns_monocord-6020_-_cassette_drive_unit_-_pinch_roller-_tape_head-_erase_head-0322.jpg
+author: MALONG
+featuredpost: true
+date: 2020-06-10T19:15:17.373Z
 tags:
   - "#jungle"
 categories:
   - Mixtape/ Playlist / Podcast
+outsideLinks:
+  - https://thevinylfactory.com/
+description: Back to the warehouse (June 2020 Jungle mix)
+insideLinks:
+  - https://thevinylfactory.com/
 ---
 <div class="columns">   
 
