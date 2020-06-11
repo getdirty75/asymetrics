@@ -1,14 +1,16 @@
 ---
 templateKey: blog-post
 title: Soundtrack Of My Life...
-date: 2020-06-10T18:30:35.931Z
-description: Musical Memories ... When Sounds Bring You Back In Time...
-featuredpost: true
+teaser: Musical Memories ... When Sounds Bring You Back In Time...
 featuredimage: /img/the_asymetrics_-dizzy_gillespie.jpg
+author: IZLAZ DA MAGNIFICIENT aka STICKY TAI
+featuredpost: true
+date: 2020-06-10T18:30:35.931Z
 tags:
-  - music / memory / nostalgia
-categories:
   - music
+categories:
+  - memory nostalgia
+description: Musical Memories ... When Sounds Bring You Back In Time...
 ---
 **Joy Cooper - Soundtrack Of My Life**
 
