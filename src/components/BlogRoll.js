@@ -1,7 +1,7 @@
 import React from 'react'
 import PropTypes from 'prop-types'
 import { Link, graphql, StaticQuery } from 'gatsby'
-import PreviewCompatibleImage from './PreviewCompatibleImage'
+// import PreviewCompatibleImage from './PreviewCompatibleImage'
 
 class BlogRoll extends React.Component {
   render() {
@@ -16,6 +16,7 @@ class BlogRoll extends React.Component {
         {posts && posts.map(({ node: post }) => (
           <div className="is-parent column is-4 blogRoll__item" key={post.id}>
             <article>
+
             <Link to={post.fields.slug}>
               <figure className="image is-5by4">
               <img className="blogRoll__img"
@@ -23,7 +24,7 @@ class BlogRoll extends React.Component {
                 src={post.frontmatter.featuredimage.childImageSharp.fluid.src}
               />
               </figure>
-              </Link>
+            </Link>
 
               <div className="blogRoll__sub">
                 <div className="blogRoll__tagsBox">
@@ -43,7 +44,7 @@ class BlogRoll extends React.Component {
                 <Link className="blogRoll__itemTitle" to={post.fields.slug}>
                   {post.frontmatter.title}
                 </Link>
-                <p className="blogRoll__tags">{post.frontmatter.description}</p>
+                <p className="blogRoll__tags">{post.frontmatter.teaser}</p>
               </div>
               <p>
                 <br />
@@ -85,8 +86,12 @@ export default () => (
                 slug
               }
               frontmatter {
-                description
+                author
+                categories
+                insideLinks
+                outsideLinks
                 tags
+                teaser
                 title
                 templateKey
                 date(formatString: "MMMM DD, YYYY")
