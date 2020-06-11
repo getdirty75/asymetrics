@@ -28,7 +28,23 @@ Listen : <https://soundcloud.com/lookoomusic/rock-kadi-sage-rework>
 
 ![Dijon, France](/img/dijon-21-copie.png "Photo by Yannick Sage")
 
+![Rambouillet, France](/img/theasymetrics_droguerie_rambouillet_copie.png "photo by Yannick Sage")
+
+![Sully Sur Loire ](/img/theasymetrics_droguerie_sullysurlooire72_copie.png "Photo By Yannick Sage")
+
+![Tassin La Demie Lune](/img/theasymetrics_drogueries_tassinlademielune_copie.png "Photo by Yannick Sage")
+
+![Montauban, France](/img/theasymetrics_droguerie_montauban_copie.png "Photo by Yannick Sage")
+
+
+
+# Photo Series by SAGE : Graffeur, Graphiste & Digger.
+
+
+
 Listen : [https://www.mixcloud.com/fuckingsage/soul-soleil-une-sage-sélection-créole/](https://www.mixcloud.com/fuckingsage/soul-soleil-une-sage-s%C3%A9lection-cr%C3%A9ole/)
+
+
 
  **IF YOU WANT TO KNOW MORE ABOUT SAGE**
 
