@@ -1,14 +1,21 @@
 ---
 templateKey: blog-post
 title: "Dizzy "
-date: 2020-06-11T06:07:42.337Z
-description: "A Bubblegum Classic "
-featuredpost: true
+teaser: A Bubblegum Classic
 featuredimage: /img/theasymetrics_bubblegumpop.jpg
+author: IZLAZ DA MAGNIFICIENT aka STICKY TAI
+featuredpost: true
+date: 2020-06-11T06:07:42.337Z
 tags:
-  - music / bubblegum / tommyroe
+  - music bubblegum tommyroe
 categories:
-  - knowledge / wisdom / rythm
+  - knowledge wisdom rythm
+introduction: kk
+outsideLinks:
+  - https://thevinylfactory.com/
+description: "A Bubblegum Classic "
+insideLinks:
+  - https://thevinylfactory.com/
 ---
 ![](/img/e0f1_3.jpg)
 
