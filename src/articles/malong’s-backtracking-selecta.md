@@ -20,6 +20,6 @@ categories:
 
  <div class="column">     
 
-The teen Junglist hiding in Malong’s head woke up for a tour around the current jungle scene, hyped-up by the revival of old-school sounds, with soundsystem-like basslines, Blade Runneresque synths, g-funk and soul touches, and MDMA-fuled warehouse-rave energy!
+The teen Junglist hiding in Malong’s head woke up for a tour around the current jungle scene, hyped-up by the revival of old-school sounds, with soundsystem-like basslines, Blade Runneresque synths, g-funk and soul touches, and MDMA-fueled warehouse-rave energy!
 
 This selection is a brief glimpse into the realms of new stars like [A.Fruit](https://soundcloud.com/annafruit), [Coco Bryce](https://soundcloud.com/cocobrycebeats), [TMSV](https://soundcloud.com/tmsv), [BSN Posse](https://soundcloud.com/bsnposse) , also including soulful jungle veterans like [Marcus Intalex](https://en.wikipedia.org/wiki/Marcus_Intalex) (R.I.P.), [Redeyes](https://redeyes.bandcamp.com/), [Om Unit](https://omunit.bandcamp.com/) and many more. </div> </div>
