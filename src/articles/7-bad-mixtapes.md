@@ -11,15 +11,15 @@ tags:
   - Mixtapes Playlists Podcasts
 categories:
   - Mixtapes Playlists Podcasts
+insideLinks:
+  - https://theasymetrics.com/malong%E2%80%99s-monthly-round-up%E2%80%93may-2020/
+outsideLinks:
+  - ""
 introduction: Here are 7 wicked mixtapes, chosen by IZLAZ DA MAGNIFICIENT aka
   STICKY TAI TAI... several different musical styles coming from various dope
   DJ's...Put Your Headphones On & Chill :) More Of These Every Month !
-outsideLinks:
-  - https://www.awesometapes.com/
 description: Seven mixtapes from several dj's...different styles, killer tracks
   & crucial vibes...
-insideLinks:
-  - https://theasymetrics.com/malong%E2%80%99s-monthly-round-up%E2%80%93may-2020/
 ---
 
 
