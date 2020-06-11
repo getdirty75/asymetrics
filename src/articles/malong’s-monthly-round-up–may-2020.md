@@ -42,8 +42,6 @@ insideLinks:
   flex-direction: column;
 }
 </style>
-<br>
-<br>
 <div class='embed-container'>
 <iframe src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/822003580&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div><a href="https://soundcloud.com/the-asymetrics" title="The Asymetrics" target="_blank" style="color: #cccccc; text-decoration: none;">The Asymetrics</a> · <a href="https://soundcloud.com/the-asymetrics/malongs-monthly-round-up-1may-2020" title="Malong&#x27;s monthly round-up # 1(May 2020)" target="_blank" style="color: #cccccc; text-decoration: none;">Malong&#x27;s monthly round-up # 1(May 2020)</a></div>
 </div>

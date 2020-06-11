@@ -11,10 +11,13 @@ $font-content: Nunito Sans, sans-serif
 //
 //   C O L O R S
 //
+$color-greyLight: hsla(0, 8%, 13%, 1)
 $color-grey: hsla(0, 0%, 44%, 1)
 $color-grey-dark: hsla(0, 9%, 9%, 1)
 $dark-blue-color: hsla(186, 81%, 22%, 1)
 $dark-purple-color: hsla(283, 79%, 17%, 1)
+$color-primary: hsla(274, 6%, 18%, 1)
+$color-secondary: hsla(274, 6%, 70%,1)
 
 //
 //   R E S E T
@@ -85,6 +88,71 @@ a
   color: hsla(0, 0%, 44%, 1)
   text-align: justify
   text-justify: inter-word
+
+
+.blogPost__subKey
+  font: 100% $font-content !important
+  font-size: 15px !important
+  color: hsla(274, 6%, 70%,1)
+  margin-bottom: 0rem !important
+
+.blogPost__subValue
+  font: 100% $font-content !important
+  text-transform: lowercase
+  font-size: 13px !important
+  color: hsla(186, 81%, 22%, 1)
+  margin-bottom: 0rem !important
+
+
+.blogPost__rightKey
+  font: 100% $font-content !important
+  font-size: 24px !important
+  color: hsla(274, 6%, 70%,1)
+  border-bottom: 1px solid hsla(274, 6%, 70%,1)
+  margin-top: 6rem
+
+.blogPost__rightValue
+  font: 100% $font-content !important
+  text-transform: lowercase
+  font-size: 14px !important
+  color: hsla(186, 81%, 22%, 1)
+  margin-bottom: 0.5rem !important
+
+
+
+.blogPost__leftColumn
+  text-align: left
+
+.blogPost__centerColumn
+
+.blogPost__rightColumn
+  margin-top: 6rem
+  text-align: right
+
+.blogPost__title
+  padding-bottom: 2rem
+  text-align: center
+
+.embed-container
+	position: relative
+	padding-bottom: 56.25%
+	padding-top: 25px
+	height: 0
+
+.embed-container iframe
+	position: absolute
+	top: 0
+	left: 0
+	width: 100%
+	height: 100%
+
+.got-text
+  align-items: center
+  display: flex
+
+.with-title
+  flex-direction: column
+
 
 //
 //   H O M E

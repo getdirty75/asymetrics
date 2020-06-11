@@ -7,25 +7,44 @@ import Layout from '../components/Layout'
 import Content, { HTMLContent } from '../components/Content'
 
 export const BlogPostTemplate = ({
+  author,
+  categories,
   content,
   contentComponent,
-  description,
+  date,
+  insideLinks,
+  outsideLinks,
+  teaser,
   tags,
   title,
   helmet,
 }) => {
   const PostContent = contentComponent || Content
-
+  console.log(author)
+  console.log(categories)
+  console.log(date)
+  console.log(insideLinks)
   return (
     <section className='blog-post section'>
       {helmet || ''}
       <div className='container content'>
+        <div className='blogPost__title'>
+          <h1>{title}</h1>
+          <p>{teaser}</p>
+        </div>
         <div className='columns'>
-          <div className='column is-10 is-offset-1'>
-            <h1 className=''>{title}</h1>
-            <p>{description}</p>
-            <PostContent className='blogPost__text' content={content} />
-            {tags && tags.length ? (
+          <div className='column is-2 blogPost__leftColumn'>
+            <p className='blogPost__subKey'>author</p>
+            <p className='blogPost__subValue'>{author}</p>
+            <p className='blogPost__subKey'>published date</p>
+            <p className='blogPost__subValue'>{date}</p>
+            <p className='blogPost__subKey'>categories</p>
+            <p className='blogPost__subValue'>{categories}</p>
+            <p className='blogPost__subKey'>tags</p>
+            <p className='blogPost__subValue'>{tags}</p>
+            {/*
+            <p>tags</p><p>{categories}</p> */}
+            {/* {tags && tags.length ? (
               <div style={{ marginTop: `4rem` }}>
                 <ul className='taglist'>
                   {tags.map((tag) => (
@@ -35,7 +54,16 @@ export const BlogPostTemplate = ({
                   ))}
                 </ul>
               </div>
-            ) : null}
+            ) : null} */}
+          </div>
+          <div className='column is-7 blogPost__centerColumn'>
+            <PostContent className='blogPost__text' content={content} />
+          </div>
+          <div className='column is-3 blogPost__rightColumn'>
+            <p className='blogPost__rightKey'>!Dig</p>
+            <p className='blogPost__rightValue'>{insideLinks}</p>
+            <p className='blogPost__rightKey'>!More</p>
+            <p className='blogPost__rightValue'>{outsideLinks}</p>
           </div>
         </div>
       </div>
@@ -44,9 +72,13 @@ export const BlogPostTemplate = ({
 }
 
 BlogPostTemplate.propTypes = {
+  author: PropTypes.string,
+  categories: PropTypes.string,
   content: PropTypes.node.isRequired,
   contentComponent: PropTypes.func,
-  description: PropTypes.string,
+  insideLinks: PropTypes.string,
+  outsideLinks: PropTypes.string,
+  teaser: PropTypes.string,
   title: PropTypes.string,
   helmet: PropTypes.object,
 }
@@ -57,15 +89,20 @@ const BlogPost = ({ data }) => {
   return (
     <Layout>
       <BlogPostTemplate
+        author={post.frontmatter.author}
+        categories={post.frontmatter.categories}
+        date={post.frontmatter.date}
         content={post.html}
         contentComponent={HTMLContent}
-        description={post.frontmatter.description}
+        insideLinks={post.frontmatter.insideLinks}
+        outsideLinks={post.frontmatter.outsideLinks}
+        teaser={post.frontmatter.teaser}
         helmet={
           <Helmet titleTemplate="%s | Blog">
             <title>{`${post.frontmatter.title}`}</title>
             <meta
-              name='description'
-              content={`${post.frontmatter.description}`}
+              name='teaser'
+              content={`${post.frontmatter.teaser}`}
             />
           </Helmet>
         }
@@ -90,10 +127,14 @@ export const pageQuery = graphql`
       id
       html
       frontmatter {
+        author
+        categories
         date(formatString: "MMMM DD, YYYY")
-        title
-        description
+        insideLinks
+        outsideLinks
         tags
+        teaser
+        title
       }
     }
   }
