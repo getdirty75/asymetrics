@@ -1,14 +1,16 @@
 ---
 templateKey: blog-post
 title: I Am The Black Gold Of The Sun
-date: 2020-05-13T19:02:57.727Z
-description: 'Story of a track: "I Am The Black Gold Of The Sun"'
-featuredpost: true
+teaser: 'Story of a track: "I Am The Black Gold Of The Sun"'
 featuredimage: /img/black-gold-3-minnie-big.jpg
+author: IZLAZ DA MAGNIFICIENT aka STICKY TAI
+featuredpost: true
+date: 2020-05-13T19:02:57.727Z
 tags:
   - knowledge / wisdom / rhythm
 categories:
   - story of a track
+description: 'Story of a track: "I Am The Black Gold Of The Sun"'
 ---
 # I Am The Black Gold Of The Sun
 
