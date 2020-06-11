@@ -4,7 +4,7 @@ title: 7 Bad Mixtapes !
 teaser: Seven mixtapes from several dj's...different styles, killer tracks &
   crucial vibes..
 featuredimage: /img/istockphoto-517473610-612x612-2.jpg
-author: TEST INCORPORATED
+author: IZLAZ DA MAGNIFICIENT aka STICKY TAI
 featuredpost: true
 date: 2020-06-11T13:47:44.340Z
 tags:
