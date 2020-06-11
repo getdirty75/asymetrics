@@ -14,27 +14,21 @@ categories:
 ---
 # Photo Series by SAGE : Graffeur, Graphiste & Digger.
 
-![Murat, France](/img/murat15.png "Photo by Yannick Sage")
+![Murat, France](/img/theasymetrics_drogueries_murat15_copie.jpg "Photo by Yannick Sage")
 
+![St Laurent Du Pont](/img/theasymetrics_stlaurentdupont_droguerie_copie.png "Photo by Yannick Sage")
 
+![Montrejeau](/img/theasymetrics_montrejeau_droguerie.png "Photo by Yannick Sage")
 
-"le link 1" :<https://soundcloud.com/lookoomusic/rock-kadi-sage-rework>
+![](/img/droguerie_ruedelancry_theasymetrics_copie.png)
 
+Listen : <https://soundcloud.com/lookoomusic/rock-kadi-sage-rework>
 
+![Le Mans](/img/theasymetrics_droguerie_lemans72_copie.png "Photo by Yannick Lesage")
 
-"le link 2" : [https://www.mixcloud.com/fuckingsage/soul-soleil-une-sage-sélection-créole/](https://www.mixcloud.com/fuckingsage/soul-soleil-une-sage-s%C3%A9lection-cr%C3%A9ole/)
+![Dijon, France](/img/dijon-21-copie.png "Photo by Yannick Sage")
 
-
-
-
-
-
-
-
-
-
-
-
+Listen : [https://www.mixcloud.com/fuckingsage/soul-soleil-une-sage-sélection-créole/](https://www.mixcloud.com/fuckingsage/soul-soleil-une-sage-s%C3%A9lection-cr%C3%A9ole/)
 
  **IF YOU WANT TO KNOW MORE ABOUT SAGE**
 
