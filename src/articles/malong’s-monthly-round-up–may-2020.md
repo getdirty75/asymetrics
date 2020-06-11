@@ -1,16 +1,24 @@
 ---
 templateKey: blog-post
 title: Malong’s Monthly Round-Up – First Round (May 2020)
-date: 2020-05-19T01:59:40.365Z
-description: A (somewhat) regular journey through vibrant past, present, and
-  future tunes in no particular order, preference of genre, or other purpose but
-  to make you feel fine!
-featuredpost: false
+teaser: A (somewhat) regular journey through vibrant past, present, and future
+  tunes in no particular order, preference of genre, or other purpose but to
+  make you feel fine!
 featuredimage: /img/mael-roundup1/jovino.jpg
+author: MALONG
+featuredpost: false
+date: 2020-05-19T01:59:40.365Z
 tags:
   - mixtapes / playlists / podcasts
 categories:
   - malong
+outsideLinks:
+  - https://www.awesometapes.com/
+description: A (somewhat) regular journey through vibrant past, present, and
+  future tunes in no particular order, preference of genre, or other purpose but
+  to make you feel fine!
+insideLinks:
+  - https://www.awesometapes.com/
 ---
 <style>
 .embed-container {
