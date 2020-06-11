@@ -1,8 +1,10 @@
 ---
 templateKey: blog-post
-title: Malong’s monthly round-up – first round(May 2020)
+title: Malong’s Monthly Round-Up – First Round (May 2020)
 date: 2020-05-19T01:59:40.365Z
-description: A (somewhat) regular journey through vibrant past, present, and future tunes in no particular order, preference of genre, or other purpose but to make you feel fine!
+description: A (somewhat) regular journey through vibrant past, present, and
+  future tunes in no particular order, preference of genre, or other purpose but
+  to make you feel fine!
 featuredpost: false
 featuredimage: /img/mael-roundup1/jovino.jpg
 tags:
