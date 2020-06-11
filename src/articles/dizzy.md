@@ -30,12 +30,10 @@ The song did not feel "finished" to Barri so he decided to ask arranger Jimmie H
 
 His career faltered after that, but bubblegum continued on to a lesser degree until about 1972, when the nascent disco club scene began to take hold. After a few more hits of varying popularity, he grew tired of the California dream (big house in Malibu) and returned to his roots moving back home to Georgia.
 
-
-
 ![](/img/e899_3.jpg)
 
-Words by DJ DiscoCat 
+\-> [Words by DJ DiscoCat](https://www.youtube.com/user/DJDiscoCatV2) <-
 
-Illustrations found via londonfieldshhoppe, originally on twitter posted by[@presentcorrect](http://twitter.com/#!/presentcorrect), via[the booberry alarm clock](http://thebooberryalarmclock.blogspot.com/)
+\-> [More Bubblegum Wrappers](http://blog.londonfieldsshoppe.com/2011/06/19/vintage-bubble-gum-wrappers) <-
 
-Bubblegum Wrappers : http://blog.londonfieldsshoppe.com/2011/06/19/vintage-bubble-gum-wrappers/
+Illustrations found via londonfieldshhoppe, originally on twitter posted by [@presentcorrect](http://twitter.com/#!/presentcorrect), via [the booberry alarm clock](http://thebooberryalarmclock.blogspot.com/)
