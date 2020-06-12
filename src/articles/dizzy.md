@@ -10,18 +10,18 @@ tags:
   - music bubblegum tommyroe
 categories:
   - knowledge wisdom rythm
-introduction: kk
-outsideLinks:
-  - https://thevinylfactory.com/
-description: "A Bubblegum Classic "
 insideLinks:
   - https://thevinylfactory.com/
+outsideLinks:
+  - https://thevinylfactory.com/
+introduction: kk
+description: "A Bubblegum Classic "
 ---
 ![](/img/e0f1_3.jpg)
 
 ### In the late sixties another form of pop music began to gain popularity, a danceable kind that became known as "Bubblegum"...
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/EYCUOS3wIvo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="300" height="315" src="https://www.youtube.com/embed/EYCUOS3wIvo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Bubblegum Pop was easily identifiable by the full production used on the songs, repetitive lyrics and the endless list of faceless groups that sang them, like "The Archies", "1910 Fruitgum Company" and "The Lemon Pipers". 
 
