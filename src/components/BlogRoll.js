@@ -9,8 +9,8 @@ class BlogRoll extends React.Component {
     const { edges: posts } = data.allMarkdownRemark
 
     return (
-      <div>
-      <h5>Latest</h5>
+      <div className='izmirRoll'>
+      <h5 className='izmirRoll__title'>asymetrics newcomers</h5>
       <div className="blogRoll columns is-multiline is-three-quarters-mobile is-two-thirds-tablet is-half-desktop is-one-third-widescreen is-one-quarter-fullhd">
 
         {posts && posts.map(({ node: post }) => (

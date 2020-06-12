@@ -2,6 +2,7 @@ import React from 'react'
 
 import Layout from '../components/Layout'
 import BlogRoll from '../components/BlogRoll'
+import BlogRollIzmir from '../components/BlogRollIzmir'
 
 const IndexPage = () => {
 
@@ -10,6 +11,7 @@ const IndexPage = () => {
       <div className="container">
         <p className="home__desc">The Asymetrics is a collective sharing knowledge about music, & culture from all around the world. <br/>Digging in different subjects through articles, podcasts, mixtapes and more...</p>
         <div className="section">
+          <BlogRollIzmir />
           <BlogRoll />
         </div>
       </div>
