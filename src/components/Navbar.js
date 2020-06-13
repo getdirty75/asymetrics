@@ -3,6 +3,7 @@ import { Link } from 'gatsby'
 import github from '../img/github-icon.svg'
 import insta from '../img/social/instagram.svg'
 import twitter from '../img/social/twitter.svg'
+import { SquareMotion } from './squareMotion'
 
 const Navbar = class extends React.Component {
   constructor(props) {
@@ -35,6 +36,9 @@ const Navbar = class extends React.Component {
           {/* <Link to="/" className="navbar-item" title="Logo">
               <img src={logo} alt="Kaldi" style={{ width: '88px' }} />
             </Link> */}
+            <div className='squareMotion'>
+              <SquareMotion >boxMotion</SquareMotion>
+            </div>
             <Link to="/" className="navbar-item is-flex-touch" title="Logo">
               <h2 className='navBar__title'>Asymetrics <p className="navBar__subtitle">Topics</p></h2>
             </Link>
