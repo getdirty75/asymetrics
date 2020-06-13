@@ -22,11 +22,13 @@ Longtime friend and favorite of the Asymetrics, **Taiwan MC** delivers a politic
 
 Sadly echoing recent global news, Mr Babylon is Taiwan’s epitome of the social uproars that are shaking the whole World, backed by a splendid video produced by Uruguay’s [Gridboy](https://www.gridboy.net/) featuring lettering from Colombian artist [Kong](https://www.instagram.com/luis_fernando_luque/).
 
-Part of Taiwan’s forthcoming album ***[Special Request](https://www.chinesemanrecords.com/shop-cmr/special-request-taiwan-mc/)***(which gets a great cover by the phenomenal man like [Ouikid](http://www.ouikid.com/)) , this is the first of a series of exclusive tracks which will drop over the next few months until the full release (October 2020).
+Part of Taiwan’s forthcoming album ***[Special Request](https://www.chinesemanrecords.com/shop-cmr/special-request-taiwan-mc/)*** (which gets a great cover by the phenomenal man like [Ouikid](http://www.ouikid.com/)) , this is the first of a series of exclusive tracks which will drop over the next few months until the full release (October 2020).
 
 The Asymetrics got a chance to hear a preview of Special Request and trussss us: Taiwan delivers nothing but the best of his unique style, with many out-of-the-box explorations into multiple genres, you’re in for many surprises! Watch this space…
 
 <div class="column">    
+
+</div>  
 
 ![](/img/theasymetrics_taiwanmc_specialrequest.jpg)
 
