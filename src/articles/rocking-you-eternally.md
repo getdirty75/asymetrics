@@ -27,7 +27,7 @@ But then I came across THIS bad boy:
 
 The intro bassline sounded so familiar that, intrigued, I went listening back to the original tune, “Rocking you Eternally” by Leon Ware, from his 1981 namesake album.
 
-I found out that the song had been honored by several brilliant samples and covers, this beauty being the pinnacle:
+I found out that the song had been honored by several brilliant samples and covers, with this beauty, by the relatively little known, yet jamming with Roy Ayers, Acid Jazz formation [3d](https://www.challengerecords.com/products/1182852245) being the pinnacle:
 
 <iframe width="300" height="200" src="https://www.youtube.com/embed/mvegGZDzMgE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
@@ -55,4 +55,22 @@ Honorable mention also goes to this more recent banger by King Most. See if you 
 
 <iframe style="border: 0; width: 350px; height: 350px;" src="https://bandcamp.com/EmbeddedPlayer/album=3090610511/size=large/bgcol=ffffff/linkcol=0687f5/minimal=true/track=2163262023/transparent=true/" seamless><a href="http://heatrockrecords.bandcamp.com/album/hr-005">HR-005 by King Most / Altered Tapes</a></iframe>
 
-After this melodic trip, I realized that I still hadn’t find out why the bassline sounded so familiar and I had to dig up in my old school jungle-head white label vynils from the early 2000s to nail it: it was THIS obscure promo-only record that first familiarized me with Ware’s legendary anthem
+After this melodic trip, I realized that I still hadn’t find out why the bassline sounded so familiar and I had to dig up in my old school jungle-head white label vinyls from the early 2000s to nail it: it was THIS obscure promo-only record that first familiarized me with Ware’s legendary anthem:
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fCG6A8tPLh4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+This classic (if a bit off the beaten path) jungle ruffage also features the head-ringing “The Champ” sample, popularized among the underground youth through KRS 1’s legendary “Rapture”.
+
+</div>  
+
+ <div class="column">    
+
+<iframe width="280" height="250" src="https://www.youtube.com/embed/r49FjKg2Ebk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+</div>  
+
+<iframe width="280" height="250" src="https://www.youtube.com/embed/xbJxcFyaCpI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<br>
+
+Enjoy the ride!
