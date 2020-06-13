@@ -17,9 +17,9 @@ insideLinks:
 
 <iframe width="640" height="315" src="https://www.youtube.com/embed/uN0Kqqc4L6Q" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-### **Story of an unproductive yet highly pleasurable afternoon!**
+### **Story of an unproductive yet pleasurable, soulful afternoon!**
 
-After listening to Children of Zeus’ phenomenal [NTS radio shows](https://www.nts.live/shows/children-of-zeus), trying to find which would be the best one I could feature on this humble website (impossible task, they’re all amazing), I thought I’d just select my favorite tracks of theirs:
+After listening to Children of Zeus’ phenomenal [NTS radio shows](https://www.nts.live/shows/children-of-zeus), trying to find which would be the best one I could feature on this humble website (impossible task, they’re all amazing), I thought I’d just select my favorite track of theirs:
 
 <iframe width="640" height="280" src="https://www.youtube.com/embed/mMqmC0mLwy4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
@@ -29,11 +29,15 @@ But then I came across THIS bad boy:
 
 The intro bassline sounded so familiar that, intrigued, I went listening back to the original tune, “Rocking you Eternally” by Leon Ware, from his 1981 namesake album (youtube link upstairs).
 
+<br>
+
 I found out that the song had been honored by several brilliant samples and covers, with this beauty, by the relatively little known, yet jamming with Roy Ayers, Acid Jazz formation [3d](https://www.challengerecords.com/products/1182852245) being the pinnacle:
 
-<iframe width="300" height="200" src="https://www.youtube.com/embed/mvegGZDzMgE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="350" height="200" src="https://www.youtube.com/embed/mvegGZDzMgE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-While looking him up, I also found out that Ware was a shadow force behind many 70’s soul & funk spearheads (check [this fantastic and thoroughly researched article on Pitchfork](https://pitchfork.com/thepitch/1450-9-songs-showcasing-leon-wares-incomparable-soul-touch/) for more history), among whom are none other than Quincy Jones (with the kinky [Body Heat](https://www.youtube.com/watch?v=dYuA_c_6if8)) and The Jackson 5 (with the classic [I Wanna Be Where You Are](https://www.youtube.com/watch?v=0GLaODfMqn4&feature=emb_logo)); but most importantly for me, he was behind this gem of a soul track by the too-early gone [Minnie Ripperton](https://en.wikipedia.org/wiki/Minnie_Riperton) (also discussed in [THIS](https://theasymetrics.com/i-am-the-black-gold-of-the-sun/) Asymetrics article):
+<br>
+
+While looking him up, I also discovered that Ware was a shadow force behind many 70’s soul & funk spearheads (check [this fantastic and thoroughly researched article on Pitchfork](https://pitchfork.com/thepitch/1450-9-songs-showcasing-leon-wares-incomparable-soul-touch/) for more history), among whom are none other than Quincy Jones (with the kinky [Body Heat](https://www.youtube.com/watch?v=dYuA_c_6if8)) and The Jackson 5 (with the classic [I Wanna Be Where You Are](https://www.youtube.com/watch?v=0GLaODfMqn4&feature=emb_logo)); but most importantly for me, he was behind this gem of a soul track by the too-early gone [Minnie Ripperton](https://en.wikipedia.org/wiki/Minnie_Riperton) (also discussed in [THIS](https://theasymetrics.com/i-am-the-black-gold-of-the-sun/) Asymetrics article):
 
 <iframe width="640" height="315" src="https://www.youtube.com/embed/UVniMFJYY1o" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
