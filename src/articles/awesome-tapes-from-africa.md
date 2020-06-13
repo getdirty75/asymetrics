@@ -30,4 +30,8 @@ You've been tipped ! A word of warning though: once you start exploring Awesome 
 
 </div>  
 
-![]()
+![](/img/soda-mama-fall-1.jpg)
+
+</div>  
+
+![](/img/teshomewolde1.jpg)
