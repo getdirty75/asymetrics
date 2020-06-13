@@ -10,4 +10,16 @@ tags:
 categories:
   - "#StevieWonder"
 ---
+ <div class="column">  
+
 <iframe width="100%" height="400" src="https://www.mixcloud.com/widget/iframe/?feed=%2Felsewheresonido%2Fwonder-cover-brother-stevie-covers-from-16-countries%2F" frameborder="0" ></iframe>
+
+</div>  
+
+ <div class="column">  
+
+Brainchild of a Mexico DF based Canadian, [Elsewhere Sonido](https://www.facebook.com/ElsewhereSonido/) is a 7" records only venture, rocking crowds as distant as La Habana and Tokyo! 
+
+Their selections span everywhere from rare cumbia to obscure Pop covers in Spanish, with a consistent funky twist, and in this particular occasion focus exclusively on hommages to the great Stevie, from unexpected places 
+
+Check out Elswhere Sonido on [Mixcloud](https://www.mixcloud.com/elsewheresonido/) or Gilles Peterson's [Worldwide FM](https://worldwidefm.net/show/window-seat/)
