@@ -21,17 +21,11 @@ After listening to Children of Zeus’ phenomenal [NTS radio shows](https://www.
 
 <iframe width="640" height="280" src="https://www.youtube.com/embed/mMqmC0mLwy4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-
-
-
-
 But then I came across THIS bad boy:
 
 <iframe width="300" height="200" src="https://www.youtube.com/embed/Fd0a8PPdWcU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 The intro bassline sounded so familiar that, intrigued, I went listening back to the original tune, “Rocking you Eternally” by Leon Ware, from his 1981 namesake album.
-
-
 
 I found out that the song had been honored by several brilliant samples and covers, this beauty being the pinnacle:
 
@@ -41,6 +35,14 @@ While looking him up, I also found out that Ware was a shadow force behind many 
 
 <iframe width="640" height="315" src="https://www.youtube.com/embed/UVniMFJYY1o" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-
-
 This gorgeous, kinky & erotic soul anthem, one of my all time favorites, brought back memories of more recent remarkable soul and hip-hop tracks that sampled it:
+
+</div>  
+
+ <div class="column">     
+
+<iframe width="280" height="250" src="https://www.youtube.com/embed/-5slZHLSnow" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+</div>  
+
+<iframe width="280" height="250" src="https://www.youtube.com/embed/agEIHP3rKIQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
