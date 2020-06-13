@@ -18,8 +18,8 @@ categories:
 
  <div class="column">  
 
-Brainchild of a Mexico DF based Canadian, [Elsewhere Sonido](https://www.facebook.com/ElsewhereSonido/) is a 7" records only venture, rocking crowds as distant as La Habana and Tokyo! 
+Brainchild of a Mexico DF based Canadian, [Elsewhere Sonido](https://www.facebook.com/ElsewhereSonido/) is a 7" records only venture, rocking crowds as distant as La Habana and Tokyo.
 
-Their selections span everywhere from rare cumbia to obscure Pop covers in Spanish, with a consistent funky twist, and in this particular occasion focus exclusively on hommages to the great Stevie, from unexpected places 
+Their selections span everywhere from rare cumbia to obscure Pop covers in Spanish, with a consistent funky twist, and in this particular occasion focus exclusively on hommages to the great Stevie, from unexpected places such as Finland, Japan or Czechia (among a great deal of other places)!
 
-Check out Elswhere Sonido on [Mixcloud](https://www.mixcloud.com/elsewheresonido/) or Gilles Peterson's [Worldwide FM](https://worldwidefm.net/show/window-seat/)
+Check out Elswhere Sonido on [Mixcloud](https://www.mixcloud.com/elsewheresonido/), or Gilles Peterson's [Worldwide FM](https://worldwidefm.net/show/window-seat/)
