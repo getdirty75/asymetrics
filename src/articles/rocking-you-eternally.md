@@ -23,7 +23,7 @@ After listening to Children of Zeus’ phenomenal [NTS radio shows](https://www.
 
 But then I came across THIS bad boy:
 
-<iframe width="300" height="200" src="https://www.youtube.com/embed/Fd0a8PPdWcU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe style="border: 0; width: 350px; height: 350px;" src="https://bandcamp.com/EmbeddedPlayer/album=239721285/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/track=1929615611/transparent=true/" seamless><a href="http://childrenofzeus.bandcamp.com/album/the-story-so-far">The Story So Far... by Children Of Zeus</a></iframe>
 
 The intro bassline sounded so familiar that, intrigued, I went listening back to the original tune, “Rocking you Eternally” by Leon Ware, from his 1981 namesake album.
 
@@ -46,3 +46,13 @@ This gorgeous, kinky & erotic soul anthem, one of my all time favorites, brought
 </div>  
 
 <iframe width="280" height="250" src="https://www.youtube.com/embed/agEIHP3rKIQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<br>
+
+Both amazing tunes, using Minnie’s voice as an instrument, ominous yet smooth and integrating every beat like an unstoppable note…
+
+Honorable mention also goes to this more recent banger by King Most. See if you can spot Minnie’s voice in the midst of mountains like De La Soul, James Brown, or Fela Kuti!
+
+<iframe style="border: 0; width: 350px; height: 350px;" src="https://bandcamp.com/EmbeddedPlayer/album=3090610511/size=large/bgcol=ffffff/linkcol=0687f5/minimal=true/track=2163262023/transparent=true/" seamless><a href="http://heatrockrecords.bandcamp.com/album/hr-005">HR-005 by King Most / Altered Tapes</a></iframe>
+
+After this melodic trip, I realized that I still hadn’t find out why the bassline sounded so familiar and I had to dig up in my old school jungle-head white label vynils from the early 2000s to nail it: it was THIS obscure promo-only record that first familiarized me with Ware’s legendary anthem
