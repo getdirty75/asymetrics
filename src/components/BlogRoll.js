@@ -10,7 +10,7 @@ class BlogRoll extends React.Component {
 
     return (
       <div>
-      <h5>Latest</h5>
+      <h1 className='bogRoll__mainTitle'></h1>
       <div className="blogRoll columns is-multiline is-three-quarters-mobile is-two-thirds-tablet is-half-desktop is-one-third-widescreen is-one-quarter-fullhd">
 
         {posts && posts.map(({ node: post }) => (

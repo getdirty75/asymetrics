@@ -40,7 +40,7 @@ const Navbar = class extends React.Component {
               <SquareMotion >boxMotion</SquareMotion>
             </div>
             <Link to="/" className="navbar-item is-flex-touch" title="Logo">
-              <h2 className='navBar__title'>Asymetrics <p className="navBar__subtitle">Topics</p></h2>
+              <h1 className='navBar__title'>Asymetrics <p className="navBar__subtitle">Topics</p></h1>
             </Link>
             {/* Hamburger menu */}
             <div
