@@ -5,10 +5,9 @@ teaser: Sheer awesomeness delivered by a die-hard tape digger!
 featuredimage: /img/zara-moussa.jpg
 author: Malong
 date: 2020-06-13T02:28:25.016Z
+categories: mixtapes
 tags:
   - Music/ Tracks / Tapes
-categories:
-  - "#Africa"
 ---
 <div class="column">    
 
