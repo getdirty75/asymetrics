@@ -6,7 +6,7 @@ featuredimage: /img/theasymetrics_drogueries_murat15_copie.jpg
 author: LORD SANDWICH
 featuredpost: true
 date: 2020-06-11T09:32:14.542Z
-categories: knowledge
+categories: mixtapes
 tags:
   - "#typography - #oldstores - #alwaysMore"
 outsideLinks:
