@@ -16,30 +16,20 @@ class BlogRoll extends React.Component {
         {posts && posts.map(({ node: post }) => (
           <div className="is-parent column is-4 blogRoll__item" key={post.id}>
             <article>
-
-            <Link to={post.fields.slug}>
-              <figure className="image is-5by4">
-              <img className="blogRoll__img"
-                alt={post.frontmatter.title}
-                src={post.frontmatter.featuredimage.childImageSharp.fluid.src}
-              />
-              </figure>
-            </Link>
-
+              <Link to={post.fields.slug}>
+                <figure className="image is-5by4">
+                <img className="blogRoll__img"
+                  alt={post.frontmatter.title}
+                  src={post.frontmatter.featuredimage.childImageSharp.fluid.src}
+                />
+                </figure>
+              </Link>
               <div className="blogRoll__sub">
+                <p className="blogRoll__tags">{post.frontmatter.author}</p>
                 <div className="blogRoll__tagsBox">
-                  {post.frontmatter.tags.map( (item, index) => (index === 0
-                    ? <Link className="blogRoll__tags" to={`tags/${item}`} key={item}>
-                      {item}
-                    </Link>
-                    : <p className="blogRoll__bullet" key={item}>&nbsp;•&nbsp;
-                        <span>
-                        <Link className="blogRoll__tags" to={`tags/${item}`}>
-                          {item}
-                        </Link>
-                        </span>
-                        </p>
-                    ))}
+                  <Link className="blogRoll__tags" to={`categories/${post.frontmatter.categories}`}>
+                    {post.frontmatter.categories}
+                  </Link>
                 </div>
                 <Link className="blogRoll__itemTitle" to={post.fields.slug}>
                   {post.frontmatter.title}
@@ -80,8 +70,7 @@ export default () => (
               }
               frontmatter {
                 author
-                insideLinks
-                tags
+                categories
                 teaser
                 title
                 templateKey

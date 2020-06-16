@@ -19,7 +19,7 @@ class TagRoute extends React.Component {
           <div className="media-content">
             <div className="content">
               <h3>{post.node.frontmatter.title}</h3>
-              <p>{post.node.frontmatter.description}</p>
+              <p>{post.node.frontmatter.teaser}</p>
             </div>
           </div>
         </article>
@@ -76,7 +76,7 @@ export const tagPageQuery = graphql`
           }
           frontmatter {
             title
-            description
+            teaser
             featuredimage {
               childImageSharp {
                 fluid(maxWidth: 100, quality: 100) {

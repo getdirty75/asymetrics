@@ -20,10 +20,8 @@ export const BlogPostTemplate = ({
   helmet,
 }) => {
   const PostContent = contentComponent || Content
-  console.log("======================")
-  console.log(categories)
-  console.log(tags)
-  console.log(outsideLinks)
+  const inside = outsideLinks.outsideLinksList.map((item) =>  item.text)
+console.log(inside)
     return (
     <section className='blog-post section'>
       {helmet || ''}
@@ -34,14 +32,25 @@ export const BlogPostTemplate = ({
         </div>
         <div className='columns'>
           <div className='column is-2 blogPost__leftColumn'>
-            <p className='blogPost__subKey'>author</p>
-            <p className='blogPost__subValue'>{author}</p>
-            <p className='blogPost__subKey'>published date</p>
-            <p className='blogPost__subValue'>{date}</p>
-            <p className='blogPost__subKey'>categories</p>
-            <p className='blogPost__subValue'>{categories}</p>
-            <p className='blogPost__subKey'>tags</p>
-            <p className='blogPost__subValue'>{tags}</p>
+          <div className='blogPost__subValue tags'>
+              {tags.map((item) => <span class="tag is-primary">{item}</span>)}
+            </div>
+            <p className='blogPost__subKey'>
+              written by
+              <p className='blogPost__subValue'>
+                {author}
+              </p>
+              on
+              <p className='blogPost__subValue'>
+                {date}
+              </p>
+            </p>
+            <p className='blogPost__subKey'>
+              category
+              <p className='blogPost__subValue'>
+                {categories}
+              </p>
+            </p>
             {/*
             <p>tags</p><p>{categories}</p> */}
             {/* {tags && tags.length ? (
@@ -63,7 +72,9 @@ export const BlogPostTemplate = ({
             <p className='blogPost__rightKey'>!Dig</p>
             <p className='blogPost__rightValue'>{insideLinks}</p>
             <p className='blogPost__rightKey'>!More</p>
-            <p className='blogPost__rightValue'>{outsideLinks}</p>
+            {outsideLinks.outsideLinksList.map((item, index) => {
+              return <a className='blogPost__rightValue' href={item.link} target="_blank" key={index}>{item.text}</a>
+            })}
           </div>
         </div>
       </div>
@@ -77,7 +88,7 @@ BlogPostTemplate.propTypes = {
   content: PropTypes.node.isRequired,
   contentComponent: PropTypes.func,
   insideLinks: PropTypes.string,
-  outsideLinks: PropTypes.string,
+  outsideLinks: PropTypes.object,
   teaser: PropTypes.string,
   title: PropTypes.string,
   helmet: PropTypes.object,
@@ -128,11 +139,18 @@ export const pageQuery = graphql`
       html
       frontmatter {
         author
+        categories
         date(formatString: "MMMM DD, YYYY")
         insideLinks
         tags
         teaser
         title
+        outsideLinks {
+          outsideLinksList {
+            link
+            text
+          }
+        }
       }
     }
   }
