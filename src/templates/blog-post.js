@@ -24,8 +24,7 @@ export const BlogPostTemplate = ({
   console.log(categories)
   console.log(tags)
   console.log(outsideLinks)
-  
-  return (
+    return (
     <section className='blog-post section'>
       {helmet || ''}
       <div className='container content'>
