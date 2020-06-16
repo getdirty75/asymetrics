@@ -3,7 +3,7 @@ templateKey: blog-post
 title: Dumbanengue
 teaser: An online live African artist market, zooming in every sunday!
 featuredimage: /img/theasymetrics_dumbanengue_tonyallen_special.jpg
-author: Malong
+author: ENDLESS DAZE
 date: 2020-06-13T03:20:22.663Z
 categories: Mixtapes / Playlists / Podcasts
 tags:
