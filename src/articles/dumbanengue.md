@@ -3,15 +3,17 @@ templateKey: blog-post
 title: Dumbanengue
 teaser: An online live African artist market, zooming in every sunday!
 featuredimage: /img/theasymetrics_dumbanengue_tonyallen_special.jpg
-author: ENDLESS DAZE
+author: MALONG
 date: 2020-06-13T03:20:22.663Z
-categories: Mixtapes / Playlists / Podcasts
+categories: mixtapes
 tags:
-  - Innovation / Arts / Music
+  - "#Innovation"
+  - "#Arts"
+  - "#Music"
 outsideLinks:
   outsideLinksList:
-    - text: test
-      link: https://soundcloud.com/the-asymetrics
+    - text: Fresh Nunas
+      link: https://www.mixcloud.com/deadfresh/
 ---
 ![](/img/theasymetrics_dumbanengue_definition.jpg)
 
