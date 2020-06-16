@@ -8,7 +8,10 @@ const IndexPage = () => {
   return (
     <Layout>
       <div className="container">
-        <p className="home__desc">The Asymetrics is a collective sharing knowledge about music, & culture from all around the world. <br/>Digging in different subjects through articles, podcasts, mixtapes and more...</p>
+        <p className="home__desc">
+          The Asymetrics is a collective sharing knowledge about music, & culture from all around the world.
+          <br/>Digging in different subjects through articles, podcasts, mixtapes and more...
+        </p>
         <div className="section">
           <BlogRoll />
         </div>

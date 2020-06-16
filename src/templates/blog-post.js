@@ -20,11 +20,11 @@ export const BlogPostTemplate = ({
   helmet,
 }) => {
   const PostContent = contentComponent || Content
-  console.log(author)
+  console.log("======================")
   console.log(categories)
-  console.log(date)
-  console.log(insideLinks)
-  return (
+  console.log(tags)
+  console.log(outsideLinks)
+    return (
     <section className='blog-post section'>
       {helmet || ''}
       <div className='container content'>
@@ -128,10 +128,8 @@ export const pageQuery = graphql`
       html
       frontmatter {
         author
-        categories
         date(formatString: "MMMM DD, YYYY")
         insideLinks
-        outsideLinks
         tags
         teaser
         title

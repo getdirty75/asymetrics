@@ -6,7 +6,6 @@ import Layout from '../components/Layout'
 class TagRoute extends React.Component {
   render() {
     const posts = this.props.data.allMarkdownRemark.edges
-    console.log(posts)
     const postLinks = posts.map((post) => (
       <li className='is-parent' key={post.node.fields.slug}>
         <article className='media columns'>
