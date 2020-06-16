@@ -24,6 +24,7 @@ export const BlogPostTemplate = ({
   console.log(categories)
   console.log(tags)
   console.log(outsideLinks)
+  
   return (
     <section className='blog-post section'>
       {helmet || ''}
@@ -128,10 +129,8 @@ export const pageQuery = graphql`
       html
       frontmatter {
         author
-        categories
         date(formatString: "MMMM DD, YYYY")
         insideLinks
-        outsideLinks
         tags
         teaser
         title

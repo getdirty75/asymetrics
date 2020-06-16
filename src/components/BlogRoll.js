@@ -80,9 +80,7 @@ export default () => (
               }
               frontmatter {
                 author
-                categories
                 insideLinks
-                outsideLinks
                 tags
                 teaser
                 title

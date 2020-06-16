@@ -23,7 +23,7 @@ collections:
       - {label: "Template Key", name: "templateKey", widget: "hidden", default: "blog-post"}
       - {label: "Titre --> affiché ds la home page et ds l'article", name: "title", widget: "string"}
       - {label: "Teaser --> affiché ds la home page et ds l'article", name: "teaser", widget: "text"}
-      - {hide: true, label: "Image --> affichée seulement ds la home page pas ds l'article", name: "featuredimage", widget: image}
+      - {label: "Image --> affichée seulement ds la home page pas ds l'article", name: "featuredimage", widget: image}
       - {label: "Auteur", name: "author", widget: "select", options: ["MALONG", "LORD SANDWICH", "SUPER USER", "IZLAZ DA MAGNIFICIENT aka STICKY TAI", "THE UNKNOWN SOLDIER", "ASYMETRICS CREW", "FOLLOW THE WHITE RABBIT", "ENDLESS DAZE"]}
       - {label: "Date de publication", name: "date", widget: "datetime"}
       - {
@@ -32,7 +32,7 @@ collections:
           options: [{label: "Mixtapes / Playlists / Podcasts", value: "mixtapes"}, {label: "Knowledge / Wisdom / Rhythm", value: "knowledge"}, {label: "Artworks / Pictures / Design", value: "artworks"}],
           widget: "select"
         }
-      - {label: "Tags --> #tags #multiples #toujoursavecdiese", name: "tags", widget: "list"}
+      - {label: "Tags --> #tags, #multiplesavecdesvirgules, #separatedComma, #toujoursavec1dièse", name: "tags", widget: "list"}
       - {label: "Body", name: "body", widget: "markdown"}
       - {label: "Bloc de Paragraphes --> mettre une image et du texte alignés", name: "paragraphs", required: false, widget: object, fields: [{label: "Paragraphes", name: "blurbs", widget: "list", fields: [{label: Image, name: image, widget: image}, {label: Text, name: text, widget: text}]}]}
       - {label: "Liste URL Liens internes --> liens vers des urls internes (articles du blog theasymetrics.com), affiché ds l'article, barre à droite", name: "insideLinks", required: false, widget: "list"}
