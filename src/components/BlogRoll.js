@@ -46,13 +46,6 @@ class BlogRoll extends React.Component {
                 </Link>
                 <p className="blogRoll__tags">{post.frontmatter.teaser}</p>
               </div>
-              <p>
-                <br />
-                <br />
-                {/* <Link className="button" to={post.fields.slug}>
-                  Keep Reading →
-                </Link> */}
-              </p>
             </article>
           </div>
           ))}

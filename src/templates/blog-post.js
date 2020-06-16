@@ -20,10 +20,10 @@ export const BlogPostTemplate = ({
   helmet,
 }) => {
   const PostContent = contentComponent || Content
-  console.log(author)
+  console.log("======================")
   console.log(categories)
-  console.log(date)
-  console.log(insideLinks)
+  console.log(tags)
+  console.log(outsideLinks)
   return (
     <section className='blog-post section'>
       {helmet || ''}

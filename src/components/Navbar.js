@@ -2,7 +2,7 @@ import React from 'react'
 import { Link } from 'gatsby'
 import github from '../img/github-icon.svg'
 import insta from '../img/social/instagram.svg'
-import twitter from '../img/social/twitter.svg'
+import soundcloud from '../img/social/soundcloud.svg'
 import { SquareMotion } from './squareMotion'
 
 const Navbar = class extends React.Component {
@@ -33,16 +33,12 @@ const Navbar = class extends React.Component {
       >
         <div className="container">
           <div className="navbar-brand is-flex-touch">
-          {/* <Link to="/" className="navbar-item" title="Logo">
-              <img src={logo} alt="Kaldi" style={{ width: '88px' }} />
-            </Link> */}
             <div className='squareMotion'>
-              <SquareMotion >boxMotion</SquareMotion>
+              <SquareMotion />
             </div>
             <Link to="/" className="navbar-item is-flex-touch" title="Logo">
               <h1 className='navBar__title'>Asymetrics <p className="navBar__subtitle">Topics</p></h1>
             </Link>
-            {/* Hamburger menu */}
             <div
               className={`navbar-burger burger ${this.state.navBarActiveClass}`}
               data-target="navMenu"
@@ -75,7 +71,7 @@ const Navbar = class extends React.Component {
               </a>
               <a
                 className="navbar-item"
-                href="https://github.com/getdirty75/asymetrics"
+                href="https://www.instagram.com/asymetrics/"
                 target="_blank"
                 rel="noopener noreferrer"
               >
@@ -85,12 +81,12 @@ const Navbar = class extends React.Component {
               </a>
               <a
                 className="navbar-item"
-                href="https://github.com/getdirty75/asymetrics"
+                href="https://soundcloud.com/the-asymetrics"
                 target="_blank"
                 rel="noopener noreferrer"
               >
                 <span className="icon">
-                  <img src={twitter} alt="Twitter" />
+                  <img src={soundcloud} alt="Soundcloud" />
                 </span>
               </a>
             </div>
