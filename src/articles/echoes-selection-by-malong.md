@@ -1,17 +1,17 @@
 ---
 templateKey: blog-post
-title: Echoes selection by Malong
-teaser: Dubbed-out Cumbia, Proto-Dancehall, Jungle and Afro Boggle
-featuredpost: true
 featuredimage: /img/steve-harvey-za0izzynfhk-unsplash.jpg
 author: Malong
+featuredpost: true
+title: Echoes selection by Malong
+teaser: Dubbed-Out Cumbia, Proto-Dancehall, Jungle & Afro-Bogle
 date: 2020-06-13T06:14:04.981Z
+categories: mixtapes
 tags:
   - "#Cumbia"
   - "#Dancehall"
   - "#Jungle"
   - "#Dub"
-categories: mixtapes
 insideLinks: null
 outsideLinks: null
 ---
