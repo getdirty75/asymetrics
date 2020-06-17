@@ -1,8 +1,7 @@
 import React from 'react'
 import PropTypes from 'prop-types'
-import { kebabCase } from 'lodash'
 import { Helmet } from 'react-helmet'
-import { graphql, Link } from 'gatsby'
+import { graphql } from 'gatsby'
 import Layout from '../components/Layout'
 import Content, { HTMLContent } from '../components/Content'
 
@@ -20,10 +19,7 @@ export const BlogPostTemplate = ({
   helmet,
 }) => {
   const PostContent = contentComponent || Content
-  console.log("======================")
-  console.log(categories)
-  console.log(tags)
-  console.log(outsideLinks)
+
     return (
     <section className='blog-post section'>
       {helmet || ''}
@@ -34,27 +30,25 @@ export const BlogPostTemplate = ({
         </div>
         <div className='columns'>
           <div className='column is-2 blogPost__leftColumn'>
-            <p className='blogPost__subKey'>author</p>
-            <p className='blogPost__subValue'>{author}</p>
-            <p className='blogPost__subKey'>published date</p>
-            <p className='blogPost__subValue'>{date}</p>
-            <p className='blogPost__subKey'>categories</p>
-            <p className='blogPost__subValue'>{categories}</p>
-            <p className='blogPost__subKey'>tags</p>
-            <p className='blogPost__subValue'>{tags}</p>
-            {/*
-            <p>tags</p><p>{categories}</p> */}
-            {/* {tags && tags.length ? (
-              <div style={{ marginTop: `4rem` }}>
-                <ul className='taglist'>
-                  {tags.map((tag) => (
-                    <li key={tag + `tag`}>
-                      <Link to={`/tags/${kebabCase(tag)}/`}>{tag}</Link>
-                    </li>
-                  ))}
-                </ul>
-              </div>
-            ) : null} */}
+          <div className='blogPost__subValue tags'>
+              {tags.map((item) => <span className="tag is-dark" key={item}>{item}</span>)}
+            </div>
+            <p className='blogPost__subKey'>
+              written by
+              <span className='blogPost__subValue'>
+                {author}
+              </span>
+              on
+              <span className='blogPost__subValue'>
+                {date}
+              </span>
+            </p>
+            <p className='blogPost__subKey'>
+              category
+              <span className='blogPost__subValue'>
+                {categories}
+              </span>
+            </p>
           </div>
           <div className='column is-7 blogPost__centerColumn'>
             <PostContent className='blogPost__text' content={content} />
@@ -63,7 +57,9 @@ export const BlogPostTemplate = ({
             <p className='blogPost__rightKey'>!Dig</p>
             <p className='blogPost__rightValue'>{insideLinks}</p>
             <p className='blogPost__rightKey'>!More</p>
-            <p className='blogPost__rightValue'>{outsideLinks}</p>
+            {outsideLinks?.outsideLinksList?.map((item, index) => {
+              return <a className='blogPost__rightValue' href={item.link} rel="noopener noreferrer" target="_blank" key={index}>{item.text}</a>
+            })}
           </div>
         </div>
       </div>
@@ -77,7 +73,7 @@ BlogPostTemplate.propTypes = {
   content: PropTypes.node.isRequired,
   contentComponent: PropTypes.func,
   insideLinks: PropTypes.string,
-  outsideLinks: PropTypes.string,
+  outsideLinks: PropTypes.object,
   teaser: PropTypes.string,
   title: PropTypes.string,
   helmet: PropTypes.object,
@@ -128,11 +124,17 @@ export const pageQuery = graphql`
       html
       frontmatter {
         author
+        categories
         date(formatString: "MMMM DD, YYYY")
-        insideLinks
         tags
         teaser
         title
+        outsideLinks {
+          outsideLinksList {
+            link
+            text
+          }
+        }
       }
     }
   }

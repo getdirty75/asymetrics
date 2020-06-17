@@ -1,23 +1,25 @@
 ---
 templateKey: blog-post
 title: Les Drogues Rient
-teaser: english spoken
+teaser: "\"Les drogueries, ces temples oubliés, derniers gardiens d'une
+  époque où l'on peut acheter du gaz, de la cire, une planche à repasser et des
+  chaussures dans 30 m2. Magique.\""
+featuredpost: true
 featuredimage: /img/theasymetrics_drogueries_murat15_copie.jpg
 author: LORD SANDWICH
-featuredpost: true
 date: 2020-06-11T09:32:14.542Z
 categories: knowledge
 tags:
-  - "#typography - #oldstores - #alwaysMore"
+  - "#typography"
+  - "#oldstores"
+  - "#alwaysMore"
+insideLinks: null
 outsideLinks:
   outsideLinksList:
     - link: https://www.behance.net/user/?username=thefuckinsage
       text: Yannick "SAGE" LESAGE on Behance
     - text: "[SAGE](https://www.mixcloud.com/fuckingsage/stream/)"
       link: https://www.mixcloud.com/fuckingsage/stream/
-description: "\"Les drogueries, ces temples oubliés, derniers gardiens d'une
-  époque où l'on peut acheter du gaz, de la cire, une planche à repasser et des
-  chaussures dans 30 m2. Magique.\""
 ---
 # Photo Series by SAGE : Graffeur, Graphiste & Digger.
 

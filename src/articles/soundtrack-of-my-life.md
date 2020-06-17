@@ -7,10 +7,11 @@ author: IZLAZ DA MAGNIFICIENT aka STICKY TAI
 featuredpost: true
 date: 2020-06-10T18:30:35.931Z
 tags:
-  - music
-categories:
-  - memory nostalgia
-description: Musical Memories ... When Sounds Bring You Back In Time...
+  - "#memory"
+  - "#nostalgia"
+categories: knowledge
+insideLinks: null
+outsideLinks: null
 ---
 **Joy Cooper - Soundtrack Of My Life**
 

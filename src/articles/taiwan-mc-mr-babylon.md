@@ -6,17 +6,20 @@ featuredimage: /img/theasymetrics_taiwanmc_babylon.jpg
 author: Malong
 date: 2020-06-13T01:59:50.823Z
 tags:
-  - Music/ Tunes/ News
-categories:
-  - "#Reggae #Riots"
+  - "#Reggae"
+  - "#Riots"
+categories: news
+insideLinks: null
 outsideLinks:
-  - https://www.chinesemanrecords.com/shop-cmr/special-request-taiwan-mc/
+  outsideLinksList:
+    - text: special request
+    - link: https://www.chinesemanrecords.com/shop-cmr/special-request-taiwan-mc/
 ---
 <iframe width="640" height="380" src="https://www.youtube.com/embed/iQrrzCB4xls" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-<div class="columns">   
+<div class="columns">
 
-<div class="column">    
+<div class="column">
 
 Longtime friend and favorite of the Asymetrics, **Taiwan MC** delivers a politically charged heavyweight choon!
 
@@ -26,9 +29,9 @@ Part of Taiwan’s forthcoming album ***[Special Request](https://www.chineseman
 
 The Asymetrics got a chance to hear a preview of Special Request and trussss us: Taiwan delivers nothing but the best of his unique style, with many out-of-the-box explorations into multiple genres, you’re in for many surprises! Watch this space…
 
-<div class="column">    
+<div class="column">
 
-</div>  
+</div>
 
 ![](/img/theasymetrics_taiwanmc_specialrequest.jpg)
 

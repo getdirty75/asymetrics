@@ -3,15 +3,17 @@ templateKey: blog-post
 title: Rocking you Eternally
 teaser: Leon Ware, Children of Zeus, neo-Soul and old-school Jungle – a musical
   escape getting lost in samples.
+featuredpost: false
 featuredimage: /img/theasymetrics_leonware.jpg
 author: Malong
 date: 2020-06-13T04:16:35.084Z
 tags:
-  - knowledge / wisdom / rhythm
-categories:
-  - "#malong #soul #digging"
-insideLinks:
-  - https://theasymetrics.com/i-am-the-black-gold-of-the-sun/
+ - "#malong"
+ - "#soul"
+ - "#digging"
+categories: knowledge
+insideLinks: null
+outsideLinks: null
 ---
 ![]()
 
@@ -43,13 +45,13 @@ While looking him up, I also discovered that Ware was a shadow force behind many
 
 This gorgeous, kinky & erotic soul anthem, one of my all time favorites, brought back memories of more recent remarkable soul and hip-hop tracks that sampled it:
 
-</div>  
+</div>
 
- <div class="column">     
+ <div class="column">
 
 <iframe width="280" height="250" src="https://www.youtube.com/embed/-5slZHLSnow" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-</div>  
+</div>
 
 <iframe width="280" height="250" src="https://www.youtube.com/embed/agEIHP3rKIQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
@@ -71,13 +73,13 @@ After this melodic trip, I realized that I still hadn’t find out why the etern
 
 This classic (if a bit off the beaten path) jungle ruffage also features the head-ringing “The Champ” sample, popularized among the underground youth through KRS 1’s legendary “Rapture”.
 
-</div>  
+</div>
 
- <div class="column">    
+ <div class="column">
 
 <iframe width="280" height="250" src="https://www.youtube.com/embed/r49FjKg2Ebk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-</div>  
+</div>
 
 <iframe width="280" height="250" src="https://www.youtube.com/embed/xbJxcFyaCpI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 

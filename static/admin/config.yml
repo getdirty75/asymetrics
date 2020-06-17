@@ -24,12 +24,12 @@ collections:
       - {label: "Titre --> affiché ds la home page et ds l'article", name: "title", widget: "string"}
       - {label: "Teaser --> affiché ds la home page et ds l'article", name: "teaser", widget: "text"}
       - {label: "Image --> affichée seulement ds la home page pas ds l'article", name: "featuredimage", widget: image}
-      - {label: "Auteur", name: "author", widget: "select", options: ["MALONG", "LORD SANDWICH", "SUPER USER", "IZLAZ DA MAGNIFICIENT aka STICKY TAI", "THE UNKNOWN SOLDIER", "ASYMETRICS CREW", "FOLLOW THE WHITE RABBIT", "ENDLESS DAZE"]}
+      - {label: "Auteur", name: "author", widget: "select", options: ["Malong", "Lord Sandwich", "Version Galore", "Izlaz da Magnificient aka Sticky Tai", "The Unknown Soldier", "ASYMETRICS CREW", "'Follow the White Rabbit', Alice", "Endless Daze"]}
       - {label: "Date de publication", name: "date", widget: "datetime"}
       - {
           label: "Categories",
           name: "categories",
-          options: [{label: "Mixtapes / Playlists / Podcasts", value: "mixtapes"}, {label: "Knowledge / Wisdom / Rhythm", value: "knowledge"}, {label: "Artworks / Pictures / Design", value: "artworks"}],
+          options: [{label: "Music / Tunes / News", value: "news"}, {label: "Mixtapes / Playlists / Podcasts", value: "mixtapes"}, {label: "Knowledge / Wisdom / Rhythm", value: "knowledge"}, {label: "Artworks / Pictures / Design", value: "artworks"}],
           widget: "select"
         }
       - {label: "Tags --> #tags, #multiplesavecdesvirgules, #separatedComma, #toujoursavec1dièse", name: "tags", widget: "list"}

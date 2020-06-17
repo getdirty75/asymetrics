@@ -1,25 +1,17 @@
 ---
 templateKey: blog-post
 title: 7 Bad Mixtapes !
-teaser: Seven mixtapes from several dj's...different styles, killer tracks &
-  crucial vibes..
-featuredimage: /img/istockphoto-517473610-612x612-2.jpg
-author: IZLAZ DA MAGNIFICIENT aka STICKY TAI
-featuredpost: true
-date: 2020-06-11T13:47:44.340Z
-tags:
-  - Mixtapes Playlists Podcasts test
-categories:
-  - Mixtapes Playlists Podcasts
-insideLinks:
-  - https://theasymetrics.com/malong%E2%80%99s-monthly-round-up%E2%80%93may-2020/
-outsideLinks:
-  - https://www.awesometapes.com/
-introduction: Here are 7 wicked mixtapes, chosen by IZLAZ DA MAGNIFICIENT aka
+teaser: Here are 7 wicked mixtapes, chosen by IZLAZ DA MAGNIFICIENT aka
   STICKY TAI TAI... several different musical styles coming from various dope
   DJ's...Put Your Headphones On & Chill :) More Of These Every Month !
-description: Seven mixtapes from several dj's...different styles, killer tracks
-  & crucial vibes...
+featuredpost: true
+featuredimage: /img/istockphoto-517473610-612x612-2.jpg
+author: IZLAZ DA MAGNIFICIENT aka STICKY TAI
+date: 2020-06-11T13:47:44.340Z
+tags: null
+categories: mixtapes
+insideLinks: null
+outsideLinks: null
 ---
 
 

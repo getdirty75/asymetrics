@@ -2,13 +2,20 @@
 templateKey: blog-post
 title: Dumbanengue
 teaser: An online live African artist market, zooming in every sunday!
+featuredpost: true
 featuredimage: /img/theasymetrics_dumbanengue_tonyallen_special.jpg
 author: Malong
 date: 2020-06-13T03:20:22.663Z
 tags:
-  - Innovation / Arts / Music
-categories:
-  - "#Africa #LatinAmerica"
+  - "#Innovation"
+  - "#Arts"
+  - "#Music"
+categories: mixtapes
+insideLinks: null
+outsideLinks:
+  outsideLinksList:
+    - text: Fresh Nunas
+      link: https://www.mixcloud.com/deadfresh/
 ---
 ![](/img/theasymetrics_dumbanengue_definition.jpg)
 
@@ -22,12 +29,12 @@ Dumbanengue was born out of necessity during the Covid-19 crisis, when Ricardo a
 
 Tune in on Sundays through **Zoom ID: 586-183-2220** – 3pm Central Africa time until however late the audience feels like staying!
 
-<div class="column">    
+<div class="column">
 
-</div>  
+</div>
 
 ![](/img/theasymetrics_freshnunas.jpg "Fresh Nunas")
 
-</div>  
+</div>
 
 ![](/img/theasymetrics_ricardopinto.jpg "Ricardo Pinto Jorge")
