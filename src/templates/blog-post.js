@@ -31,7 +31,7 @@ export const BlogPostTemplate = ({
         <div className='columns'>
           <div className='column is-2 blogPost__leftColumn'>
           <div className='blogPost__subValue tags'>
-              {tags.map((item) => <span className="tag is-dark" key={item}>{item}</span>)}
+              {tags?.map((item) => <span className="tag is-dark" key={item}>{item}</span>)}
             </div>
             <p className='blogPost__subKey'>
               written by

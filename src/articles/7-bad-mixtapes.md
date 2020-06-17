@@ -8,14 +8,15 @@ featuredpost: true
 featuredimage: /img/istockphoto-517473610-612x612-2.jpg
 author: IZLAZ DA MAGNIFICIENT aka STICKY TAI
 date: 2020-06-11T13:47:44.340Z
-tags: null
+tags:
+  - "#24hoursMusic"
 categories: mixtapes
 insideLinks: null
 outsideLinks: null
 ---
 
 
-# **Get ready for a musical journey, here are seven wicked mixtapes, chosen for you by The Asymetrical Team... several different musical styles coming from various dope DJ's...Put Your Headphones On & Chill :)** 
+# **Get ready for a musical journey, here are seven wicked mixtapes, chosen for you by The Asymetrical Team... several different musical styles coming from various dope DJ's...Put Your Headphones On & Chill :)**
 
 \-----------------------------------------------------------------------------------------------------------
 
