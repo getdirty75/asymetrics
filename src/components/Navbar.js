@@ -43,6 +43,8 @@ const Navbar = class extends React.Component {
               className={`navbar-burger burger ${this.state.navBarActiveClass}`}
               data-target="navMenu"
               onClick={() => this.toggleHamburger()}
+              onKeyDown={() => this.toggleHamburger()}
+              role="navigation"
             >
               <span />
               <span />
@@ -55,8 +57,8 @@ const Navbar = class extends React.Component {
           >
             <div className="navbar-start has-text-centered">
             <Link className="navbar-item navbar__itemStyle" to="/tags/">All Categories</Link>
-            <Link className="navbar-item navbar__itemStyle" to="/tags/knowledge-wisdom-rhythm">Knowledge / Wisdom / Rhythm</Link>
-            <Link className="navbar-item navbar__itemStyle" to="/tags/mixtapes-playlists-podcasts">Mixtapes / Playlists / Podcasts</Link>
+            <Link className="navbar-item navbar__itemStyle" to="/tags/knowledge">Knowledge / Wisdom / Rhythm</Link>
+            <Link className="navbar-item navbar__itemStyle" to="/tags/mixtapes">Mixtapes / Playlists / Podcasts</Link>
             </div>
             <div className="navbar-end has-text-centered">
               <a
