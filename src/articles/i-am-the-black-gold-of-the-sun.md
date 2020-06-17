@@ -2,28 +2,24 @@
 templateKey: blog-post
 title: I Am The Black Gold Of The Sun
 teaser: 'Story of a track: "I Am The Black Gold Of The Sun"'
+featuredpost: true
 featuredimage: /img/black-gold-3-minnie-big.jpg
 author: IZLAZ DA MAGNIFICIENT aka STICKY TAI
-featuredpost: true
 date: 2020-05-13T19:02:57.727Z
 tags:
-  - knowledge / wisdom / rhythm
-categories:
-  - story of a track
-description: 'Story of a track: "I Am The Black Gold Of The Sun"'
+  - "#storyofatrack"
+categories: knowledge
+insideLinks: null
+outsideLinks: null
 ---
-# I Am The Black Gold Of The Sun
-
 This song has travelled through time to make you groove...
-
 Original Version :
 
-1971 [Rotary Connection](https://en.wikipedia.org/wiki/Rotary_Connection)
-
-
-
 <div class="columns">
-  <div class="column">  </div>
+  <div class="column">
+
+1971 [Rotary Connection](https://en.wikipedia.org/wiki/Rotary_Connection)
+  </div>
   <div class="column">
     <iframe src="https://www.youtube.com/embed/SsY_rRFncGU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
   </div>
@@ -33,13 +29,11 @@ Original Version :
 <div class="columns">
   <div class="column">
 
-
-
 Psychedelic soul, featuring [the queen Minnie Ripperton](https://en.wikipedia.org/wiki/Minnie_Riperton) on vocals...
+<br />
+Taken from the "Hey Love" LP
 
-Taken from the "Hey Love" LP 
-
-## The Rotary Connection 
+## The Rotary Connection
 
 ![](/img/black-gold-2-rotary-connection.jpg)
 
@@ -139,16 +133,5 @@ it was released on Giles Peterson ["Talkin' Loud" label](https://en.wikipedia.or
 
 ![]()
 
-  </div>
-</div>
-
-<br>
-<br>
-<div class="columns">
-  <div class="column">
-    First column
-  </div>
-  <div class="column">
-    Second column
   </div>
 </div>

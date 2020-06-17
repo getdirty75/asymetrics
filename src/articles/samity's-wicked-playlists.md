@@ -8,11 +8,10 @@ author: IZLAZ DA MAGNIFICIENT aka STICKY TAI
 featuredpost: true
 date: 2020-05-18T18:59:40.365Z
 tags:
-  - mixtapes / playlists / podcasts
-categories:
-  - samity
-description: Every month...listen to a new playlist from Sofia's dubwise
-  specialist & reggae activist Samity !
+  - "#samity"
+categories: mixtapes
+insideLinks: null
+outsideLinks: null
 ---
 # Every month, a new playlist, by Samity
 

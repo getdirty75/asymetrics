@@ -27,7 +27,7 @@ class BlogRoll extends React.Component {
               <div className="blogRoll__sub">
                 <p className="blogRoll__tags">{post.frontmatter.author}</p>
                 <div className="blogRoll__tagsBox">
-                  <Link className="blogRoll__tags" to={`categories/${post.frontmatter.categories}`}>
+                  <Link className="blogRoll__tags" to={`/categories/${post.frontmatter.categories}`}>
                     {post.frontmatter.categories}
                   </Link>
                 </div>

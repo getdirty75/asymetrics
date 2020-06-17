@@ -8,17 +8,10 @@ featuredimage: /img/mael-roundup1/jovino.jpg
 author: MALONG
 featuredpost: false
 date: 2020-05-19T01:59:40.365Z
-tags:
-  - mixtapes / playlists / podcasts
-categories:
-  - malong
-outsideLinks:
-  - https://www.awesometapes.com/
-description: A (somewhat) regular journey through vibrant past, present, and
-  future tunes in no particular order, preference of genre, or other purpose but
-  to make you feel fine!
-insideLinks:
-  - https://www.awesometapes.com/
+tags: null
+categories: mixtapes
+insideLinks: null
+outsideLinks: null
 ---
 <style>
 .embed-container {

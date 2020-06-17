@@ -11,11 +11,9 @@ tags:
   - "#Arts"
   - "#Music"
 categories: mixtapes
-insideLinks: ""
+insideLinks: null
 outsideLinks:
   outsideLinksList:
-    - text: test
-      link: https://soundcloud.com/the-asymetrics
     - text: Fresh Nunas
       link: https://www.mixcloud.com/deadfresh/
 ---
