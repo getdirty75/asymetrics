@@ -9,8 +9,7 @@ const IndexPage = () => {
     <Layout>
       <div className="container">
         <p className="home__desc">
-          The Asymetrics is a collective sharing knowledge about music, & culture from all around the world.
-          <br/>Digging in different subjects through articles, podcasts, mixtapes and more...
+        ALWAYS ODD NEVER ALIGNED
         </p>
         <div className="section">
           <BlogRoll />

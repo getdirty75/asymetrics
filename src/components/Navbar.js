@@ -37,7 +37,7 @@ const Navbar = class extends React.Component {
               <SquareMotion />
             </div>
             <Link to="/" className="navbar-item is-flex-touch" title="Logo">
-              <h1 className='navBar__title'>Asymetrics <p className="navBar__subtitle">Topics</p></h1>
+              <h1 className='navBar__title'>Asymetrics <p className="navBar__subtitle">!Topics</p></h1>
             </Link>
             <div
               className={`navbar-burger burger ${this.state.navBarActiveClass}`}
@@ -56,9 +56,25 @@ const Navbar = class extends React.Component {
             className={`navbar-menu ${this.state.navBarActiveClass}`}
           >
             <div className="navbar-start has-text-centered">
-            <Link className="navbar-item navbar__itemStyle" to="/tags/">All Categories</Link>
-            <Link className="navbar-item navbar__itemStyle" to="/tags/knowledge">Knowledge / Wisdom / Rhythm</Link>
-            <Link className="navbar-item navbar__itemStyle" to="/tags/mixtapes">Mixtapes / Playlists / Podcasts</Link>
+
+
+            <Link className="navbar-item navbar__itemStyle" to="/magazine/">magazine</Link>
+
+              {/* <Link className="navbar-item navbar__itemStyle" to="/news">news</Link>
+              <Link className="navbar-item navbar__itemStyle" to="/mixtapes">mixtapes</Link>
+              <Link className="navbar-item navbar__itemStyle" to="/knowledge">knowledge</Link>
+              <Link className="navbar-item navbar__itemStyle" to="/artworks">artworks</Link>
+              <Link className="navbar-item navbar__itemStyle" to="/stories">stories</Link>
+              <Link className="navbar-item navbar__itemStyle" to="/reports">reports</Link> */}
+
+              <Link className="navbar-item navbar__itemStyle" to="/radio">radio</Link>
+              <Link className="navbar-item navbar__itemStyle" to="/shop/">shop</Link>
+              <Link className="navbar-item navbar__itemStyle" to="/contact/">contact</Link>
+              <Link className="navbar-item navbar__itemStyle" to="/blurb">about</Link>
+
+              <Link className="navbar-item navbar__itemStyle" to="/restricted/">restricted</Link>
+              {/* <Link className="navbar-item navbar__itemStyle" to="/error/">error</Link>
+              <Link className="navbar-item navbar__itemStyle" to="/band/">band</Link> */}
             </div>
             <div className="navbar-end has-text-centered">
               <a
