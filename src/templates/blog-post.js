@@ -25,8 +25,8 @@ export const BlogPostTemplate = ({
       {helmet || ''}
       <div className='container content'>
         <div className='blogPost__title'>
-          <h1>{title}</h1>
-          <p>{teaser}</p>
+          <h1>!{title}</h1>
+          <p className="blogPost__teaser">!{teaser}</p>
         </div>
         <div className='columns'>
           <div className='column is-2 blogPost__leftColumn'>
@@ -34,19 +34,16 @@ export const BlogPostTemplate = ({
               {tags?.map((item) => <span className="tag is-dark" key={item}>{item}</span>)}
             </div>
             <p className='blogPost__subKey'>
-              written by
+              {/* by &nbsp;&nbsp; */}
               <span className='blogPost__subValue'>
-                {author}
+                !{author}
               </span>
-              on
-              <span className='blogPost__subValue'>
-                {date}
-              </span>
-            </p>
-            <p className='blogPost__subKey'>
-              category
+              ,&nbsp;
               <span className='blogPost__subValue'>
                 {categories}
+              </span>&nbsp;
+              <span className='blogPost__subValue'>
+                {date}&nbsp;
               </span>
             </p>
           </div>

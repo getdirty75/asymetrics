@@ -15,7 +15,7 @@ $color-greyLight: hsla(0, 8%, 13%, 1)
 $color-grey: hsla(0, 0%, 44%, 1)
 $color-grey-dark: hsla(0, 9%, 9%, 1)
 $dark-blue-color: hsla(186, 81%, 22%, 1)
-$dark-purple-color: hsla(283, 79%, 17%, 1)
+$dark-purple-color: #0b5c66 !important
 $color-primary: hsla(274, 6%, 18%, 1)
 $color-secondary: hsla(274, 6%, 70%,1)
 
@@ -84,6 +84,7 @@ a
 .blogRoll__sub
   display: flex
   flex-direction: column
+  color: #000 !important
   text-align: end
   margin: 0.5em
 
@@ -95,7 +96,10 @@ a
 .blogRoll__tags
   font: 100% $font-content !important
   font-size: 16px !important
-  color: hsla(0, 0%, 44%, 1)
+  color: #000 !important
+
+.blogPost__teaser
+  color: #000 !important
 
 //
 //   B L O G   P O S T S
@@ -109,7 +113,7 @@ a
 .blogPost__text
   font: 100% $font-content !important
   font-size: 18px !important
-  color: hsla(0, 0%, 44%, 1)
+  color: #000 !important
   text-align: center
   text-justify: inter-word
 
@@ -117,29 +121,31 @@ a
 .blogPost__subKey
   font: 100% $font-content !important
   font-size: 17px !important
-  color: hsla(274, 6%, 70%,1)
+  color: #000
   margin-bottom: 0rem !important
+  margin-left: 1rem
 
 .blogPost__subValue
   font: 100% $font-content !important
   text-transform: lowercase
+  color: #0b5c66 !important
   font-size: 15px !important
-  color: hsla(186, 81%, 22%, 1)
   margin-bottom: 0rem !important
 
 
 .blogPost__rightKey
   font: 100% $font-content !important
+  font-weight: 800 !important
   font-size: 24px !important
-  color: hsla(274, 6%, 70%,1)
-  border-bottom: 1px solid hsla(274, 6%, 70%,1)
+  color: #000
+  border-bottom: 2px solid #020002
 
 .blogPost__rightValue
   display: block
   font: 100% $font-content !important
   text-transform: lowercase
   font-size: 17px !important
-  color: hsla(186, 81%, 22%, 1)
+  color: #000 !important
   margin-bottom: 0.5rem !important
 
 
@@ -155,6 +161,9 @@ a
   text-align: right
 
 .blogPost__title
+  font: $font-content
+  font-weight: 700 !important
+  color: hsla(186, 81%, 22%, 1)
   padding-bottom: 2rem
   text-align: center
 
@@ -184,9 +193,11 @@ a
 //
 .home__desc
   font: 100% Nunito Sans, sans-serif !important
-  padding: 1rem
-  border-bottom: 1px solid
-  border-radius: 0.2rem
+  color: #000 !important
+  font-weight: 800 !important
+  padding-left: 1.8rem
+  border-bottom: 3px solid
+  border-radius: 9rem
   border-color: whitesmoke
   font-size: 16px !important
 
@@ -195,20 +206,21 @@ a
 //
 .navbar__itemStyle
   font: 100% Nunito Sans, sans-serif !important
-  padding: 1rem
-  border-left: 1px solid whitesmoke
-  border-radius: 0.2rem
-  font-size: 16px !important
+  padding: 1.2rem !important
+  font-weight: 800 !important
+  // border-left: 3px solid whitesmoke
+  font-size: 18px !important
 
 .navbar .navbar-menu
   box-shadow:none !important
 
 .navbar-item
-  color: $color-grey !important
+  color: $color-grey-dark !important
   font-size: 32px
 
 .navBar__title
-  color: $color-grey-dark !important
+  font-weight: 800 !important
+  color: #000!important
   font-size: 32px
 
 .navBar__sub
@@ -216,6 +228,7 @@ a
   flex-direction: row
 
 .navBar__subtitle
+  font-weight: 800 !important
   color: $color-grey-dark !important
   font-size: 24px
 
