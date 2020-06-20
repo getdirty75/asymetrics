@@ -8,9 +8,6 @@ const IndexPage = () => {
   return (
     <Layout>
       <div className="container">
-        <p className="home__desc">
-        ALWAYS ODD NEVER ALIGNED
-        </p>
         <div className="section">
           <BlogRoll />
         </div>

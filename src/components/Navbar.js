@@ -1,6 +1,5 @@
 import React from 'react'
 import { Link } from 'gatsby'
-import github from '../img/github-icon.svg'
 import insta from '../img/social/instagram.svg'
 import soundcloud from '../img/social/soundcloud.svg'
 import { SquareMotion } from './squareMotion'
@@ -37,7 +36,10 @@ const Navbar = class extends React.Component {
               <SquareMotion />
             </div>
             <Link to="/" className="navbar-item is-flex-touch" title="Logo">
-              <h1 className='navBar__title'>Asymetrics <p className="navBar__subtitle">!Topics</p></h1>
+              <div className="container">
+                <h1 className='navBar__title'>Asymetrics <p className="navBar__subtitle">!Topics</p></h1>
+                <p className="home__desc">ALWAYS ODD NEVER ALIGNED</p>
+              </div>
             </Link>
             <div
               className={`navbar-burger burger ${this.state.navBarActiveClass}`}
@@ -77,16 +79,6 @@ const Navbar = class extends React.Component {
               <Link className="navbar-item navbar__itemStyle" to="/band/">band</Link> */}
             </div>
             <div className="navbar-end has-text-centered">
-              <a
-                className="navbar-item"
-                href="https://github.com/getdirty75/asymetrics"
-                target="_blank"
-                rel="noopener noreferrer"
-              >
-                <span className="icon">
-                  <img src={github} alt="Github" />
-                </span>
-              </a>
               <a
                 className="navbar-item"
                 href="https://www.instagram.com/asymetrics/"
