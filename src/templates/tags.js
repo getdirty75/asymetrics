@@ -2,19 +2,25 @@ import React from 'react'
 import { Helmet } from 'react-helmet'
 import { Link, graphql } from 'gatsby'
 import Layout from '../components/Layout'
+import '../components/izmir.css';
 
 class TagRoute extends React.Component {
   render() {
     const posts = this.props.data.allMarkdownRemark.edges
     const postLinks = posts.map((post) => (
-      <li className='is-parent' key={post.node.fields.slug}>
-        <article className='media columns'>
-          <figure className="media-left">
-            <p className="image is-128x128">
-              <img
-                alt={post.node.frontmatter.title}
-                src={post.node.frontmatter.featuredimage.childImageSharp.fluid.src} />
-            </p>
+      <div className='column is-6' key={post.node.fields.slug}>
+          <figure className="sizing myshadow colored8 c4-izmir c4-border-cc-2 c4-gradient-bottom-left c4-image-zoom-in">
+            <img
+              className="blogRoll__img"
+              alt={post.node.frontmatter.title}
+              src={post.node.frontmatter.featuredimage.childImageSharp.fluid.src}
+            />
+            <figcaption className="c4-layout-top-left">
+              <div className="c4-izmir-icon-wrapper c4-fade c4-delay-300">
+                <h3>{post.node.frontmatter.title}</h3>
+                <p>{post.node.frontmatter.teaser}</p>
+              </div>
+            </figcaption>
           </figure>
           <div className="media-content">
             <div className="content">
@@ -22,8 +28,7 @@ class TagRoute extends React.Component {
               <p>{post.node.frontmatter.teaser}</p>
             </div>
           </div>
-        </article>
-      </li>
+      </div>
     ))
     const tag = this.props.pageContext.tag
     const title = this.props.data.site.siteMetadata.title
@@ -41,7 +46,7 @@ class TagRoute extends React.Component {
                 style={{ marginBottom: '6rem' }}
               >
                 <p className='tags__headerText'>{tagHeader}</p>
-                <ul className="taglist">{postLinks}</ul>
+                <div className='blogRoll columns'>{postLinks}</div>
                 <p>
                   <Link to="/tags/">Search all categories</Link>
                 </p>
@@ -64,7 +69,7 @@ export const tagPageQuery = graphql`
       }
     }
     allMarkdownRemark(
-      limit: 1000
+      limit: 4
       sort: { fields: [frontmatter___date], order: DESC }
       filter: { frontmatter: { tags: { in: [$tag] } } }
     ) {
