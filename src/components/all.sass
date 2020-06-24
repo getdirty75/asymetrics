@@ -1,147 +1,119 @@
 @import "~bulma/sass/utilities/initial-variables"
-
 //
 //   F O N T S
 //
 @import url('https://fonts.googleapis.com/css2?family=Montserrat+Alternates:wght@300&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Nunito+Sans:wght@200&display=swap');
+$font-regular: Nunito Sans, sans-serif
 $font-stack: Montserrat Alternates, sans-serif
-$font-content: Nunito Sans, sans-serif
-
+// Override for use of svg's from https://simpleicons.org/
+.icon svg
+  width: 1.5rem
+  height: 1.5rem
+  fill: currentColor
+//
+//  Green : #0b5c66 rgba(11, 92, 102, 1) hsla(187, 81%, 22%, 1) hsla(186, 81%, 22%, 1)
+//  Purple: #551a8b rgba(85, 26, 139, 1)
+//  BLue :  #0b5c66
+//
+// $color-greyLight: hsla(0, 8%, 13%, 1)
+// $color-primary: hsla(274, 6%, 18%, 1)
+// $color-secondary: hsla(274, 6%, 70%,1)
+//
+//  black ?
+//  white ?
 //
 //   C O L O R S
 //
-$color-greyLight: hsla(0, 8%, 13%, 1)
-$color-grey: hsla(0, 0%, 44%, 1)
-$color-grey-dark: hsla(0, 9%, 9%, 1)
-$dark-blue-color: hsla(186, 81%, 22%, 1)
-$dark-purple-color: #0b5c66 !important
-$color-primary: hsla(274, 6%, 18%, 1)
-$color-secondary: hsla(274, 6%, 70%,1)
+$color-purple: rgba(85, 26, 139, 1) !important
+//$color-green: #0b5c66 !important
+$color-blue: #0b5c66 !important
 
+$color-black: #000 !important
+
+$color-grey: red // hsla(0, 0%, 44%, 1)
+$color-grey-dark: hsla(0, 9%, 9%, 1)
 //
 //   R E S E T
 //
 body
+  margin-top: 0 !important
   font: 100% $font-stack !important
   font-weight: 700 !important
   color: $color-grey !important
 a
-  font: 100% $font-content !important
-  color: $dark-purple-color !important
+  font: 100% $font-regular !important
+  color: $color-blue !important
   opacity: 1
   transition: 0.4s
   &:hover
     opacity: 0.5
 
-
-.about
-  margin-top: 35px
-
-.about__sectionTitle
-  // font: 100% $font-content !important
-  // font-size: 24px !important
-  // font-weight: 900 !important
-  font: 100% $font-stack !important
-  text-align: right
-  font-weight: 800 !important
-  font-size: 24px !important
-  color: #000
-  border-bottom: 2px solid #020002
-
-.about__sectionText
-  font: 100% $font-content !important
-  font-weight: 800 !important
-
-.animated__box
-  display: flex
-  flex-wrap: wrap
-  justify-content: center
-
-.animated__item
-  background-image: url("../img/asymetric.jpg")
-  background-size: cover
-  border-radius: 8px
-  margin-bottom: 10px
-  margin-right: 10px
-  width: 240px
-  height: 240px
-
-.animated__itemText
-  font: 100% $font-stack
-  font-weight: 900 !important
-  font-size: 24px !important
-  text-align: center
-  padding: 0.5rem
-  margin-top: 95px
-  color: #fff !important
-
-.squareMotion div
-  // TRIANGLE FORM
-  // background: transparent
-  // width: 0
-  // height: 0
-  border-left: 14px solid transparent
-  // border-right: 16px solid transparent
-  border-top: 14px solid hsla(274, 6%, 18%, 0.9)
-  // END TRIANGLE FORM
-  width: 12px
-  height: 12px
-  margin-top: 1.5rem
-  margin-left: 1rem
-
 //
-//   B L O G   R O L L S
+//   H O M E
 //
-.blogRoll
-  padding: 0px
-
-.blogRoll__bullet
+.home__desc
+  font: 100% Nunito Sans, sans-serif !important
+  color: $color-black
+  font-weight: 800 !important
+  padding-top: 7px
   font-size: 16px !important
+//
+//   N A V B A R
+//
+.navbar__itemStyle
+  font: 100% Nunito Sans, sans-serif !important
+  padding: 1.2rem !important
+  font-weight: 800 !important
+  // border-left: 3px solid whitesmoke
+  font-size: 18px !important
 
-.blogRoll__img
-  border-radius: 0.2rem
-  height: 70%
-  width: auto
-  object-fit: cover
+.navbar .navbar-menu
+  box-shadow:none !important
 
-.blogRoll__item
-  padding: 1.5rem !important
+.navbar-item
+  color: $color-grey-dark !important
+  font-size: 32px
 
-.blogRoll__itemTitle
-  color: $dark-blue-color !important
-  font-size: 24px !important
-  margin-bottom: 0.2em !important
-  margin-top: 0.2em
+.navBar__title
+  font-weight: 800 !important
+  color: $color-black
+  font-size: 32px
 
-.bogRoll__mainTitle
-  background: hsla(0, 0%, 6%, 0.8)
-  margin-top: -1.8rem
-  margin-bottom: 0.5rem
-  padding-bottom: 0.5rem
-
-.blogRoll__sub
-  display: flex
-  flex-direction: column
-  color: #000 !important
-  text-align: end
-  margin: 0.5em
-
-.blogRoll__tagsBox
+.navBar__sub
   display: flex
   flex-direction: row
-  justify-content: flex-end
 
-.blogRoll__tags
-  font: 100% $font-content !important
-  font-size: 16px !important
-  color: #000 !important
+.navBar__subtitle
+  font-weight: 800 !important
+  color: $color-grey-dark !important
+  font-size: 24px
+.navbar-brand .navbar-item.logo
+  padding: 0 1rem
 
-.blogPost__teaser
-  color: #000 !important
+
 
 //
-//   B L O G   P O S T S
+//   F O O T E R
+//
+.footer__title
+  font-weight: 800 !important
+  color: #fff!important
+  font-size: 32px
+.footer__subtitle
+  font-weight: 800 !important
+  color: #fff !important
+  font-size: 24px
+.footer__mojo
+  font-weight: 800 !important
+  color: #fff !important
+  font-size: 24px
+footer.footer
+  padding: 3rem 0rem 0rem
+
+
+//
+//   BLOGPAGE move in /pages/blog-post
 //
 .blog-post
   img
@@ -150,44 +122,41 @@ a
     border-radius: 0.2rem
 
 .blogPost__text
-  font: 100% $font-content !important
+  font: 100% $font-regular !important
   font-size: 18px !important
-  color: #000 !important
+  color: $color-black
   text-align: center
   text-justify: inter-word
 
 
 .blogPost__subKey
-  font: 100% $font-content !important
+  font: 100% $font-regular !important
   font-size: 17px !important
-  color: #000
+  color: $color-black
   margin-bottom: 0rem !important
-  margin-left: 1rem
 
 .blogPost__subValue
-  font: 100% $font-content !important
+  font: 100% $font-regular !important
   text-transform: lowercase
-  color: #0b5c66 !important
+  color: rgba(85, 26, 139, 1) !important
   font-size: 15px !important
   margin-bottom: 0rem !important
 
 
 .blogPost__rightKey
-  font: 100% $font-content !important
+  font: 100% $font-regular !important
   font-weight: 800 !important
   font-size: 24px !important
-  color: #000
+  color: $color-black
   border-bottom: 2px solid #020002
 
 .blogPost__rightValue
   display: block
-  font: 100% $font-content !important
+  font: 100% $font-regular !important
   text-transform: lowercase
   font-size: 17px !important
-  color: #000 !important
+  color: $color-black
   margin-bottom: 0.5rem !important
-
-
 
 .blogPost__leftColumn
   text-align: left
@@ -200,7 +169,7 @@ a
   text-align: right
 
 .blogPost__title
-  font: $font-content
+  font: $font-regular
   font-weight: 700 !important
   color: hsla(186, 81%, 22%, 1)
   padding-bottom: 2rem
@@ -228,48 +197,111 @@ a
 
 
 //
-//   H O M E
+//   ABOUT PAGE --> Move in page/about
 //
-.home__desc
-  font: 100% Nunito Sans, sans-serif !important
-  color: #000 !important
+.about__sectionTitle
+  // font: 100% $font-regular !important
+  // font-size: 24px !important
+  // font-weight: 900 !important
+  font: 100% $font-stack !important
+  text-align: right !important
   font-weight: 800 !important
-  padding-left: 1.8rem
-  border-bottom: 3px solid
-  border-radius: 9rem
-  border-color: whitesmoke
+  font-size: 24px !important
+  color: $color-black
+  border-bottom: 2px solid #020002
+
+.about__sectionText
+  font: 100% $font-regular !important
+  font-weight: 800 !important
+
+.animated__box
+  display: flex
+  flex-wrap: wrap
+  justify-content: center
+
+.animated__item
+  background-image: url("../img/asymetric.jpg")
+  background-size: cover
+  border-radius: 8px
+  margin-bottom: 10px
+  margin-right: 10px
+  width: 200px
+  height: 200px
+
+.animated__itemText
+  font: 100% $font-stack
+  font-weight: 900 !important
+  font-size: 24px !important
+  text-align: center
+  padding: 0.5rem
+  margin-top: 95px
+  color: #fff !important
+
+.squareMotion div
+  // TRIANGLE FORM
+  // background: transparent
+  // width: 0
+  // height: 0
+  border-left: 14px solid transparent
+  // border-right: 16px solid transparent
+  border-top: 14px solid hsla(274, 6%, 18%, 0.9)
+  // END TRIANGLE FORM
+  width: 12px
+  height: 12px
+  margin-top: 1.5rem
+  margin-left: 1rem
+
+
+
+//
+//   B L O G   R O L L S
+//
+.blogRoll
+  padding: 0px
+
+.blogRoll__bullet
   font-size: 16px !important
 
-//
-//   N A V B A R
-//
-.navbar__itemStyle
-  font: 100% Nunito Sans, sans-serif !important
-  padding: 1.2rem !important
-  font-weight: 800 !important
-  // border-left: 3px solid whitesmoke
-  font-size: 18px !important
+.blogRoll__img
+  border-radius: 0.2rem
+  height: 70%
+  width: auto
+  object-fit: cover
 
-.navbar .navbar-menu
-  box-shadow:none !important
+.blogRoll__itemTitle
+  color: rgba(85, 26, 139, 1) !important
+  font-size: 24px !important
+  margin-bottom: 0.2em !important
+  margin-top: 0.2em
 
-.navbar-item
-  color: $color-grey-dark !important
-  font-size: 32px
+.bogRoll__mainTitle
+  background: hsla(0, 0%, 6%, 0.8)
+  margin-top: -1.8rem
+  margin-bottom: 0.5rem
+  padding-bottom: 0.5rem
 
-.navBar__title
-  font-weight: 800 !important
-  color: #000!important
-  font-size: 32px
+.blogRoll__sub
+  display: flex
+  flex-direction: column
+  color: $color-black
+  text-align: end
+  margin: 0.5em
 
-.navBar__sub
+.blogRoll__tagsBox
   display: flex
   flex-direction: row
+  justify-content: flex-end
 
-.navBar__subtitle
-  font-weight: 800 !important
-  color: $color-grey-dark !important
-  font-size: 24px
+.blogRoll__tags
+  font: 100% $font-regular !important
+  font-size: 16px !important
+  color: $color-black
+
+.blogPost__teaser
+  color: $color-black
+
+.blogRoll__item
+  padding: 1.5rem !important
 
 //
 //   T A G S   P A G E
@@ -278,32 +310,14 @@ a
   color: $color-grey !important
   margin-bottom: 5rem !important
 
-//
-//   M I S C
-//
-.nunito
-  font: 100% $font-content !important
-  color: $color-grey !important
 
-.margin-top-0
-  margin-top: 0 !important
-
-// Override for use of svg's from https://simpleicons.org/
-.icon svg
-  width: 1.5rem
-  height: 1.5rem
-  fill: currentColor
-.navbar-brand .navbar-item.logo
-  padding: 0 1rem
-footer.footer
-  padding: 3rem 0rem 0rem
 
 
 //
 //  C O N T E N T
 //
 .content .taglist
-  font: 100% $font-content !important
+  font: 100% $font-regular !important
   list-style: none
   margin-bottom: 0
   margin-left: 0

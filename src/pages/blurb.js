@@ -26,7 +26,8 @@ const BlurbPage = () => {
 
   return(
     <Layout>
-      <div className="about">
+      <div className="container">
+      <div className="section">
 
       <div className="tile is-ancestor">
         <div className="tile is-4 is-vertical is-parent">
@@ -56,6 +57,7 @@ const BlurbPage = () => {
 
             </div>
           </div>
+      </div>
       </div>
       </div>
     </Layout>
