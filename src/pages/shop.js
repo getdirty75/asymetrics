@@ -5,7 +5,7 @@ const ShopPage = () => {
 
   return(
     <Layout>
-      <div class="tile is-ancestor">
+      <div class="tile is-ancestor section">
         <div class="tile is-parent">
           <article class="tile is-child box">
             <p class="title">One</p>

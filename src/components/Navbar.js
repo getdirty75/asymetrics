@@ -32,9 +32,9 @@ const Navbar = class extends React.Component {
       >
         <div className="container">
           <div className="navbar-brand is-flex-touch">
-            <div className='squareMotion'>
+            {/* <div className='squareMotion'>
               <SquareMotion />
-            </div>
+            </div> */}
             <Link to="/" className="navbar-item is-flex-touch" title="Logo">
               <div className="container">
                 <h1 className='navBar__title'>Asymetrics <p className="navBar__subtitle">!Topics</p></h1>
@@ -60,7 +60,7 @@ const Navbar = class extends React.Component {
             <div className="navbar-start has-text-centered">
 
 
-            <Link className="navbar-item navbar__itemStyle" to="/magazine/">magazine</Link>
+            <Link className="navbar-item navbar__itemStyle" to="/magazine/">categories</Link>
 
               {/* <Link className="navbar-item navbar__itemStyle" to="/news">news</Link>
               <Link className="navbar-item navbar__itemStyle" to="/mixtapes">mixtapes</Link>
@@ -70,8 +70,8 @@ const Navbar = class extends React.Component {
               <Link className="navbar-item navbar__itemStyle" to="/reports">reports</Link> */}
 
               <Link className="navbar-item navbar__itemStyle" to="/radio">radio</Link>
-              <Link className="navbar-item navbar__itemStyle" to="/shop/">shop</Link>
-              <Link className="navbar-item navbar__itemStyle" to="/contact/">contact</Link>
+              {/* <Link className="navbar-item navbar__itemStyle" to="/shop/">shop</Link>
+              <Link className="navbar-item navbar__itemStyle" to="/contact/">contact</Link> */}
               <Link className="navbar-item navbar__itemStyle" to="/blurb">about</Link>
 
               {/* <Link className="navbar-item navbar__itemStyle" to="/restricted/">restricted</Link> */}

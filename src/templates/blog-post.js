@@ -25,8 +25,8 @@ export const BlogPostTemplate = ({
       {helmet || ''}
       <div className='container content'>
         <div className='blogPost__title'>
-          <h1>!{title}</h1>
-          <p className="blogPost__teaser">!{teaser}</p>
+          <h1>{title}</h1>
+          <p className="blogPost__teaser">{teaser}</p>
         </div>
         <div className='columns'>
           <div className='column is-2 blogPost__leftColumn'>
@@ -36,7 +36,7 @@ export const BlogPostTemplate = ({
             <p className='blogPost__subKey'>
               {/* by &nbsp;&nbsp; */}
               <span className='blogPost__subValue'>
-                !{author}
+                {author}
               </span>
               ,&nbsp;
               <span className='blogPost__subValue'>

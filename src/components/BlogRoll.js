@@ -10,19 +10,18 @@ class BlogRoll extends React.Component {
 
     return (
       <div className='izmirRoll'>
-      <h5 className='izmirRoll__title'>asymetrics newcomers</h5>
       <div className="blogRoll columns is-multiline is-three-quarters-mobile is-two-thirds-tablet is-half-desktop is-one-third-widescreen is-one-quarter-fullhd">
 
         {posts && posts.map(({ node: post }) => (
           <div className="is-parent column is-4 blogRoll__item" key={post.id}>
             <article>
               <Link to={post.fields.slug}>
-                <figure className="image is-5by4">
+                <div className="image is-5by4">
                 <img className="blogRoll__img"
                   alt={post.frontmatter.title}
                   src={post.frontmatter.featuredimage.childImageSharp.fluid.src}
                 />
-                </figure>
+                </div>
               </Link>
               <div className="blogRoll__sub">
                 <p className="blogRoll__tags">{post.frontmatter.author}</p>
@@ -31,8 +30,8 @@ class BlogRoll extends React.Component {
                     {post.frontmatter.categories}
                   </Link>
                 </div>
-                <Link className="blogRoll__itemTitle" to={post.fields.slug}>
-                  {post.frontmatter.title}
+                <Link to={post.fields.slug}>
+                  <p className="blogRoll__itemTitle">{post.frontmatter.title}</p>
                 </Link>
                 <p className="blogRoll__tags">{post.frontmatter.teaser}</p>
               </div>
@@ -58,8 +57,8 @@ export default () => (
     query={graphql`
       query BlogRollQuery {
         allMarkdownRemark(
-          sort: { order: DESC, fields: [frontmatter___date] }
-          filter: { frontmatter: { templateKey: { eq: "blog-post" } } }
+          sort: { order: DESC, fields: [frontmatter___categories] }
+          filter: { frontmatter: { categories: { eq: "mixtapes" } } }
         ) {
           edges {
             node {

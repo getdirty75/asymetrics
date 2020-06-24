@@ -25,9 +25,9 @@ $font-stack: Montserrat Alternates, sans-serif
 //
 //   C O L O R S
 //
-$color-purple: #551a8b !important
-// $color-green: #0b5c66 !important
-// $color-blue: #0b5c66 !important
+$color-purple: rgba(85, 26, 139, 1) !important
+//$color-green: #0b5c66 !important
+$color-blue: #0b5c66 !important
 
 $color-black: #000 !important
 
@@ -43,7 +43,7 @@ body
   color: $color-grey !important
 a
   font: 100% $font-regular !important
-  color: $color-purple !important
+  color: $color-blue !important
   opacity: 1
   transition: 0.4s
   &:hover
@@ -58,7 +58,6 @@ a
   font-weight: 800 !important
   padding-top: 7px
   font-size: 16px !important
-  padding-bottom: 20px
 //
 //   N A V B A R
 //
@@ -135,12 +134,11 @@ footer.footer
   font-size: 17px !important
   color: $color-black
   margin-bottom: 0rem !important
-  margin-left: 1rem
 
 .blogPost__subValue
   font: 100% $font-regular !important
   text-transform: lowercase
-  color: #0b5c66 !important
+  color: rgba(85, 26, 139, 1) !important
   font-size: 15px !important
   margin-bottom: 0rem !important
 
@@ -169,8 +167,6 @@ footer.footer
 .blogPost__rightColumn
   // margin-top: 6rem
   text-align: right
-
-
 
 .blogPost__title
   font: $font-regular
@@ -202,29 +198,13 @@ footer.footer
 
 //
 //   ABOUT PAGE --> Move in page/about
-//    IZMIR ROLL
 //
-.izmirRoll
-  border: 1px solid hsla(274, 6%, 70%, 0.1)
-  border-radius: 0.5rem
-  padding: 1.5rem
-
-.izmirRoll__title
-  font-size: 24px !important
-  border-bottom: 1px solid hsla(274, 6%, 70%,0.1)
-
-//
-//   H O M E
-//
-.about
-  margin-top: 35px
-
 .about__sectionTitle
   // font: 100% $font-regular !important
   // font-size: 24px !important
   // font-weight: 900 !important
   font: 100% $font-stack !important
-  text-align: right
+  text-align: right !important
   font-weight: 800 !important
   font-size: 24px !important
   color: $color-black
@@ -245,8 +225,8 @@ footer.footer
   border-radius: 8px
   margin-bottom: 10px
   margin-right: 10px
-  width: 240px
-  height: 240px
+  width: 200px
+  height: 200px
 
 .animated__itemText
   font: 100% $font-stack
@@ -288,11 +268,8 @@ footer.footer
   width: auto
   object-fit: cover
 
-.blogRoll__item
-  padding: 1.5rem !important
-
 .blogRoll__itemTitle
-  color: $color-purple !important
+  color: rgba(85, 26, 139, 1) !important
   font-size: 24px !important
   margin-bottom: 0.2em !important
   margin-top: 0.2em
@@ -323,18 +300,15 @@ footer.footer
 .blogPost__teaser
   color: $color-black
 
+.blogRoll__item
+  padding: 1.5rem !important
+
 //
 //   T A G S   P A G E
 //
 .tags__headerText
   color: $color-grey !important
   margin-bottom: 5rem !important
-
-
-
-
-
-
 
 
 

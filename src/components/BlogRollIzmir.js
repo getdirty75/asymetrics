@@ -16,7 +16,6 @@ class BlogRollIzmir extends React.Component {
 
     return (
       <div className='izmirRoll'>
-        <h1 className='izmirRoll__title'>most read this week</h1>
       <div className="blogRoll columns is-multiline is-three-quarters-mobile is-two-thirds-tablet is-half-desktop is-one-third-widescreen is-one-quarter-fullhd">
         {posts && posts.map(({ node: post }) => (
           <div className="is-parent column is-3 blogRoll__item" key={post.id}>
@@ -58,7 +57,7 @@ export default () => (
         allMarkdownRemark(
           limit: 4
           sort: { order: DESC, fields: [frontmatter___categories] }
-          filter: { frontmatter: { templateKey: { eq: "blog-post" } } }
+          filter: { frontmatter: { categories: { eq: "knowledge" } } }
         ) {
           edges {
             node {
@@ -70,8 +69,6 @@ export default () => (
               frontmatter {
                 author
                 categories
-                insideLinks
-                outsideLinks
                 tags
                 teaser
                 title
