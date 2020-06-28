@@ -1,22 +1,28 @@
 ---
 templateKey: blog-post
-title: Awesome Tapes from Africa
-teaser: Sheer awesomeness delivered by a die-hard tape digger!
-featuredpost: true
 featuredimage: /img/zara-moussa.jpg
 author: Malong
+featuredpost: true
 date: 2020-06-13T02:28:25.016Z
+title: Awesome Tapes from Africa
+teaser: Sheer awesomeness delivered by a die-hard tape digger!
+categories: mixtapes
 tags:
   - "#Africa"
-categories: mixtapes
-insideLinks: null
-outsideLinks: null
+insideLinks:
+  - https://theasymetrics.com/malong%E2%80%99s-monthly-round-up%E2%80%93may-2020/
+outsideLinks:
+  outsideLinksList:
+    - link: https://www.awesometapes.com/
+      text: Awesome Tapes from Africa
 ---
+![](/img/teshomewolde1.jpg)
+
 <div class="column">
 
 </div>
 
-<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/828326845&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/awesometapesfromafrica" title="Awesome Tapes From Africa" target="_blank" style="color: #cccccc; text-decoration: none;">Awesome Tapes From Africa</a> · <a href="https://soundcloud.com/awesometapesfromafrica/atfa-dublab-may-2020" title="ATFA Dublab May 2020" target="_blank" style="color: #cccccc; text-decoration: none;">ATFA Dublab May 2020</a></div>
+<iframe width="100%" height="200" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/828326845&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/awesometapesfromafrica" title="Awesome Tapes From Africa" target="_blank" style="color: #cccccc; text-decoration: none;">Awesome Tapes From Africa</a> · <a href="https://soundcloud.com/awesometapesfromafrica/atfa-dublab-may-2020" title="ATFA Dublab May 2020" target="_blank" style="color: #cccccc; text-decoration: none;">ATFA Dublab May 2020</a></div>
 
 </div>
 
@@ -36,4 +42,4 @@ You've been tipped ! A word of warning though: once you start exploring Awesome 
 
 </div>
 
-![](/img/teshomewolde1.jpg)
+![]()
