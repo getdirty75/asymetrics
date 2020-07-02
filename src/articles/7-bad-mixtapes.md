@@ -1,16 +1,16 @@
 ---
 templateKey: blog-post
 title: 7 Bad Mixtapes !
-teaser: Here are 7 wicked mixtapes, chosen by IZLAZ DA MAGNIFICIENT aka
-  STICKY TAI TAI... several different musical styles coming from various dope
-  DJ's...Put Your Headphones On & Chill :) More Of These Every Month !
-featuredpost: true
+teaser: Here are 7 wicked mixtapes, chosen by Lord Sandwich... several different
+  musical styles coming from various dope DJ's...Put Your Headphones On & Chill
+  :) More Of These Every Month !
 featuredimage: /img/istockphoto-517473610-612x612-2.jpg
-author: IZLAZ DA MAGNIFICIENT aka STICKY TAI
+author: Lord Sandwich
+featuredpost: true
 date: 2020-06-11T13:47:44.340Z
+categories: mixtapes
 tags:
   - "#24hoursMusic"
-categories: mixtapes
 insideLinks: null
 outsideLinks: null
 ---
