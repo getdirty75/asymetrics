@@ -37,8 +37,8 @@ const Navbar = class extends React.Component {
             </div> */}
             <Link to="/" className="navbar-item is-flex-touch" title="Logo">
               <div className="container">
-                <h1 className='navBar__title'>Asymetrics <p className="navBar__subtitle">!Topics</p></h1>
-                <p className="home__desc">ALWAYS ODD NEVER ALIGNED</p>
+                <h1 className='navBar__title'>Asymetrics <p className="navBar__subtitle"></p></h1>
+                <p className="home__desc">Allways odd never aligned...</p>
               </div>
             </Link>
             <div
@@ -72,13 +72,13 @@ const Navbar = class extends React.Component {
               <Link className="navbar-item navbar__itemStyle" to="/radio">radio</Link> */}
               {/* <Link className="navbar-item navbar__itemStyle" to="/shop/">shop</Link>
               <Link className="navbar-item navbar__itemStyle" to="/contact/">contact</Link> */}
-              <Link className="navbar-item navbar__itemStyle" to="/blurb">about</Link>
 
               {/* <Link className="navbar-item navbar__itemStyle" to="/restricted/">restricted</Link> */}
               {/* <Link className="navbar-item navbar__itemStyle" to="/error/">error</Link>
               <Link className="navbar-item navbar__itemStyle" to="/band/">band</Link> */}
             </div>
             <div className="navbar-end has-text-centered">
+            <Link className="navbar-item navbar__itemStyle" to="/blurb">About</Link>
               <a
                 className="navbar-item"
                 href="https://www.instagram.com/asymetrics/"

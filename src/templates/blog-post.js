@@ -47,13 +47,13 @@ export const BlogPostTemplate = ({
               </span>
             </p>
           </div>
-          <div className='column is-7 blogPost__centerColumn'>
+          <div className='column is-8 blogPost__centerColumn'>
             <PostContent className='blogPost__text' content={content} />
           </div>
-          <div className='column is-3 blogPost__rightColumn'>
-            <p className='blogPost__rightKey'>!Dig</p>
-            <p className='blogPost__rightValue'>{insideLinks}</p>
-            <p className='blogPost__rightKey'>!More</p>
+          <div className='column is-2 blogPost__rightColumn'>
+            {/* <p className='blogPost__rightKey'></p>
+            <p className='blogPost__rightValue'>{insideLinks}</p> */}
+            <p className='blogPost__rightKey'>Related</p>
             {outsideLinks?.outsideLinksList?.map((item, index) => {
               return <a className='blogPost__rightValue' href={item.link} rel="noopener noreferrer" target="_blank" key={index}>{item.text}</a>
             })}
