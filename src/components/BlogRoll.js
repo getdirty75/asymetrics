@@ -4,9 +4,11 @@ import { Link, graphql, StaticQuery } from 'gatsby'
 // import PreviewCompatibleImage from './PreviewCompatibleImage'
 
 class BlogRoll extends React.Component {
+
   render() {
     const { data } = this.props
     const { edges: posts } = data.allMarkdownRemark
+    // posts[Math.floor(Math.random() * posts.length)];
 
     return (
       <div className='izmirRoll'>
@@ -57,8 +59,8 @@ export default () => (
     query={graphql`
       query BlogRollQuery {
         allMarkdownRemark(
-          sort: { order: DESC, fields: [frontmatter___categories] }
-          filter: { frontmatter: { categories: { eq: "mixtapes" } } }
+          sort: { order: DESC, fields: [frontmatter___date] }
+          filter: { frontmatter: { templateKey: { eq: "blog-post" } } }
         ) {
           edges {
             node {
