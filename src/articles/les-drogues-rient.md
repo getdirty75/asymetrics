@@ -1,13 +1,16 @@
 ---
 templateKey: blog-post
-title: Les Drogues Rient
-teaser: "\"Les drogueries, ces temples oubliés, derniers gardiens d'une
-  époque où l'on peut acheter du gaz, de la cire, une planche à repasser et des
-  chaussures dans 30 m2. Magique.\""
-featuredpost: true
 featuredimage: /img/theasymetrics_drogueries_murat15_copie.jpg
-author: LORD SANDWICH
+author: Lord Sandwich
+featuredpost: true
 date: 2020-06-11T09:32:14.542Z
+title: "Les Drogues Rient "
+teaser: >-
+  "Les drogueries, ces temples oubliés, derniers gardiens d'une époque où l'on
+  peut acheter du gaz, de la cire, une planche à repasser et des chaussures dans
+  30 m2. Magique." 
+
+  Words & Pictures by Yannick Sage
 categories: knowledge
 tags:
   - "#typography"
