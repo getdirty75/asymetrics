@@ -60,7 +60,7 @@ The same year, in 1997, definitely a good year for music in many aspects, [the b
 
 ![](/img/black-gold-6-marcmac.jpg)
 
-If you enjoyed this article, more knowledge can be found here :
+If you enjoyed this article, more knowledge can be found below :
 
 ROTARY CONNECTION
 
