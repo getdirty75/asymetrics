@@ -1,15 +1,15 @@
 ---
 templateKey: blog-post
+featuredimage: /img/samity-black-and-white.png
+author: Lord Sandwich
+featuredpost: true
+date: 2020-05-18T18:59:40.365Z
 title: Samity's Wicked Playlists
 teaser: Every month...listen to a new playlist from Sofia's dubwise specialist &
   reggae activist Samity !
-featuredimage: /img/samity-black-and-white.png
-author: IZLAZ DA MAGNIFICIENT aka STICKY TAI
-featuredpost: true
-date: 2020-05-18T18:59:40.365Z
+categories: mixtapes
 tags:
   - "#samity"
-categories: mixtapes
 insideLinks: null
 outsideLinks: null
 ---
