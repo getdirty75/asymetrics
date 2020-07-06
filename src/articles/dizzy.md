@@ -1,16 +1,16 @@
 ---
 templateKey: blog-post
+featuredimage: /img/theasymetrics_bubblegumpop.jpg
+author: Lord Sandwich
+featuredpost: true
+date: 2020-06-11T06:07:42.337Z
 title: "Dizzy "
 teaser: A Bubblegum Classic
-featuredpost: true
-featuredimage: /img/theasymetrics_bubblegumpop.jpg
-author: IZLAZ DA MAGNIFICIENT aka STICKY TAI
-date: 2020-06-11T06:07:42.337Z
+categories: knowledge
 tags:
   - "#music"
   - "#bubblegum"
   - "#tommyroe"
-categories: knowledge
 insideLinks: null
 outsideLinks:
   outsideLinksList:
@@ -21,11 +21,9 @@ outsideLinks:
 
 ### In the late sixties another form of pop music began to gain popularity, a danceable kind that became known as "Bubblegum"...
 
-<iframe width="300" height="315" src="https://www.youtube.com/embed/EYCUOS3wIvo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
 Bubblegum Pop was easily identifiable by the full production used on the songs, repetitive lyrics and the endless list of faceless groups that sang them, like "The Archies", "1910 Fruitgum Company" and "The Lemon Pipers". 
 
-![](/img/e768_3.jpg)
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/EYCUOS3wIvo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Tommy Roe was born in Atlanta, Georgia May 9, 1942. Forming a vocal group called "The Satins" while in high school, and played college parties until he signed a contract with Judd Records at the age of 16. Hired by popular Atlanta DJ Paul Drew, Roe was introduced to producer Felton Jarvis. Roe wrote a Buddy Holly inspired song called "Sheila" and brought it to Jarvis who helped turning it into a #1 pop hit for two weeks. 
 
