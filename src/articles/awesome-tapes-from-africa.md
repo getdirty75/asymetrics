@@ -1,20 +1,24 @@
 ---
 templateKey: blog-post
+title: Awesome Tapes from Africa
+teaser: Sheer awesomeness delivered by a die-hard tape digger!
 featuredimage: /img/zara-moussa.jpg
 author: Malong
 featuredpost: true
-date: 2020-06-13T02:28:25.016Z
-title: Awesome Tapes from Africa
-teaser: Sheer awesomeness delivered by a die-hard tape digger!
 categories: mixtapes
 tags:
   - "#Africa"
+date: 2020-06-22T02:28:25.016Z
 insideLinks:
   - https://theasymetrics.com/malong%E2%80%99s-monthly-round-up%E2%80%93may-2020/
 outsideLinks:
   outsideLinksList:
     - link: https://www.awesometapes.com/
       text: Awesome Tapes from Africa
+    - link: https://hailumergia.bandcamp.com/
+      text: Hailu Mergia
+    - link: https://dur-durband.bandcamp.com/
+      text: Dur Dur Band
 ---
 ![](/img/teshomewolde1.jpg)
 
