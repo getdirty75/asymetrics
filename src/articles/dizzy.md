@@ -23,7 +23,15 @@ outsideLinks:
 
 Bubblegum Pop was easily identifiable by the full production used on the songs, repetitive lyrics and the endless list of faceless groups that sang them, like "The Archies", "1910 Fruitgum Company" and "The Lemon Pipers". 
 
+<br>
+
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/EYCUOS3wIvo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+
+<br>
+
+<br>
 
 Tommy Roe was born in Atlanta, Georgia May 9, 1942. Forming a vocal group called "The Satins" while in high school, and played college parties until he signed a contract with Judd Records at the age of 16. Hired by popular Atlanta DJ Paul Drew, Roe was introduced to producer Felton Jarvis. Roe wrote a Buddy Holly inspired song called "Sheila" and brought it to Jarvis who helped turning it into a #1 pop hit for two weeks. 
 
@@ -35,10 +43,12 @@ The song did not feel "finished" to Barri so he decided to ask arranger Jimmie H
 
 His career faltered after that, but bubblegum continued on to a lesser degree until about 1972, when the nascent disco club scene began to take hold. After a few more hits of varying popularity, he grew tired of the California dream (big house in Malibu) and returned to his roots moving back home to Georgia.
 
+Words by Dj DiscoCat
+
 ![](/img/e899_3.jpg)
 
-\-> [Words by DJ DiscoCat](https://www.youtube.com/user/DJDiscoCatV2) <-
+More[ DJ DiscoCat](https://www.youtube.com/user/DJDiscoCatV2) !
 
-\-> [More Bubblegum Wrappers](http://blog.londonfieldsshoppe.com/2011/06/19/vintage-bubble-gum-wrappers) <-
+More [Bubblegum Wrappers](http://blog.londonfieldsshoppe.com/2011/06/19/vintage-bubble-gum-wrappers) !
 
 Illustrations found via londonfieldshhoppe, originally on twitter posted by [@presentcorrect](http://twitter.com/#!/presentcorrect), via [the booberry alarm clock](http://thebooberryalarmclock.blogspot.com/)
