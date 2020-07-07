@@ -1,12 +1,12 @@
 ---
 templateKey: blog-post
 title: Malong’s monthly round-up – first round
-teaser: A monthly selection of 13 tracks and their story, for a journey through
+teaser: A regular selection of 13 tracks and their story, for a journey through
   vibrant past, present, and future beats in no particular order, preference of
   genre, or other purpose but to make you feel fine!
 featuredimage: /img/jovino.jpg
 author: Malong
-categories: mixtapes
+categories: news
 tags:
   - "#Bollywood"
   - "#Boogie"
@@ -14,15 +14,17 @@ tags:
   - "#Cumbia"
   - "#Soca"
 ---
-<iframe width="100%" height="400" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/822003580&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/the-asymetrics" title="The Asymetrics" target="_blank" style="color: #cccccc; text-decoration: none;">The Asymetrics</a> · <a href="https://soundcloud.com/the-asymetrics/malongs-monthly-round-up-1" title="Malong&#x27;s monthly round-up # 1" target="_blank" style="color: #cccccc; text-decoration: none;">Malong&#x27;s monthly round-up # 1</a></div>
+![](/img/jovino.jpg "Jovino Dos Santos")
 
 <br>
 
-## Featured tracks:
+**For the full mixtape follow [THIS LINK](https://theasymetrics.com/malongs-round-up-1st-playlist/), or check our [Soundcloud page](https://soundcloud.com/the-asymetrics/malongs-monthly-round-up-1).**
+
+## 1st Round Featured tracks:
 
 <br>
 
-#### ***Edu Lobo: Zum Zum (Akizzbeatzz remix)***
+### ***[Edu Lobo: Zum Zum (Akizzbeatzz remix)](https://soundcloud.com/nomagikmusic/edu-lobo-zum-zum-remix)***
 
 Boss of Bossa’s classic 1970 hit from the album [Cantiga de Longe](https://www.youtube.com/watch?v=0XOeueMas_c) gets finely and minimally remixed by [Akizzbeatzz](https://soundcloud.com/nomagikmusic) who gave it a recognizable funk swing with the ever-so sampled [Funky Drummer loop](https://www.youtube.com/watch?v=jOCNmimkFTs).Don’t be fooled by Edu’s angelic voice, under that baby face hid a wicked trickster who dropped, on the same album, such psychedelic trips as [Aguaverde](https://www.youtube.com/watch?v=810dMXkk7ws) and **Zanzibar**:
 
@@ -34,7 +36,7 @@ Boss of Bossa’s classic 1970 hit from the album [Cantiga de Longe](https://www
 
 <br>
 
-#### ***Asha Bhosle & Chorus: Udi baba (Sibu & Joe Nagali Remix)***
+### ***[Asha Bhosle & Chorus: Udi baba (Sibu & Joe Nagall Remix)](https://sibu.bandcamp.com/track/asha-bhosle-chorus-udi-baba-sibu-joe-nagall-edit)***
 
 Caution! Greek musical chemists [Sibu & Joe Nagall](https://soundcloud.com/sibu) deliver a heavy duty disco remix of Indian flagship artist[ Asha Bhosle’s](https://en.wikipedia.org/wiki/Asha_Bhosle) dancefloor killer [Udi Baba](https://www.youtube.com/watch?v=EGFrWNELHxo), from the 1982 movie[ Vidhaata](https://www.imdb.com/title/tt0084866/). If you’re not yet familiar with near-century famous Asha Bhosle, go check her hippie anthem Dum Maro Dum from the 1971 “Hare Rama Hare Krishna” film, a clip that will make you want to travel through time:
 
@@ -46,7 +48,7 @@ Caution! Greek musical chemists [Sibu & Joe Nagall](https://soundcloud.com/sibu)
 
 <br>
 
-#### ***Noor Jehan: Very Sorry***
+### ***[Noor Jehan: Very Sorry](https://www.discogs.com/Noor-Jehan-I-Am-Very-Sorry-Danka-Pyar-Waa/release/1740076)***
 
 A special dancefloor killer that I have regularly pulled out of my 7” shoebox for a decade! A pillar of Pakistani music, who started in the 1930’s, legend [Noor Jehan](https://en.wikipedia.org/wiki/Noor_Jehan) took an unexpected sidestep at the peak of [Lollywood](https://theculturetrip.com/asia/pakistan/articles/why-pakistans-lollywood-is-better-than-indias-bollywood/) and, [along with Kamal Ahmed](https://www.discogs.com/Kamal-Ahmed-Warrant/release/3601733), created a series of gems, including this one featured on [“Finders Keepers” 2009 repress](https://www.discogs.com/Noor-Jehan-I-Am-Very-Sorry-Danka-Pyar-Waa/release/1740076), a gorgeous tribute to this ass-shake-friendly bomb, composed for the movie “Warrant” (1975).Very Sorry is also on the label’s cutting edge [The Sound of Wonder](https://www.youtube.com/playlist?list=PLFRUufS8uE5OR6kDehkCErxFWjXInpZhw) compilation.
 
@@ -60,9 +62,9 @@ This extract from the flick will give you a dazzling and rare insight into 70’
 
 <br>
 
-#### ***\- Afrosound: Cabeza de Chorlito***
+### ***[Afrosound: Cabeza de Chorlito](https://www.youtube.com/watch?v=rFtTcEP0r-8)***
 
-![](/img/theasymetrics_afrosound.jpg)
+![](/img/theasymetrics_afrosound_ladanzadelosmirlos.jpg)
 
 Classic Afro-Colombian psychedelic cumbia from the 70’s. Colombian maverick [Fruko](https://en.wikipedia.org/wiki/Fruko_y_sus_Tesos)’s pet project, [Afrosound](https://www.discogs.com/artist/743175-Afrosound) and their ghostly synths still resonate in Colombia close to 4 decades later, and are now sitting on top of many a crate-digger/ World music head’s playlists. Extracted from their 1973 album [La Danza de los Mirlos](https://www.youtube.com/watch?v=6hb0AALXl-8) issued by the mighty [Discos Fuentes](https://en.wikipedia.org/wiki/Discos_Fuentes) label.
 
@@ -72,7 +74,7 @@ Classic Afro-Colombian psychedelic cumbia from the 70’s. Colombian maverick [F
 
 <br>
 
-#### ***Erick Cosaque: Embawgo***
+### ***[Erick Cosaque: Embawgo](https://antillesseries.bandcamp.com/track/embawgo)***
 
 ![](/img/erick-cosaque.jpg)
 
@@ -120,7 +122,7 @@ An researcher of indigenous music, [Marlui Miranda](https://en.wikipedia.org/wik
 
 <br>
 
-####  ***Karol Conka: Vogue do Gueto***
+#### ***Karol Conka: Vogue do Gueto***
 
 Blurring the lines between rap, electronica, kuduro and baile funk, hyperactive Brazilian singer [Karol Conka](https://karolconka.com/) drops a favela-infused tribute to the [Voguing](https://mixmag.net/feature/a-brief-history-of-voguing) movement.
 
