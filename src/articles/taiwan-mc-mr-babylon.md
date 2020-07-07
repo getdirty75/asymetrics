@@ -1,14 +1,14 @@
 ---
 templateKey: blog-post
-featuredimage: /img/theasymetrics_taiwanmc_babylon.jpg
-author: Malong
-date: 2020-06-13T01:59:50.823Z
 title: Taiwan MC - Mr Babylon
 teaser: Killer new tune from the one and only Sticky Tai Tai!
+featuredimage: /img/theasymetrics_taiwanmc_babylon.jpg
+author: Malong
 categories: news
 tags:
   - "#Reggae"
   - "#Riots"
+date: 2020-07-01T01:59:50.823Z
 insideLinks: null
 outsideLinks:
   outsideLinksList:
@@ -25,7 +25,7 @@ Sadly echoing recent global news, Mr Babylon is Taiwan’s epitome of the social
 
 <br />
 
-<iframe width="100%" height="440" src="https://www.youtube.com/embed/iQrrzCB4xls" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="100%" height="440" src="https://www.youtube.com/embed/iQrrzCB4xls" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen referrerpolicy="origin"></iframe>
 
 <div class="columns">
 
