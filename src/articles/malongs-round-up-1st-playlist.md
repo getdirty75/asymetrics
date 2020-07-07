@@ -20,4 +20,4 @@ outsideLinks:
 
 <br>
 
-**Full tracklist & plenty cool stories [HERE](https://theasymetrics.com/malong%E2%80%99s-monthly-round-up--first-round/)**
+**Full tracklist & plenty cool related stories [HERE](https://theasymetrics.com/malong%E2%80%99s-monthly-round-up--first-round/)**
