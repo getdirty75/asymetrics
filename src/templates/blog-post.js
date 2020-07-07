@@ -78,14 +78,15 @@ BlogPostTemplate.propTypes = {
 
 const BlogPost = ({ data }) => {
   const { markdownRemark: post } = data
-  let links = document.getElementsByTagName('a');
-    for (var i=0, len=links.length; i < len; i++) {
-      let href = links[i].href.split('/')
-      if (href[2] !== 'theasymetrics.com'){
-        console.log(href[2])
-        links[i].target = '_blank';
+  if (typeof document !== 'undefined') {
+    let links = document.getElementsByTagName('a');
+      for (var i=0, len=links.length; i < len; i++) {
+        let href = links[i].href.split('/')
+        if (href[2] !== 'theasymetrics.com'){
+          links[i].target = '_blank';
+        }
       }
-    }
+  }
 
   return (
     <Layout>
