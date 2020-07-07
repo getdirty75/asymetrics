@@ -1,11 +1,11 @@
 ---
 templateKey: blog-post
+title: "Dizzy "
+teaser: A Bubblegum Classic
 featuredimage: /img/theasymetrics_bubblegumpop.jpg
 author: Lord Sandwich
 featuredpost: true
 date: 2020-06-11T06:07:42.337Z
-title: "Dizzy "
-teaser: A Bubblegum Classic
 categories: knowledge
 tags:
   - "#music"
@@ -14,8 +14,10 @@ tags:
 insideLinks: null
 outsideLinks:
   outsideLinksList:
-    - text: the vinyl factory
-      link: https://thevinylfactory.com/
+    - text: Bubblegum Wrappers
+      link: http://blog.londonfieldsshoppe.com/2011/06/19/vintage-bubble-gum-wrappers/
+    - link: http://thebooberryalarmclock.blogspot.com/
+      text: The Booberry Alarm Clock
 ---
 ![](/img/e0f1_3.jpg)
 
