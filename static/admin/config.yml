@@ -11,7 +11,6 @@ backend:
 
 media_folder: static/img
 public_folder: /img
-publish_mode: editorial_workflow
 
 collections:
   - name: "blog"
@@ -32,6 +31,7 @@ collections:
           widget: "select"
         }
       - {label: "Tags --> #tags, #multiplesavecdesvirgules, #separatedComma, #toujoursavec1dièse", name: "tags", widget: "list"}
+      - {label: "Date de publication", name: "date", widget: "datetime"}
       - {label: "Body", name: "body", widget: "markdown"}
       - {label: "Bloc de Paragraphes --> mettre une image et du texte alignés", name: "paragraphs", required: false, widget: object, fields: [{label: "Paragraphes", name: "blurbs", widget: "list", fields: [{label: Image, name: image, widget: image}, {label: Text, name: text, widget: text}]}]}
       - {label: "Liste URL Liens internes --> liens vers des urls internes (articles du blog theasymetrics.com), affiché ds l'article, barre à droite", name: "insideLinks", required: false, widget: "list"}
