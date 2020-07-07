@@ -1,11 +1,11 @@
 ---
 templateKey: blog-post
+title: "Dizzy "
+teaser: A Bubblegum Classic
 featuredimage: /img/theasymetrics_bubblegumpop.jpg
 author: Lord Sandwich
 featuredpost: true
 date: 2020-06-11T06:07:42.337Z
-title: "Dizzy "
-teaser: A Bubblegum Classic
 categories: knowledge
 tags:
   - "#music"
@@ -14,8 +14,10 @@ tags:
 insideLinks: null
 outsideLinks:
   outsideLinksList:
-    - text: the vinyl factory
-      link: https://thevinylfactory.com/
+    - text: Bubblegum Wrappers
+      link: http://blog.londonfieldsshoppe.com/2011/06/19/vintage-bubble-gum-wrappers/
+    - link: http://thebooberryalarmclock.blogspot.com/
+      text: The Booberry Alarm Clock
 ---
 ![](/img/e0f1_3.jpg)
 
@@ -25,9 +27,7 @@ Bubblegum Pop was easily identifiable by the full production used on the songs, 
 
 <br>
 
-<iframe width="100%" height="315" src="https://www.youtube.com/embed/EYCUOS3wIvo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/EYCUOS3wIvo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen referrerpolicy="origin"></iframe>
 
 <br>
 
