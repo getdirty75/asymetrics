@@ -1,21 +1,29 @@
 ---
 templateKey: blog-post
+title: Dumbanengue
+teaser: An online live African artist market, zooming in every sunday!
 featuredimage: /img/theasymetrics_dumbanengue_tonyallen_special.jpg
 author: Malong
 featuredpost: true
-date: 2020-06-13T03:20:22.663Z
-title: Dumbanengue
-teaser: An online live African artist market, zooming in every sunday!
 categories: mixtapes
 tags:
   - "#Innovation"
   - "#Arts"
   - "#Music"
+date: 2020-06-15T03:20:22.663Z
 insideLinks: null
 outsideLinks:
   outsideLinksList:
     - text: Fresh Nunas
       link: https://www.mixcloud.com/deadfresh/
+    - link: https://www.instagram.com/ricardopintojorge/
+      text: Ricardo Pinto Jorge
+    - link: https://www.facebook.com/operacao.producao.7
+      text: Dumbanengue
+    - link: https://soundcloud.com/nickodemusnyc
+      text: Nickodemus
+    - text: Tayra
+      link: https://soundcloud.com/tayra-alline
 ---
 ![](/img/theasymetrics_dumbanengue_definition.jpg)
 
