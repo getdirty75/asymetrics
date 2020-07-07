@@ -28,7 +28,7 @@ collections:
       - {
           label: "Categories",
           name: "categories",
-          options: [{label: "News / Tunes / Update", value: "news"}, {label: "Mixtapes / Playlists / Podcasts", value: "mixtapes"}, {label: "Knowledge / Wisdom / Rhythm", value: "knowledge"}, {label: "Artworks / Pictures / Design", value: "artworks"}, {label: "Stories / Movies / Books", value: "stories"}, {label: "Reports / Facts / Subjects", value: "reports"}, ],
+          options: [{label: "News / Tunes / Update", value: "news"}, {label: "Mixtapes / Playlists / Podcasts", value: "mixtapes"}, {label: "Knowledge / Wisdom / Rhythm", value: "knowledge"}, {label: "Artworks / Pictures / Design", value: "artworks"}, {label: "Stories / Movies / Books", value: "stories"}, {label: "Reports / Facts / Subjects", value: "reports"}, {label: "Asymetrics Radio", value: "radio"},],
           widget: "select"
         }
       - {label: "Tags --> #tags, #multiplesavecdesvirgules, #separatedComma, #toujoursavec1dièse", name: "tags", widget: "list"}
@@ -36,10 +36,10 @@ collections:
       - {label: "Bloc de Paragraphes --> mettre une image et du texte alignés", name: "paragraphs", required: false, widget: object, fields: [{label: "Paragraphes", name: "blurbs", widget: "list", fields: [{label: Image, name: image, widget: image}, {label: Text, name: text, widget: text}]}]}
       - {label: "Liste URL Liens internes --> liens vers des urls internes (articles du blog theasymetrics.com), affiché ds l'article, barre à droite", name: "insideLinks", required: false, widget: "list"}
       - {
-          label: "Liens connexes --> liens vers des urls externes (autres sites), affiché ds l'article, barre à droite",
+          label: "RELATED",
           name: "outsideLinks",
           required: false,
           widget: "object",
-          fields: [{label: "liste", name: "outsideLinksList", widget: "list", fields: [{label: "texte", name: "text", widget: "string"}, {label: "lien", name: "link", widget: "string"}]}]
+          fields: [{label: "liens", name: "outsideLinksList", widget: "list", fields: [{label: "texte", name: "text", widget: "string"}, {label: "lien", name: "link", widget: "string"}]}]
         }
 

@@ -32,11 +32,11 @@ const BlurbPage = () => {
       <div className="tile is-ancestor">
         <div className="tile is-4 is-vertical is-parent">
           <div className="tile is-child box">
-            <p className="title about__sectionTitle">!Always</p>
-            <p className="about__sectionText">The Asymetrics is a worldwide collective sharing knowledge, wisdom & culture…We dig into different subjects through articles, playlists, videos, podcasts, mixtapes and more...</p>
+            <p className="title about__sectionTitle">Always</p>
+            <p className="about__sectionText">The Asymetrics is a worldwide collective sharing knowledge, wisdom & culture… We dig into different subjects through articles, playlists, videos, podcasts, mixtapes and more...</p>
           </div>
           <div className="tile is-child box">
-            <p className="title about__sectionTitle">!Never</p>
+            <p className="title about__sectionTitle">Never</p>
             <p className="about__sectionText">The Asymetrics is a collective of friends from various horizons, sharing humble knowledge and stories about music, culture, or any other interesting, creative, and distinctive exploits from all around the World. We dig in these various subjects through articles, podcasts, mixtapes or any other formats that beguile us!</p>
           </div>
         </div>

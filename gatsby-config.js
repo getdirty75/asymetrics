@@ -2,7 +2,7 @@ module.exports = {
   siteMetadata: {
     title: 'The Asymetrics',
     description:
-      'Asymetrics Magazine',
+      'Asymetrics Magazine. Allways odd, never aligned... The Asymetrics is a worldwide collective sharing knowledge, wisdom & culture… We dig into different subjects through articles, playlists, videos, podcasts, mixtapes and more...',
   },
   plugins: [
     'gatsby-plugin-react-helmet',
