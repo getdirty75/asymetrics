@@ -27,9 +27,7 @@ Bubblegum Pop was easily identifiable by the full production used on the songs, 
 
 <br>
 
-<iframe width="100%" height="315" src="https://www.youtube.com/embed/EYCUOS3wIvo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/EYCUOS3wIvo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen referrerpolicy="origin"></iframe>
 
 <br>
 
