@@ -36,23 +36,19 @@ Boss of Bossa’s classic 1970 hit from the album [Cantiga de Longe](https://www
 
 <br>
 
-
-
-### ***[](https://sibu.bandcamp.com/track/asha-bhosle-chorus-udi-baba-sibu-joe-nagall-edit)Asha Bhosle & Chorus: Udi Baba (Sibu & Joe Nagall Remix)***
+### [](https://sibu.bandcamp.com/track/asha-bhosle-chorus-udi-baba-sibu-joe-nagall-edit)***Asha Bhosle & Chorus: Udi Baba (Sibu & Joe Nagall Remix)***
 
 [Listen / Buy](https://sibu.bandcamp.com/track/asha-bhosle-chorus-udi-baba-sibu-joe-nagall-edit)
 
 Caution! Greek musical chemists [Sibu & Joe Nagall](https://soundcloud.com/sibu) deliver a heavy duty disco remix of Indian flagship artist[ Asha Bhosle’s](https://en.wikipedia.org/wiki/Asha_Bhosle) dancefloor killer [Udi Baba](https://www.youtube.com/watch?v=EGFrWNELHxo), from the 1982 movie[ Vidhaata](https://www.imdb.com/title/tt0084866/). If you’re not yet familiar with near-century famous Asha Bhosle, go check her hippie anthem Dum Maro Dum from the 1971 “Hare Rama Hare Krishna” film, a clip that will make you want to travel through time:
 
-<iframe width="100%" height="380" src="https://www.youtube-nocookie.com/embed/nMbyHqrokYQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="100%" height="380" src="https://www.youtube-nocookie.com/embed/nMbyHqrokYQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen referrerpolicy="origin"></iframe>
 
 <br>
 
 <br>
 
-
-
-### ***[](https://www.discogs.com/Noor-Jehan-I-Am-Very-Sorry-Danka-Pyar-Waa/release/1740076)Noor Jehan: Very Sorry***
+### [](https://www.discogs.com/Noor-Jehan-I-Am-Very-Sorry-Danka-Pyar-Waa/release/1740076)***Noor Jehan: Very Sorry***
 
 [Buy](https://www.discogs.com/Noor-Jehan-I-Am-Very-Sorry-Danka-Pyar-Waa/release/1740076) (Vinyl only) 
 
@@ -66,7 +62,7 @@ This extract from the flick will give you a dazzling and rare insight into 70’
 
 <br>
 
-### ***[](https://www.youtube.com/watch?v=rFtTcEP0r-8)Afrosound: Cabeza de Chorlito***
+### [](https://www.youtube.com/watch?v=rFtTcEP0r-8)***Afrosound: Cabeza de Chorlito***
 
 [Listen](https://www.youtube.com/watch?v=rFtTcEP0r-8)
 
@@ -80,7 +76,7 @@ Classic Afro-Colombian psychedelic cumbia from the 70’s. Colombian maverick [F
 
 <br>
 
-### ***[](https://antillesseries.bandcamp.com/track/embawgo)Erick Cosaque: Embawgo***
+### [](https://antillesseries.bandcamp.com/track/embawgo)***Erick Cosaque: Embawgo***
 
 [Listen / Buy](https://antillesseries.bandcamp.com/track/embawgo)
 
@@ -140,7 +136,7 @@ A researcher of indigenous music, [Marlui Miranda](https://en.wikipedia.org/wiki
 
 Blurring the lines between rap, electronica, kuduro and baile funk, hyperactive Brazilian singer [Karol Conka](https://karolconka.com/) drops a favela-infused tribute to the [Voguing](https://mixmag.net/feature/a-brief-history-of-voguing) movement.
 
-<iframe width="100%" height="380" src="https://www.youtube-nocookie.com/embed/RokisLL29BM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="100%" height="380" src="https://www.youtube-nocookie.com/embed/RokisLL29BM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen referrerpolicy="origin"></iframe>
 
 <br>
 
