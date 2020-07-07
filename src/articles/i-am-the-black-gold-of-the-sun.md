@@ -1,11 +1,11 @@
 ---
 templateKey: blog-post
+title: I Am The Black Gold Of The Sun
+teaser: 'Story of a track: "I Am The Black Gold Of The Sun"'
 featuredimage: /img/black-gold-3-minnie-big.jpg
 author: Lord Sandwich
 featuredpost: true
 date: 2020-05-13T19:02:57.727Z
-title: I Am The Black Gold Of The Sun
-teaser: 'Story of a track: "I Am The Black Gold Of The Sun"'
 categories: knowledge
 tags:
   - "#storyofatrack"
@@ -23,7 +23,7 @@ This song has travelled through time to make you groove... it was first released
 
 1971 Original Version
 
-<iframe src="https://www.youtube.com/embed/SsY_rRFncGU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="100%" height="380" src="https://www.youtube.com/embed/SsY_rRFncGU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen referrerpolicy="origin"></iframe>
 
 <br>
 <br>
@@ -36,7 +36,7 @@ This experimental band was founded in Chicago in 1966 by Marshall Chess, son of 
 
 1997 Cover 
 
-<iframe src="https://www.youtube.com/embed/Rwuy3go1-L8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="100%" height="380" src="https://www.youtube.com/embed/Rwuy3go1-L8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen referrerpolicy="origin"></iframe>
 
 One of the best covers to be made, in my humble opinion, of "I Am The Black Gold Of The Sun", and maybe one of the most famous ones, is the 1997 version by Nuyorican Soul aka Little Louie Vega & Kenny Dope Gonzalez ([Masters At Work)](https://en.wikipedia.org/wiki/Masters_at_Work) ​featuring [Jocelyn Brown](https://en.wikipedia.org/wiki/Jocelyn_Brown) on vocals.
 
@@ -51,7 +51,7 @@ One of the best covers to be made, in my humble opinion, of "I Am The Black Gold
 
 1997 Remix
 
-<iframe src="https://www.youtube.com/embed/aYBT90PFmoM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="100%" height="380" src="https://www.youtube.com/embed/aYBT90PFmoM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen referrerpolicy="origin"></iframe>
 
 <br>
 <br>
