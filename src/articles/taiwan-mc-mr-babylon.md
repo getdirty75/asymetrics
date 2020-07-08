@@ -8,14 +8,18 @@ categories: news
 tags:
   - "#Reggae"
   - "#Riots"
+  - "#TaiwanMC"
+  - "#SpecialRequest"
 date: 2020-07-01T01:59:50.823Z
 insideLinks: null
 outsideLinks:
   outsideLinksList:
     - link: https://cmr.lnk.to/MrBabylon
-      text: Buy the album
+      text: Buy the Track
+    - text: Buy the Album
+      link: https://www.chinesemanrecords.com/shop-cmr/special-request-taiwan-mc/
 ---
-![](/img/theasymetrics_taiwanmc_babylon.jpg)
+![](/img/theasymetrics_taiwanmc_babylon.jpg "Taiwan MC - Mr Babylon")
 
 <br />
 
@@ -41,7 +45,7 @@ The Asymetrics got a chance to hear a preview of Special Request and trussss us:
 
 </div>
 
-![](/img/theasymetrics_taiwanmc_specialrequest.jpg)
+![](/img/theasymetrics_taiwanmc_specialrequest.jpg "Taiwan MC - Special Request")
 
 Buy the track [here](https://cmr.lnk.to/MrBabylon)
 
