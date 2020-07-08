@@ -1,10 +1,10 @@
 ---
 templateKey: blog-post
-title: Dumbanengue
-teaser: An online live African artist market, zooming in every sunday!
 featuredimage: /img/theasymetrics_dumbanengue_tonyallen_special.jpg
 author: Malong
 featuredpost: true
+title: Dumbanengue
+teaser: An online live African artist market, zooming in every sunday!
 categories: mixtapes
 tags:
   - "#Innovation"
@@ -29,7 +29,9 @@ outsideLinks:
 
 <br />
 
-###### You know something crazy is cooking when dj [Fresh Nunas](https://www.mixcloud.com/deadfresh/) is behind it! Coming to the help of fellow countryman multi-talented artist [Ricardo Pinto Jorge](https://www.instagram.com/ricardopintojorge/), the Brussels-based dj and Maputo artist used their network spanning everywhere between Bangui and Panama, via Niamey and Havana, to launch a weekly online artistic market, dubbed [Dumbanengue](https://www.facebook.com/operacao.producao.7) after the informal markets that span all around Mozambique; and with Spanglish, Portuñol, and Franglais as official languages, the event sounded like something I could not miss.
+###### You know something crazy is cooking when dj [Fresh Nunas](https://www.mixcloud.com/deadfresh/) is behind it! 
+
+Coming to the help of fellow countryman & multi-talented artist **[Ricardo Pinto Jorge](https://www.instagram.com/ricardopintojorge/),** The Brussels-based dj and Maputo artist used their network spannig everywhere between Bangui and Panama, via Niamey and Havana, to launch a weekly online artistic market, dubbed [Dumbanengue](https://www.facebook.com/operacao.producao.7) after the informal markets than span around Mozambique; and with Spanglish, Portuñol, and Franglais as official languages, the event sounded like something I could not miss.
 
 Since its inception, the market saw exciting things like New York don dada [Nickodemus](https://soundcloud.com/nickodemusnyc) rocking a hyper diverse crowd, with people sipping champagne in a pool somewhere in Europe while a dreadman was lighting up on an African rooftop, Mozambican painters displaying their art via sharescreen, lauded by Panamanian djs and curious Rwandans and Cubans; R&B newcomer [Tayra](https://soundcloud.com/tayra-alline) spoke about her chemical engineering studies, and contemporary Nigerian musician [Ade Bantu](https://en.wikipedia.org/wiki/Ad%C3%A9_Bantu) told anecdotes of working with [Fela Kuti](https://en.wikipedia.org/wiki/Fela_Kuti) & [Tony Allen](https://en.wikipedia.org/wiki/Tony_Allen_(musician)).
 
@@ -54,10 +56,6 @@ Dumbanengue was born out of necessity during the Covid-19 crisis, when Ricardo a
 
 Tune in on Sundays through **Zoom ID: 586-183-2220** – 3pm Central Africa time until however late the audience feels like staying!
 
-
-
 ![]()
-
-
 
 ![](/img/theasymetrics_ricardopinto.jpg "Ricardo Pinto Jorge")
