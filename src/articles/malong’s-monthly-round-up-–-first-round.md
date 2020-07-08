@@ -11,9 +11,20 @@ tags:
   - "#Bollywood"
   - "#Boogie"
   - "#Brazil"
+  - "#CaboVerde"
   - "#Cumbia"
   - "#Soca"
 date: 2020-06-15T23:47:02.701Z
+outsideLinks:
+  outsideLinksList:
+    - text: Malong's 1st Round-up (full mixtape)
+      link: https://theasymetrics.com/malongs-round-up-1st-playlist/
+    - text: Soundway Records
+      link: https://soundwayrecords.com/
+    - text: Heavenly Sweetness
+      link: http://www.heavenly-sweetness.com/
+    - text: Discos Fuentes
+      link: https://www.discosfuentestore.com/
 ---
 ![](/img/jovino.jpg "Jovino Dos Santos")
 
@@ -29,7 +40,7 @@ date: 2020-06-15T23:47:02.701Z
 
 [Listen / Download](https://soundcloud.com/nomagikmusic/edu-lobo-zum-zum-remix)
 
-Boss of Bossa’s classic 1970 hit from the album [Cantiga de Longe](https://www.youtube.com/watch?v=0XOeueMas_c) gets finely and minimally remixed by [Akizzbeatzz](https://soundcloud.com/nomagikmusic) who gave it a recognizable funk swing with the ever-so sampled [Funky Drummer loop](https://www.youtube.com/watch?v=jOCNmimkFTs).Don’t be fooled by Edu’s angelic voice, under that baby face hid a wicked trickster who dropped, on the same album, such psychedelic trips as [Aguaverde](https://www.youtube.com/watch?v=810dMXkk7ws) and **Zanzibar**:
+Boss of Bossa’s classic 1970 hit from the album [Cantiga de Longe](https://www.youtube.com/watch?v=0XOeueMas_c) gets finely and minimally remixed by [Akizzbeatzz](https://soundcloud.com/nomagikmusic) who gave it a recognizable funk swing with the ever-so sampled [Funky Drummer loop](https://www.youtube.com/watch?v=jOCNmimkFTs). Don’t be fooled by Edu’s angelic voice, under that baby face hid a wicked trickster who dropped, on the same album, such psychedelic trips as [Aguaverde](https://www.youtube.com/watch?v=810dMXkk7ws) and **Zanzibar**:
 
 <iframe width="100%" height="380" src="https://www.youtube-nocookie.com/embed/60yazKWu6Wk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
@@ -51,7 +62,7 @@ Caution! Greek musical chemists [Sibu & Joe Nagall](https://soundcloud.com/sibu)
 
 ### [](https://www.discogs.com/Noor-Jehan-I-Am-Very-Sorry-Danka-Pyar-Waa/release/1740076)***Noor Jehan: Very Sorry***
 
-[Buy](https://www.discogs.com/Noor-Jehan-I-Am-Very-Sorry-Danka-Pyar-Waa/release/1740076) (Vinyl only) 
+[Buy](https://www.discogs.com/Noor-Jehan-I-Am-Very-Sorry-Danka-Pyar-Waa/release/1740076) (Vinyl) / [Listen](https://youtu.be/KlSprUw6y0o) (clip below)
 
 A special dancefloor killer that I have regularly pulled out of my 7” shoebox for a decade! A pillar of Pakistani music, who started in the 1930’s, legend [Noor Jehan](https://en.wikipedia.org/wiki/Noor_Jehan) took an unexpected sidestep at the peak of [Lollywood](https://theculturetrip.com/asia/pakistan/articles/why-pakistans-lollywood-is-better-than-indias-bollywood/) and, [along with Kamal Ahmed](https://www.discogs.com/Kamal-Ahmed-Warrant/release/3601733), created a series of gems, including this one featured on [“Finders Keepers” 2009 repress](https://www.discogs.com/Noor-Jehan-I-Am-Very-Sorry-Danka-Pyar-Waa/release/1740076), a gorgeous tribute to this ass-shake-friendly bomb, composed for the movie “Warrant” (1975).Very Sorry is also on the label’s cutting edge [The Sound of Wonder](https://www.youtube.com/playlist?list=PLFRUufS8uE5OR6kDehkCErxFWjXInpZhw) compilation.
 
@@ -65,15 +76,13 @@ This extract from the flick will give you a dazzling and rare insight into 70’
 
 ### [](https://www.youtube.com/watch?v=rFtTcEP0r-8)***Afrosound: Cabeza de Chorlito***
 
-[Listen](https://www.youtube.com/watch?v=rFtTcEP0r-8)
+[Listen](https://www.youtube.com/watch?v=rFtTcEP0r-8) / [Buy](https://www.discogs.com/Afrosound-La-Danza-De-Los-Mirlos/release/4218935) (Vinyl)
 
 ![](/img/theasymetrics_afrosound_ladanzadelosmirlos.jpg)
 
 <br>
 
 Classic Afro-Colombian psychedelic cumbia from the 70’s. Colombian maverick [Fruko](https://en.wikipedia.org/wiki/Fruko_y_sus_Tesos)’s pet project, [Afrosound](https://www.discogs.com/artist/743175-Afrosound) and their ghostly synths still resonate in Colombia close to 4 decades later, and are now sitting on top of many a crate-digger/ World music head’s playlists. Extracted from their 1973 album [La Danza de los Mirlos](https://www.youtube.com/watch?v=6hb0AALXl-8) issued by the mighty [Discos Fuentes](https://en.wikipedia.org/wiki/Discos_Fuentes) label.
-
-<br>
 
 <br>
 
@@ -89,8 +98,6 @@ A totem of Guadeloupe’s music, [Cosaque](https://www.discogs.com/artist/134300
 
 <br>
 
-<br>
-
 ### ***Cap’tain Creole: Fré Moin***
 
 [Listen / Buy](https://captaincrole.bandcamp.com/track/fr-moin)
@@ -100,8 +107,6 @@ A totem of Guadeloupe’s music, [Cosaque](https://www.discogs.com/artist/134300
 <br>
 
 Exceptional one-off from an obscure Parisian 80’s reggae band originally named *Trenchtown Meditation* (full story [here](https://www.beaumonderecords.com/product/cap-tain-creole-fre-moin-ni-bel-jounin)). Legend has it that [this 2 track release](https://www.discogs.com/Captain-Creole-Ni-Bel-Jounin-/master/1521070) was their sole actual studio take, recorded on a whim in creole with a few friends, for the most intriguing result blending all the best that the mid-80’s had to offer!
-
-<br>
 
 <br>
 
@@ -117,8 +122,6 @@ Extracted from a [1974 record](https://www.discogs.com/Tita-Duval-Y-El-Nuevo-Rit
 
 <br>
 
-<br>
-
 ### ***Marlui Miranda: Tchori Tchori (with Uakti)***
 
 [Listen / Buy](https://selvadiscos.bandcamp.com/album/tchori-tchori-brasingles-vol-1)
@@ -126,8 +129,6 @@ Extracted from a [1974 record](https://www.discogs.com/Tita-Duval-Y-El-Nuevo-Rit
 A researcher of indigenous music, [Marlui Miranda](https://en.wikipedia.org/wiki/Marlui_Miranda) called on to [Philip Glass’](https://philipglass.com/) Brazilian protégés [Uakti](https://en.wikipedia.org/wiki/Uakti_(band)) to illustrate a series of field recordings, eventually only self-released on CD in 1995. [Selvadiscos](https://selvadiscos.bandcamp.com/music) recently did us the favor of re-mastering and releasing this unique piece.
 
 ![](/img/marlui-miranda.jpg)
-
-<br>
 
 <br>
 
@@ -153,8 +154,6 @@ Killer label [Soundway](https://soundwayrecords.com/) is responsible for this 20
 
 <br>
 
-<br>
-
 ### ***Bill Campbell: Body Beat***
 
 [Listen / Buy](https://soundwayrecords.bandcamp.com/track/body-beat)
@@ -164,8 +163,6 @@ Killer label [Soundway](https://soundwayrecords.com/) is responsible for this 20
 <br>
 
 From the brand new [Soca Dub and Electronic Calypso](https://soundwayrecords.bandcamp.com/album/body-beat-soca-dub-and-electronic-calypso-1979-98) print, this is a reminder of how rocking Calypso can be, even when taking obscure turns! It’s accessorily also yet another example of how insanely cool and versatile releases from Soundway are, one of this author’s hero labels, which you can be sure to hear more about in future round-ups.
-
-<br>
 
 <br>
 
@@ -181,14 +178,20 @@ Some Dutch goodness, [courtesy of Soundway](https://soundwayrecords.com/release/
 
 <br>
 
-<br>
-
 ### ***Jovino Dos Santos: Bo Ta Cool***
 
 [Listen / Buy](https://ostinatorecords.bandcamp.com/track/bo-ta-cool)
 
-![]()
+![](/img/theasymetrics_ostinatorecords.jpg)
+
+<br>
 
 Incredible surprise when listening to New York City’s [Ostinato Records](https://ostinatorecords.bandcamp.com/music)’ wonderful [compilation of Cape Verdean](https://ostinatorecords.bandcamp.com/album/synthesize-the-soul-astro-atlantic-hypnotica-from-the-cape-verde-islands) psychedelic synth funk, and early Funana: Jovino is somewhat of a childhood friend who once took me around the best islanders’ hangouts in Lisbon in the early 90s. I had never known he was a phenomenal musician in his youth!
 
 The entire compilation is a perfect follow-up to [Analog Africa](https://analogafrica.bandcamp.com/)’s groundbreaking [Space Echo](https://analogafrica.bandcamp.com/album/space-echo-the-mystery-behind-the-cosmic-sound-of-cabo-verde-finally-revealed) album. Hot tip!
+
+<br>
+
+<br>
+
+***Hope you enjoyed the ride - Stay safe & keep digging!***
