@@ -29,15 +29,6 @@ const TemplateWrapper = ({ children }) => {
         <meta property="og:url" content="theasymetrics.com" />
         <meta property="og:site_name" content="Asymetrics Magazine" />
         <meta property="og:image" content={`${withPrefix('/')}img/og-image.jpg`} />
-
-          <script async src="https://www.googletagmanager.com/gtag/js?id=UA-172312800-1"></script>
-          <script>
-            window.dataLayer = window.dataLayer || [];
-            function gtag(){dataLayer.push(arguments)}
-            gtag('js', new Date());
-            gtag('config', 'UA-172312800-1');
-          </script>
-
       </Helmet>
       <Navbar />
       <div>{children}</div>
