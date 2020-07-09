@@ -19,6 +19,15 @@ export const BlogPostTemplate = ({
   helmet,
 }) => {
   const PostContent = contentComponent || Content
+  if (typeof document !== 'undefined') {
+    let links = document.getElementsByTagName('a');
+      for (var i=0, len=links.length; i < len; i++) {
+        let href = links[i].href.split('/')
+        if (href[2] !== 'theasymetrics.com'){
+          links[i].target = '_blank';
+        }
+      }
+  }
 
     return (
     <section className='blog-post section'>
@@ -55,7 +64,14 @@ export const BlogPostTemplate = ({
             <p className='blogPost__rightValue'>{insideLinks}</p> */}
             <p className='blogPost__rightKey'>Related</p>
             {outsideLinks?.outsideLinksList?.map((item, index) => {
-              return <a className='blogPost__rightValue' href={item.link} rel="noopener noreferrer" target="_blank" key={index}>{item.text}</a>
+              return <a 
+              className='blogPost__rightValue'
+              href={item.link}
+              rel="noopener noreferrer"
+              target={
+                item.link.split('/')[2] !== 'theasymetrics.com' ? "_blank" : ""
+              }
+              key={index}>{item.text}</a>
             })}
           </div>
         </div>
@@ -78,15 +94,6 @@ BlogPostTemplate.propTypes = {
 
 const BlogPost = ({ data }) => {
   const { markdownRemark: post } = data
-  if (typeof document !== 'undefined') {
-    let links = document.getElementsByTagName('a');
-      for (var i=0, len=links.length; i < len; i++) {
-        let href = links[i].href.split('/')
-        if (href[2] !== 'theasymetrics.com'){
-          links[i].target = '_blank';
-        }
-      }
-  }
 
   return (
     <Layout>

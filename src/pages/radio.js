@@ -1,6 +1,6 @@
 import React from "react";
 import Layout from '../components/Layout';
-import back from '../img/malong.jpg';
+import back from '../img/blurb_malong.jpg';
 
 const RadioPage = () => {
 
