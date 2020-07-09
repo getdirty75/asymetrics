@@ -8,21 +8,28 @@ class BlogRoll extends React.Component {
   render() {
     const { data } = this.props
     const { edges: posts } = data.allMarkdownRemark
-    // posts[Math.floor(Math.random() * posts.length)];
 
     return (
       <div className='izmirRoll'>
-      <div className="blogRoll columns is-multiline is-three-quarters-mobile is-two-thirds-tablet is-half-desktop is-one-third-widescreen is-one-quarter-fullhd">
+        <div className="blogRoll
+          columns
+          is-multiline
+          is-three-quarters-mobile
+          is-two-thirds-tablet
+          is-half-desktop
+          is-one-third-widescreen
+          is-one-quarter-fullhd"
+        >
 
         {posts && posts.map(({ node: post }) => (
           <div className="is-parent column is-4 blogRoll__item" key={post.id}>
             <article>
               <Link to={post.fields.slug}>
                 <div className="image is-5by4">
-                <img className="blogRoll__img"
-                  alt={post.frontmatter.title}
-                  src={post.frontmatter.featuredimage.childImageSharp.fluid.src}
-                />
+                  <img className="blogRoll__img"
+                    alt={post.frontmatter.title}
+                    src={post.frontmatter.featuredimage.childImageSharp.fluid.src}
+                  />
                 </div>
               </Link>
               <div className="blogRoll__sub">
@@ -39,8 +46,8 @@ class BlogRoll extends React.Component {
               </div>
             </article>
           </div>
-          ))}
-      </div>
+        ))}
+        </div>
       </div>
     )
   }

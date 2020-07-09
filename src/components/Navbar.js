@@ -2,7 +2,6 @@ import React from 'react'
 import { Link } from 'gatsby'
 import insta from '../img/social/instagram.svg'
 import soundcloud from '../img/social/soundcloud.svg'
-import { SquareMotion } from './squareMotion'
 
 const Navbar = class extends React.Component {
   constructor(props) {
@@ -32,9 +31,6 @@ const Navbar = class extends React.Component {
       >
         <div className="container">
           <div className="navbar-brand is-flex-touch">
-            {/* <div className='squareMotion'>
-              <SquareMotion />
-            </div> */}
             <Link to="/" className="navbar-item is-flex-touch" title="Logo">
               <div className="container">
                 <h1 className='navBar__title'>Asymetrics <p className="navBar__subtitle"></p></h1>
@@ -58,23 +54,21 @@ const Navbar = class extends React.Component {
             className={`navbar-menu ${this.state.navBarActiveClass}`}
           >
             <div className="navbar-start has-text-centered">
-
-
             {/*<Link className="navbar-item navbar__itemStyle" to="/magazine/">categories</Link>
 
-               <Link className="navbar-item navbar__itemStyle" to="/news">news</Link>
+              <Link className="navbar-item navbar__itemStyle" to="/news">news</Link>
               <Link className="navbar-item navbar__itemStyle" to="/mixtapes">mixtapes</Link>
               <Link className="navbar-item navbar__itemStyle" to="/knowledge">knowledge</Link>
               <Link className="navbar-item navbar__itemStyle" to="/artworks">artworks</Link>
               <Link className="navbar-item navbar__itemStyle" to="/stories">stories</Link>
-              <Link className="navbar-item navbar__itemStyle" to="/reports">reports</Link> 
+              <Link className="navbar-item navbar__itemStyle" to="/reports">reports</Link>
 
-              <Link className="navbar-item navbar__itemStyle" to="/radio">radio</Link> */}
-              {/* <Link className="navbar-item navbar__itemStyle" to="/shop/">shop</Link>
-              <Link className="navbar-item navbar__itemStyle" to="/contact/">contact</Link> */}
+              <Link className="navbar-item navbar__itemStyle" to="/radio">radio</Link>
+              <Link className="navbar-item navbar__itemStyle" to="/shop/">shop</Link>
+              <Link className="navbar-item navbar__itemStyle" to="/contact/">contact</Link>
 
-              {/* <Link className="navbar-item navbar__itemStyle" to="/restricted/">restricted</Link> */}
-              {/* <Link className="navbar-item navbar__itemStyle" to="/error/">error</Link>
+              <Link className="navbar-item navbar__itemStyle" to="/restricted/">restricted</Link>
+              <Link className="navbar-item navbar__itemStyle" to="/error/">error</Link>
               <Link className="navbar-item navbar__itemStyle" to="/band/">band</Link> */}
             </div>
             <div className="navbar-end has-text-centered">

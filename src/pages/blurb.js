@@ -1,6 +1,6 @@
-import React, { useState, useEffect } from "react";
-import { motion } from "framer-motion";
-import { shuffle } from "lodash";
+import React from "react";
+// import { motion } from "framer-motion"
+// import { shuffle } from "lodash"
 import Layout from '../components/Layout'
 import malong from '../img/blurb_malong.jpg'
 import ben from '../img/blurb_ben.jpg'

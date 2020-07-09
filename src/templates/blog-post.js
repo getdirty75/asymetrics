@@ -11,7 +11,6 @@ export const BlogPostTemplate = ({
   content,
   contentComponent,
   date,
-  insideLinks,
   outsideLinks,
   teaser,
   tags,
@@ -39,40 +38,31 @@ export const BlogPostTemplate = ({
         </div>
         <div className='columns'>
           <div className='column is-2 blogPost__leftColumn'>
-          <div className='blogPost__subValue tags'>
+            <div className='blogPost__subValue tags'>
               {tags?.map((item) => <span className="tag is-dark" key={item}>{item}</span>)}
             </div>
             <p className='blogPost__subKey'>
-              {/* by &nbsp;&nbsp; */}
-              <span className='blogPost__subValue'>
-                {author}
-              </span>
+              <span className='blogPost__subValue'>{author}</span>
               ,&nbsp;
-              <span className='blogPost__subValue'>
-                {categories}
-              </span>&nbsp;
-              <span className='blogPost__subValue'>
-                {date}&nbsp;
-              </span>
+              <span className='blogPost__subValue'>{categories}</span>&nbsp;
+              <span className='blogPost__subValue'>{date}&nbsp;</span>
             </p>
           </div>
           <div className='column is-8 blogPost__centerColumn'>
             <PostContent className='blogPost__text' content={content} />
           </div>
           <div className='column is-2 blogPost__rightColumn'>
-            {/* <p className='blogPost__rightKey'></p>
-            <p className='blogPost__rightValue'>{insideLinks}</p> */}
             <p className='blogPost__rightKey'>Related</p>
-            {outsideLinks?.outsideLinksList?.map((item, index) => {
-              return <a 
-              className='blogPost__rightValue'
-              href={item.link}
-              rel="noopener noreferrer"
-              target={
-                item.link.split('/')[2] !== 'theasymetrics.com' ? "_blank" : ""
-              }
-              key={index}>{item.text}</a>
-            })}
+            {outsideLinks?.outsideLinksList?.map((item, index) => (
+               <a className='blogPost__rightValue'
+                href={item.link}
+                rel="noopener noreferrer"
+                target={
+                  item.link.split('/')[2] !== 'theasymetrics.com' ? "_blank" : ""
+                }
+                key={index}>{item.text}
+              </a>
+            ))}
           </div>
         </div>
       </div>
@@ -103,16 +93,20 @@ const BlogPost = ({ data }) => {
         date={post.frontmatter.date}
         content={post.html}
         contentComponent={HTMLContent}
+        featuredimage={post.frontmatter.featuredimage.childImageSharp.fluid.src}
         insideLinks={post.frontmatter.insideLinks}
         outsideLinks={post.frontmatter.outsideLinks}
         teaser={post.frontmatter.teaser}
         helmet={
           <Helmet titleTemplate="%s | Blog">
             <title>{`${post.frontmatter.title}`}</title>
-            <meta
-              name='teaser'
-              content={`${post.frontmatter.teaser}`}
-            />
+            <meta property="og:type" content="article" />
+            <meta property="og:title" content={`${post.frontmatter.title}`} />
+            <meta property="og:description" content={`${post.frontmatter.teaser}`} />
+            <meta property="og:url" content="theasymetrics.com" />
+            <meta property="og:site_name" content="The Asymetrics" />
+            <meta property="og:image" content={`${post.frontmatter.featuredimage.childImageSharp.fluid.src}`} />
+            <meta name="description" content={`${post.frontmatter.teaser}`} />
           </Helmet>
         }
         tags={post.frontmatter.tags}
@@ -142,6 +136,13 @@ export const pageQuery = graphql`
         tags
         teaser
         title
+        featuredimage {
+          childImageSharp {
+            fluid(maxWidth: 500, quality: 100) {
+              ...GatsbyImageSharpFluid
+            }
+          }
+        }
         outsideLinks {
           outsideLinksList {
             link
