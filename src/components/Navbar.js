@@ -2,6 +2,7 @@ import React from 'react'
 import { Link } from 'gatsby'
 import insta from '../img/social/instagram.svg'
 import soundcloud from '../img/social/soundcloud.svg'
+import logo from '../img/logo.png'
 
 const Navbar = class extends React.Component {
   constructor(props) {
@@ -32,10 +33,12 @@ const Navbar = class extends React.Component {
         <div className="container">
           <div className="navbar-brand is-flex-touch">
             <Link to="/" className="navbar-item is-flex-touch" title="Logo">
+              <div><img className="blurb_img logoed" src={logo} /></div>
               <div className="container">
                 <h1 className='navBar__title'>Asymetrics <p className="navBar__subtitle"></p></h1>
-                <p className="home__desc">Allways odd never aligned...</p>
+                <p className="home__desc">lways odd never aligned...</p>
               </div>
+
             </Link>
             <div
               className={`navbar-burger burger ${this.state.navBarActiveClass}`}

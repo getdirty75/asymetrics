@@ -70,7 +70,7 @@ const BlurbPage = () => {
           </div>
           <div class="tile is-parent">
             <article class="tile is-child box">
-              <p class="subtitle">These 3 founders, although acquainted before, formally met a decade ago in Beijing, China, over a few too many glasses or <a href="https://baijiureview.com/red-star-erguotou/" target="_blank">ErGuTou</a>, and have since continued with adventures which include: <br/><br/> * hunting for a lost flute in the trunk of Beijing's 60,000+ cabs<br/> * drunkenly singing at a wedding in Thailand<br/> * getting kicked out of a Roman karaoke by the mafia...</p>
+              <p class="subtitle">The 3 founders, although acquainted before, formally met a decade ago in Beijing, China, over a few too many glasses or <a href="https://baijiureview.com/red-star-erguotou/" target="_blank">ErGuTou</a>, and have since continued with adventures which include: <br/><br/> * hunting for a lost flute in the trunk of Beijing's 60,000+ cabs<br/> * drunkenly singing at a wedding in Thailand<br/> * getting kicked out of a Roman karaoke by the mafia...</p>
             </article>
           </div>
         </div>
