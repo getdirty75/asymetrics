@@ -29,7 +29,7 @@ Sadly echoing recent global news, Mr Babylon is Taiwan’s epitome of the social
 
 <br />
 
-<iframe width="100%" height="440" src="https://www.youtube.com/embed/iQrrzCB4xls" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen referrerpolicy="origin"></iframe>
+<iframe width="100%" height="440" src="https://www.youtube-nocookie.com/embed/iQrrzCB4xls" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen referrerpolicy="origin"></iframe>
 
 <div class="columns">
 
