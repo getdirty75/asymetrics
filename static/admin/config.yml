@@ -3,7 +3,7 @@ backend:
   repo: getdirty75/asymetrics
   branch: develop
   commit_messages:
-    create: 'Content Manager creates new post {{collection}} “{{slug}}”'
+    create: 'Some writers creates new post {{collection}} “{{slug}}”'
     update: 'Content Manager update new post {{collection}} “{{slug}}”'
     delete: 'Content Manager delete new post {{collection}} “{{slug}}”'
     uploadMedia: '[skip ci] Upload “{{path}}”'
@@ -11,6 +11,7 @@ backend:
 
 media_folder: static/img
 public_folder: /img
+publish_mode: editorial_workflow
 
 collections:
   - name: "blog"

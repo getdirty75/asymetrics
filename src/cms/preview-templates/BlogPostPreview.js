@@ -6,7 +6,7 @@ const BlogPostPreview = ({ entry, widgetFor }) => {
   const tags = entry.getIn(['data', 'tags'])
   return (
     <div>
-      <p>BABYLON IS WATCHING YOU</p>
+      <p>Editing page - theasymetrics</p>
       <BlogPostTemplate
         author={entry.getIn(['data', 'author'])}
         categories={entry.getIn(['data', 'categories'])}
@@ -14,6 +14,7 @@ const BlogPostPreview = ({ entry, widgetFor }) => {
         // date={entry.getIn(['data', 'date(formatString: "MMMM DD, YYYY")'])}
         insideLinks={entry.getIn(['data', 'insideLinks'])}
         outsideLinks={entry.getIn(['data', 'outsideLinks'])}
+        outsideLinksList={entry.getIn(['data', 'outsideLinks'])}
         tags={tags && tags.toJS()}
         teaser={entry.getIn(['data', 'teaser'])}
         title={entry.getIn(['data', 'title'])}
