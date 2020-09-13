@@ -84,6 +84,7 @@ BlogPostTemplate.propTypes = {
 
 const BlogPost = ({ data }) => {
   const { markdownRemark: post } = data
+  const url = typeof window !== 'undefined' ? window.location.href : '';
 
   return (
     <Layout>
@@ -103,9 +104,9 @@ const BlogPost = ({ data }) => {
             <meta property="og:type" content="article" />
             <meta property="og:title" content={`${post.frontmatter.title}`} />
             <meta property="og:description" content={`${post.frontmatter.teaser}`} />
-            <meta property="og:url" content="theasymetrics.com" />
+            <meta property="og:url" content={url} />
             <meta property="og:site_name" content="Asymetrics Magazine" />
-            <meta property="og:image" content={`${post.frontmatter.featuredimage.childImageSharp.fluid.src}`} />
+            <meta property="og:image" content={`https://theasymetrics.com${post.frontmatter.featuredimage.childImageSharp.fluid.src}`} />
             <meta name="description" content={`${post.frontmatter.teaser}`} />
           </Helmet>
         }
