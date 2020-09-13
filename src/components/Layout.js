@@ -14,7 +14,7 @@ const TemplateWrapper = ({ children }) => {
         <html lang="en" />
         <title>{title}</title>
         <meta name="description" content={description} />
-        <link rel="canonical" href="theaasymetrics.com" />
+        <link rel="canonical" href="" />
         <meta name="Language" CONTENT="en" />
         <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
         <meta charset="utf-8" />
@@ -25,6 +25,8 @@ const TemplateWrapper = ({ children }) => {
         <link rel="mask-icon" href={`${withPrefix('/')}img/safari-pinned-tab.svg`} color="#ff4400" />
         <meta name="theme-color" content="#fff" />
         <meta property="og:type" content="website" />
+        <meta property="og:description" content="desc" />
+        <meta property="fb:app_id" content="734424210440510" />
         <meta property="og:title" content={title} />
         <meta property="og:url" content="theasymetrics.com" />
         <meta property="og:site_name" content="Asymetrics Magazine" />
