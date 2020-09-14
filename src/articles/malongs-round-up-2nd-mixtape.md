@@ -5,7 +5,7 @@ teaser: "Second edition: 13 tracks in no particular order, preference of genre,
   or other purpose but to make you feel fine!"
 featuredimage: /img/potential-cover-pic-credit-pexels-pixabay.com-music-1285165_1280.jpg
 author: Malong
-categories: mixtapes
+categories: radio
 tags:
   - "#Highlife"
   - "#Afro-Dub"
