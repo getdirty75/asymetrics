@@ -18,16 +18,32 @@ tags:
   - "#Uganda"
   - "#Belize"
 date: 2020-09-13T02:45:13.736Z
+outsideLinks:
+  outsideLinksList:
+    - text: "Malong's Round-Up - Mixtape # 2"
+      link: https://theasymetrics.com/malongs-round-up-2nd-mixtape/
+    - text: Malong's Round-Up - 1st Round
+      link: https://theasymetrics.com/malong%E2%80%99s-monthly-round-up-%E2%80%93-first-round/
+    - text: Soundway Records
+      link: https://soundwayrecords.bandcamp.com/music
+    - text: Out Here Records
+      link: https://outhererecords.bandcamp.com/
+    - text: Nyege Nyege Tapes
+      link: https://nyegenyegetapes.bandcamp.com/
+    - text: NYP Records (Global Riddims)
+      link: https://nyp-records.bandcamp.com/
+    - text: That's Why Records
+      link: http://www.thatswhyrecords.com/
+    - text: Stone Tree Music
+      link: https://stonetreemusic.bandcamp.com/
 ---
 ![](/img/cover-cc-paulo-infante.jpg "©️Paulo Infante")
 
 <br>
 
-#### **For the full mixtape follow [](https://theasymetrics.com/malongs-round-up-1st-playlist/)THIS LINK, or check our [Soundcloud page](https://soundcloud.com/the-asymetrics/malongs-round-up-2).**
+#### **For the full mixtape follow** [](https://theasymetrics.com/malongs-round-up-1st-playlist/)**[THIS LINK](https://theasymetrics.com/malongs-round-up-2nd-mixtape/), or check our [Soundcloud page](https://soundcloud.com/the-asymetrics/malongs-round-up-2).**
 
-
-
-# **2nd Round Featured tracks:**
+# **For this 2nd Round, we travel a bit through African and Afro -Caribbean influences. Featured tracks are:**
 
 ### **Santrofi: Kokrokoo**
 
@@ -55,8 +71,6 @@ Also seriously worth-checking-out recent work from Samson Sound is [Good Karma](
 
 <br>
 
-
-
 ### **Eli A Free: Sebetutu (a Most Ghanaian Song) Ft Bryte**
 
 [Listen / Buy](https://eliafree.bandcamp.com/track/sebetutu-a-most-ghanaian-song-feat-bryte)
@@ -70,6 +84,8 @@ Back to Ghana with a rocking Afrobeat inspired number from free electron Eli A, 
 <br>
 
 ### **Lorenzo BITW: Basta Ft MC Yallah & Swordman Kitala**
+
+[Listen / Buy](https://lorenzo-bitw.bandcamp.com/track/basta-feat-mc-yallah-swordman-kitala)
 
 Asymetrics’ old time friend Lorenzo Calpini, aka BITW teams up with Uganda’s [Nyege Nyege](https://nyegenyegetapes.bandcamp.com/) affiliates [MC Yallah](https://hakunakulala.bandcamp.com/album/kubali) and [Swordman Kitala](https://hakunakulala.bandcamp.com/album/swordman-kitala-x-sekelembele-split) to concoct this Dancehall infused House transmission from Rome, via Kampala and London!
 
@@ -116,8 +132,6 @@ You’ve been tipped !
 An obscure East African funk and breaks oriented band, Kingdom of Kaffa (named after a [mysterious kingdom](https://en.wikipedia.org/wiki/Kingdom_of_Kaffa) conquered by Menelik II and now part of Ethiopia’s North-eastern highlands) release regular limited press 45s, all recorded at Switzerland’s own 100% analog to tape recordings studio and label [That’s Why Records](http://www.thatswhyrecords.com/). Bonga Chi’Fera was the b-side to their first print, and it’s a dark funk bomb with a mean little synth - Check it!
 
 ![](/img/theasymetrics_thatswhyrecords.jpg)
-
-
 
 <br>
 
