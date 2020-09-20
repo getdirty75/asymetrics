@@ -28,9 +28,9 @@ const TemplateWrapper = ({ children }) => {
         <meta property="og:description" content={description} />
         <meta property="fb:app_id" content="734424210440510" />
         <meta property="og:title" content={title} />
-        <meta property="og:url" content="theasymetrics.com" />
+        <meta property="og:url" content="https://theasymetrics.com/" />
         <meta property="og:site_name" content="Asymetrics Magazine" />
-        <meta property="og:image" content={`${withPrefix('/')}img/logo.png`} />
+        <meta property="og:image" content={`${withPrefix('/')}static/logo.png`} />
       </Helmet>
       <Navbar />
       <div>{children}</div>
