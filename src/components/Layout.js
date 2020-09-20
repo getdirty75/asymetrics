@@ -30,7 +30,7 @@ const TemplateWrapper = ({ children }) => {
         <meta property="og:title" content={title} />
         <meta property="og:url" content="https://theasymetrics.com/" />
         <meta property="og:site_name" content="Asymetrics Magazine" />
-        <meta property="og:image" content="https://theasymetrics.com/logo.png" />
+        <meta property="og:image" content="https://theasymetrics.com/logo_1000.png" />
       </Helmet>
       <Navbar />
       <div>{children}</div>
