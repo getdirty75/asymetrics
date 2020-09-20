@@ -5,6 +5,7 @@ import Footer from '../components/Footer'
 import './all.sass'
 import useSiteMetadata from './SiteMetadata'
 import { withPrefix } from 'gatsby'
+import logo from '../img/logo.png'
 
 const TemplateWrapper = ({ children }) => {
   const { title, description } = useSiteMetadata()
@@ -30,7 +31,7 @@ const TemplateWrapper = ({ children }) => {
         <meta property="og:title" content={title} />
         <meta property="og:url" content="https://theasymetrics.com/" />
         <meta property="og:site_name" content="Asymetrics Magazine" />
-        <meta property="og:image" content={`${withPrefix('/')}static/logo.png`} />
+        <meta property="og:image" content={logo} />
       </Helmet>
       <Navbar />
       <div>{children}</div>
