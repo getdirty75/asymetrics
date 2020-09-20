@@ -11,6 +11,7 @@ const TemplateWrapper = ({ children }) => {
   const { title, description } = useSiteMetadata()
   return (
     <div>
+       <img className="hidden__logo" src={logo} />
       <Helmet>
         <html lang="en" />
         <title>{title}</title>
@@ -31,7 +32,7 @@ const TemplateWrapper = ({ children }) => {
         <meta property="og:title" content={title} />
         <meta property="og:url" content="https://theasymetrics.com/" />
         <meta property="og:site_name" content="Asymetrics Magazine" />
-        <meta property="og:image" content={logo} />
+        <meta property="og:image" content={`${withPrefix('/')}static/logo.png`} />
       </Helmet>
       <Navbar />
       <div>{children}</div>
