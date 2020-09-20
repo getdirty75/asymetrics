@@ -115,6 +115,8 @@ Their creations include beautiful signature artworks and video, as seen in this 
 
 ### **The Selenites Band: Yekatit (Funky Bijou Remix)**
 
+[Listen / Buy](https://nyp-records.bandcamp.com/track/yekatit-funky-bijou-remix)
+
 Extracted from NYP Records’ [second Global Riddims collection](https://nyp-records.bandcamp.com/album/global-riddims-volume-2), this lovely, dark & warm Ethio-Jazz ballad by France’s [The Selenites Band](http://www.theselenitesband.com/) gets an extra kick courtesy of [Funky Bijou](https://soundcloud.com/funkybijou). Devoted to pushing the boundaries of that sound pioneered by the likes of [Mulatu Astatke](https://en.wikipedia.org/wiki/Mulatu_Astatke) or [Mahmoud Ahmed](https://en.wikipedia.org/wiki/Mahmoud_Ahmed), which rocked [Ethiopia in the lates 60’s](https://thevinylfactory.com/features/an-introduction-to-ethio-jazz-in-10-records/), the Selenites’ self-titled [debut album](https://stereophonk.bandcamp.com/album/ethio-jazz-groove-project) is a gem!
 
 Also worth noting: [NYP records](https://nyp-records.bandcamp.com/) global riddims compilations are available for free on Bandcamp (please consider paying at least a symbolic few bucks, as all these musicians are seriously struggling these days). The three editions so far  are amazingly representative of the global groove scene and definitely cater for the like/open-minded followers of Global Riddims’ Tony Heynen (count me in!), a legendary Brussels-based DJ.
