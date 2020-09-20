@@ -30,7 +30,7 @@ outsideLinks:
 
 <br />
 
-###### You know something crazy is cooking when Asymetrics friend dj [Fresh Nunas](https://www.mixcloud.com/deadfresh/) is behind it!
+#### **You know something crazy is cooking when Asymetrics friend dj [Fresh Nunas](https://www.mixcloud.com/deadfresh/) is behind it!**
 
 Coming to the help of fellow countryman & multi-talented artist **[Ricardo Pinto Jorge](https://www.instagram.com/ricardopintojorge/),** The Brussels-based dj and Kigali expatriate used their network spannig everywhere between Bangui and Panama, via Niamey and Havana, to launch a weekly online artistic market, dubbed [Dumbanengue](https://www.facebook.com/operacao.producao.7) after the informal markets than span around Mozambique; and with Spanglish, Portuñol, and Franglais as official languages, the event sounded like something I could not miss.
 
@@ -51,8 +51,6 @@ And while art was the core, Crucial topics like the [Black Lives Matter ](https:
 All of this, and much more, took place in a semi-organized chaos, and although open-access, it felt intimate and confidential enough that random participants could pitch their own thing, or grab the attention to discuss this and that (“bater papo” as they would say in Maputo), giving it a fantastic organic feel.
 
 Check out the collective's [Facebook page](https://www.facebook.com/operacao.producao.7) for a few archives.
-
-
 
 ![](/img/theasymetrics_ricardopinto.jpg "Ricardo Pinto Jorge")
 
