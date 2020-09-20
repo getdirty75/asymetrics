@@ -25,12 +25,12 @@ const TemplateWrapper = ({ children }) => {
         <link rel="mask-icon" href={`${withPrefix('/')}img/safari-pinned-tab.svg`} color="#ff4400" />
         <meta name="theme-color" content="#fff" />
         <meta property="og:type" content="website" />
-        <meta property="og:description" content="desc" />
+        <meta property="og:description" content={description} />
         <meta property="fb:app_id" content="734424210440510" />
         <meta property="og:title" content={title} />
         <meta property="og:url" content="theasymetrics.com" />
         <meta property="og:site_name" content="Asymetrics Magazine" />
-        <meta property="og:image" content={`${withPrefix('/')}img/og-image.jpg`} />
+        <meta property="og:image" content={`${withPrefix('/')}img/logo.png`} />
       </Helmet>
       <Navbar />
       <div>{children}</div>
