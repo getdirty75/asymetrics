@@ -8,9 +8,6 @@ const IndexPage = () => {
 
   return (
     <Layout>
-      <Helmet>
-        <meta property="og:image" itemprop="image" content="https://theasymetrics.com/logo_256.png" />
-      </Helmet>
       <div className="container">
         <div className="section">
           <BlogRoll />

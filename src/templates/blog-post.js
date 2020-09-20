@@ -107,7 +107,7 @@ const BlogPost = ({ data }) => {
             <meta property="og:description" content={`${post.frontmatter.teaser}`} />
             <meta property="og:url" content={url} />
             <meta property="og:site_name" content="Asymetrics Magazine" />
-            <meta property="og:image" content={`https://theasymetrics.com${post.frontmatter.featuredimage.childImageSharp.fluid.src}`} />
+            <meta property="og:image" itemprop="image" content={`https://theasymetrics.com${post.frontmatter.featuredimage.childImageSharp.fluid.src}`} />
             <meta name="description" content={`${post.frontmatter.teaser}`} />
           </Helmet>
         }
