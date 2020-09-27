@@ -48,7 +48,7 @@ class TagRoute extends React.Component {
                 <p className='tags__headerText'>{tagHeader}</p>
                 <div className='blogRoll columns'>{postLinks}</div>
                 <p>
-                  <Link to="/tags/">Search all categories</Link>
+                  <Link to="/tags/">Search all tags</Link>
                 </p>
               </div>
             </div>

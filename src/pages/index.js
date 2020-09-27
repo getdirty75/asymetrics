@@ -2,7 +2,6 @@ import React from 'react'
 
 import Layout from '../components/Layout'
 import BlogRoll from '../components/BlogRoll'
-import { Helmet } from 'react-helmet'
 
 const IndexPage = () => {
 
