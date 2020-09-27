@@ -33,16 +33,17 @@ class BlogRoll extends React.Component {
                 </div>
               </Link>
               <div className="blogRoll__sub">
-                <p className="blogRoll__tags">{post.frontmatter.author}</p>
-                <div className="blogRoll__tagsBox">
-                  <Link className="blogRoll__tags" to={`/categories/${post.frontmatter.categories}`}>
-                    {post.frontmatter.categories}
-                  </Link>
-                </div>
                 <Link to={post.fields.slug}>
                   <p className="blogRoll__itemTitle">{post.frontmatter.title}</p>
                 </Link>
                 <p className="blogRoll__tags">{post.frontmatter.teaser}</p>
+                
+                <div className="blogRoll__tagsBox">
+                  <Link className="blogRoll__categories" to={`/categories/${post.frontmatter.categories}`}>
+                    {post.frontmatter.categories}
+                  </Link>
+                </div>
+                <p className="blogRoll__tags">{post.frontmatter.author}</p>
               </div>
             </article>
           </div>

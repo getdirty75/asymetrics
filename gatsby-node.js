@@ -33,6 +33,7 @@ exports.createPages = ({ actions, graphql }) => {
     posts.forEach((edge) => {
       const id = edge.node.id
       createPage({
+        categories: edge.node.frontmatter.categories,
         path: edge.node.fields.slug,
         tags: edge.node.frontmatter.tags,
         component: path.resolve(
@@ -44,6 +45,24 @@ exports.createPages = ({ actions, graphql }) => {
         },
       })
     })
+    let categories = []
+    posts.forEach((edge) => {
+      if(_.get(edge, `node.frontmatter.categories`)) {
+        categories = categories.concat(edge.node.frontmatter.categories);
+      }
+    })
+    categories = _.uniq(categories);
+    categories.forEach((category) => {
+      const categoryPath = `/categories/${_.kebabCase(category)}/`;
+      console.log(category)
+      createPage({
+        path: categoryPath,
+        component: path.resolve(`src/templates/categories.js`),
+        context: {
+          category,
+        }
+      });
+    });
 
     // Tag pages:
     let tags = []

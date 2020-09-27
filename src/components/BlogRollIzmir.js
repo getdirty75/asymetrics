@@ -21,7 +21,7 @@ class BlogRollIzmir extends React.Component {
           <div className="is-parent column is-3 blogRoll__item" key={post.id}>
 
             <Link to={post.fields.slug}>
-              <figure className="sizing myshadow colored12 c4-izmir c4-border-cc-2 c4-gradient-bottom-left c4-image-zoom-in">
+              <figure className="image sizing myshadow colored12 c4-izmir c4-border-cc-2 c4-gradient-bottom-left c4-image-zoom-in">
                 <img className="blogRoll__img"
                   alt={post.frontmatter.title}
                   src={post.frontmatter.featuredimage.childImageSharp.fluid.src}
