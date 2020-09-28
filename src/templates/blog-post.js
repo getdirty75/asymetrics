@@ -1,7 +1,7 @@
 import React from 'react'
 import PropTypes from 'prop-types'
 import { Helmet } from 'react-helmet'
-import { graphql } from 'gatsby'
+import { Link, graphql } from 'gatsby'
 import Layout from '../components/Layout'
 import Content, { HTMLContent } from '../components/Content'
 
@@ -39,7 +39,12 @@ export const BlogPostTemplate = ({
         <div className='columns'>
           <div className='column is-2 blogPost__leftColumn'>
             <div className='blogPost__subValue tags'>
-              {tags?.map((item) => <span className="tag is-dark" key={item}>{item}</span>)}
+              {tags?.map(
+                (item) =>
+                (<Link className="tag is-dark" key={item} to={`/tags/${item.replace('#','').toLowerCase()}`}>
+                {item}
+              </Link>)
+              )}
             </div>
             <p className='blogPost__subKey'>
               <span className='blogPost__subValue'>{author}</span>

@@ -8,32 +8,32 @@ class TagRoute extends React.Component {
   render() {
     const posts = this.props.data.allMarkdownRemark.edges
     const postLinks = posts.map((post) => (
-      <div className='column is-6' key={post.node.fields.slug}>
-          <figure className="sizing myshadow colored8 c4-izmir c4-border-cc-2 c4-gradient-bottom-left c4-image-zoom-in">
-            <img
-              className="blogRoll__img"
-              alt={post.node.frontmatter.title}
-              src={post.node.frontmatter.featuredimage.childImageSharp.fluid.src}
-            />
-            <figcaption className="c4-layout-top-left">
-              <div className="c4-izmir-icon-wrapper c4-fade c4-delay-300">
-                <h3>{post.node.frontmatter.title}</h3>
-                <p>{post.node.frontmatter.teaser}</p>
-              </div>
-            </figcaption>
-          </figure>
-          <div className="media-content">
-            <div className="content">
-              <h3>{post.node.frontmatter.title}</h3>
-              <p>{post.node.frontmatter.teaser}</p>
+      <div className="is-parent column is-3 blogRoll__item" key={post.id}>
+        <article>
+          <Link to={post.node.fields.slug}>
+            <p className="blogRoll__itemTitle">{post.node.frontmatter.title}</p>
+          </Link>
+          <Link to={post.node.fields.slug}>
+            <div className="image is-5by4">
+              <img className="blogRoll__img"
+                alt={post.node.frontmatter.title}
+                src={post.node.frontmatter.featuredimage.childImageSharp.fluid.src}
+              />
             </div>
-          </div>
+          </Link>
+          <Link to={post.node.fields.slug}>
+            <div className="blogRoll__sub">
+              <p className="blogRoll__tags">{post.node.frontmatter.teaser}</p>
+              <p className="blogRoll__tags">{post.node.frontmatter.author}</p>
+            </div>
+          </Link>
+        </article>
       </div>
     ))
     const tag = this.props.pageContext.tag
     const title = this.props.data.site.siteMetadata.title
     const totalCount = this.props.data.allMarkdownRemark.totalCount
-    const tagHeader = `${totalCount} ${tag} gem${totalCount === 1 ? '' : 's'} to read`
+    const tagHeader = `${totalCount} article${totalCount === 1 ? '' : 's'} under ${tag} tag`
 
     return (
       <Layout>
@@ -45,11 +45,9 @@ class TagRoute extends React.Component {
                 className="column is-10 is-offset-1"
                 style={{ marginBottom: '6rem' }}
               >
-                <p className='tags__headerText'>{tagHeader}</p>
+                <h2 className='tags__headerText'>{tagHeader}</h2>
+                <p><Link className='tags__headerText' to="/tags/">Search all tags</Link></p>
                 <div className='blogRoll columns'>{postLinks}</div>
-                <p>
-                  <Link to="/tags/">Search all tags</Link>
-                </p>
               </div>
             </div>
           </div>
@@ -80,6 +78,7 @@ export const tagPageQuery = graphql`
             slug
           }
           frontmatter {
+            author
             title
             teaser
             featuredimage {

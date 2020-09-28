@@ -48,7 +48,6 @@ mixItUp = (array) => {
                   <p className="blogRoll__itemTitle">{post.frontmatter.title}</p>
                 </Link>
                 <p className="blogRoll__tags">{post.frontmatter.teaser}</p>
-                
                 <div className="blogRoll__tagsBox">
                   <Link className="blogRoll__categories" to={`/categories/${post.frontmatter.categories}`}>
                     {post.frontmatter.categories}

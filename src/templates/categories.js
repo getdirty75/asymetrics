@@ -11,7 +11,7 @@ class CategoryRoute extends React.Component {
       <div className="is-parent column is-3 blogRoll__item" key={post.id}>
         <article>
           <Link to={post.node.fields.slug}>
-            <p className="blogRoll__itemTitle">{post.node.frontmatter.title}</p>
+            <p className="blogRoll__itemTitle2">{post.node.frontmatter.title}</p>
           </Link>
           <Link to={post.node.fields.slug}>
             <div className="image is-5by4">
@@ -21,22 +21,19 @@ class CategoryRoute extends React.Component {
               />
             </div>
           </Link>
-          <div className="blogRoll__sub">
-            <p className="blogRoll__tags">{post.node.frontmatter.teaser}</p>
-            <p className="blogRoll__tags">{post.node.frontmatter.author}</p>
-            <div className="blogRoll__tagsBox">
-              <Link className="blogRoll__tags" to={`/categories/${post.node.frontmatter.categories}`}>
-                {post.node.frontmatter.tags}
-              </Link>
+          <Link to={post.node.fields.slug}>
+            <div className="blogRoll__sub">
+              <p className="blogRoll__tags">{post.node.frontmatter.teaser}</p>
+              <p className="blogRoll__tags">{post.node.frontmatter.author}</p>
             </div>
-          </div>
+          </Link>
         </article>
       </div>
     ))
     const category = this.props.pageContext.category
     const title = this.props.data.site.siteMetadata.title
     const totalCount = this.props.data.allMarkdownRemark.totalCount
-    const categoryHeader = `${totalCount} asymetric's stor${totalCount === 1 ? 'y' : 'ies'} for ${category} category.`
+    const categoryHeader = `${totalCount} asymetric's stor${totalCount === 1 ? 'y' : 'ies'} for '${category}' category`
 
     return (
       <Layout>
@@ -48,8 +45,8 @@ class CategoryRoute extends React.Component {
                 className="column is-10 is-offset-1"
                 style={{ marginBottom: '6rem' }}
               >
-                <h2 className='tags__headerText'>{categoryHeader}</h2>
-                <p><Link className='tags__headerText' to="/categories/">Search all categories</Link></p>
+                <h2 className='category__display'>{categoryHeader}</h2>
+                <p><Link className='category__display' to="/categories/">Search all categories</Link></p>
                 <div className="container">
                   <div className="section">
                     <div className='blogRoll columns is-multiline is-three-quarters-mobile is-two-thirds-tablet is-half-desktop is-one-third-widescreen is-one-quarter-fullhd'>{postLinks}</div>
@@ -86,12 +83,8 @@ export const categoryPageQuery = graphql`
           }
           frontmatter {
             author
-            categories
             teaser
             title
-            templateKey
-            date(formatString: "MMMM DD, YYYY")
-            featuredpost
             featuredimage {
               childImageSharp {
                 fluid(maxWidth: 500, quality: 100) {
