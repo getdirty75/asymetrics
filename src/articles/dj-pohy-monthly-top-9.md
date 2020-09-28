@@ -29,11 +29,11 @@ outsideLinks:
 
 <br>
 
-##### Every month, French Bass Music Don DJ Pohy shares his top 9 with us - Get wild!
+##### Every month, French Bass Music Don DJ Pohy shares a new top 9 with us - Get wild!
 
 A native of Lille, northern France, and often active in Paris, [Pohy](www.facebook.com/DjPohy) has been operating on the Drum&Bass and Dubstep scenes for well over a decade.
 
-Together with partner in crime [DJ Bluntsman](https://soundcloud.com/dj-bluntsman), Pohy runs the [One More Tune](https://rinse.fr/artists/one-more-tune/) sessions on Rinse France, as well as the "[Safe Travel](https://www.radiocampusparis.org/emission/safe-travel/)" show on Radio Campus.
+Together with partner in crime [DJ Bluntsman](https://soundcloud.com/dj-bluntsman), Pohy runs the [One More Tune](https://rinse.fr/artists/one-more-tune/) radion sessions on Rinse France, as well as the "[Safe Travel](https://www.radiocampusparis.org/emission/safe-travel/)" show on Radio Campus.
 
 If you dig this monthly ruffage and want to hear more, follow Pohy on [Mixcloud](www.mixcloud.com/djpohy) and One More Tune on [Facebook](www.facebook.com/rinseomt) for regular bass fixes.
 
