@@ -16,16 +16,18 @@ outsideLinks:
   outsideLinksList:
     - text: DJ Pohy
       link: https://www.facebook.com/DjPohy
-    - text: Dj Pohy on MIxcloud
+    - text: Dj Pohy on Mixcloud
       link: https://www.mixcloud.com/djpohy/
     - text: One More Tune
       link: https://rinse.fr/artists/one-more-tune/
     - text: Safe Travels
       link: https://www.radiocampusparis.org/emission/safe-travel/
-    - text: Dj Blunstman
+    - text: Dj Bluntsman
       link: https://soundcloud.com/dj-bluntsman
+    - text: The Asymetrics Channel
+      link: https://www.youtube.com/channel/UCjm0hKdlJVNA5X3U3KEhEow/playlists?view_as=subscriber
 ---
-![](/img/dj-pohy-small.jpg "dj Pohy")
+![](/img/dj-pohy-small.jpg)
 
 <br>
 
@@ -33,7 +35,7 @@ outsideLinks:
 
 Hailing from Lille, France, and currently based in Paris, [Pohy](www.facebook.com/DjPohy) has been operating on the Drum&Bass and Dubstep scenes for over a decade.
 
-Together with partner in crime [DJ Bluntsman](https://soundcloud.com/dj-bluntsman), Pohy co-hosts the [One More Tune](https://rinse.fr/artists/one-more-tune/) radio show on Rinse France, as well as another quality *rendez-vous*: the [Safe Travel](https://www.radiocampusparis.org/emission/safe-travel/) show on Radio Campus.
+Together with partner in crime [DJ Bluntsman](https://soundcloud.com/dj-bluntsman), Pohy co-hosts the [One More Tune](https://rinse.fr/artists/one-more-tune/) radio show on Rinse France, as well as another quality *rendez-vous* : the [Safe Travel](https://www.radiocampusparis.org/emission/safe-travel/) show on Radio Campus.
 
 If you dig this selection and want to hear more, follow Pohy on [Mixcloud](www.mixcloud.com/djpohy) and One More Tune on [Facebook](www.facebook.com/rinseomt) for regular bass fixes.
 
