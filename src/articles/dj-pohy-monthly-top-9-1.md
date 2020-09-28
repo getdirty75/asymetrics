@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
 title: DJ Pohy - Monthly Top 9
-teaser: Every month, DJ Pohy (Rinse France) shares his top 9 tunes. Flavor for ravers!
+teaser: Every month, DJ Pohy (Rinse France) shares his top 9 tunes. Rewiiiiiind 🔥🔥🔥
 featuredimage: /img/dj-pohy.jpg
 author: Lord Sandwich
 categories: radio
