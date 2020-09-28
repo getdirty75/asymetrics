@@ -4,7 +4,7 @@ title: DJ Pohy - The Asymetrics Charts (Top 9)
 teaser: Every month, DJ Pohy (Rinse France) shares his top 9 tunes. Rewind !
 featuredimage: /img/dj-pohy.jpg
 author: Lord Sandwich
-categories: radio
+categories: mixtapes
 tags:
   - "#Drum&Bass"
   - "#Jungle"
@@ -29,9 +29,9 @@ outsideLinks:
 ---
 ![](/img/dj-pohy-small.jpg)
 
-<br>
 
-##### Every month, our Bass Music specialist DJ Pohy shares his favorite picks with us.
+
+### Every month, our Bass Music specialist DJ Pohy shares his favorite picks with us.
 
 Hailing from Lille, France, and currently based in Paris, [Pohy](www.facebook.com/DjPohy) has been operating on the Drum&Bass and Dubstep scenes for over a decade.
 
@@ -39,6 +39,42 @@ Together with partner in crime [DJ Bluntsman](https://soundcloud.com/dj-bluntsma
 
 If you dig this selection and want to hear more, follow Pohy on [Mixcloud](www.mixcloud.com/djpohy) and One More Tune on [Facebook](www.facebook.com/rinseomt) for regular bass fixes.
 
-### Current Top 9: September 2020 (D&B):
+## Current Top 9: September 2020 (D&B):
 
-<iframe width="100%" height="380" src="https://www.youtube-nocookie.com/embed/videoseries?list=PLZtgNolXlRSRNkQl5aYExapQBP3fqn0hv" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+### \#1 Chase and Status - Engage
+
+<iframe width="100%" height="380" src="https://www.youtube-nocookie.com/embed/N4YYUtr5fwI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen referrerpolicy="origin"></iframe>
+
+### \#2 Break & GQ - Whispers In My Ear (Break Remix)
+
+<iframe width="100%" height="315" src="https://www.youtube-nocookie.com/embed/VcDBcZeHekA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen referrerpolicy="origin"></iframe>
+
+### \#3 Bacon & BRK - Broken Flute
+
+<iframe width="100%" height="315" src="https://www.youtube-nocookie.com/embed/_fGqTxqHcPQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen referrerpolicy="origin"></iframe>
+
+### \#4 Feeling High - Take Me Away
+
+<iframe width="100%" height="315" src="https://www.youtube-nocookie.com/embed/hOsOEsbg_tI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen referrerpolicy="origin"></iframe>
+
+### \#5 Breakage - B Side Bubbler
+
+<iframe width="100%" height="315" src="https://www.youtube-nocookie.com/embed/80TFidoeHcA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen referrerpolicy="origin"></iframe>
+
+### \#6 Serum - Chop House
+
+<iframe width="100%" height="315" src="https://www.youtube-nocookie.com/embed/G-AmUykKWLk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen referrerpolicy="origin"></iframe>
+
+### \#7 Kaia Vieira - Where Did You Go? (Bladerunner Remix)
+
+<iframe width="100%" height="315" src="https://www.youtube-nocookie.com/embed/LhPPrhYeVu4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen referrerpolicy="origin"></iframe>
+
+### \#8 Stompz - Playtime
+
+<iframe width="100%" height="315" src="https://www.youtube-nocookie.com/embed/QND_BMYoVWM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen referrerpolicy="origin"></iframe>
+
+### \#9 Nick The Lot - Starman
+
+<iframe width="100%" height="315" src="https://www.youtube-nocookie.com/embed/t1-JlCzBY7w" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen referrerpolicy="origin"></iframe>
