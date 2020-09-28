@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
 title: DJ Pohy - Monthly Top 9
-teaser: Every month, DJ Pohy (Rinse.fr) shares his top 9 bangers. Flavor for ravers!
+teaser: Every month, DJ Pohy (Rinse France) shares his top 9 tunes. Flavor for ravers!
 featuredimage: /img/dj-pohy.jpg
 author: Lord Sandwich
 categories: radio
@@ -29,11 +29,11 @@ outsideLinks:
 
 <br>
 
-##### Every month, French Bass-music Don DJ Pohy shares his top 9 for the Asymetrics - Get wild!
+##### Every month, French Bass Music Don DJ Pohy shares his top 9 with us - Get wild!
 
 A native of Lille, northern France, [Pohy](www.facebook.com/DjPohy) has been active on the Drum&Bass and Dubstep scenes for well over a decade.
 
-Together with partner in crime [DJ Bluntsman](https://soundcloud.com/dj-bluntsman), Pohy runs the [One More Tune](https://rinse.fr/artists/one-more-tune/) sessions on Rinse.fr, as well as the "[Safe Travel](https://www.radiocampusparis.org/emission/safe-travel/)" show on Radio Campus.
+Together with partner in crime [DJ Bluntsman](https://soundcloud.com/dj-bluntsman), Pohy runs the [One More Tune](https://rinse.fr/artists/one-more-tune/) sessions on Rinse France, as well as the "[Safe Travel](https://www.radiocampusparis.org/emission/safe-travel/)" show on Radio Campus.
 
 If you dig this monthly ruffage and want more, follow Pohy on [Mixcloud](www.mixcloud.com/djpohy) and One More Tune on [Facebook](www.facebook.com/rinseomt) for regular bass fixes.
 
