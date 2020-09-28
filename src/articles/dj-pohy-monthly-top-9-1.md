@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
 title: DJ Pohy - The Asymetrics Charts (Top 9)
-teaser: Every asymmetric moon, DJ Pohy (Rinse France) shares his top 9 tunes. Rewind !
+teaser: Every month, DJ Pohy (Rinse France) shares his top 9 tunes. Rewind !
 featuredimage: /img/dj-pohy.jpg
 author: Lord Sandwich
 categories: radio
@@ -31,7 +31,7 @@ outsideLinks:
 
 <br>
 
-##### Every asymmetric moon, our Bass Music specialist DJ Pohy shares a new top 9 !
+##### Every month, our Bass Music specialist DJ Pohy shares a new top 9 !
 
 Hailing from Lille, France, and currently based in Paris, [Pohy](www.facebook.com/DjPohy) has been operating on the Drum&Bass and Dubstep scenes for over a decade.
 
