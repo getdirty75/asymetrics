@@ -31,11 +31,11 @@ outsideLinks:
 
 ##### Every month, French Bass Music Don DJ Pohy shares his top 9 with us - Get wild!
 
-A native of Lille, northern France, [Pohy](www.facebook.com/DjPohy) has been active on the Drum&Bass and Dubstep scenes for well over a decade.
+A native of Lille, northern France, and often active in Paris, [Pohy](www.facebook.com/DjPohy) has been operating on the Drum&Bass and Dubstep scenes for well over a decade.
 
 Together with partner in crime [DJ Bluntsman](https://soundcloud.com/dj-bluntsman), Pohy runs the [One More Tune](https://rinse.fr/artists/one-more-tune/) sessions on Rinse France, as well as the "[Safe Travel](https://www.radiocampusparis.org/emission/safe-travel/)" show on Radio Campus.
 
-If you dig this monthly ruffage and want more, follow Pohy on [Mixcloud](www.mixcloud.com/djpohy) and One More Tune on [Facebook](www.facebook.com/rinseomt) for regular bass fixes.
+If you dig this monthly ruffage and want to hear more, follow Pohy on [Mixcloud](www.mixcloud.com/djpohy) and One More Tune on [Facebook](www.facebook.com/rinseomt) for regular bass fixes.
 
 ### Current Top 9: September 2020 (D&B):
 
