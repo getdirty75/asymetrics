@@ -5,9 +5,20 @@ import { Link, graphql, StaticQuery } from 'gatsby'
 
 class BlogRoll extends React.Component {
 
+  /* Randomize array in-place using Durstenfeld shuffle algorithm */
+mixItUp = (array) => {
+  for (var i = array.length - 1; i > 0; i--) {
+    var j = Math.floor(Math.random() * (i + 1));
+    var temp = array[i];
+    array[i] = array[j];
+    array[j] = temp;
+  }
+};
+
   render() {
     const { data } = this.props
     const { edges: posts } = data.allMarkdownRemark
+    // this.mixItUp(posts);
 
     return (
       <div className='izmirRoll'>
@@ -68,7 +79,6 @@ export default () => (
       query BlogRollQuery {
         allMarkdownRemark(
           sort: { order: DESC, fields: [frontmatter___date] }
-          filter: { frontmatter: { categories: { nin: "radio" } } }
         ) {
           edges {
             node {
