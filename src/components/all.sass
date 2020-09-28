@@ -155,7 +155,6 @@ footer.footer
 .blogPost__subKey
   font: 100% $font-regular !important
   font-size: 17px !important
-  color: $color-black
   margin-bottom: 0rem !important
 
 .blogPost__subValue
@@ -163,6 +162,26 @@ footer.footer
   text-transform: lowercase
   color: rgba(85, 26, 139, 1) !important
   font-size: 15px !important
+  margin-bottom: 0rem !important
+
+.blogPost__subAuthor
+  font: 100% $font-regular !important
+  text-transform: uppercase
+  color: hsla(0, 8%, 13%, 1) !important
+  font-size: 15px !important
+  margin-bottom: 0rem !important
+  margin-top: 0.8rem !important
+
+.blogPost__subDate
+  font: 100% $font-regular !important
+  color: hsla(0, 8%, 13%, 1) !important
+  font-size: 14px !important
+  margin-bottom: 0rem !important
+
+.blogPost__subCat
+  font: 100% $font-regular !important
+  color: rgba(11, 92, 102, 1) !important
+  font-size: 14px !important
   margin-bottom: 0rem !important
 
 
@@ -281,6 +300,10 @@ footer.footer
   width: 100%
   object-fit: cover
 
+.catPage__column
+  display: flex !important
+  flex-direction: column !important
+
 
 
 //
@@ -324,6 +347,7 @@ footer.footer
   margin: 0.5em
 
 .blogRoll__tagsBox
+  margin-top: 0.8rem
   display: flex
   flex-direction: row
   justify-content: flex-end
@@ -331,15 +355,25 @@ footer.footer
 .blogRoll__tags
   font: 100% $font-regular !important
   font-size: 16px !important
-  color: $color-black
+
+.blogRoll__teaser
+  margin-top: 0.6rem
+  font: 100% $font-regular !important
+  font-size: 16px !important
+
+.blogRoll__author
+  margin-top: 0.8rem
+  font: 100% $font-regular !important
+  font-size: 16px !important
+  font-style: italic !important
 
 .blogRoll__categories
   font: 100% $font-regular !important
   font-size: 16px !important
   color: #0b5c66 !important
+  text-transform: uppercase
 
-.blogPost__teaser
-  color: $color-black
+
 
 .blogRoll__item
   padding: 1.5rem !important

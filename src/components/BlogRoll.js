@@ -1,6 +1,7 @@
 import React from 'react'
 import PropTypes from 'prop-types'
 import { Link, graphql, StaticQuery } from 'gatsby'
+import { CATEGORIES } from '../translation/enum'
 // import PreviewCompatibleImage from './PreviewCompatibleImage'
 
 class BlogRoll extends React.Component {
@@ -47,13 +48,13 @@ mixItUp = (array) => {
                 <Link to={post.fields.slug}>
                   <p className="blogRoll__itemTitle">{post.frontmatter.title}</p>
                 </Link>
-                <p className="blogRoll__tags">{post.frontmatter.teaser}</p>
+                <p className="blogRoll__teaser">{post.frontmatter.teaser}</p>
                 <div className="blogRoll__tagsBox">
                   <Link className="blogRoll__categories" to={`/categories/${post.frontmatter.categories}`}>
-                    {post.frontmatter.categories}
+                    {CATEGORIES.filter((cat) => cat.value === post.frontmatter.categories)[0].label}
                   </Link>
                 </div>
-                <p className="blogRoll__tags">{post.frontmatter.author}</p>
+                <p className="blogRoll__author">{post.frontmatter.author}</p>
               </div>
             </article>
           </div>

@@ -3,6 +3,7 @@ import { kebabCase } from 'lodash'
 import { Helmet } from 'react-helmet'
 import { Link, graphql } from 'gatsby'
 import Layout from '../../components/Layout'
+import { CATEGORIES } from '../../translation/enum'
 
 const CategoriesPage = ({
   data: {
@@ -22,11 +23,11 @@ const CategoriesPage = ({
             style={{ marginBottom: '6rem' }}
           >
             <h4 className="title is-size-2 is-bold-light">Categories</h4>
-            <ul className="taglist">
+            <ul className="taglist catPage__column">
               {group.map((category) => (
                 <li key={category.fieldValue}>
                   <Link className="tags__headerText" to={`/categories/${kebabCase(category.fieldValue)}/`}>
-                    <h2 className="tags__headerText">{category.totalCount} {category.fieldValue}</h2>
+                    <h2 className="tags__headerText">{category.totalCount} {CATEGORIES.filter((cat) => cat.value === category.fieldValue)[0].label}</h2>
                   </Link>
                 </li>
               ))}

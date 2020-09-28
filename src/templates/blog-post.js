@@ -4,6 +4,7 @@ import { Helmet } from 'react-helmet'
 import { Link, graphql } from 'gatsby'
 import Layout from '../components/Layout'
 import Content, { HTMLContent } from '../components/Content'
+import { CATEGORIES } from '../translation/enum'
 
 export const BlogPostTemplate = ({
   author,
@@ -46,12 +47,11 @@ export const BlogPostTemplate = ({
               </Link>)
               )}
             </div>
-            <p className='blogPost__subKey'>
-              <span className='blogPost__subValue'>{author}</span>
-              ,&nbsp;
-              <span className='blogPost__subValue'>{categories}</span>&nbsp;
-              <span className='blogPost__subValue'>{date}&nbsp;</span>
-            </p>
+            <div className='blogPost__subKey'>
+              <p className='blogPost__subAuthor'>{author},&nbsp;</p>
+              <p className='blogPost__subDate'>{date}&nbsp;</p>
+              <Link className="blogPost__subCat" to={`/categories/${categories}`}>{CATEGORIES.filter((cat) => cat.value === categories)[0].label}</Link>
+            </div>
           </div>
           <div className='column is-8 blogPost__centerColumn'>
             <PostContent className='blogPost__text' content={content} />
