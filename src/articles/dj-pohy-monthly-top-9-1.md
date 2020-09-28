@@ -31,7 +31,7 @@ outsideLinks:
 
 <br>
 
-##### Every month, our Bass Music specialist DJ Pohy shares a new top 9 !
+##### Every month, our Bass Music specialist DJ Pohy shares his favorite picks with us.
 
 Hailing from Lille, France, and currently based in Paris, [Pohy](www.facebook.com/DjPohy) has been operating on the Drum&Bass and Dubstep scenes for over a decade.
 
