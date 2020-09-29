@@ -1,27 +1,8 @@
-> PARDON MY FRENCH
+<a href="https://theasymetrics.com/" target="_blank">The Asymetrics</a> is a creative collective.<br/>
+<br/>
+We share humble knowledge and stories about music, culture, or any other interesting, creative, and distinctive exploits from all around the World.<br/>
+<br/>
+The 3 founders, although acquainted before, formally met a decade ago in Beijing, China, over a few too many glasses of <a href="https://baijiureview.com/red-star-erguotou/" target="_blank">ErGuTou</a>, and have since continued with adventures which include, hunting for a lost flute in the trunk of Beijing's 60,000+ cabs, drunkenly singing at a wedding in Thailand, getting kicked out of a Roman karaoke by the mafia...<br/>
+<br/>
 
-
-### https://theasymetrics.com/
-
-The Asymetrics is a collective sharing knowledge about music, & culture from all around the world. <br/>
-Digging in different subjects through articles, podcasts, mixtapes and more...
-
-## LIBRARIES
-
-This site was built using :<br />
-REACT / GATSBY / GRAPHQL / NETLIFY CMS <br />
-
-## TODOS
-
-- [ ] content manager: add insideLinks object
-- [ ] content manager: templates for paragraphs
-- [ ] content manager: hidden --> layout choice
-- [ ] switch / reverse columns in blog post tempalte for mobile
-- [ ] turn tags page into categories page
-- [ ] change url for articles add /blog/:categories
-- [ ] change tagsTemplate to categoriesTemplate
-- [ ] about page
-- [ ] footer ?
-- [ ] different blogRolls with animations
-- [ ] Transitions
-- [ ] Add esLint config on the repo
+> The Asymetrics do cool things and make your life better.<br/>
