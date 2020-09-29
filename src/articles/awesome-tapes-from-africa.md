@@ -5,7 +5,7 @@ author: Malong
 featuredpost: true
 title: Awesome Tapes from Africa
 teaser: Sheer awesomeness delivered by a die-hard tape digger!
-categories: mixtapes
+categories: news
 tags:
   - "#Africa"
   - "#Cassettes"
