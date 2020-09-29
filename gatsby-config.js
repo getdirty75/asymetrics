@@ -19,9 +19,9 @@ module.exports = {
       resolve: `gatsby-plugin-manifest`,
       options: {
         icon: `src/img/logo_256.png`, // This path is relative to the root of the site.
-        name: `The Asymetrics`,
-        short_name: `theAsymetrics`,
-        description: `Asymetrics does cool things and makes your life better.`,
+        name: `theAsymetrics`,
+        short_name: `Asymetrics`,
+        description: `Asymetrics do cool things and make your life better.`,
         lang: `en`,
         start_url: `/`,
         background_color: `#f7f0eb`,
@@ -56,6 +56,12 @@ module.exports = {
       options: {
         path: `${__dirname}/src/img`,
         name: 'images',
+      },
+    },
+    {
+      resolve: `gatsby-plugin-layout`,
+      options: {
+        component: require.resolve(`./src/components/Layout.js`),
       },
     },
     'gatsby-plugin-sharp',

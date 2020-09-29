@@ -1,7 +1,6 @@
 import React from 'react'
 import { Helmet } from 'react-helmet'
 import { Link, graphql } from 'gatsby'
-import Layout from '../components/Layout'
 import '../components/izmir.css';
 
 class TagRoute extends React.Component {
@@ -36,23 +35,21 @@ class TagRoute extends React.Component {
     const tagHeader = `${totalCount} article${totalCount === 1 ? '' : 's'} under ${tag} tag`
 
     return (
-      <Layout>
-        <section className="section">
-          <Helmet title={`${tag} | ${title}`} />
-          <div className="container content">
-            <div className="columns">
-              <div
-                className="column is-10 is-offset-1"
-                style={{ marginBottom: '6rem' }}
-              >
-                <h2 className='tags__headerText'>{tagHeader}</h2>
-                <p><Link className='tags__headerText' to="/tags/">Search all tags</Link></p>
-                <div className='blogRoll columns'>{postLinks}</div>
-              </div>
+      <section className="section">
+        <Helmet title={`${tag} | ${title}`} />
+        <div className="container content">
+          <div className="columns">
+            <div
+              className="column is-10 is-offset-1"
+              style={{ marginBottom: '6rem' }}
+            >
+              <h2 className='tags__headerText'>{tagHeader}</h2>
+              <p><Link className='tags__headerText' to="/tags/">Search all tags</Link></p>
+              <div className='blogRoll columns'>{postLinks}</div>
             </div>
           </div>
-        </section>
-      </Layout>
+        </div>
+      </section>
     )
   }
 }

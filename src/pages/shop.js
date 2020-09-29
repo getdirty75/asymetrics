@@ -1,10 +1,10 @@
+
 import React from "react";
-import Layout from '../components/Layout';
 
 const ShopPage = () => {
 
   return(
-    <Layout>
+    <>
       <div class="tile is-ancestor section">
         <div class="tile is-parent">
           <article class="tile is-child box">
@@ -123,8 +123,7 @@ const ShopPage = () => {
           </article>
         </div>
       </div>
-
-    </Layout>
+    </>
   )
 
 }

@@ -1,5 +1,5 @@
+
 import React from "react";
-import Layout from '../components/Layout';
 import PropTypes from 'prop-types'
 import { Link, graphql, StaticQuery } from 'gatsby'
 
@@ -10,21 +10,19 @@ class RadioPage extends React.Component {
     const { edges: posts } = data.allMarkdownRemark
 
     return(
-      <Layout>
-        <div className="container">
-          <div className="section">
-            <div className='izmirRoll'>
-              <div className="blogRoll
-                columns
-                is-multiline
-                is-three-quarters-mobile
-                is-two-thirds-tablet
-                is-half-desktop
-                is-one-third-widescreen
-                is-one-quarter-fullhd"
-              >
-
-                {posts && posts.map(({ node: post }) => (
+      <div className="container">
+        <div className="section">
+          <div className='izmirRoll'>
+            <div className="blogRoll
+              columns
+              is-multiline
+              is-three-quarters-mobile
+              is-two-thirds-tablet
+              is-half-desktop
+              is-one-third-widescreen
+              is-one-quarter-fullhd"
+            >
+              {posts && posts.map(({ node: post }) => (
                 <div className="is-parent column is-4 blogRoll__item" key={post.id}>
                   <article>
                     <Link to={post.fields.slug}>
@@ -50,11 +48,10 @@ class RadioPage extends React.Component {
                   </article>
                 </div>
               ))}
-              </div>
             </div>
           </div>
         </div>
-      </Layout>
+      </div>
     )
 
   }

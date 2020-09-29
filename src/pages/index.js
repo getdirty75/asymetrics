@@ -1,18 +1,15 @@
-import React from 'react'
 
-import Layout from '../components/Layout'
+import React from 'react'
 import BlogRoll from '../components/BlogRoll'
 
 const IndexPage = () => {
 
   return (
-    <Layout>
-      <div className="container">
-        <div className="section">
-          <BlogRoll />
-        </div>
+    <div className="container">
+      <div className="section">
+        <BlogRoll />
       </div>
-    </Layout>
+    </div>
   )
 }
 

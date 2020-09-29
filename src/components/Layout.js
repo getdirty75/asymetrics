@@ -1,13 +1,14 @@
 import React from 'react'
 import { Helmet } from 'react-helmet'
 import Navbar from '../components/Navbar'
-import Footer from '../components/Footer'
+import Transition from '../components/Transition'
 import './all.sass'
 import useSiteMetadata from './SiteMetadata'
 import { withPrefix } from 'gatsby'
 
-const TemplateWrapper = ({ children }) => {
+const TemplateWrapper = ({ children, location }) => {
   const { title, description } = useSiteMetadata()
+
   return (
     <div>
       <Helmet>
@@ -33,8 +34,10 @@ const TemplateWrapper = ({ children }) => {
         <meta property="og:image" itemprop="image" content="https://theasymetrics.com/logo_256.png" />
       </Helmet>
       <Navbar />
-      <div>{children}</div>
-      {/* <Footer /> */}
+      <Transition location={location}>
+        <div>{children}</div>
+        {/* <Footer /> */}
+      </Transition>
     </div>
   )
 }

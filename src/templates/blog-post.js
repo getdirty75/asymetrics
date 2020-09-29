@@ -98,33 +98,31 @@ const BlogPost = ({ data }) => {
   console.log(url)
 
   return (
-    <Layout>
-      <BlogPostTemplate
-        author={post.frontmatter.author}
-        categories={post.frontmatter.categories}
-        date={post.frontmatter.date}
-        content={post.html}
-        contentComponent={HTMLContent}
-        featuredimage={post.frontmatter.featuredimage.childImageSharp.fluid.src}
-        insideLinks={post.frontmatter.insideLinks}
-        outsideLinks={post.frontmatter.outsideLinks}
-        teaser={post.frontmatter.teaser}
-        helmet={
-          <Helmet titleTemplate="%s | Blog">
-            <title>{`${post.frontmatter.title}`}</title>
-            <meta property="og:type" content="article" />
-            <meta property="og:title" content={`${post.frontmatter.title}`} />
-            <meta property="og:description" content={`${post.frontmatter.teaser}`} />
-            <meta property="og:url" content={url} />
-            <meta property="og:site_name" content="Asymetrics Magazine" />
-            <meta property="og:image" itemprop="image" content={`https://theasymetrics.com${post.frontmatter.featuredimage.childImageSharp.fluid.src}`} />
-            <meta name="description" content={`${post.frontmatter.teaser}`} />
-          </Helmet>
-        }
-        tags={post.frontmatter.tags}
-        title={post.frontmatter.title}
-      />
-    </Layout>
+    <BlogPostTemplate
+      author={post.frontmatter.author}
+      categories={post.frontmatter.categories}
+      date={post.frontmatter.date}
+      content={post.html}
+      contentComponent={HTMLContent}
+      featuredimage={post.frontmatter.featuredimage.childImageSharp.fluid.src}
+      insideLinks={post.frontmatter.insideLinks}
+      outsideLinks={post.frontmatter.outsideLinks}
+      teaser={post.frontmatter.teaser}
+      helmet={
+        <Helmet titleTemplate="%s | Blog">
+          <title>{`${post.frontmatter.title}`}</title>
+          <meta property="og:type" content="article" />
+          <meta property="og:title" content={`${post.frontmatter.title}`} />
+          <meta property="og:description" content={`${post.frontmatter.teaser}`} />
+          <meta property="og:url" content={url} />
+          <meta property="og:site_name" content="Asymetrics Magazine" />
+          <meta property="og:image" itemprop="image" content={`https://theasymetrics.com${post.frontmatter.featuredimage.childImageSharp.fluid.src}`} />
+          <meta name="description" content={`${post.frontmatter.teaser}`} />
+        </Helmet>
+      }
+      tags={post.frontmatter.tags}
+      title={post.frontmatter.title}
+    />
   )
 }
 
