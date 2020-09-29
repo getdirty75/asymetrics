@@ -5,7 +5,7 @@ teaser: A regular selection of 13 tracks in no particular order, preference of
   genre, or other purpose but to make you feel fine!
 featuredimage: /img/theasymetrics_malong_roundup1.jpg
 author: Malong
-categories: radio
+categories: mixtapes
 tags:
   - "#Bollywood"
   - "#Boogie"
