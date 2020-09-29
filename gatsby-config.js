@@ -16,6 +16,27 @@ module.exports = {
       },
     },
     {
+      resolve: `gatsby-plugin-manifest`,
+      options: {
+        icon: `src/img/logo_256.png`, // This path is relative to the root of the site.
+        name: `The Asymetrics`,
+        short_name: `theAsymetrics`,
+        description: `Asymetrics does cool things and makes your life better.`,
+        lang: `en`,
+        start_url: `/`,
+        background_color: `#f7f0eb`,
+        theme_color: `#a2466c`,
+        display: `standalone`,
+        cache_busting_mode: `query`, // `query`(default), `name`, or `none`
+      },
+    },
+    {
+      resolve: `gatsby-plugin-offline`,
+      options: {
+        precachePages: [`/*`],
+      },
+    },
+    {
       // keep as first gatsby-source-filesystem plugin for gatsby image support
       resolve: 'gatsby-source-filesystem',
       options: {
