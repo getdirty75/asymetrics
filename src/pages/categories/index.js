@@ -27,7 +27,13 @@ const CategoriesPage = ({
               {group.map((category) => (
                 <li key={category.fieldValue}>
                   <Link className="tags__headerText" to={`/categories/${kebabCase(category.fieldValue)}/`}>
-                    <h2 className="tags__headerText">{category.totalCount} {CATEGORIES.filter((cat) => cat.value === category.fieldValue)[0].label}</h2>
+                    <h2 className="tags__headerText">
+                      {category.totalCount}
+                      {CATEGORIES.some((cat) => cat.value === category.fieldValue)
+                        ? CATEGORIES.filter((cat) => cat.value === category.fieldValue)[0].label
+                        : category.fieldValue
+                      }
+                    </h2>
                   </Link>
                 </li>
               ))}

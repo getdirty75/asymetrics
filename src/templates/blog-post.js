@@ -50,7 +50,12 @@ export const BlogPostTemplate = ({
             <div className='blogPost__subKey'>
               <p className='blogPost__subAuthor'>{author},&nbsp;</p>
               <p className='blogPost__subDate'>{date}&nbsp;</p>
-              <Link className="blogPost__subCat" to={`/categories/${categories}`}>{CATEGORIES.filter((cat) => cat.value === categories)[0].label}</Link>
+              <Link className="blogPost__subCat" to={`/categories/${categories}`}>
+                {CATEGORIES.some((cat) => cat.value === categories)
+                  ? CATEGORIES.filter((cat) => cat.value === categories)[0].label
+                  : categories
+                }
+              </Link>
             </div>
           </div>
           <div className='column is-8 blogPost__centerColumn'>

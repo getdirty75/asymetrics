@@ -35,7 +35,10 @@ class CategoryRoute extends React.Component {
     const title = this.props.data.site.siteMetadata.title
     const totalCount = this.props.data.allMarkdownRemark.totalCount
     // const categoryHeader = `${totalCount} asymetric's stor${totalCount === 1 ? 'y' : 'ies'} for '${CATEGORIES.filter((cat) => cat.value === category)[0].label}' category`
-    const categoryHeader = `${totalCount} ${CATEGORIES.filter((cat) => cat.value === category)[0].label}`
+    const categoryHeader = `${totalCount} ${CATEGORIES.some((cat) => cat.value === category)
+      ? CATEGORIES.filter((cat) => cat.value === category)[0].label
+      : category
+    }`
     return (
       <Layout>
         <section className="section">
