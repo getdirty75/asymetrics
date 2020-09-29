@@ -5,7 +5,7 @@ author: Malong
 featuredpost: true
 title: Echoes selection by Malong
 teaser: Dubbed-Out Cumbia, Proto-Dancehall, Jungle & Afro-Bogle
-categories: radio
+categories: mixtapes
 tags:
   - "#Cumbia"
   - "#Dancehall"
