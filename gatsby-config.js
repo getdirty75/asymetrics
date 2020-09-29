@@ -58,6 +58,12 @@ module.exports = {
         name: 'images',
       },
     },
+    {
+      resolve: `gatsby-plugin-layout`,
+      options: {
+        component: require.resolve(`./src/components/Layout.js`),
+      },
+    },
     'gatsby-plugin-sharp',
     'gatsby-transformer-sharp',
     {
