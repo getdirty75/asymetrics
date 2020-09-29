@@ -27,8 +27,4 @@ export const CATEGORIES = [
     label: "Artworks / Pictures / Paintings",
     value: "artworks",
   },
-  {
-    label: "Artworks / Pictures / Paintings",
-    value: "radio",
-  },
 ];
