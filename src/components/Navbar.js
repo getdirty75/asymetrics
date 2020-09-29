@@ -3,6 +3,7 @@ import { Link } from 'gatsby'
 import insta from '../img/social/instagram.svg'
 import soundcloud from '../img/social/soundcloud.svg'
 // import logo from '../img/logo.png'
+import { RoughNotation } from "react-rough-notation"
 
 const Navbar = class extends React.Component {
   constructor(props) {
@@ -35,7 +36,15 @@ const Navbar = class extends React.Component {
             <Link to="/" className="navbar-item is-flex-touch" title="Logo">
               {/* <div><img className="blurb_img logoed" src={logo} /></div> */}
               <div className="container">
-                <h1 className='navBar__title'>Asymetrics <p className="navBar__subtitle"></p></h1>
+              <RoughNotation
+                animationDelay={5000}
+                animationDuration={1500}
+                color="linen"
+                type="highlight"
+                show={true}
+              >
+                <h1 className='navBar__title'>Asymetrics&nbsp;</h1>
+                </RoughNotation>
                 <p className="home__desc">Always odd never aligned...</p>
               </div>
 
