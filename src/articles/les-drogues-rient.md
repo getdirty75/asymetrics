@@ -1,5 +1,8 @@
 ---
 templateKey: blog-post
+featuredimage: /img/theasymetrics_drogueries_murat15_copie.jpg
+author: Lord Sandwich
+featuredpost: true
 title: "Les Drogues Rient "
 teaser: >-
   "Les drogueries, ces temples oubliés, derniers gardiens d'une époque où l'on
@@ -7,10 +10,7 @@ teaser: >-
   30 m2. Magique." 
 
   Words & Pictures by Yannick Sage
-featuredimage: /img/theasymetrics_drogueries_murat15_copie.jpg
-author: Lord Sandwich
-featuredpost: true
-categories: knowledge
+categories: artworks
 tags:
   - "#typography"
   - "#oldstores"
