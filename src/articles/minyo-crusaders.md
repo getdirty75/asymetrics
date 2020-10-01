@@ -15,6 +15,18 @@ tags:
   - "#Japan"
   - "#Folk"
 date: 2020-10-01T03:29:37.325Z
+outsideLinks:
+  outsideLinksList:
+    - text: Minyo Crusaders
+      link: https://bacana.live/artist/minyo-crusaders/
+    - text: Echoes of Japan
+      link: https://minyocrusaders.bandcamp.com/album/echoes-of-japan
+    - text: Minyo Cumbiero
+      link: https://minyocrusaders.bandcamp.com/album/minyo-crusaders-and-frente-cumbiero-present-minyo-cumbiero
+    - text: Caravan
+      link: https://theasymetrics.com/caravan/
+    - text: "Malong's Round-Up # 2"
+      link: https://theasymetrics.com/malong%E2%80%99s-round-up-2nd-round/
 ---
 ![](/img/theasymetrics_minyocrusaders_small.jpg)
 
@@ -42,13 +54,17 @@ It turns out*,*sung by the intense **Freddie Tsukamoto,** Japanese [Min’Yo](ht
 
 The idea for such an out-of-the box combo came from guitarist **Katsumi Tanaka**’s distress after an earthquake in Tohoku in 2011. Himself stemming from the rock scene, he figured getting back to traditional fishermen, coil miners and other rural folk songs would create a catalyst, and enlisted the help of Tsukamoto, a Jazz singer with a passion for Min’Yo.
 
-The pair proceeded to gather an unlikely crew of musicians from different backgrounds (full story [HERE](https://worldmusiccentral.org/2019/06/01/artist-profiles-minyo-crusaders/) and [HERE](https://avo-magazine.nl/en/2019/10/avo-interview-a-conversation-with-katsumi-tanaka-of-minyo-crusaders/)), from Ska to Reggae, or Cuban Son. Among them is phenomenal Bongo player Mutsumi Kobayashi, a familiar of Cumbia, which you can see below along with her other band Mumbia y sus Candelosos (and the wonderful melodica player [Pianica Maeda](https://www.discogs.com/artist/137271-Pianica-Maeda)):
+The pair proceeded to gather an unlikely crew of musicians from different backgrounds (full story [HERE](https://worldmusiccentral.org/2019/06/01/artist-profiles-minyo-crusaders/) and [HERE](https://avo-magazine.nl/en/2019/10/avo-interview-a-conversation-with-katsumi-tanaka-of-minyo-crusaders/)), from Ska to Reggae, or Cuban Son. Among them is phenomenal Bongo player Mutsumi Kobayashi, a familiar of Cumbia, which you can see below with her other band Mumbia y sus Candelosos (and the wonderful melodica player [Pianica Maeda](https://www.discogs.com/artist/137271-Pianica-Maeda)):
 
 <iframe width="100%" height="380" src="https://www.youtube-nocookie.com/embed/jigqce1TsNA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen referrerpolicy="origin"></iframe>
 
+<br>
+
+<br>
+
 Such genius did not remain in the dark for very long, and Minyo Crusaders quickly got lined-up at many World music festivals ([watch them astound the crowd](https://www.youtube.com/watch?v=HDN9KHqvDxs) at Utrecht cutting-edge Le Guess Who).
 
-In the process, they got the attention of another group of folks straight from one of Cumbia’s hotbeds: Colombia’s very own [Frente Cumbiero](https://frentecumbiero.bandcamp.com/music). Immediately hooked by their vibe, Bogota based Mario Galeano Toro (also behind the brilliant [Ondatrópica](https://theculturetrip.com/south-america/colombia/articles/meet-ondatropica-the-supergroup-bringing-colombian-music-to-the-world/) project) invited them to his studio for a 2 days session which resulted in a powerful E.P Titled *[Minyo Cumbiero](https://minyocrusaders.bandcamp.com/album/minyo-crusaders-and-frente-cumbiero-present-minyo-cumbiero).*
+In the process, they got the attention of another group of folks straight from Cumbia’s hotbed: Colombia’s very own [Frente Cumbiero](https://frentecumbiero.bandcamp.com/music). Immediately hooked by their vibe, Bogota based Mario Galeano Toro (also behind the brilliant [Ondatrópica](https://theculturetrip.com/south-america/colombia/articles/meet-ondatropica-the-supergroup-bringing-colombian-music-to-the-world/) project) invited them to his studio for a 2 days session which resulted in a powerful E.P Titled *[Minyo Cumbiero](https://minyocrusaders.bandcamp.com/album/minyo-crusaders-and-frente-cumbiero-present-minyo-cumbiero).*
 
 ![](/img/theasymetrics_minyocrusaders_frentecumbiero.jpg)
 
