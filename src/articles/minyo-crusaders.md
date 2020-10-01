@@ -36,7 +36,7 @@ outsideLinks:
 
  Personally, on top of it, I have an obsession for all things Japanese (like all western kids growing up in the 80s and 90s, I fell in the Manga culture cauldron from an early age, and later developed a taste for Japanese cinema, traditional music and literature).
 
-So, when a friend put the below video of [Minyo Crusaders](https://bacana.live/artist/minyo-crusaders/)’*Aizu Bandaisan* cumbia-infused madness under my radar, I literally jumped off my seat!
+So, when a friend put the below video of [Minyo Crusaders](https://bacana.live/artist/minyo-crusaders/)’ *Aizu Bandaisan* cumbia-driven madness under my radar, I literally jumped off my seat!
 
 <iframe width="100%" height="380" src="https://www.youtube-nocookie.com/embed/LOxXUFgwe_I" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen referrerpolicy="origin"></iframe>
 
@@ -46,7 +46,7 @@ So, when a friend put the below video of [Minyo Crusaders](https://bacana.live/a
 
 #### Hooked yet?
 
-On my side I could not believe how hot the tune was, and immediately reminisced of Cumbia anthems like Rodolfo y su *Tipica’s [Tabaco y Ron](https://vampisoul.bandcamp.com/track/tabaco-y-ron-rodolfo-y-su-t-pica)*, or Lucho Bermudez’ *[Arroz con Coco](https://soundwayrecords.bandcamp.com/track/lucho-bermudez-y-su-orquesta-sabanera-arroz-con-coco).* Aizu Bandaisan also contains a brilliant homage to Duke Ellington’s *Caravan* – add that to [my list of favorite covers](https://theasymetrics.com/caravan/) of the classic!
+On my side I could not believe how hot the tune was, and immediately reminisced of Cumbia anthems like Rodolfo y su Tipica’s* [Tabaco y Ron](https://vampisoul.bandcamp.com/track/tabaco-y-ron-rodolfo-y-su-t-pica)*, or Lucho Bermudez’ *[Arroz con Coco](https://soundwayrecords.bandcamp.com/track/lucho-bermudez-y-su-orquesta-sabanera-arroz-con-coco).* Aizu Bandaisan also contains a brilliant homage to Duke Ellington’s *Caravan* – add that to **[my list of favorite covers](https://theasymetrics.com/caravan/)** of the classic!
 
 It turns out*,* sung by the intense **Freddie Tsukamoto,** Japanese [Min’Yo](https://en.wikipedia.org/wiki/Min%27y%C5%8D) folk songs make complete musical sense with African and Caribbean rhythms like Cumbia, Ethio-Jazz, Salsa, Reggae, or Afrobeat, as the band demonstrates throughout its first album, [Echoes of Japan](https://minyocrusaders.bandcamp.com/album/echoes-of-japan) (full playlist below):
 
@@ -74,7 +74,7 @@ In the process, they got the attention of another group of folks straight from C
 
 <br>
 
-Watch this incredible video for *Cumbia del Monte Fuji,*a straight up tribute to the timeless classic*[Cumbia Campuesana](https://www.youtube.com/watch?v=35ZQTxaiSpg)*, to get an idea of how much fun the experience seems to have been!
+Watch this incredible video for *Cumbia del Monte Fuji,*a straight up tribute to the classic *[Cumbia del Monte](https://www.youtube.com/watch?v=RN5O0xlDa-E)* by Pedro Laza, and infused with notes of another anthem[: *Cumbia Campuesana*](https://www.youtube.com/watch?v=35ZQTxaiSpg), to get an idea of how much fun the experience seems to have been! 
 
 <iframe width="100%" height="380" src="https://www.youtube-nocookie.com/embed/jy6No4Xuq_E" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen referrerpolicy="origin"></iframe>
 
