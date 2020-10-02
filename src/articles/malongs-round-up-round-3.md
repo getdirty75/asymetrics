@@ -210,7 +210,7 @@ The Japanese outlet (discussed on [THIS Asymetrics article](https://theasymetric
 
 ### **Les Beaux Gosses - Alé**
 
-<iframe width="100%" height="315" src="https://www.youtube-nocookie.com/embed/ahL_4hPuuZc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="100%" height="315" src="https://www.youtube-nocookie.com/embed/ahL_4hPuuZc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen referrerpolicy="origin"></iframe>
 
 <br>
 
@@ -221,7 +221,5 @@ Les Beaux Gosses seems to be an evolving band where musicians rotate, lead by [P
 Notorious among Francophone Caribbean musicians, Solibo pushes [Zouk](https://en.wikipedia.org/wiki/Zouk), [Gwo-Ka](https://en.wikipedia.org/wiki/Gwo_ka), [Biguine](https://en.wikipedia.org/wiki/Biguine) or [Compas](https://en.wikipedia.org/wiki/Compas), and features legendary artists like [Kassav](https://en.wikipedia.org/wiki/Kassav%27) or [Jobby Valente](https://www.discogs.com/artist/1943070-Joby-Valente). (Check out [this compilation](https://soundcloud.com/user-655805680/sets/productions-solibo-music) of their versatile productions).
 
 If you dig the vibe, go listen to Solibo’s hilarious tribute to the yellow vests movement by singer K-Pitol, soberly titled “[Les Gilets Jaunes vont tout péter](https://www.youtube.com/watch?v=AEw99EkQjhs)”; or the brilliant 2013 remake of Jobby Valente’s 80s hit “[J’aime les Bourgeois](https://www.youtube.com/watch?v=M9tworB24bM)”.
-
-
 
 ### ***This wraps it up, trust you got sweaty enough - Stay safe & keep digging!***
