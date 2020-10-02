@@ -21,12 +21,28 @@ tags:
   - "#Portugal"
   - "#Martinique"
 date: 2020-10-02T03:27:15.838Z
+outsideLinks:
+  outsideLinksList:
+    - link: https://theasymetrics.com/malongs-round-up-3rd-mixtape/
+      text: Malong's Round Up 3 - The mixtape
+    - text: "Malong's Round-Up # 2"
+      link: https://theasymetrics.com/malongs-round-up-2nd-mixtape/
+    - text: "Malong's Round-Up # 1"
+      link: https://theasymetrics.com/malong%E2%80%99s-monthly-round-up-%E2%80%93-first-round/
+    - text: Minyo Crusaders
+      link: https://theasymetrics.com/minyo-crusaders/
+    - text: Names You Can Trust
+      link: https://nyctrust.bandcamp.com/music
+    - text: NYP Records
+      link: https://nyp-records.bandcamp.com/
+    - text: Enchufada Records
+      link: https://enchufada.bandcamp.com/
 ---
 ![](/img/jordan-jelly-snake-and-drums-small.jpg "©Jordan_Jelly")
 
 <br>
 
-#### **For the full mixtape follow** [](https://theasymetrics.com/malongs-round-up-1st-playlist/)[](https://theasymetrics.com/malongs-round-up-2nd-mixtape/)THIS LINK**, or check our Soundcloud page.**
+#### **For the full mixtape follow** [](https://theasymetrics.com/malongs-round-up-1st-playlist/)[](https://theasymetrics.com/malongs-round-up-2nd-mixtape/)[THIS LINK](https://theasymetrics.com/malongs-round-up-3rd-mixtape/)**, or check our Soundcloud page.**
 
 # **Different routes, same destination! We're taking you on a kaleidoscopic musical journey via Argentina, Brazil, Ivory Coast, West Papua, Japan and much more... Featured tracks are:**
 
@@ -64,7 +80,7 @@ A wicked Favela-Funk twist to Canadian DJ Kaytranada’s *[Lite Spots](https://w
 
 [Ticklish](https://ticklishofficial.bandcamp.com/) is notorious for his dancefloor-driven [bootleg remixes](https://soundcloud.com/ticklishofficial/sets/ticklish-reboots) of R&B, Soul, Pop and occasionally Jungle classics. Unfortunately, at the time of wrapping-up this playlist, most of his pirate material had been taken down from his online platforms (I’m guessing copyrights issue). If you dig a bit, most of it is up for grabs though - tip!
 
-So for now, if you want to hear this pure gem you will have to go and listen to my full mixtape HERE or on the Asymetrics’ [Soundcloud page](https://soundcloud.com/the-asymetrics).
+So for now, if you want to hear this pure gem you will have to go and listen to my full mixtape [HERE](https://theasymetrics.com/malongs-round-up-3rd-mixtape/) or on the Asymetrics’ [Soundcloud page](https://soundcloud.com/the-asymetrics).
 
 And in the meantime, why not check Kaytranada’s genius video (below)*,*or better yet, listen to the splendid (Brazilian singer) [Gal Costa](https://www.discogs.com/artist/83770-Gal-Costa) tune where the voice hook [was sampled from](https://www.youtube.com/watch?v=HD1okZpPwzg).
 
