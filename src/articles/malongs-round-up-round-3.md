@@ -42,7 +42,7 @@ outsideLinks:
 
 <br>
 
-#### **For the full mixtape follow** [](https://theasymetrics.com/malongs-round-up-1st-playlist/)[](https://theasymetrics.com/malongs-round-up-2nd-mixtape/)[THIS LINK](https://theasymetrics.com/malongs-round-up-3rd-mixtape/)**, or check our Soundcloud page.**
+#### **For the full mixtape follow** [](https://theasymetrics.com/malongs-round-up-1st-playlist/)[](https://theasymetrics.com/malongs-round-up-2nd-mixtape/)[THIS LINK](https://theasymetrics.com/malongs-round-up-3rd-mixtape/)**, or check our [Soundcloud page](https://soundcloud.com/the-asymetrics/malongs-round-up-3).**
 
 # **Different routes, same destination! We're taking you on a kaleidoscopic musical journey via Argentina, Brazil, Ivory Coast, West Papua, Japan and much more... Featured tracks are:**
 
@@ -80,7 +80,7 @@ A wicked Favela-Funk twist to Canadian DJ Kaytranada’s *[Lite Spots](https://w
 
 [Ticklish](https://ticklishofficial.bandcamp.com/) is notorious for his dancefloor-driven [bootleg remixes](https://soundcloud.com/ticklishofficial/sets/ticklish-reboots) of R&B, Soul, Pop and occasionally Jungle classics. Unfortunately, at the time of wrapping-up this playlist, most of his pirate material had been taken down from his online platforms (I’m guessing copyrights issue). If you dig a bit, most of it is up for grabs though - tip!
 
-So for now, if you want to hear this pure gem you will have to go and listen to my full mixtape [HERE](https://theasymetrics.com/malongs-round-up-3rd-mixtape/) or on the Asymetrics’ [Soundcloud page](https://soundcloud.com/the-asymetrics).
+So for now, if you want to hear this pure gem you will have to go and listen to my full mixtape [HERE](https://theasymetrics.com/malongs-round-up-3rd-mixtape/) or on the Asymetrics’ [Soundcloud page](https://soundcloud.com/the-asymetrics/malongs-round-up-3).
 
 And in the meantime, why not check Kaytranada’s genius video (below)*,*or better yet, listen to the splendid (Brazilian singer) [Gal Costa](https://www.discogs.com/artist/83770-Gal-Costa) tune where the voice hook [was sampled from](https://www.youtube.com/watch?v=HD1okZpPwzg).
 
