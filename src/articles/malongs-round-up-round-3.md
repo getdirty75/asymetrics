@@ -28,9 +28,9 @@ date: 2020-10-02T03:27:15.838Z
 
 #### **For the full mixtape follow** [](https://theasymetrics.com/malongs-round-up-1st-playlist/)[](https://theasymetrics.com/malongs-round-up-2nd-mixtape/)THIS LINK**, or check our Soundcloud page.**
 
-
-
 # **Different routes, same destination! We're taking you on a kaleidoscopic musical journey via Argentina, Brazil, Ivory Coast, West Papua, Japan and much more... Featured tracks are:**
+
+<br>
 
 ### **History of Colour - Viva la Convolución**
 
@@ -40,25 +40,21 @@ date: 2020-10-02T03:27:15.838Z
 
 <br>
 
-Brainchild of Argentinian [Barrio Lindo](https://barriolindo.bandcamp.com/music) and British [El Buho](https://elbuho.bandcamp.com/) , History of Colour’s album [Antumbra](https://historyofcolour.bandcamp.com/album/antumbra) is a truly international affair, with tracks recorded between Buenos Aires, Lisbon and Paris, and released on a Berlin-based label ([Shika Shika](https://shikashika.bandcamp.com/music), which specializes in all things hyper-chilled from the global electronica scene, with an environmental awareness twist).
+Brainchild of Argentinian [Barrio Lindo](https://barriolindo.bandcamp.com/music) and British [El Buho](https://elbuho.bandcamp.com/) , History of Colour’s album [Antumbra](https://historyofcolour.bandcamp.com/album/antumbra) is a truly international affair, with tracks recorded between Buenos Aires, Lisbon and Paris, and released on a Berlin-based label ([Shika Shika](https://shikashika.bandcamp.com/music), which specializes in all things hyper-chilled from the global electronica scene, with an environmental awareness twist). This extract has a dreamy “*je ne sais quoi*” that made me play on repeat, and proves that sometimes the simplest ideas like running a few whispers through a sampler can have dazzling effects!
 
-This extract has a dreamy “je ne sais quoi” that made me play on repeat, and proves that sometimes the simplest ideas like running a few whispers through a sampler can have dazzling effects!
-
-While you check it out, don’t miss Shika Shika’s [Guide to the Birdsongs](https://shikashika.bandcamp.com/album/a-guide-to-the-birdsong-of-mexico-central-america-the-caribbean) series, where cutting edge regional artists like Dengue Dengue Dengue, Nicola Cruz, or Time Cow (of Equiknoxx fame) dropped flavorful tracks inspired by endangered birds species of Latin America and the Caribbean, in order to raise funds for local conservation organisations.
+ While you check it out, don’t miss Shika Shika’s [Guide to the Birdsongs](https://shikashika.bandcamp.com/album/a-guide-to-the-birdsong-of-mexico-central-america-the-caribbean) series, where cutting edge regional artists like [Dengue Dengue Dengue](https://denguedenguedengue.net/), **Nicola Cruz**, or **Time Cow** (of [Equiknoxx](https://equiknoxxmusic.bandcamp.com/artists) fame) dropped flavorful tracks inspired by endangered birds species of Latin America and the Caribbean, in order to raise funds for local conservation organisations.
 
 ![](/img/theasymetrics_historyofcolour.jpg)
 
 <br>
 
-
-
 ### **Maldito Final Feliz - La ciudad de Color**
-
-
 
 <iframe style="border: 0; width: 100%; height: 42px;" src="https://bandcamp.com/EmbeddedPlayer/album=1451410906/size=small/bgcol=ffffff/linkcol=0687f5/track=663222207/transparent=true/" seamless><a href="https://hawaiibonsairecords.bandcamp.com/album/la-ciudad-de-color">La Ciudad de Color by Maldito Final Feliz</a></iframe>
 
-Super chilled Latin-Bass dropped on Switzerland’s hyper funky [Hawaï Bonsaï](https://hawaiibonsairecords.bandcamp.com/music) imprint. Maldito Final Feliz is the nicer side of Lausanne based Fabian Wey’s [much less family friendly moniker](https://soundcloud.com/putafinalfeliz), known for his rough take on Cumbia and explosive [Moombahton](https://en.wikipedia.org/wiki/Moombahton).
+<br>
+
+Super chilled Latin-Bass dropped on Switzerland’s hyper funky [Hawaï Bonsaï](https://hawaiibonsairecords.bandcamp.com/music) imprint. Maldito Final Feliz is the nicer side of Lausanne based Fabian Wey’s [much less family friendly moniker](https://soundcloud.com/putafinalfeliz), known for his rough take on [Cumbia](https://theasymetrics.com/minyo-crusaders/) and explosive [Moombahton](https://en.wikipedia.org/wiki/Moombahton).
 
 ![](/img/theasymetrics_malditofinal_ciudaddecolor.jpg)
 
@@ -73,8 +69,6 @@ So for now, if you want to hear this pure gem you will have to go and listen to 
 And in the meantime, why not check Kaytranada’s genius video (below)*,*or better yet, listen to the splendid (Brazilian singer) [Gal Costa](https://www.discogs.com/artist/83770-Gal-Costa) tune where the voice hook [was sampled from](https://www.youtube.com/watch?v=HD1okZpPwzg).
 
 <iframe width="100%" height="380" src="https://www.youtube-nocookie.com/embed/KZnou4zthz4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen referrerpolicy="origin"></iframe>
-
-
 
 <br>
 
@@ -193,8 +187,6 @@ His latest album release, *[Kambara Anga](https://folcore-records.bandcamp.com/a
 <br>
 
 The Japanese outlet (discussed on [THIS Asymetrics article](https://theasymetrics.com/minyo-crusaders/)) hits us hard, this time powered up by Colombian super band [Frente Cumbiero](https://frentecumbiero.bandcamp.com/music) . Extracted from an [EP recorded in Bogota](https://minyocrusaders.bandcamp.com/album/minyo-crusaders-and-frente-cumbiero-present-minyo-cumbiero), which looked like a super fun experience judging by the music video... Carnival-vibed monster tune!
-
-
 
 ### **Les Beaux Gosses - Alé**
 
