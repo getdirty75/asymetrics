@@ -44,9 +44,7 @@ outsideLinks:
 
 #### **For the full mixtape follow** [](https://theasymetrics.com/malongs-round-up-1st-playlist/)[](https://theasymetrics.com/malongs-round-up-2nd-mixtape/)[THIS LINK](https://theasymetrics.com/malongs-round-up-3rd-mixtape/)**, or check our [Soundcloud page](https://soundcloud.com/the-asymetrics/malongs-round-up-3).**
 
-# **Different routes, same destination! We're taking you on a kaleidoscopic musical journey via Argentina, Brazil, Ivory Coast, West Papua, Japan and much more... Featured tracks are:**
-
-<br>
+## **Different routes, same destination! We're taking you on a kaleidoscopic musical journey via Argentina, Brazil, Ivory Coast, West Papua, Japan and much more... Featured tracks are:**
 
 ### **History of Colour - Viva la Convolución**
 
@@ -70,7 +68,7 @@ Brainchild of Argentinian [Barrio Lindo](https://barriolindo.bandcamp.com/music)
 
 <br>
 
-Super chilled Latin-Bass dropped on Switzerland’s hyper funky [Hawaï Bonsaï](https://hawaiibonsairecords.bandcamp.com/music) imprint. Maldito Final Feliz is the nicer side of Lausanne based Fabian Wey’s [much less family friendly moniker](https://soundcloud.com/putafinalfeliz), known for his rough take on [Cumbia](https://theasymetrics.com/minyo-crusaders/) and explosive [Moombahton](https://en.wikipedia.org/wiki/Moombahton).
+Super chilled Latin-Bass dropped on Switzerland’s hyper [Hawaï Bonsaï](https://hawaiibonsairecords.bandcamp.com/music) imprint. Maldito Final Feliz is the nicer side of Lausanne based Fabian Wey’s [much less family friendly moniker](https://soundcloud.com/putafinalfeliz), known for his rough take on [Cumbia](https://theasymetrics.com/minyo-crusaders/) and explosive [Moombahton](https://en.wikipedia.org/wiki/Moombahton).
 
 ![](/img/theasymetrics_malditofinal_ciudaddecolor.jpg)
 
@@ -90,7 +88,7 @@ And in the meantime, why not check Kaytranada’s genius video (below)*,*or bett
 
 ### **Kiff no Beat – La Go**
 
-The Abidjan bad boys, usually acknowledged for their harder [Afro-Trap/ Drill](https://www.youtube.com/watch?v=XgYwzQXKqoY), have been listening to [Burna Boy](https://www.youtube.com/watch?v=h7WfPHHXCAY) and the Nigerian new wave, and concocted this surprising atmospheric and kinky ballad. I’ve been grooving like a mad man to this one for months, so here it goes:
+The [Abidjan bad boys](https://www.instagram.com/kiffnobeat/?hl=en), usually acknowledged for their harder [Afro-Trap/ Drill](https://www.youtube.com/watch?v=XgYwzQXKqoY), have been listening to [Burna Boy](https://www.youtube.com/watch?v=h7WfPHHXCAY) and the Nigerian new wave, and concocted this surprising atmospheric and kinky ballad. I’ve been grooving like a madman to this one for months, so here it goes:
 
 <iframe width="100%" height="380" src="https://www.youtube-nocookie.com/embed/bd_uvAJdhvo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen referrerpolicy="origin"></iframe>
 
@@ -104,7 +102,7 @@ The Abidjan bad boys, usually acknowledged for their harder [Afro-Trap/ Drill](h
 
 <br>
 
-My favourite cut from [Enchufada na Zona Vol 2](https://brankoofficial.bandcamp.com/album/branko-presents-enchufada-na-zona-vol-2), second edition of the [Portugese label’](https://www.enchufada.com/)s flagship compilations. Branko, the label head and remixer on this irresistible post-Funana tune, is the lead producer and DJ behind the [Buraka Som Sistema](https://www.youtube.com/watch?v=wOMe-8Tf1Y0) experience, and has proven times again that his Lisbon-based venture goes beyond the Kuduro sound [he helped introducing to the World](https://www.youtube.com/watch?v=4CkXhtw7UNk). This tune in particular, pushes [Dino D’Santiago](https://www.rollingstone.com/music/music-features/dino-dsantiago-mundu-nobo-como-seria-video-779901/), the up and coming voice of Luso-African bass, responsible for gorgeous tunes like Os Funana (video below), into darker corners out of his usual [Kizomba-infused](https://www.youtube.com/watch?v=ZwgO8AbkoPE&list=PL5Ez1kj0yIKHrQQVDwNa4icRYKeIduhrJ&index=6) territory. Shut your eyes and dance!
+My favourite cut from [Enchufada na Zona Vol 2](https://brankoofficial.bandcamp.com/album/branko-presents-enchufada-na-zona-vol-2), second edition of the [Portugese label’](https://www.enchufada.com/)s flagship compilations. Branko, the label head and remixer on this irresistible post-Funana tune, is the lead producer and DJ behind the [Buraka Som Sistema](https://www.youtube.com/watch?v=wOMe-8Tf1Y0) experience, and has proven times again that his Lisbon-based venture goes beyond the Kuduro sound [he helped introducing to the World](https://www.youtube.com/watch?v=4CkXhtw7UNk). This tune in particular, pushes [Dino D’Santiago](https://www.rollingstone.com/music/music-features/dino-dsantiago-mundu-nobo-como-seria-video-779901/), the up and coming voice of Luso-African bass, responsible for gorgeous tunes like Os Funana (video below), into darker corners outside of his usual [Kizomba-infused](https://www.youtube.com/watch?v=ZwgO8AbkoPE&list=PL5Ez1kj0yIKHrQQVDwNa4icRYKeIduhrJ&index=6) territory. Just dance already!
 
 <iframe width="100%" height="380" src="https://www.youtube-nocookie.com/embed/3DJsBmelLl8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen referrerpolicy="origin"></iframe>
 
@@ -162,7 +160,7 @@ Tripped-out techno with syncopated tropical beats!
 
 Keleketla! is a brand new project by legendary duo [Coldcut](https://en.wikipedia.org/wiki/Coldcut), the visionary founders of essential label [Ninja Tunes](https://ninjatune.net/releases). Featuring an insane line-up of stellar artists from London to L.A., Johannesburg to Lagos and beyond, the [self-titled album](https://coldcut.bandcamp.com/album/keleketla) is one of the (rare) best things to happen in 2020!
 
-Papua Merdeka is a deep Afrobeat -driven call to freedom and independence with words from West Papua activist [Benny Wenda](https://www.bennywenda.org/), and featuring non-other than the late [Tony Allen](https://www.youtube.com/channel/UCv7eyw8x4apOHE9pg4kunPA) on the drums.
+Papua Merdeka is a deep Afrobeat-driven call to freedom and independence with words from West Papua activist [Benny Wenda](https://www.bennywenda.org/), and featuring non-other than the late [Tony Allen](https://www.youtube.com/channel/UCv7eyw8x4apOHE9pg4kunPA) on the drums.
 
 ![](/img/theasymetrics_keleketla-.jpg)
 
@@ -194,7 +192,7 @@ Pure extract from [NYP Records](https://nyp-records.bandcamp.com/)’ excellent 
 
 [Don Plok](https://folcore.org/es/don-plok) hails from Buenos Aires, and is part of the amazing galaxy of Argentinian artists revamping the Latin scene with global beats and Bass music elements.
 
-His latest album release, *[Kambara Anga](https://folcore-records.bandcamp.com/album/kambara-anga)*is a smooth travel highly influenced by South America’s African roots.
+His latest album release, *[Kambara Anga](https://folcore-records.bandcamp.com/album/kambara-anga)* is a smooth travel highly influenced by South America’s African roots.
 
 ![](/img/theasymetrics_donplok.jpg)
 
@@ -223,3 +221,7 @@ Les Beaux Gosses seems to be an evolving band where musicians rotate, lead by [P
 Notorious among Francophone Caribbean musicians, Solibo pushes [Zouk](https://en.wikipedia.org/wiki/Zouk), [Gwo-Ka](https://en.wikipedia.org/wiki/Gwo_ka), [Biguine](https://en.wikipedia.org/wiki/Biguine) or [Compas](https://en.wikipedia.org/wiki/Compas), and features legendary artists like [Kassav](https://en.wikipedia.org/wiki/Kassav%27) or [Jobby Valente](https://www.discogs.com/artist/1943070-Joby-Valente). (Check out [this compilation](https://soundcloud.com/user-655805680/sets/productions-solibo-music) of their versatile productions).
 
 If you dig the vibe, go listen to Solibo’s hilarious tribute to the yellow vests movement by singer K-Pitol, soberly titled “[Les Gilets Jaunes vont tout péter](https://www.youtube.com/watch?v=AEw99EkQjhs)”; or the brilliant 2013 remake of Jobby Valente’s 80s hit “[J’aime les Bourgeois](https://www.youtube.com/watch?v=M9tworB24bM)”.
+
+
+
+### ***This wraps it up, trust you got sweaty enough - Stay safe & keep digging!***
