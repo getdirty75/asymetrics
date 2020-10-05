@@ -1,8 +1,7 @@
 ---
 templateKey: blog-post
-title: 7 Wicked Mixtapes - Volume 2
-teaser: Ready for another musical journey ? Here are 7 mixtapes, handpicked for
-  you by The Asymetrical Team.
+title: "7 Wicked Mixtapes "
+teaser: Here are 7 new Mixtapes, handpicked for you by The Asymetrical Team.
 featuredimage: /img/credit-andyadontstop-flickr-3893223740_119530562c_c.jpg
 author: Lord Sandwich
 categories: mixtapes
@@ -36,13 +35,11 @@ outsideLinks:
 
 <br>
 
-Here are 7 mixtapes, handpicked for you by The Asymetrical Team... different styles, different vibes...
+Different styles, different vibes...
 
-Travelling between **Drum & Bass**, **Soul**, **Reggae**, **Garage**, **Ska** & **Dubstep**...
+Traveling between **Bass Music**, **Soul &** **Reggae**
 
 ## Put Your Headphones On & Chill :)
-
-<br>
 
 <br>
 
