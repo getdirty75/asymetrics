@@ -1,8 +1,7 @@
 ---
 templateKey: blog-post
-title: 7 Wicked Mixtapes - Volume 2
-teaser: Ready for another musical journey ? Here are 7 mixtapes, handpicked for
-  you by The Asymetrical Team.
+title: "7 Wicked Mixtapes "
+teaser: Here are 7 new Mixtapes, handpicked for you by The Asymetrical Team.
 featuredimage: /img/credit-andyadontstop-flickr-3893223740_119530562c_c.jpg
 author: Lord Sandwich
 categories: mixtapes
@@ -36,13 +35,11 @@ outsideLinks:
 
 <br>
 
-Here are 7 mixtapes, handpicked for you by The Asymetrical Team... different styles, different vibes...
+Different styles, different vibes...
 
-Travelling between **Drum & Bass**, **Soul**, **Reggae**, **Garage**, **Ska** & **Dubstep**...
+Traveling between **Bass Music**, **Soul &** **Reggae**
 
 ## Put Your Headphones On & Chill :)
-
-<br>
 
 <br>
 
@@ -86,7 +83,7 @@ Travelling between **Drum & Bass**, **Soul**, **Reggae**, **Garage**, **Ska** & 
 
 <br>
 
-#### [Jackie Michou](https://www.reverbnation.com/jackiemichou) plays a Jackie Mittoo Tribute
+#### [](https://www.reverbnation.com/jackiemichou)[Jacky Michoo](https://www.facebook.com/jackie.michou) plays a Jackie Mittoo Tribute
 
 <iframe width="100%" height="300" src="https://www.mixcloud.com/widget/iframe/?light=1&feed=%2Fjackiemichou%2Ftribute-to-jackie-mittoo-1%2F" frameborder="0" ></iframe>
 
