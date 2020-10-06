@@ -90,6 +90,16 @@ const Navbar = class extends React.Component {
             <Link className="navbar-item navbar__itemStyle" to="/categories/news">news</Link>
             <Link className="navbar-item navbar__itemStyle" to="/categories/mixtapes">mixtapes</Link>
             <Link className="navbar-item navbar__itemStyle" to="/categories/knowledge">knowledge</Link>
+            <a
+                className="navbar-item"
+                href="https://soundcloud.com/the-asymetrics"
+                target="_blank"
+                rel="noopener noreferrer"
+              >
+                <span className="icon">
+                  <img src={soundcloud} alt="Soundcloud" />
+                </span>
+              </a>
               <a
                 className="navbar-item"
                 href="https://www.instagram.com/asymetrics/"
