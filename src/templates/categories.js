@@ -2,7 +2,6 @@
 import React from 'react'
 import { Helmet } from 'react-helmet'
 import { Link, graphql } from 'gatsby'
-import '../components/izmir.css';
 import { CATEGORIES } from '../translation/enum'
 
 class CategoryRoute extends React.Component {
@@ -18,7 +17,7 @@ class CategoryRoute extends React.Component {
               <article className="horizontalRoll__fundamental media columns">
 
                 <div class="column columns">
-                  <figure className="image is-128x128 media-left">
+                  <figure className="image is-128x128 media-left antifigure">
                     <img
                       alt={post.node.frontmatter.title}
                       className="horizontalRoll__img"
@@ -30,7 +29,7 @@ class CategoryRoute extends React.Component {
                 <div class="column is-10 columns">
                   <div className="media-content">
                     <div className="content">
-                      <div className="horizontalRoll__pres">
+                      <div className="horizontalRoll__pres is-hidden-mobile">
                         <p className="horizontalRoll__date"><small>{post.node.frontmatter.date}</small>&nbsp;</p>
                         <p className="horizontalRoll__author">&nbsp;@{post.node.frontmatter.author}</p>
                       </div>

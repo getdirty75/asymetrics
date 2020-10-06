@@ -11,7 +11,7 @@ class BlogRoll extends React.Component {
     const { edges: posts } = data.allMarkdownRemark
 
     return (
-      <div className='izmirRoll'>
+      <div>
         <div className="blogRoll
           columns
           is-multiline
