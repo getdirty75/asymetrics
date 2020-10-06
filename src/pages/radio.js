@@ -12,7 +12,7 @@ class RadioPage extends React.Component {
     return(
       <div className="container">
         <div className="section">
-          <div className='izmirRoll'>
+          <div>
             <div className="blogRoll
               columns
               is-multiline

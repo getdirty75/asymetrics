@@ -56,7 +56,6 @@ const MagazinePage = () => {
         <article class="tile is-child box">
           <p class="subtitle">Artworks / Pictures / Design</p>
           {/* <div class="content">
-          <BlogRollIzmir />
           </div> */}
         </article>
       </div>
