@@ -36,14 +36,14 @@ const Navbar = class extends React.Component {
             <Link to="/" className="navbar-item is-flex-touch" title="Logo">
               {/* <div><img className="blurb_img logoed" src={logo} /></div> */}
               <div className="container">
-              <RoughNotation
-                animationDelay={5000}
-                animationDuration={1500}
-                color="linen"
-                type="highlight"
-                show={true}
-              >
-                <h1 className='navBar__title'>Asymetrics&nbsp;</h1>
+                <RoughNotation
+                  animationDelay={5000}
+                  animationDuration={1500}
+                  color="linen"
+                  type="highlight"
+                  show={true}
+                >
+                  <h1 className='navBar__title'>Asymetrics&nbsp;</h1>
                 </RoughNotation>
                 <p className="home__desc">Always odd never aligned...</p>
               </div>
