@@ -30,7 +30,7 @@ export const BlogPostTemplate = ({
   }
 
     return (
-    <section className='blog-post section'>
+    <section className='blog-post section slowdown'>
       {helmet || ''}
       <div className='container content'>
         <div className='blogPost__title'>
