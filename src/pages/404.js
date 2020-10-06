@@ -4,7 +4,7 @@ import { RoughNotation, RoughNotationGroup } from "react-rough-notation"
 const NotFoundPage = () => {
 
   return (
-    <div className="section errorPage">
+    <div className="errorPage">
       <div>
         <div className="errorPage__content">
           <RoughNotationGroup show={true}>
@@ -29,14 +29,14 @@ const NotFoundPage = () => {
               iterations={1}
               multiline={true}
             >
-              <p className="errorPage__text4">And radical means we’re just getting started.</p>
+              <p className="errorPage__text3">And radical means we’re just getting started.</p>
             </RoughNotation>
             <RoughNotation
               type='strike-through'
               color='blueviolet'
               padding={10}
             >
-              <h1 className="errorPage__text3">We are asymetrics.</h1>
+              <h4 className="errorPage__text4">We are asymetrics.</h4>
             </RoughNotation>
           </RoughNotationGroup>
         </div>
