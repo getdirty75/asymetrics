@@ -9,27 +9,76 @@ class CategoryRoute extends React.Component {
   render() {
     const posts = this.props.data.allMarkdownRemark.edges
     const postLinks = posts.map((post) => (
-      <div className="is-parent column is-3 blogRoll__item" key={post.id}>
-        <article>
-          <Link to={post.node.fields.slug}>
-            <p className="blogRoll__itemTitle2">{post.node.frontmatter.title}</p>
-          </Link>
-          <Link to={post.node.fields.slug}>
-            <div className="image is-5by4">
-              <img className="blogRoll__img"
-                alt={post.node.frontmatter.title}
-                src={post.node.frontmatter.featuredimage.childImageSharp.fluid.src}
-              />
-            </div>
-          </Link>
-          <Link to={post.node.fields.slug}>
-            <div className="blogRoll__sub">
-              <p className="blogRoll__tags">{post.node.frontmatter.teaser}</p>
-              <p className="blogRoll__tags">{post.node.frontmatter.author}</p>
-            </div>
-          </Link>
-        </article>
-      </div>
+
+      <Link to={post.node.fields.slug}>
+        <div className="tile is-12 is-parent"  key={post.id}>
+          <div className="tile is-child">
+
+
+              <article className="horizontalRoll__fundamental media columns is-mobile">
+
+                <div class="column ">
+                  <figure className="image is-128x128 media-left">
+                    <img
+                      alt={post.node.frontmatter.title}
+                      className="horizontalRoll__img"
+                      src={post.node.frontmatter.featuredimage.childImageSharp.fluid.src}
+                    />
+                  </figure>
+                </div>
+                <div class="column is-10">
+
+                  <div className="media-content">
+                    <div className="content">
+                      <div className="horizontalRoll__pres">
+                        <p className="horizontalRoll__date"><small>{post.node.frontmatter.date}</small>&nbsp;</p>
+                        <p className="horizontalRoll__author">&nbsp;@{post.node.frontmatter.author}</p>
+                      </div>
+                      <div className="horizontalRoll__pres">
+                        <p className="horizontalRoll__teaser">{post.node.frontmatter.teaser}</p>
+                      </div>
+                      <div className="horizontalRoll__pres">
+                        <p className="horizontalRoll__title">{post.node.frontmatter.title}</p>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                {/* <div class="column">Auto</div> */}
+
+
+
+                  {/* <button className="horizontalRoll__icon delete"></button> */}
+{/*
+                  <nav className=" is-mobile">
+                    <div className="level-left horizontalRoll__share">
+                      <a className="level-item">
+                        <span className="icon is-small"><i className="horizontalRoll__icon fas fa-reply"></i></span>
+                      </a>
+                      <a className="level-item">
+                        <span className="icon is-small"><i className="horizontalRoll__icon fas fa-retweet"></i></span>
+                      </a>
+                      <a className="level-item">
+                        <span className="icon is-small"><i className="horizontalRoll__icon fas fa-heart"></i></span>
+                      </a>
+                    </div>
+                  </nav> */}
+                
+                  {/* <nav className="level is-mobile">
+                    <div className="level-right">
+                      <a className="level-item">
+                        <span className="horizontalRoll__tags">{post.node.frontmatter.tags}</span>
+                      </a>
+                    </div>
+                  </nav> */}
+                {/* </div> */}
+                {/* <div className="media-right"></div> */}
+              </article>
+ 
+
+          </div>
+        </div>
+        </Link>
+
     ))
     const category = this.props.pageContext.category
     const title = this.props.data.site.siteMetadata.title
@@ -51,8 +100,8 @@ class CategoryRoute extends React.Component {
               <h2 className='category__display'>{categoryHeader}</h2>
               <p><Link className='category__display' to="/categories/">Search all categories</Link></p>
               <div className="container">
-                <div className="section">
-                  <div className='blogRoll columns is-multiline is-three-quarters-mobile is-two-thirds-tablet is-half-desktop is-one-third-widescreen is-one-quarter-fullhd'>{postLinks}</div>
+                <div className="horizontalRoll__box tile is-ancestor">
+                  {postLinks}
                 </div>
               </div>
             </div>
@@ -85,6 +134,8 @@ export const categoryPageQuery = graphql`
           }
           frontmatter {
             author
+            date(formatString: "MMMM DD, YYYY")
+            tags
             teaser
             title
             featuredimage {
