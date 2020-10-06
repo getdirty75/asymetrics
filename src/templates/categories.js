@@ -15,9 +15,9 @@ class CategoryRoute extends React.Component {
           <div className="tile is-child">
 
 
-              <article className="horizontalRoll__fundamental media columns is-mobile">
+              <article className="horizontalRoll__fundamental media columns">
 
-                <div class="column ">
+                <div class="column columns">
                   <figure className="image is-128x128 media-left">
                     <img
                       alt={post.node.frontmatter.title}
@@ -26,15 +26,15 @@ class CategoryRoute extends React.Component {
                     />
                   </figure>
                 </div>
-                <div class="column is-10">
 
+                <div class="column is-10 columns">
                   <div className="media-content">
                     <div className="content">
                       <div className="horizontalRoll__pres">
                         <p className="horizontalRoll__date"><small>{post.node.frontmatter.date}</small>&nbsp;</p>
                         <p className="horizontalRoll__author">&nbsp;@{post.node.frontmatter.author}</p>
                       </div>
-                      <div className="horizontalRoll__pres">
+                      <div className="horizontalRoll__pres is-hidden-mobile">
                         <p className="horizontalRoll__teaser">{post.node.frontmatter.teaser}</p>
                       </div>
                       <div className="horizontalRoll__pres">
@@ -43,13 +43,17 @@ class CategoryRoute extends React.Component {
                     </div>
                   </div>
                 </div>
+
                 {/* <div class="column">Auto</div> */}
-
-
-
-                  {/* <button className="horizontalRoll__icon delete"></button> */}
-{/*
-                  <nav className=" is-mobile">
+                {/* <nav className="level is-mobile">
+                    <div className="level-right">
+                      <a className="level-item">
+                        <span className="horizontalRoll__tags">{post.node.frontmatter.tags}</span>
+                      </a>
+                    </div>
+                  </nav> */}
+                {/* <button className="horizontalRoll__icon delete"></button> */}
+                {/* <nav className=" is-mobile">
                     <div className="level-left horizontalRoll__share">
                       <a className="level-item">
                         <span className="icon is-small"><i className="horizontalRoll__icon fas fa-reply"></i></span>
@@ -62,19 +66,9 @@ class CategoryRoute extends React.Component {
                       </a>
                     </div>
                   </nav> */}
-                
-                  {/* <nav className="level is-mobile">
-                    <div className="level-right">
-                      <a className="level-item">
-                        <span className="horizontalRoll__tags">{post.node.frontmatter.tags}</span>
-                      </a>
-                    </div>
-                  </nav> */}
-                {/* </div> */}
                 {/* <div className="media-right"></div> */}
-              </article>
- 
 
+              </article>
           </div>
         </div>
         </Link>
