@@ -28,11 +28,11 @@ outsideLinks:
 ---
 ![](/img/theasymetrics_stta_don_dada_small.jpg "© Evan G")
 
-### Initiating the Asymetrics mixtape series, here is a fresh set recorded by [Satta Don Dada](https://www.facebook.com/SattaDonDada/) in Detroit, mixing analog & digital equipment !
+### Initiating the Asymetrics mixtapes series, here is a fresh set recorded by [Satta Don Dada](https://www.facebook.com/SattaDonDada/) in Detroit, mixing analog & digital equipment !
 
 Pioneer DDJ SR2 meets Technics Panasonic Stereo Cassette Deck 640 in fine style :)
 
-Special request to all warm tape sound aficionados...Reggae, Dub & Dancehall vibes inside!
+Special request to all warm tape sound aficionados...**Reggae, Dub & Dancehall** vibes inside!
 
 <iframe width="100%" height="500" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/906901999&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/the-asymetrics" title="The Asymetrics" target="_blank" style="color: #cccccc; text-decoration: none;">The Asymetrics</a> · <a href="https://soundcloud.com/the-asymetrics/asymetrics-mixtape-1-satta-don-dada-presentsforward-ever-backward-never" title="Asymetrics Mixtape #1: Satta Don Dada Presents...Forward Ever, Backward Never" target="_blank" style="color: #cccccc; text-decoration: none;">Asymetrics Mixtape #1: Satta Don Dada Presents...Forward Ever, Backward Never</a></div>
 
