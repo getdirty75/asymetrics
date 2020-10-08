@@ -25,7 +25,7 @@ date: 2020-10-08T02:05:10.232Z
 
 <br>
 
-#### **1972 - Cymande - The Message**. 
+#### **1972 - Cymande - The Message**.
 
 <iframe width="100%" height="315" src="https://www.youtube-nocookie.com/embed/yigLMKMt_Ws" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen referrerpolicy="origin"></iframe>
 
@@ -55,8 +55,6 @@ The group [reformed a few years ago](https://thevinylfactory.com/news/legendary-
 
 <br>
 
-
-
 #### **1975 - Willie Royal - General Alarm.**
 
 <iframe width="100%" height="315" src="https://www.youtube-nocookie.com/embed/nivWxYDzfeg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen referrerpolicy="origin"></iframe>
@@ -79,7 +77,7 @@ On this imprint we can also find a vocal cover of The Message by [Tinga Stewart 
 
 <br>
 
-#### **1990 - Masta Ace - Me & The Biz**. 
+#### **1990 - Masta Ace - Me & The Biz**.
 
 ![](/img/the_asymetrics_masta_ace.jpg)
 
@@ -93,30 +91,32 @@ One of the many underrated pioneers of Rap Music, [Masta Ace](https://en.wikiped
 
 <br>
 
-#### **1991 - Mc Solaar - Bouge De Là**. 
+<br>
+
+#### **1991 - Mc Solaar - Bouge De Là**.
 
 ![](/img/theasymetrics_mc_solaar.jpg)
 
 <br>
 
-One year later in France it was the turn of Claude M’Barali aka Mc Solaar, produced by Jimmy Jay to kick his version of the Cymande anthem right out of the park, with « Bouge De La » big commercial success in France for the early nineties, was even considered like the first rap hit in the country, got a lot of air play, leading to mainstream fame in francophone world & a legendary status ever since…having his lyrics studied in the class rooms, at the same rank as French poetry…
+One year later in France it was the turn of Claude M’Barali aka [Mc Solaar](https://en.wikipedia.org/wiki/MC_Solaar), produced by [Jimmy Jay](https://www.youtube.com/channel/UCJD2TLBHu9T2vWeBgqiDTBw) to kick his version of the Cymande anthem right out of the park. **« Bouge De La »** was a big commercial success in France for the early nineties, and was even considered like the first rap hit in the country. It got a lot of air play, leading to mainstream fame in the Francophone world & a legendary status ever since…with its lyrics studied in the class rooms, at the same rank as French poetry…
 
 <iframe width="100%" height="315" src="https://www.youtube-nocookie.com/embed/M_aQ9S6VG6k" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen referrerpolicy="origin"></iframe>
 
+<br>
 
+<br>
 
-**2003 - Ed Rush & Optical - The Message.**Photo Ed Rush Optical
+<br>
 
+#### **2003 - Ed Rush & Optical - The Message.**
 
+![](/img/opticalandedrush.jpg)
 
-05 Ed Rush & Optical - The Message Remix 2003
+<br>
 
-[https://www.youtube.com/watch?​v=Le-ARZA_7QI](https://www.youtube.com/watch?v=Le-ARZA_7QI)
+An infamous party starter, this white label vinyl has been rinsed out in so many drum & bass sets along the years, invariably causing mayhem on the dance-floor anytime it is dropped, anywhere in the world !
 
+[Ed Rush & Optical](https://www.fabriclondon.com/blog/view/biography-ed-rush-optical), the kings of the dark funky roller show us how it should be done & turn a huge diggers classic into a sweaty Tech-steppy Drum & Bass stomper !
 
-
-The infamous party starter, this white label vinyl has been rinsed out in so many drum & bass sets along the years, invariably causing mayhem on the dance-floor anytime it is dropped, anywhere in the world !
-
-
-
-Ed Rush & Optical, the kings of the dark funky roller show us how it should be done & turn a huge diggers classic into a sweaty tech steppy Drum & Bass stomper !
+<iframe width="100%" height="315" src="https://www.youtube-nocookie.com/embed/Le-ARZA_7QI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen referrerpolicy="origin"></iframe>
