@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
 title: "Asymetrics Mixtape #1: Satta Don Dada"
-teaser: Satta Don Dada Presents...Forward Ever, Backward Never
+teaser: "Satta Don Dada Presents: Forward Ever, Backward Never!"
 featuredimage: /img/theasymetrics_stta_don_dada_big.jpg
 author: Asymetric
 categories: mixtapes
