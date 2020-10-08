@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
-title: Cymande - The Message
-teaser: "Story of a Track: The Message, by Cymande, & Its Legacy"
+title: The Message
+teaser: "Story of a Track: The Message, by Cymande."
 featuredimage: /img/theasymetrics_cymande_themessage_1990_cd_big.jpg
 author: Lord Sandwich
 categories: knowledge
@@ -28,7 +28,7 @@ outsideLinks:
       link: https://theasymetrics.com/i-am-the-black-gold-of-the-sun/
     - text: Rocking You Eternally
       link: https://theasymetrics.com/rocking-you-eternally/
-    - text: The message Playlist on the Asymetrics Channel
+    - text: The message Playlist
       link: https://www.youtube.com/watch?v=yigLMKMt_Ws&list=PLZtgNolXlRSSjJazsua7ZAT3aQzUYnOli
 ---
 ![](/img/theasymetrics_cymande_themessage_1990_cd_small.jpg)
@@ -81,13 +81,11 @@ Wicked instrumental rocksteady / reggae groove on this one ! The original Cymand
 
 We dont have much information about Willie Royal…he seems to be the producer & maybe owner of the rare vinyl label called [« Me Gusto »](https://www.discogs.com/label/642579-Me-Gusto)
 
-On this imprint we can also find a fine vocal cover of The Message by [Tinga Stewart ](https://www.discogs.com/artist/77089-Tinga-Stewart)& Paul Douglas in 1974:
+On this imprint we can also find [a fine vocal cover](https://www.youtube.com/watch?v=C8pfRunt484&list=PLZtgNolXlRSSjJazsua7ZAT3aQzUYnOli&index=3) of The Message by [Tinga Stewart ](https://www.discogs.com/artist/77089-Tinga-Stewart)& Paul Douglas in 1974.
 
-<iframe width="100%" height="315" src="https://www.youtube-nocookie.com/embed/C8pfRunt484" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen referrerpolicy="origin"></iframe>
 
-<br>
 
-<br>
+
 
 <br>
 
@@ -113,7 +111,7 @@ One of the many underrated pioneers of Rap Music, [Masta Ace](https://en.wikiped
 
 <br>
 
-One year later in France it was the turn of Claude M’Barali aka [Mc Solaar](https://en.wikipedia.org/wiki/MC_Solaar), produced by [Jimmy Jay](https://www.youtube.com/channel/UCJD2TLBHu9T2vWeBgqiDTBw) to kick his version of the Cymande anthem right out of the park. **« Bouge De La »** was a big commercial success in France for the early nineties, and was even considered like the first rap hit in the country. It got a lot of air play, leading to mainstream fame in the Francophone world & a legendary status ever since…with its lyrics studied in the class rooms, at the same rank as French poetry…
+One year later in France it was the turn of Claude M’Barali aka [Mc Solaar](https://en.wikipedia.org/wiki/MC_Solaar), produced by [Jimmy Jay](https://www.youtube.com/channel/UCJD2TLBHu9T2vWeBgqiDTBw) to kick his version of the Cymande anthem right out of the park. **« Bouge De La »** was a big commercial success in France for the early nineties, and was even considered like the first rap hit in the country. It got a lot of air play, leading to mainstream fame in the francophone world & a legendary status ever since…with its lyrics studied in the class rooms, at the same rank as french poetry…
 
 <iframe width="100%" height="315" src="https://www.youtube-nocookie.com/embed/M_aQ9S6VG6k" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen referrerpolicy="origin"></iframe>
 
@@ -131,7 +129,7 @@ One year later in France it was the turn of Claude M’Barali aka [Mc Solaar](ht
 
 An infamous party starter, this white label vinyl has been rinsed out in so many drum & bass sets along the years, invariably causing mayhem on the dance-floor anytime it is dropped, anywhere in the world !
 
-[Ed Rush & Optical](https://www.fabriclondon.com/blog/view/biography-ed-rush-optical), the kings of the dark funky roller show us how it should be done & turn a huge diggers classic into a sweaty Tech-steppy Drum & Bass stomper !
+[Ed Rush & Optical](https://www.fabriclondon.com/blog/view/biography-ed-rush-optical), the kings of the dark funky roller show us how it should be done & turn a huge diggers classic into a sweaty tech-steppy d&b stomper !
 
 <iframe width="100%" height="315" src="https://www.youtube-nocookie.com/embed/Le-ARZA_7QI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen referrerpolicy="origin"></iframe>
 
@@ -141,10 +139,16 @@ An infamous party starter, this white label vinyl has been rinsed out in so many
 
 <br>
 
-#### Find out more about Cymande: 
+#### Find out more about Cymande:
 
 #### <https://www.cymandeofficial.com/>
 
 [https://www.facebook.com/​CymandeOnline](https://www.facebook.com/CymandeOnline)
 
 [https://www.discogs.com/fr/​artist/59250-Cymande](https://www.discogs.com/fr/artist/59250-Cymande)
+
+<br>
+
+#### If you dig these tunes, listen to our "The Message" Playlist : 
+
+<iframe width="100%" height="315" src="https://www.youtube-nocookie.com/embed/videoseries?list=PLZtgNolXlRSSjJazsua7ZAT3aQzUYnOli" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen referrerpolicy="origin"></iframe>
