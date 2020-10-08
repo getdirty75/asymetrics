@@ -28,7 +28,7 @@ outsideLinks:
       link: https://theasymetrics.com/i-am-the-black-gold-of-the-sun/
     - text: Rocking You Eternally
       link: https://theasymetrics.com/rocking-you-eternally/
-    - text: The message Playlist on the Asymetrics Channel
+    - text: The message Playlist
       link: https://www.youtube.com/watch?v=yigLMKMt_Ws&list=PLZtgNolXlRSSjJazsua7ZAT3aQzUYnOli
 ---
 ![](/img/theasymetrics_cymande_themessage_1990_cd_small.jpg)
@@ -81,13 +81,11 @@ Wicked instrumental rocksteady / reggae groove on this one ! The original Cymand
 
 We dont have much information about Willie Royal…he seems to be the producer & maybe owner of the rare vinyl label called [« Me Gusto »](https://www.discogs.com/label/642579-Me-Gusto)
 
-On this imprint we can also find a fine vocal cover of The Message by [Tinga Stewart ](https://www.discogs.com/artist/77089-Tinga-Stewart)& Paul Douglas in 1974:
+On this imprint we can also find [a fine vocal cover](https://www.youtube.com/watch?v=C8pfRunt484&list=PLZtgNolXlRSSjJazsua7ZAT3aQzUYnOli&index=3) of The Message by [Tinga Stewart ](https://www.discogs.com/artist/77089-Tinga-Stewart)& Paul Douglas in 1974.
 
-<iframe width="100%" height="315" src="https://www.youtube-nocookie.com/embed/C8pfRunt484" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen referrerpolicy="origin"></iframe>
 
-<br>
 
-<br>
+
 
 <br>
 
@@ -148,3 +146,9 @@ An infamous party starter, this white label vinyl has been rinsed out in so many
 [https://www.facebook.com/​CymandeOnline](https://www.facebook.com/CymandeOnline)
 
 [https://www.discogs.com/fr/​artist/59250-Cymande](https://www.discogs.com/fr/artist/59250-Cymande)
+
+<br>
+
+#### If you dig these tunes, listen to our "The Message" Playlist : 
+
+<iframe width="100%" height="315" src="https://www.youtube-nocookie.com/embed/videoseries?list=PLZtgNolXlRSSjJazsua7ZAT3aQzUYnOli" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen referrerpolicy="origin"></iframe>
