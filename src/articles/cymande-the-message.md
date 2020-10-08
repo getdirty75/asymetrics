@@ -18,6 +18,18 @@ tags:
   - "#Reggae"
   - Drum&Bass
 date: 2020-10-08T02:05:10.232Z
+outsideLinks:
+  outsideLinksList:
+    - text: Cymande (official website)
+      link: https://www.cymandeofficial.com/history/
+    - text: "Story of a Track: Caravan"
+      link: https://theasymetrics.com/caravan/
+    - text: "Story of a Track: I am the Black Gold of the Sun"
+      link: https://theasymetrics.com/i-am-the-black-gold-of-the-sun/
+    - text: Rocking You Eternally
+      link: https://theasymetrics.com/rocking-you-eternally/
+    - text: The message Playlist on the Asymetrics Channel
+      link: https://www.youtube.com/watch?v=yigLMKMt_Ws&list=PLZtgNolXlRSSjJazsua7ZAT3aQzUYnOli
 ---
 ![](/img/theasymetrics_cymande_themessage_1990_cd_small.jpg)
 
@@ -33,9 +45,9 @@ date: 2020-10-08T02:05:10.232Z
 
 <br>
 
-**[Cymande](https://www.facebook.com/CymandeOnline)** was formed in 1971 by Steve Scipio (bass) & Patrick Patterson (guitar) in London, England.
+**[Cymande](https://www.cymandeofficial.com/history/)** was formed in 1971 by Steve Scipio (bass) & Patrick Patterson (guitar) in London, England.
 
-They played a psychedelic mix of soul, jazz, reggae & afro-caribean music called "nyah-rock".
+They played a psychedelic mix of soul, jazz, reggae & afro-caribean music called "Nyah-Rock".
 
 The band included Ray King & Joey Dee (vocals), Mike Rose (flute), Derek Gibbs, Desmond Atwell & Peter Serreo (saxophone), Pablo Gonzales (congas), and Sam Kelly (drums)…
 
@@ -47,9 +59,11 @@ All members of the crew were part of the Afro-Caribbean diaspora in London, orig
 
 [« The Message »](https://en.wikipedia.org/wiki/The_Message_(Cymande_song)) was their first single & reached the top of the charts in the United States. Their self-titled debut album was released in 1972 on Janus Records and ranked high as well in the US album charts…
 
-They played together until 1975 but their music never really stopped making noise…Especially in the Hip Hop Dj’s & Vinyl Diggers circles who hunted down the many riffs & gimmicks contained in their powerful songs .
+They played together only until 1975 but their music never really stopped making noise…Especially in the Hip Hop Dj’s & Vinyl Diggers circles who hunted down the many riffs & gimmicks contained in their powerful songs.
 
-Cymande is considered as one of the most sampled & covered bands in the history of Music, along with James Brown or Bob James…
+![](/img/theasymetrics_cymande.jpeg)
+
+Cymande is considered as one of the [most sampled](https://www.whosampled.com/Cymande/) & covered bands in the history of Music, along with James Brown or Bob James…
 
 The group [reformed a few years ago](https://thevinylfactory.com/news/legendary-funk-band-cymande-to-release-their-first-album-in-four-decades/), featuring a part of the original cast, they released a studio album & are currently still touring & playing gigs worldwide up to this day…
 
@@ -65,9 +79,9 @@ The group [reformed a few years ago](https://thevinylfactory.com/news/legendary-
 
 Wicked instrumental rocksteady / reggae groove on this one ! The original Cymande theme gets the proper roots treatment by an obscure Jamaican studio band for our musical pleasure !
 
-We dont have much information about Willie Royal…he seems to be the producer & maybe owner of this rare vinyl label called [« Me Gusto »](https://www.discogs.com/label/642579-Me-Gusto)
+We dont have much information about Willie Royal…he seems to be the producer & maybe owner of the rare vinyl label called [« Me Gusto »](https://www.discogs.com/label/642579-Me-Gusto)
 
-On this imprint we can also find a vocal cover of The Message by [Tinga Stewart ](https://www.discogs.com/artist/77089-Tinga-Stewart)& Paul Douglas in 1974:
+On this imprint we can also find a fine vocal cover of The Message by [Tinga Stewart ](https://www.discogs.com/artist/77089-Tinga-Stewart)& Paul Douglas in 1974:
 
 <iframe width="100%" height="315" src="https://www.youtube-nocookie.com/embed/C8pfRunt484" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen referrerpolicy="origin"></iframe>
 
@@ -120,3 +134,17 @@ An infamous party starter, this white label vinyl has been rinsed out in so many
 [Ed Rush & Optical](https://www.fabriclondon.com/blog/view/biography-ed-rush-optical), the kings of the dark funky roller show us how it should be done & turn a huge diggers classic into a sweaty Tech-steppy Drum & Bass stomper !
 
 <iframe width="100%" height="315" src="https://www.youtube-nocookie.com/embed/Le-ARZA_7QI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen referrerpolicy="origin"></iframe>
+
+<br>
+
+<br>
+
+<br>
+
+#### Find out more about Cymande: 
+
+#### <https://www.cymandeofficial.com/>
+
+[https://www.facebook.com/​CymandeOnline](https://www.facebook.com/CymandeOnline)
+
+[https://www.discogs.com/fr/​artist/59250-Cymande](https://www.discogs.com/fr/artist/59250-Cymande)
