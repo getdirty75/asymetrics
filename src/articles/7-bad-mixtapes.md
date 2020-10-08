@@ -1,12 +1,11 @@
 ---
 templateKey: blog-post
-featuredimage: /img/istockphoto-517473610-612x612-2.jpg
+title: "7 Bad Mixtapes "
+teaser: Here are 7 bad mixtapes ! selected on the interwebz by Lord Sandwich...
+  several different musical styles coming from various dope DJ's...
+featuredimage: /img/tableau-retro-cassette-80x55-cm-12269_680x450.jpg
 author: Lord Sandwich
 featuredpost: true
-title: 7 Bad Mixtapes !
-teaser: Here are 7 wicked mixtapes, chosen by Lord Sandwich... several different
-  musical styles coming from various dope DJ's...Put Your Headphones On & Chill
-  :) More Of These Every Month !
 categories: mixtapes
 tags:
   - "#24hoursMusic"
@@ -14,7 +13,7 @@ date: 2020-06-20T13:47:44.340Z
 insideLinks: null
 outsideLinks: null
 ---
-# **Get ready for a musical journey, here are seven wicked mixtapes, chosen for you by The Asymetrical Team... several different musical styles coming from various dope DJ's...Put Your Headphones On & Chill :)**
+# **Put Your Headphones On & Chill :)**
 
 \-----------------------------------------------------------------------------------------------------------
 
