@@ -26,7 +26,7 @@ outsideLinks:
     - text: "Malong Round-Up # 3"
       link: https://theasymetrics.com/malongs-round-up-3rd-mixtape/
 ---
-![](/img/theasymetrics_stta_don_dada_small.jpg "© Evan G")
+![](/img/theasymetrics_stta_don_dada_small.jpg "© Evan G.")
 
 ### Initiating the Asymetrics mixtapes series, here is a fresh set recorded by [Satta Don Dada](https://www.facebook.com/SattaDonDada/) in Detroit, mixing analog & digital equipment !
 
@@ -38,12 +38,12 @@ Special request to all warm tape sound aficionados...**Reggae, Dub & Dancehall**
 
 ### Tracklist:
 
-![](/img/back.jpg)
+![](/img/back.jpg "©Satta Don Dada")
 
 ### Satta Don Dada:
 
 Representing **Detroit**, Evan G. aka **Satta Don Dada**'s prowess as a DJ was recognized early on by his peers & later reaffirmed by **Skrillex** hand picking him to open for his 2014 Mothership Tour. His name as a producer started to gain exposure in 2012, when he won the legendary Dubstep/Grime artist **Cotti**’s “Goin’ To War’ remix competition. Since then he’s been local support for such acts as **The Wailers**, **Lee ‘Scratch’ Perry**, **DJ Premier**, **Araabmuzik**, **RJD2**, **Keys N Krates**, **Black Milk**, **Two Fresh**, **Caspa**, **Kamasi Washington**, & **DJ Shiftee** among many others. He’s also been featured in media outlets like Mixmag, XLR8R, Fact Mag, Boiler Room, Magnetic Mag, & many others...
 
-![](/img/2020_promo.jpeg)
+![](/img/2020_promo.jpeg "Satta Don Dada / ©Evan G.")
 
 ### Find out more about Satta Don Dada on [FB](https://www.facebook.com/SattaDonDada/), [Instagram](https://www.instagram.com/sattadondada/), or [Soundcloud](https://soundcloud.com/satta-don-dada).
