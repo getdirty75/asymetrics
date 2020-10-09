@@ -3,7 +3,7 @@ templateKey: blog-post
 featuredimage: /img/theasymetrics_leonware.jpg
 author: Malong
 featuredpost: false
-title: Rocking you Eternally
+title: Rockin' You Eternally
 teaser: Leon Ware, Children of Zeus, neo-Soul and old-school Jungle – a musical
   escape getting lost in samples.
 categories: knowledge
@@ -40,7 +40,7 @@ But then I came across **THIS bad boy**:
 
 <iframe style="border: 0; width: 100%; height: 350px;" src="https://bandcamp.com/EmbeddedPlayer/album=239721285/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/track=1929615611/transparent=true/" seamless><a href="http://childrenofzeus.bandcamp.com/album/the-story-so-far">The Story So Far... by Children Of Zeus</a></iframe>
 
-The intro bassline sounded so familiar that, intrigued, I dug up where the sample came from and went listening back to the original tune, “Rocking you Eternally” by Leon Ware, from his 1981 namesake album (youtube link upstairs).
+The intro bassline sounded so familiar that, intrigued, I dug up where the sample came from and went listening back to the original tune, “Rockin' you Eternally” by Leon Ware, from his 1981 namesake album (youtube link upstairs).
 
 <br>
 
