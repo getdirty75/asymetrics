@@ -83,10 +83,6 @@ We dont have much information about Willie Royal…he seems to be the producer &
 
 On this imprint we can also find [a fine vocal cover](https://www.youtube.com/watch?v=C8pfRunt484&list=PLZtgNolXlRSSjJazsua7ZAT3aQzUYnOli&index=3) of The Message by [Tinga Stewart ](https://www.discogs.com/artist/77089-Tinga-Stewart)& Paul Douglas in 1974.
 
-
-
-
-
 <br>
 
 #### **1990 - Masta Ace - Me & The Biz**.
@@ -107,13 +103,15 @@ One of the many underrated pioneers of Rap Music, [Masta Ace](https://en.wikiped
 
 #### **1991 - Mc Solaar - Bouge De Là**.
 
-![](/img/theasymetrics_mc_solaar.jpg)
+<iframe width="100%" height="315" src="https://www.youtube-nocookie.com/embed/9CCruKi6lCM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen referrerpolicy="origin"></iframe>
+
+<br>
 
 <br>
 
 One year later in France it was the turn of Claude M’Barali aka [Mc Solaar](https://en.wikipedia.org/wiki/MC_Solaar), produced by [Jimmy Jay](https://www.youtube.com/channel/UCJD2TLBHu9T2vWeBgqiDTBw) to kick his version of the Cymande anthem right out of the park. **« Bouge De La »** was a big commercial success in France for the early nineties, and was even considered like the first rap hit in the country. It got a lot of air play, leading to mainstream fame in the francophone world & a legendary status ever since…with its lyrics studied in the class rooms, at the same rank as french poetry…
 
-<iframe width="100%" height="315" src="https://www.youtube-nocookie.com/embed/M_aQ9S6VG6k" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen referrerpolicy="origin"></iframe>
+![](/img/theasymetrics_mcsolaar_journaldelbeuf.jpg "©Le Journal d'Elbeuf - 1992")
 
 <br>
 
@@ -149,6 +147,6 @@ An infamous party starter, this white label vinyl has been rinsed out in so many
 
 <br>
 
-#### If you dig these tunes, listen to our "The Message" Playlist : 
+#### If you dig these tunes, listen to our "The Message" Playlist :
 
 <iframe width="100%" height="315" src="https://www.youtube-nocookie.com/embed/videoseries?list=PLZtgNolXlRSSjJazsua7ZAT3aQzUYnOli" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen referrerpolicy="origin"></iframe>
