@@ -1,11 +1,11 @@
 ---
 templateKey: blog-post
-featuredimage: /img/samity-black-and-white.png
-author: Lord Sandwich
-featuredpost: true
 title: Samity's Wicked Playlists
 teaser: Every month...listen to a new playlist from Sofia's dubwise specialist &
   reggae activist Samity !
+featuredimage: /img/samity-black-and-white.png
+author: Lord Sandwich
+featuredpost: true
 categories: mixtapes
 tags:
   - "#samity"
@@ -20,8 +20,6 @@ outsideLinks:
     - link: http://reggae.bg/sound/artists/samity/
       text: Reggae 69
 ---
-# Every month, a new playlist, by Samity
-
 Relax & Listen To The Music...
 
 <br>
