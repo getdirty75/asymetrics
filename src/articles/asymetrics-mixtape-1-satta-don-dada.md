@@ -28,6 +28,8 @@ outsideLinks:
 ---
 ![](/img/theasymetrics_stta_don_dada_small.jpg "© Evan G.")
 
+Direct Links: [Soundcloud](https://soundcloud.com/the-asymetrics/asymetrics-mixtape-1-satta-don-dada-presentsforward-ever-backward-never) / [Mixcloud](https://www.mixcloud.com/The_Asymetrics/asymetrics-mixtape-1/)
+
 ### Initiating the Asymetrics mixtapes series, here is a fresh set recorded by [Satta Don Dada](https://www.facebook.com/SattaDonDada/) in Detroit, mixing analog & digital equipment !
 
 Pioneer DDJ SR2 meets Technics Panasonic Stereo Cassette Deck 640 in fine style :)
