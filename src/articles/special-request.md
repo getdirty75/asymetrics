@@ -28,7 +28,7 @@ outsideLinks:
 ---
 ![](/img/theasymetrics_taiwanmc-specialrequest-small.jpg)
 
-### [Out on October 16th](https://www.chinesemanrecords.com/shop-cmr/special-request-taiwan-mc/) , the French MC’s new output is a sheer treat to our ears.
+### [Out on October 16th](https://www.chinesemanrecords.com/shop-cmr/special-request-taiwan-mc/), the French MC’s new output is a sheer treat to our ears.
 
 Long time followers of the man called ***Sticky Tai Tai*** are in for wicked surprises, and those just discovering the artist are in for a total delight!
 
