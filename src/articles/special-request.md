@@ -40,7 +40,7 @@ After a promising first prowess on “[Cool & Deadly](https://www.youtube.com/wa
 
 <br>
 
-Surrounded by ultra-talented producers like [Jim Morrisound](https://www.instagram.com/jimmorrisound/) (on *Mr. Babylon*, with its [beautiful video](https://www.youtube.com/watch?v=iQrrzCB4xls), already chronicled in [THIS Asymetrics article](https://theasymetrics.com/taiwan-mc-mr-babylon/)), [Von D](https://soundcloud.com/vond), [Bony Fly](https://soundcloud.com/bony-fly), [the Asymetrics](https://www.facebook.com/asymetrics/) (yup!) among many, and backed by his partner in crime [S.O.A.P](https://www.mixcloud.com/Son_Of_A_Pitch/). for the arrangements & mixing, Taiwan MC also produced several of the album’s most memorable riddims (***Hot Today, Sunshine, Number One***). Did we already mention multi-talented?
+Surrounded by ultra-talented producers like [Jim Morrisound](https://www.instagram.com/jimmorrisound/) (on *Mr. Babylon*, with its beautiful video, already chronicled in [THIS Asymetrics article](https://theasymetrics.com/taiwan-mc-mr-babylon/)), [Von D](https://soundcloud.com/vond), [Bony Fly](https://soundcloud.com/bony-fly), [the Asymetrics](https://www.facebook.com/asymetrics/) (yup!) among many, and backed by his partner in crime [S.O.A.P](https://www.mixcloud.com/Son_Of_A_Pitch/). for the arrangements & mixing, Taiwan MC also produced several of the album’s most memorable riddims (***Hot Today, Sunshine, Number One***). Did we already mention multi-talented?
 
 <iframe width="100%" height="380" src="https://www.youtube-nocookie.com/embed/DzcQBdN2DUw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen referrerpolicy="origin"></iframe>
 
