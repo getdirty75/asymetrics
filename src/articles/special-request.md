@@ -13,6 +13,18 @@ tags:
   - "#SpecialRequest"
   - "#TaiwanMC"
 date: 2020-10-13T05:30:24.454Z
+outsideLinks:
+  outsideLinksList:
+    - text: Special Request Record
+      link: https://www.chinesemanrecords.com/shop-cmr/special-request-taiwan-mc/
+    - text: Taiwan MC - CMR
+      link: https://www.chinesemanrecords.com/taiwanmc/
+    - text: Taiwan MC's Channel
+      link: https://www.youtube.com/channel/UCeF72EQgvf1ql-dMmwfYTeA
+    - text: Mr Babylon Review (the Asymetrics)
+      link: https://theasymetrics.com/taiwan-mc-mr-babylon/
+    - text: Discography
+      link: https://www.discogs.com/artist/1288550-Taiwan-MC
 ---
 ![](/img/theasymetrics_taiwanmc-specialrequest-small.jpg)
 
@@ -28,7 +40,7 @@ After a promising first prowess on “[Cool & Deadly](https://www.youtube.com/wa
 
 <br>
 
-Surrounded by ultra-talented producers like [Jim Morrisound](https://www.instagram.com/jimmorrisound/) (on *Mr. Babylon*, with its [beautiful video](https://www.youtube.com/watch?v=iQrrzCB4xls), already chronicled in [THIS Asymetrics article](https://theasymetrics.com/taiwan-mc-mr-babylon/)), [Von D](https://soundcloud.com/vond), [Bony Fly](https://soundcloud.com/bony-fly), [the Asymetrics](https://www.facebook.com/asymetrics/) (yup!) among many, and backed by his partner in crime [S.O.A.P](https://www.mixcloud.com/Son_Of_A_Pitch/). for the arrangements & mixing, Taiwan MC also produced several of the album’s most memorable riddims. Did we already mention multi-talented?
+Surrounded by ultra-talented producers like [Jim Morrisound](https://www.instagram.com/jimmorrisound/) (on *Mr. Babylon*, with its [beautiful video](https://www.youtube.com/watch?v=iQrrzCB4xls), already chronicled in [THIS Asymetrics article](https://theasymetrics.com/taiwan-mc-mr-babylon/)), [Von D](https://soundcloud.com/vond), [Bony Fly](https://soundcloud.com/bony-fly), [the Asymetrics](https://www.facebook.com/asymetrics/) (yup!) among many, and backed by his partner in crime [S.O.A.P](https://www.mixcloud.com/Son_Of_A_Pitch/). for the arrangements & mixing, Taiwan MC also produced several of the album’s most memorable riddims (***Hot Today, Sunshine, Number One***). Did we already mention multi-talented?
 
 <iframe width="100%" height="380" src="https://www.youtube-nocookie.com/embed/DzcQBdN2DUw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen referrerpolicy="origin"></iframe>
 
@@ -46,7 +58,7 @@ The featurings are equally impressive: old-school Raggamuffin heads will be amaz
 
 On several tracks, our man also demonstrates a clear love for Latin America, where he can count on a cult following since his hit ***[Catalina](https://www.youtube.com/watch?v=E7i-prhDw9A)*** (2016) dropped a bomb on dances from Buenos Aires to Mexico DC (and everywhere in between): for one of the album’s guaranteed hits, "***Fire"***, he called onto one of Colombia’s rising stars of Reguetón, [Landa Freak](https://www.youtube.com/channel/UChHASctCm56ihzHEo4EosJA), for sheer dancefloor mayhem where Moombahton meets synth funk, orchestrated by the **Asymetrics’ very own Ben Masala** !
 
-The already classic ***[Colombian Gyal](https://www.youtube.com/watch?v=IhNlIsk6-Wc)*** (with Paloma Pradal) is another sweat-inducing bomb shaking the Hispanic sphere, and ***Corazon de Madera*** is a future anthem that will surely touch the heart of many in the region.
+The already classic ***[Colombian Gyal](https://www.youtube.com/watch?v=IhNlIsk6-Wc)*** (with Paloma Pradal) is another sweat-inducing bomb shaking the Hispanic sphere, and ***Corazon de Madera*** is a future anthem that will surely touch the heart of many in the region and beyond.
 
 ![](/img/theasymetrics_taiwanmc_fire_julien_lois_ouikid.jpg)
 
@@ -59,8 +71,6 @@ Danger is around the corner with future anthem **Number One**, one of this autho
 Also remarkable is the excursion into [Roger Troutman](https://en.wikipedia.org/wiki/Roger_Troutman) territory in ***Sunshine***, a lover's ballad with the wickedest funky synthetizer, featuring [S.O.A.P](https://www.mixcloud.com/Son_Of_A_Pitch/) having a blast with a [talk box](https://en.wikipedia.org/wiki/Talk_box)!
 
 The album closes with Taiwan’s wonderful classic ***One Last Dance***, composed by cutting-edge producer **[Samity](https://theasymetrics.com/samity's-wicked-playlists/)** and featuring [Anouk Aiata](https://www.youtube.com/channel/UCqNIR48CNrtn3yRbSbA9FjQ)’s beautiful hook. Vinyl diggers and collectors tip: this one was cut to [a limited series of 45’s](https://www.discogs.com/sell/release/14463913?ev=rb) last year.
-
-Embed:
 
 <iframe width="100%" height="315" src="https://www.youtube-nocookie.com/embed/SgZDH_LOMcc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen referrerpolicy="origin"></iframe>
 
