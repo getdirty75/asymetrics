@@ -48,7 +48,7 @@ Surrounded by ultra-talented producers like [Jim Morrisound](https://www.instagr
 
 <br>
 
-The featurings are equally impressive: old-school Raggamuffin heads will be amazed with NYC legend and veteran [Jamalski](https://www.discogs.com/artist/29060-Jamalski)’s homage to Rub a Dub (***Life Ain’t Easy***), fans will recognize [Paloma Pradal](https://www.instagram.com/palomapradalmusic/)’s gorgeous lyrical style (*[Colombian Gyal](https://www.youtube.com/watch?v=IhNlIsk6-Wc)*), the funky touch of [Miscellanous](https://www.last.fm/music/Chill+Bump/+wiki) (***Boomshakalaka***) and connoisseurs of the French scene should dig the incursions by **Davojah** (***[Let the Weed Bun](https://www.youtube.com/watch?v=p5prlOK00EE)*)**, or [Dapatch](https://www.facebook.com/dapatch.selector) on ***Nah Leave Me Corner Pt2***. And speaking of that bomb of a tune, dubbed-out by the mighty **Von D**, this new cut features non-other than London’s own [Mr Williamz](https://www.discogs.com/artist/1334483-Mr-Williamz).
+The featurings are equally impressive: old-school Raggamuffin heads will be amazed with NYC legend and veteran [Jamalski](https://www.discogs.com/artist/29060-Jamalski)’s homage to Rub a Dub (***Life Ain’t Easy***), fans will recognize [Paloma Pradal](https://www.instagram.com/palomapradalmusic/)’s gorgeous lyrical style (***[Colombian Gyal](https://www.youtube.com/watch?v=IhNlIsk6-Wc)*)**, the funky touch of [Miscellanous](https://www.last.fm/music/Chill+Bump/+wiki) (***Boomshakalaka***) and connoisseurs of the French scene should dig the incursions by **Davojah** (***[Let the Weed Bun](https://www.youtube.com/watch?v=p5prlOK00EE)*)**, or [Dapatch](https://www.facebook.com/dapatch.selector) on ***Nah Leave Me Corner Pt2***. And speaking of that bomb of a tune, dubbed-out by the mighty **Von D**, this new cut features non-other than London’s own [Mr Williamz](https://www.discogs.com/artist/1334483-Mr-Williamz).
 
 <br>
 
@@ -56,13 +56,13 @@ The featurings are equally impressive: old-school Raggamuffin heads will be amaz
 
 <br>
 
-On several tracks, our man also demonstrates a clear love for Latin America, where he can count on a cult following since his hit ***[Catalina](https://www.youtube.com/watch?v=E7i-prhDw9A)*** (2016) dropped a bomb on dances from Buenos Aires to Mexico DC (and everywhere in between): for one of the album’s guaranteed hits, "***Fire"***, he called onto one of Colombia’s rising stars of Reguetón, [Landa Freak](https://www.youtube.com/channel/UChHASctCm56ihzHEo4EosJA), for sheer dancefloor mayhem where Moombahton meets synth funk, orchestrated by the **Asymetrics’ very own Ben Masala** !
+On several tracks, our man also demonstrates a clear love for Latin America, where he can count on a cult following since his hit ***[Catalina](https://www.youtube.com/watch?v=E7i-prhDw9A)*** (2016) dropped a bomb on dances from Buenos Aires to Mexico DC (and everywhere in between): for one of the album’s guaranteed hits, "***Fire"***, he called onto one of Colombia’s rising stars of Reguetón, [Landa Freak](https://www.youtube.com/channel/UChHASctCm56ihzHEo4EosJA), for pure dancefloor mayhem where Moombahton meets synth-Funk, orchestrated by the **Asymetrics’ very own Ben Masala** !
 
-The already classic ***[Colombian Gyal](https://www.youtube.com/watch?v=IhNlIsk6-Wc)*** (with Paloma Pradal) is another sweat-inducing bomb shaking the Hispanic sphere, and ***Corazon de Madera*** is a future anthem that will surely touch the heart of many in the region and beyond.
+The already classic ***[Colombian Gyal](https://www.youtube.com/watch?v=IhNlIsk6-Wc)*** (with Paloma Pradal) is another sweat-inducing bomb shaking the Hispanic sphere, and ***Corazon de Madera*** is a splendid tune that will surely touch the heart of many in the region and beyond.
 
 ![](/img/theasymetrics_taiwanmc_fire_julien_lois_ouikid.jpg)
 
-***[Listen to FIRE](https://www.youtube.com/watch?list=PLdqp8LBOB4VRxbcnf-ycoGY7Izn_hlcSu&v=IxBWTaZuSfg&feature=emb_logo)***
+***[Listen to the FIRE Playlist](https://www.youtube.com/watch?list=PLdqp8LBOB4VRxbcnf-ycoGY7Izn_hlcSu&v=IxBWTaZuSfg&feature=emb_logo)***
 
 <br>
 
