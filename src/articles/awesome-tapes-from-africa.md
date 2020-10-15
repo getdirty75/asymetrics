@@ -23,7 +23,7 @@ outsideLinks:
       text: Hailu Mergia
     - link: https://dur-durband.bandcamp.com/
       text: Dur Dur Band
-    - link: https://theasymetrics.com/malong%E2%80%99s-monthly-round-up-%E2%80%93-first-round/
+    - link: https://theasymetrics.com/blog/malong%E2%80%99s-monthly-round-up-%E2%80%93-first-round/
       text: "Malong's Round-Up # 1"
 ---
 ![](/img/teshomewolde1.jpg)

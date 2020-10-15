@@ -7,45 +7,30 @@ const Footer = class extends React.Component {
   render() {
     return (
       <footer className="footer">
-        {/* <div className="content has-text-centered">
+        <div className="content has-text-centered">
           <p>Made with 💫 by the asymetrics 2020 and beyond</p>
           <p>Sky isn't the limit</p>
-        </div> */}
+        </div>
         <div className="content has-text-centered">
         </div>
         <div className="content has-text-centered has-background-black has-text-white-ter">
           <div className="container has-background-black has-text-white-ter">
-            <div className="columns">
-              <div className="column is-4">
-                <section className="menu">
-                <Link to="/" className="navbar-item is-flex-touch" title="Logo">
-                  <div className="container">
-                    <h1 className='footer__title'>Asymetrics <p className="footer__subtitle">!Topics</p></h1>
-                    <p className="footer__mojo">ALWAYS ODD NEVER ALIGNED</p>
-                  </div>
-                </Link>
-                  <ul className="menu-list">
-                    <li>
+            <div>
+               
+
+                  <div className="menu-list">
                       <Link to="/" className="footer-item">
                         Home
                       </Link>
-                    </li>
-                    <li>
                       <Link className="footer-item" to="/about">
                         About
                       </Link>
-                    </li>
-                    <li>
                       <Link className="footer-item" to="/products">
                         Products
                       </Link>
-                    </li>
-                    <li>
                       <Link className="footer-item" to="/contact/examples">
                         Form Examples
                       </Link>
-                    </li>
-                    <li>
                       <a
                         className="footer-item"
                         href="/admin/"
@@ -54,11 +39,9 @@ const Footer = class extends React.Component {
                       >
                         Admin
                       </a>
-                    </li>
-                  </ul>
-                </section>
-              </div>
-              <div className="column is-4">
+                  </div>
+
+              {/* <div className="column is-4">
                 <section>
                   <ul className="menu-list">
                     <li>
@@ -85,7 +68,7 @@ const Footer = class extends React.Component {
                     <img src={github} alt="Github" style={{ width: '1em', height: '1em' }}/>
                   </span>
                 </a>
-              </div>
+              </div> */}
             </div>
           </div>
         </div>

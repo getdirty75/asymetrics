@@ -18,7 +18,7 @@ date: 2020-06-15T23:47:02.701Z
 outsideLinks:
   outsideLinksList:
     - text: Malong's 1st Round-up (full mixtape)
-      link: https://theasymetrics.com/malongs-round-up-1st-playlist/
+      link: https://theasymetrics.com/blog/malongs-round-up-1st-playlist/
     - text: Soundway Records
       link: https://soundwayrecords.com/
     - text: Heavenly Sweetness

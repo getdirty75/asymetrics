@@ -2,7 +2,6 @@ import React from 'react'
 import PropTypes from 'prop-types'
 import { Helmet } from 'react-helmet'
 import { Link, graphql } from 'gatsby'
-import Layout from '../components/Layout'
 import Content, { HTMLContent } from '../components/Content'
 import { CATEGORIES } from '../translation/enum'
 
@@ -42,7 +41,7 @@ export const BlogPostTemplate = ({
             <div className='blogPost__subValue tags'>
               {tags?.map(
                 (item) =>
-                (<Link className="tag is-dark" key={item} to={`/tags/${item.replace('#','').toLowerCase()}`}>
+                (<Link className="tag is-dark" key={item} to={`/blog/tags/${item.replace(/_| |&/g,'-').replace('#', '').toLowerCase()}`}>
                 {item}
               </Link>)
               )}
@@ -50,7 +49,7 @@ export const BlogPostTemplate = ({
             <div className='blogPost__subKey'>
               <p className='blogPost__subAuthor'>{author},&nbsp;</p>
               <p className='blogPost__subDate'>{date}&nbsp;</p>
-              <Link className="blogPost__subCat" to={`/categories/${categories}`}>
+              <Link className="blogPost__subCat" to={`/blog/categories/${categories}`}>
                 {CATEGORIES.some((cat) => cat.value === categories)
                   ? CATEGORIES.filter((cat) => cat.value === categories)[0].label
                   : categories

@@ -3,6 +3,7 @@ import { Helmet } from 'react-helmet'
 import Navbar from '../components/Navbar'
 import Transition from '../components/Transition'
 import './all.sass'
+import Footer from './Footer'
 
 import useSiteMetadata from './SiteMetadata'
 import { withPrefix } from 'gatsby'
@@ -37,7 +38,7 @@ const TemplateWrapper = ({ children, location }) => {
       <Navbar />
       <Transition location={location}>
         <div>{children}</div>
-        {/* <Footer /> */}
+        {/* <Footer className='footer__stickyBottom'/> */}
       </Transition>
     </div>
   )

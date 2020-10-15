@@ -24,7 +24,7 @@ const CategoriesPage = ({
           <ul className="taglist catPage__column">
             {group.map((category) => (
               <li key={category.fieldValue}>
-                <Link className="tags__headerText" to={`/categories/${kebabCase(category.fieldValue)}/`}>
+                <Link className="tags__headerText" to={`/blog/categories/${kebabCase(category.fieldValue)}/`}>
                   <h2 className="tags__headerText">
                     {category.totalCount}
                     {CATEGORIES.some((cat) => cat.value === category.fieldValue)

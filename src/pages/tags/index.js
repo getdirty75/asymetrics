@@ -24,7 +24,7 @@ const TagsPage = ({
           <ul className="taglist">
             {group.map((tag) => (
               <li key={tag.fieldValue}>
-                <Link className="category__display" to={`/tags/${kebabCase(tag.fieldValue)}/`}>
+                <Link className="category__display" to={`/blog/tags/${kebabCase(tag.fieldValue)}/`}>
                   <h2 className="category__display">{tag.fieldValue} ({tag.totalCount})</h2>
                 </Link>
               </li>

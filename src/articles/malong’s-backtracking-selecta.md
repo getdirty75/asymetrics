@@ -16,9 +16,9 @@ insideLinks: null
 outsideLinks:
   outsideLinksList:
     - text: un autre mix de Malong
-      link: https://theasymetrics.com/echoes-selection-by-malong/
+      link: https://theasymetrics.com/blog/echoes-selection-by-malong/
     - text: des mixes de ouf
-      link: https://theasymetrics.com/7-bad-mixtapes/
+      link: https://theasymetrics.com/blog/7-bad-mixtapes/
 ---
 <iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/822429919&color=%232c150a&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/the-asymetrics" title="The Asymetrics" target="_blank" style="color: #cccccc; text-decoration: none;">The Asymetrics</a> · <a href="https://soundcloud.com/the-asymetrics/backtracking-a-jungle-selection-by-malong" title="Backtracking (a jungle selection by Malong)" target="_blank" style="color: #cccccc; text-decoration: none;">Backtracking (a jungle selection by Malong)</a></div>
 

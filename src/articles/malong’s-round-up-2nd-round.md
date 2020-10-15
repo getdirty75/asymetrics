@@ -21,9 +21,9 @@ date: 2020-09-13T02:45:13.736Z
 outsideLinks:
   outsideLinksList:
     - text: "Malong's Round-Up - Mixtape # 2"
-      link: https://theasymetrics.com/malongs-round-up-2nd-mixtape/
+      link: https://theasymetrics.com/blog/malongs-round-up-2nd-mixtape/
     - text: Malong's Round-Up - 1st Round
-      link: https://theasymetrics.com/malong%E2%80%99s-monthly-round-up-%E2%80%93-first-round/
+      link: https://theasymetrics.com/blog/malong%E2%80%99s-monthly-round-up-%E2%80%93-first-round/
     - text: Soundway Records
       link: https://soundwayrecords.bandcamp.com/music
     - text: Out Here Records

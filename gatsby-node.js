@@ -29,20 +29,23 @@ exports.createPages = ({ actions, graphql }) => {
       result.errors.forEach((e) => console.error(e.toString()))
       return Promise.reject(result.errors)
     }
+
     const posts = result.data.allMarkdownRemark.edges
-    posts.forEach((edge) => {
-      const id = edge.node.id
+    _.each(posts, (post, index) => {
+      const articleId = post.node.id
       createPage({
-        categories: edge.node.frontmatter.categories,
-        path: edge.node.fields.slug,
-        tags: edge.node.frontmatter.tags,
+        categories: post.node.frontmatter.categories,
         component: path.resolve(
-          `src/templates/${String(edge.node.frontmatter.templateKey)}.js`
-        ),
-        // additional data can be passed via context
+          `src/templates/${String(post.node.frontmatter.templateKey)}.js`),
         context: {
-          id,
+          id: articleId,
+          next: index === 0 ? null : posts[index - 1].node,
+          postPath: `/blog${post.node.fields.slug}`,
+          previous: index === posts.length - 1 ? null : posts[index + 1].node,
+          slug: post.node.fields.slug,
         },
+        path: `/blog${post.node.fields.slug}`,
+        tags: post.node.frontmatter.tags,
       })
     })
     let categories = []
@@ -53,7 +56,7 @@ exports.createPages = ({ actions, graphql }) => {
     })
     categories = _.uniq(categories);
     categories.forEach((category) => {
-      const categoryPath = `/categories/${_.kebabCase(category)}/`;
+      const categoryPath = `/blog/categories/${_.kebabCase(category)}/`;
       console.log(category)
       createPage({
         path: categoryPath,
@@ -77,7 +80,7 @@ exports.createPages = ({ actions, graphql }) => {
 
     // Make tag pages
     tags.forEach((tag) => {
-      const tagPath = `/tags/${_.kebabCase(tag)}/`
+      const tagPath = `/blog/tags/${_.kebabCase(tag)}/`
 
       createPage({
         path: tagPath,

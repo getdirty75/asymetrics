@@ -9,7 +9,7 @@ class CategoryRoute extends React.Component {
     const posts = this.props.data.allMarkdownRemark.edges
     const postLinks = posts.map((post) => (
 
-      <Link to={post.node.fields.slug}>
+      <Link to={`/blog/${post.node.fields.slug}`}>
         <div className="tile is-12 is-parent"  key={post.id}>
           <div className="tile is-child">
 
