@@ -1,6 +1,6 @@
 ---
 templateKey: blog-post
-title: 25 Tracks to Blaze It Up
+title: 25 Tracks to Get High !
 teaser: 90’S TRIP HOP / ABSTRACT HIP HOP / STONER BEATS
 featuredimage: /img/tricky.jpg
 author: Lord Sandwich
@@ -42,6 +42,8 @@ outsideLinks:
 
 ### This playlist is a tribute to the 90s herbalists !
 
+Direct Link: [The Asymetrics Channel](https://www.youtube.com/playlist?list=PLZtgNolXlRSRfq1X7Sl-3W2zPbSoLV63E)
+
 <br>
 
 <br>
@@ -57,12 +59,6 @@ outsideLinks:
 **Handsome Boy Modeling School - The Truth**
 
 <iframe width="100%" height="315" src="https://www.youtube-nocookie.com/embed/-HW7nj-GUZY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen referrerpolicy="origin"></iframe>
-
-<br>
-
-<br>
-
-![](/img/handsome_boy_modeling_school_so_hows_your_girl.original.jpg)
 
 <br>
 
@@ -156,12 +152,6 @@ outsideLinks:
 
 <br>
 
-<br>
-
-![](/img/a792dc3dc19f46eda7e61192253c10bd.jpg "Portishead")
-
-<br>
-
 **Portishead - Glory Box**
 
 <iframe width="100%" height="380" src="https://www.youtube-nocookie.com/embed/4qQyUi4zfDs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen referrerpolicy="origin"></iframe>
@@ -175,12 +165,6 @@ outsideLinks:
 <iframe width="100%" height="315" src="https://www.youtube-nocookie.com/embed/LrQP1AetR_E" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen referrerpolicy="origin"></iframe>
 
 <br>
-
-<br>
-
-<br>
-
-![](/img/640px-morcheeba_-zmf_2018-_jm78917.jpg "Morcheeba")
 
 <br>
 
