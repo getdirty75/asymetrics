@@ -31,6 +31,10 @@ outsideLinks:
 ---
 ![](/img/dj-pohy-small.jpg "Dj Pohy / ©️Mika Cotellon")
 
+<br>
+
+Direct Link: [The Asymetrics Channel](https://www.youtube.com/playlist?list=PLZtgNolXlRSRNkQl5aYExapQBP3fqn0hv)
+
 ### Every month, our Bass Music specialist DJ Pohy shares his favorite picks with us.
 
 Hailing from Lille, France, and currently based in Paris, [Pohy](www.facebook.com/DjPohy) has been operating on the Drum&Bass and Dubstep scenes for over a decade.
@@ -76,3 +80,13 @@ If you dig this selection and want to hear more, follow Pohy on [Mixcloud](www.m
 ### Nick The Lot - Starman
 
 <iframe width="100%" height="315" src="https://www.youtube-nocookie.com/embed/t1-JlCzBY7w" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen referrerpolicy="origin"></iframe>
+
+<br>
+
+<br>
+
+<br>
+
+### Full Playlist on The Asymetrics Channel:
+
+<iframe width="100%" height="380" src="https://www.youtube-nocookie.com/embed/videoseries?list=PLZtgNolXlRSRNkQl5aYExapQBP3fqn0hv" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen referrerpolicy="origin"></iframe>
