@@ -23,11 +23,11 @@ outsideLinks:
     - text: Cymande (official website)
       link: https://www.cymandeofficial.com/history/
     - text: "Story of a Track: Caravan"
-      link: https://theasymetrics.com/caravan/
+      link: https://theasymetrics.com/blog/caravan/
     - text: "Story of a Track: I am the Black Gold of the Sun"
-      link: https://theasymetrics.com/i-am-the-black-gold-of-the-sun/
-    - text: Rocking You Eternally
-      link: https://theasymetrics.com/rocking-you-eternally/
+      link: https://theasymetrics.com/blog/i-am-the-black-gold-of-the-sun/
+    - text: Rockin' You Eternally
+      link: https://theasymetrics.com/blog/rocking-you-eternally/
     - text: The message Playlist
       link: https://www.youtube.com/watch?v=yigLMKMt_Ws&list=PLZtgNolXlRSSjJazsua7ZAT3aQzUYnOli
 ---
