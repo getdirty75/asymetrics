@@ -37,7 +37,6 @@ const TemplateWrapper = ({ children, location }) => {
       <Navbar />
       <Transition location={location}>
         <div>{children}</div>
-        <Footer className='footer__stickyBottom'/>
       </Transition>
     </div>
   )
