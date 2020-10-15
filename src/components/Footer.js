@@ -16,8 +16,6 @@ const Footer = class extends React.Component {
         <div className="content has-text-centered has-background-black has-text-white-ter">
           <div className="container has-background-black has-text-white-ter">
             <div>
-               
-
                   <div className="menu-list">
                       <Link to="/" className="footer-item">
                         Home
