@@ -14,6 +14,25 @@ tags:
   - "#1990s"
   - "#FrenchTouch"
 date: 2020-10-15T03:32:27.898Z
+outsideLinks:
+  outsideLinksList:
+    - link: https://www.factmag.com/2015/07/30/50-best-trip-hop-albums/
+      text: Fact Mag best Trip Hop
+    - text: K&D story on Medium
+      link: "adrien hicks \t AttachmentsOct 11, 2020, 3:35 PM (3 days ago) \t to
+        me   25 Tracks To Blaze The Weed !   90’S TRIP HOP / ABSTRACT HIP HOP /
+        STONER BEATS   Long before the « lofi » hip hop movement or the beats
+        tapes, way before « cloud rap » or « lounge compilations » were the
+        mighty Trip Hop Sounds :)    Related
+        :    https://www.factmag.com/2015/07/30/50-best-trip-hop-albums/  https\
+        ://medium.com/12edit/kruder-dorfmeister-g-stoned-story-behind-first-rel\
+        ease-and-eponymous-label-d281d9cf46e0"
+    - text: St Germain - Tourist
+      link: https://www.youtube.com/playlist?list=PLGwcgf6V62lF-wbsN_82iPIieSCn_w_Ia
+    - text: 7 Wicked Mixtapes
+      link: https://theasymetrics.com/7-wicked-mixtapes-volume-2/
+    - text: the Backtracking Selecta
+      link: https://theasymetrics.com/malong%E2%80%99s-backtracking-selecta/
 ---
 ![](/img/theasymetricks_tricky_small.jpg)
 
@@ -226,3 +245,9 @@ date: 2020-10-15T03:32:27.898Z
 <br>
 
 <br>
+
+
+
+### Can't live without these legendary Tunes ? Listen to the full playlist on the Asymetrics Channel:
+
+<iframe width="560" height="400" src="https://www.youtube-nocookie.com/embed/videoseries?list=PLZtgNolXlRSRfq1X7Sl-3W2zPbSoLV63E" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen referrerpolicy="origin"></iframe>
