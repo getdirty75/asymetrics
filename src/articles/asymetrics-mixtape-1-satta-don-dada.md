@@ -22,9 +22,9 @@ outsideLinks:
     - text: 7 Wicked Mixtapes
       link: https://theasymetrics.com/7-wicked-mixtapes-volume-2/
     - text: Echoes Selection
-      link: https://theasymetrics.com/echoes-selection-by-malong/
+      link: https://theasymetrics.com/blog/echoes-selection-by-malong/
     - text: "Malong Round-Up # 3"
-      link: https://theasymetrics.com/malongs-round-up-3rd-mixtape/
+      link: https://theasymetrics.com/blog/malongs-round-up-3rd-mixtape/
 ---
 ![](/img/theasymetrics_stta_don_dada_small.jpg "© Evan G.")
 
