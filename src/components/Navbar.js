@@ -87,9 +87,9 @@ const Navbar = class extends React.Component {
             </div>
             <div className="navbar-end has-text-centered">
             {/* <Link className="navbar-item navbar__itemStyle" to="/radio">Radio</Link> */}
-            <Link className="navbar-item navbar__itemStyle" to="/categories/news">news</Link>
-            <Link className="navbar-item navbar__itemStyle" to="/categories/mixtapes">mixtapes</Link>
-            <Link className="navbar-item navbar__itemStyle" to="/categories/knowledge">knowledge</Link>
+            <Link className="navbar-item navbar__itemStyle" to="/blog/categories/news">news</Link>
+            <Link className="navbar-item navbar__itemStyle" to="/blog/categories/mixtapes">mixtapes</Link>
+            <Link className="navbar-item navbar__itemStyle" to="/blog/categories/knowledge">knowledge</Link>
             <a
                 className="navbar-item"
                 href="https://soundcloud.com/the-asymetrics"

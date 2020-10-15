@@ -16,9 +16,9 @@ insideLinks: null
 outsideLinks:
   outsideLinksList:
     - text: Story of a track - I am the Black Gold of the Sun
-      link: https://theasymetrics.com/i-am-the-black-gold-of-the-sun/
+      link: https://theasymetrics.com/blog/i-am-the-black-gold-of-the-sun/
     - text: Joy Cooper's life Soundtrack
-      link: https://theasymetrics.com/soundtrack-of-my-life/
+      link: https://theasymetrics.com/blog/soundtrack-of-my-life/
 ---
 ![]()
 

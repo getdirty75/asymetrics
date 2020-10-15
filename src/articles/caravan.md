@@ -15,9 +15,9 @@ date: 2020-09-25T05:55:29.159Z
 outsideLinks:
   outsideLinksList:
     - text: "Story of a Track: I Am the Black Gold of the Sun"
-      link: https://theasymetrics.com/i-am-the-black-gold-of-the-sun/
+      link: https://theasymetrics.com/blog/i-am-the-black-gold-of-the-sun/
     - text: Rocking You Eternally
-      link: https://theasymetrics.com/rocking-you-eternally/
+      link: https://theasymetrics.com/blog/rocking-you-eternally/
 ---
 ![](/img/the_asymetrics_duke_ellington_wikicommons_big.jpg "Duke Ellington")
 

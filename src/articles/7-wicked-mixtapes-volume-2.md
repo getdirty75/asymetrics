@@ -17,15 +17,15 @@ date: 2020-10-04T19:59:02.988Z
 outsideLinks:
   outsideLinksList:
     - text: 7 Bad Mixtapes! (Volume 1)
-      link: https://theasymetrics.com/7-bad-mixtapes/
+      link: https://theasymetrics.com/blog/7-bad-mixtapes/
     - text: Dj Pohy - Asymetrics Charts Vol 1
-      link: https://theasymetrics.com/dj-pohy-monthly-top-9-1/
+      link: https://theasymetrics.com/blog/dj-pohy-monthly-top-9-1/
     - text: Wonder Cover Brother (Stevie mixtape)
-      link: https://theasymetrics.com/wonder-cover-brother/
+      link: https://theasymetrics.com/blog/wonder-cover-brother/
     - text: Malong's Round-Up - 3rd Mixtape
-      link: https://theasymetrics.com/malongs-round-up-3rd-mixtape/
+      link: https://theasymetrics.com/blog/malongs-round-up-3rd-mixtape/
     - text: Echoes Selection
-      link: https://theasymetrics.com/echoes-selection-by-malong/
+      link: https://theasymetrics.com/blog/echoes-selection-by-malong/
 ---
 ![](/img/theasymetrics_credit_andyadontstop_small.jpg "©AndYaDontStop/Flickr")
 

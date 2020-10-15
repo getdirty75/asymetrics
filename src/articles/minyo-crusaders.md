@@ -24,9 +24,9 @@ outsideLinks:
     - text: Minyo Cumbiero
       link: https://minyocrusaders.bandcamp.com/album/minyo-crusaders-and-frente-cumbiero-present-minyo-cumbiero
     - text: Caravan
-      link: https://theasymetrics.com/caravan/
+      link: https://theasymetrics.com/blog/caravan/
     - text: "Malong's Round-Up # 2"
-      link: https://theasymetrics.com/malong%E2%80%99s-round-up-2nd-round/
+      link: https://theasymetrics.com/blog/malong%E2%80%99s-round-up-2nd-round/
 ---
 ![](/img/theasymetrics_minyocrusaders_small.jpg)
 

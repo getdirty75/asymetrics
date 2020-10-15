@@ -23,12 +23,12 @@ tags:
 date: 2020-10-02T03:27:15.838Z
 outsideLinks:
   outsideLinksList:
-    - link: https://theasymetrics.com/malongs-round-up-3rd-mixtape/
+    - link: https://theasymetrics.com/blog/malongs-round-up-3rd-mixtape/
       text: Malong's Round Up 3 - The mixtape
     - text: "Malong's Round-Up # 2"
-      link: https://theasymetrics.com/malongs-round-up-2nd-mixtape/
+      link: https://theasymetrics.com/blog/malongs-round-up-2nd-mixtape/
     - text: "Malong's Round-Up # 1"
-      link: https://theasymetrics.com/malong%E2%80%99s-monthly-round-up-%E2%80%93-first-round/
+      link: https://theasymetrics.com/blog/malong%E2%80%99s-monthly-round-up-%E2%80%93-first-round/
     - text: Minyo Crusaders
       link: https://theasymetrics.com/minyo-crusaders/
     - text: Names You Can Trust
