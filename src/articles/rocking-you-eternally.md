@@ -8,13 +8,23 @@ teaser: Leon Ware, Children of Zeus, neo-Soul and old-school Jungle – a musica
   escape getting lost in samples.
 categories: knowledge
 tags:
-  - "#malong"
   - "#soul"
+  - "#Funk"
   - "#digging"
+  - "#HipHop"
+  - "#Samples"
+  - "#Sampling"
+  - "#Jungle"
 date: 2020-06-13T04:16:35.084Z
 insideLinks: null
 outsideLinks:
   outsideLinksList:
+    - text: The Eternally Rocking Playlist
+      link: https://www.youtube.com/playlist?list=PLZtgNolXlRSSUojU4ZgEva3mv2i082y0p
+    - text: "Story of a Track: The Message"
+      link: https://theasymetrics.com/blog/cymande-the-message/
+    - text: "Story of a Track: Caravan"
+      link: https://theasymetrics.com/blog/caravan/
     - text: Story of a track - I am the Black Gold of the Sun
       link: https://theasymetrics.com/blog/i-am-the-black-gold-of-the-sun/
     - text: Joy Cooper's life Soundtrack
@@ -106,6 +116,10 @@ This classic (if a bit off the beaten path) jungle ruffage also features the hea
 
 </div>
 
-### <br>
-
 ### There you have it folks, this is how that afternoon went - Enjoy the ride and keep digging!
+
+
+
+#### Want more of that eternally rocking bassline? Check out the Playlist:
+
+<iframe width="100%" height="380" src="https://www.youtube-nocookie.com/embed/videoseries?list=PLZtgNolXlRSSUojU4ZgEva3mv2i082y0p" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen referrerpolicy="origin"></iframe>
