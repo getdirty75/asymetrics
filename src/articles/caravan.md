@@ -14,10 +14,16 @@ tags:
 date: 2020-09-25T05:55:29.159Z
 outsideLinks:
   outsideLinksList:
+    - text: The Caravan Playlist
+      link: https://www.youtube.com/playlist?list=PLZtgNolXlRST07H5rwOiLk3LpMoZ34Tva
+    - text: "Story of a Track: the Message"
+      link: https://theasymetrics.com/blog/cymande-the-message/
     - text: "Story of a Track: I Am the Black Gold of the Sun"
       link: https://theasymetrics.com/blog/i-am-the-black-gold-of-the-sun/
-    - text: Rocking You Eternally
+    - text: Rockin' You Eternally
       link: https://theasymetrics.com/blog/rocking-you-eternally/
+    - text: Minyo Crusaders
+      link: https://theasymetrics.com/blog/minyo-crusaders/
 ---
 ![](/img/the_asymetrics_duke_ellington_wikicommons_big.jpg "Duke Ellington")
 
@@ -51,8 +57,6 @@ Interchangeably seen as either one of the first “Latin jazz” hit, or an orie
 
 <iframe width="100%" height="315" src="https://www.youtube-nocookie.com/embed/ji4rrG6PtUU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen referrerpolicy="origin"></iframe>
 
-
-
 A fun tropical cut from the obscure 1960’s singer behind the bombastic [“What Time Does the Sun Go Down”](https://www.youtube.com/watch?v=GokBRaA8-2o) – and it is one of those rare versions with the [original lyrics](https://genius.com/Duke-ellington-caravan-lyrics).
 
 <br>
@@ -60,8 +64,6 @@ A fun tropical cut from the obscure 1960’s singer behind the bombastic [“Wha
 #### **\*The Salsa trip: [Eddie Torres and His Mambo Kings / 1994](https://www.discogs.com/Eddie-Torres-And-His-Mambo-Kings-Orchestra-Dance-City/release/8668902)**
 
 <iframe width="100%" height="315" src="https://www.youtube-nocookie.com/embed/_VJ9lMg0nqw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen referrerpolicy="origin"></iframe>
-
-
 
 Courtesy of New York’s city’s very own “Mambo King” [Eddie Torres](https://www.youtube.com/watch?v=CvGiyckmlbY)!
 
@@ -74,8 +76,6 @@ If you dig this heat, also check [Tito Puente’s 1950’s killer cover](https:/
 #### **\*The Crate digger’s dream: [Orchestra Puccio Roelens / 1971](https://www.discogs.com/Puccio-Roelens-E-La-Sua-Grande-Orchestra-TV-Primo-Canale/release/3614910)**
 
 <iframe width="100%" height="315" src="https://www.youtube-nocookie.com/embed/xftyEXgJlvY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen referrerpolicy="origin"></iframe>
-
-
 
 Although Puccio’s first try at Caravan dates back to the 1969 album [“Love and More Love”](https://www.discogs.com/Orchestra-Puccio-Roelens-Love-And-More-Love/release/1840480), this 1971 take got much more traction and ended up on the OST for Steven Soderbergh’s Ocean’s 13 (2007), but not before making a remarkable feature on one of the seminal [“Dusty Fingers”](https://www.discogs.com/label/182798-Dusty-Fingers) compilations, a classic staple for beatmakers and samples pirates. By far my favorite cover of all…
 
@@ -109,8 +109,6 @@ Absolutely gorgeous dub cut by the [Polish sound system](http://dreadsquad.com/)
 
 #### **\*The Acid drop: [Etienne Jaumet / 2019](https://www.discogs.com/Etienne-Jaumet-Etienne-Jaumet-In-Dub/release/14372262)**
 
-
-
 Thought you heard it all (what, with the previous covers and all)?Nah my friend, it’s time to get naked in a grove next to an abandoned brick factory and reminisce of what real raves were all about, while keeping your head cool clinging to the idea that you are, after all, still listening to a version of Ellington’s perfectly socially approved wonder. Courtesy of [Versatile Records](https://shop.versatilerecords.com/),Paris’ pioneering label run by the legendary [dj Gilb’R](https://www.residentadvisor.net/dj/gilbr).
 
 <iframe width="100%" height="315" src="https://www.youtube-nocookie.com/embed/TbplwgovonE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen referrerpolicy="origin"></iframe>
@@ -127,12 +125,12 @@ Thought you heard it all (what, with the previous covers and all)?Nah my friend,
 
 <iframe width="100%" height="315" src="https://www.youtube-nocookie.com/embed/dUtjRIshsqs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen referrerpolicy="origin"></iframe>
 
-The genius from outer space Jimi Tenor (who claims to be from Finland) graced us with this insane rendition back in 1997, beamed from (who else?) [Warp Records](https://en.wikipedia.org/wiki/Warp_(record_label)).
-
-<br>
+The genius from outer space [Jimi Tenor](https://en.wikipedia.org/wiki/Jimi_Tenor) (who claims to be from Finland) graced us with this insane rendition back in 1997, beamed from (who else?) [Warp Records](https://en.wikipedia.org/wiki/Warp_(record_label)).
 
 <br>
 
 #### I will close our little journey with this one – Hope you enjoyed it... so long, and good luck with the rest of your day!
 
-<!--EndFragment-->
+### If you can't wait to play those tunes again, check out the "Caravan" playlist on the Asymetrics' channel:
+
+<iframe width="100%" height="380" src="https://www.youtube-nocookie.com/embed/videoseries?list=PLZtgNolXlRST07H5rwOiLk3LpMoZ34Tva" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen referrerpolicy="origin"></iframe>
