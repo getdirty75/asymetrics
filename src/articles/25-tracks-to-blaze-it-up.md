@@ -62,6 +62,12 @@ outsideLinks:
 
 <br>
 
+![](/img/handsome_boy_modeling_school_so_hows_your_girl.original.jpg)
+
+<br>
+
+<br>
+
 **Air - Moon Safari**
 
 <iframe width="100%" height="380" src="https://www.youtube-nocookie.com/embed/kxWFyvTg6mc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen referrerpolicy="origin"></iframe>
