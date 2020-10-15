@@ -1,10 +1,12 @@
 module.exports = {
   siteMetadata: {
     title: 'The Asymetrics',
+    siteUrl: 'https://theasymetrics.com',
     description:
       'Creative collective from various horizons, sharing humble knowledge and stories about music, culture, or any other interesting, creative, and distinctive exploits from all around the World. We dig in these various subjects through articles, podcasts, mixtapes and more...',
   },
   plugins: [
+    'gatsby-plugin-sitemap',
     'gatsby-plugin-react-helmet',
     'gatsby-plugin-sass',
     {
