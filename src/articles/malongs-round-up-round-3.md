@@ -25,6 +25,8 @@ outsideLinks:
   outsideLinksList:
     - link: https://theasymetrics.com/blog/malongs-round-up-3rd-mixtape/
       text: Malong's Round Up 3 - The mixtape
+    - text: The Round-up Videos playlist
+      link: https://www.youtube.com/playlist?list=PLZtgNolXlRSRmC3zZSi2iXAE-4OaIkVj2
     - text: "Malong's Round-Up # 2"
       link: https://theasymetrics.com/blog/malongs-round-up-2nd-mixtape/
     - text: "Malong's Round-Up # 1"
@@ -35,8 +37,6 @@ outsideLinks:
       link: https://nyctrust.bandcamp.com/music
     - text: NYP Records
       link: https://nyp-records.bandcamp.com/
-    - text: Enchufada Records
-      link: https://enchufada.bandcamp.com/
 ---
 ![](/img/jordan-jelly-snake-and-drums-small.jpg "©Jordan_Jelly")
 
@@ -198,7 +198,7 @@ His latest album release, *[Kambara Anga](https://folcore-records.bandcamp.com/a
 
 <br>
 
-### **Minyo Crusaders - Tora Joe Ft Fente Cumbiero**
+### **Minyo Crusaders - Tora Joe Ft Frente Cumbiero**
 
 <iframe width="100%" height="380" src="https://www.youtube-nocookie.com/embed/cID4CrsSA8Q" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen referrerpolicy="origin"></iframe>
 
