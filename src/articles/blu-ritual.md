@@ -173,44 +173,8 @@ A beautiful traditional Shipibo song with great healing powers
 
 A traditional Ayahuasca healing tracks from the same region. I had the blessing to have ceremonies with the artists: Elves do Jurua and Ariadine from Caboclança Universal
 
-this crowd funding compilation organized by Nightwave (with a track of mine inside as well).100% of the proceeds from this first***Love Amazonia***compilation will go directly to the Huni Kuin Kaxinawáindigenous group in the state of Acre, Brazil:
+**\- Nick Barbacheno - Madre Tierra**
 
-<https://nightwave.bandcamp.com/track/mi-voz>
+A Love Letter to Mother earth Pachamama
 
-
-
-The next three songs are from this relatively new "wave" of whatitscall Musica Medicina, three "classic”anthemsandvery powerful healer songs:
-
-Rainer Scheurebrand
-
-<https://open.spotify.com/track/6nu1Km5klgytwem6my0vHY?si=dShK6wi0T9KSARWpDBETvA>
-
-Nick Barbacheno, a Letter of Love to Mother earth Pachamama "Madre Tierra"
-
-<https://soundcloud.com/nick-barbachano/madre-tierra?in=blu-ritual/sets/for-mael/s-I0PinEU8TQ7>\*\**
-
-Danit - Guacamayo
-
-<https://soundcloud.com/christiane-tomczak-mendes/guacamayo-danit?in=blu-ritual/sets/for-mael/s-I0PinEU8TQ7>\*\**
-
-Some good Frequencies, with an excellent track to start meditation. From Zu, an ttalian artist Imet a few times performing live during Ayahuasca sessions:
-
-<https://zumusic.bandcamp.com/track/planet-8-handpan-analog-synth-in-432-hz>
-
-Another one from the new wave of "Musica Medicina", more in the electronic field, this one is from Isaque Solaris, from Portugal:
-
-<https://soundcloud.com/isaque-solaris/the-lion-and-the-goddess-indigo-mix-7-the-tree-mix-2-2?in=blu-ritual/sets/for-mael/s-I0PinEU8TQ7>\*\**
-
-Back on a club vibe, with notorious UK Artist Yak.I love his productions . This one is out on 3024 *(*flagship artist Martyn’s label):*
-
-<https://soundcloud.com/3024world/yak-dire-hit3024-yak1?in=blu-ritual/sets/for-mael/s-I0PinEU8TQ7>\*\**
-
-An artist that I really like recently and I can relate to his sound deeply is Starving Poet- Rose Knapp here one of his release on dmt records
-
-<https://soundcloud.com/d-m-t-records/dmt432-starvingpoet-nocturnal-return-preview-mix>
-
-Polyseme is an artist from Finland, who produces great acid/psychedelic music. I bought a nice tape cassette from herrecord label called Acid Waxa. Good inprint to follow as well:
-
-<https://soundcloud.com/acidwaxa/polyseme-lava-drone?in=blu-ritual/sets/for-mael/s-I0PinEU8TQ7>\*\**
-
-I’m very grateful to have had a connection just before closing my project Nan Kolèwith the Collective "Twin System".I Really like their Radio Shows and music taste, plus their productions are fire!
+**\- Danit - Guacamayo**
