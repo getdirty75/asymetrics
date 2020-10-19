@@ -3,7 +3,7 @@ templateKey: blog-post
 title: Asymetrics Team Random Selections - October 2020
 teaser: A few selections, new & old, for you & yours, brought to you by the
   Asymetrics Team Force ®️
-featuredimage: /img/theasymetrics_dave-weatherall-old-cassette-player_big.jpg
+featuredimage: /img/theasymetrics_cover_big.jpg
 author: Asymetric
 categories: mixtapes
 tags:
@@ -31,7 +31,7 @@ outsideLinks:
     - text: Special Request
       link: https://theasymetrics.com/blog/special-request/
 ---
-![](/img/theasymetrics_dave-weatherall-old-cassette-player_small.jpg "©Dave Weatherall")
+![](/img/theasymetrics_cover_small.jpg "©Dave Weatherall")
 
 <br>
 
