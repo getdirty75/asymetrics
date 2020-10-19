@@ -3,7 +3,7 @@ templateKey: blog-post
 title: Asymetrics Team Random Selections - October 2020
 teaser: A few selections, new & old, for you & yours, brought to you by the
   Asymetrics Team Force ®️
-featuredimage: /img/volodymyr-hryshchenko-yellow-destroyed-tape.jpg
+featuredimage: /img/theasymetrics_dave-weatherall-old-cassette-player_big.jpg
 author: Asymetric
 categories: mixtapes
 tags:
@@ -31,13 +31,11 @@ outsideLinks:
     - text: Special Request
       link: https://theasymetrics.com/blog/special-request/
 ---
-![](/img/theasymetrics_volodymyr-hryshchenko-small.jpg "©Volodymyr Hryshchenko")
+![](/img/theasymetrics_dave-weatherall-old-cassette-player_small.jpg "©Dave Weatherall")
 
 <br>
 
 Direct Link: [The Asymetrics Channel](https://www.youtube.com/playlist?list=PLZtgNolXlRSSU9wGUroTgURHYtRGpccEq)
-
-
 
 ### The full Asymetrical team handpicked their October 2020 Top 9 tunes - listen !
 
