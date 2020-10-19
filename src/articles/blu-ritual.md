@@ -97,27 +97,29 @@ Asides from the clear analog techno sound, and a bit of influence from classical
 
 ![](/img/theasymetrics_bluritual2.jpg)
 
-In addition, I actually feel great having reset, and starting from scratch on the scene and social media, even though it can be challenging (who enjoys having 10 plays on Soundcloud and 5 followers on Instagram–LOL). I'm enjoying the new freedom, and feel more compelled to discover and follow new artists without the aim to network or do marketing of my stuff. Even my timelines on social networks are different these days, and I enjoy spending time on it much more!
+<br>
 
-***\- So while you will be stepping back from the Nan Koléproject, you remain active with the Gqom Oh! Label, which lives on as a collective. Can you introduce us to the team?***
+In addition, I actually feel great having reset, and starting from scratch on the scene and social media, even though it can be challenging (who enjoys having 10 plays on Soundcloud and 5 followers on Instagram – LOL). I'm enjoying the new freedom, and feel more compelled to discover and follow new artists without the aim to network or do marketing of my stuff. Even my timelines on social networks are different these days, and I enjoy spending time on it much more!
 
-We are still a small and intimate team, Sboniso Brando Luthuli aka[Citizen Boy](https://www.instagram.com/theboycitizen/)is becoming the main A&R soon and[Mikael Calandra Achode](https://www.instagram.com/mikecalandra/)from[Crudo Volta](https://www.instagram.com/crudovoltaradio/)and[Python Syndicate](https://www.instagram.com/pythonsyndicate/)is directing the aesthetic and visuals and conceptual aspect, this is a process so anything can changeand evolve, we’re moving towards a new season/stage for the record label in 2021.
+***\- So while you will be stepping back from the Nan Kolé project, you remain active with the Gqom Oh! Label, which lives on as a collective. Can you introduce us to the team?***
 
-*In Lagos with Crudo Volta crew, Mikeal Calandra and Tommaso Cassinis*
+We are still a small and intimate team, Sboniso Brando Luthuli aka [Citizen Boy](https://www.instagram.com/theboycitizen/) is becoming the main A&R soon and[ Mikael Calandra Achode](https://www.instagram.com/mikecalandra/) from[ Crudo Volta](https://www.instagram.com/crudovoltaradio/) and[ Python Syndicate](https://www.instagram.com/pythonsyndicate/) is directing the aesthetic and visuals and conceptual aspect, this is a process so anything can change and evolve, we’re moving towards a new season/stage for the record label in 2021.
+
+![](/img/theasymetrics_cudovolta_nankole.jpg)
+
+*\*In Lagos with the Crudo Volta crew, Mikael Calandra Achode and Tommaso Cassinis.*
+
+<br>
 
 ***\- You've moved out of Rome for a few years now, but are there any up and coming artists or emerging styles that recently wooed you back home?***
 
-I haven’t really followed up lately. I’m very critical of Italy in general, and of the music scene in particular. I feel that there isalsoa“white-washing”of black music (Jazz in the past, now Hip-hop, Trap and even more underground electronics etc.), without enough connection or support to their real roots,not even toItalian POC, from those communities where this music coming from.We defintely have an issue of mimicking and appropriating Black culture in Italy
+I haven’t really followed up lately. I’m very critical of Italy in general, and of the music scene in particular. I feel that there is also a“white-washing”of black music (Jazz in the past, now Hip-hop, Trap and even more underground electronics etc.), without enough connection or support to their real roots,not even to Italian POC, from those communities where this music coming from.We defintely have an issue of mimicking and appropriating Black culture in Italy
 
-At the same time, now being an immigrant in the UK, I have noticed how real the uprooted feeling is.I’m living with other two Italian artists here in London and thanks to this vibe in the houseI have been trying to reconnect withItalian “cantauroriale” music orlost traditional and folk songs of the Italian South,such asstornelli romani or Pizzica and salterello, which are actually really powerful and sometimes rooted in rituals and forms of shamanismlike “Malocchio” or Tarantismo.
+At the same time, now being an immigrant in the UK, I have noticed how real the uprooted feeling is.I’m living with other two Italian artists here in London and thanks to this vibe in the house I have been trying to reconnect with Italian “cantauroriale” music or lost traditional and folk songs of the Italian South, such as stornelli romani or [Pizzica](https://en.wikipedia.org/wiki/Pizzica) and salterello, which are actually really powerful and sometimes rooted in rituals and forms of shamanismlike [“Malocchio”](https://en.wikipedia.org/wiki/Evil_eye) or ["Tarantismo"](https://en.wikipedia.org/wiki/Tarantism)
 
-<https://it.wikipedia.org/wiki/Malocchio>
+I have great hopes for people like [Agostino](https://www.instagram.com/agostino2801/), with his [Turbo Sud](https://www.instagram.com/turbosud/) project and[ Dj Tess](https://soundcloud.com/giuliatess) with her new alias[ Mala Femmina](https://www.instagram.com/mala_femmina_/), I can see that they are fuelling a new authentic, genuine Italian music scene from the south, it's going to be interesting to experience it and see it grow.
 
-<https://it.wikipedia.org/wiki/Tarantismo>
-
-I have great hopes for people like[Agostino](https://www.instagram.com/agostino2801/), with his[Turbo Sud](https://www.instagram.com/turbosud/)project and[Dj Tess](https://soundcloud.com/giuliatess)with her new alias[Mala Femmina](https://www.instagram.com/mala_femmina_/), I can see that they are fuelling a new authentic, genuine Italian music scene from the south, it's going to be interesting to experience it and see it grow.
-
-*\*Embeded:*<https://soundcloud.com/agostino2801/officina-zoe-suttacqua-e-sutta-jentu-remix>
+<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/675501206&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/agostino2801" title="AGOSTINO" target="_blank" style="color: #cccccc; text-decoration: none;">AGOSTINO</a> · <a href="https://soundcloud.com/agostino2801/officina-zoe-suttacqua-e-sutta-jentu-remix" title="Officina Zoè - Sutt&#x27;acqua E Sutta Jentu (EDIT)" target="_blank" style="color: #cccccc; text-decoration: none;">Officina Zoè - Sutt&#x27;acqua E Sutta Jentu (EDIT)</a></div>
 
 \*Embeded: dj Tess & Nan Kole: Gimme any riddim
 
