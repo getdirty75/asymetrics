@@ -127,17 +127,17 @@ I have great hopes for people like [Agostino](https://www.instagram.com/agostino
 
 ***\- You've been playing quite literally around the World in the past few years - any travel stories or discoveries you care to share?***
 
-Traveling has given me so much on many different levels, especially thanks to the fact that I was traveling to do what I love.It was great to see the youth of each and every corner doing their own music and building scenes. In many cases this involved transcending cultural or traditional aspects into modern music, which helped me further understand how music is so much more than entertainment: it encompasses spirituality, lifestyle, politics,“being”, it’s everything!
+Traveling has given me so much on many different levels, especially thanks to the fact that I was traveling to do what I love.It was great to see the youth of each and every corner doing their own music and building scenes. In many cases this involved transcending cultural or traditional aspects into modern music, which helped me further understand how music is so much more than entertainment: it encompasses spirituality, lifestyle, politics,“being”, it’s everything !
 
 ![](/img/theasymetrics_nankole_sess_lagos.png)
 
 *\*Francesco with producer Sess in his Lagos studio*
 
-A cool example I could give you is [Rophnan](https://youtu.be/Z2VwbQkD_xE) in Addis Abeba, who builds a form of EDM upon traditional Ethiopian music. He’s very popular there. You can find out more on my friend Mike Calandra’s latest[ Taxi Waves](https://www.youtube.com/c/CrudoVoltaRadio/videos) docu-series for Crudo Volta.
+A cool example I could give you is [Rophnan](https://youtu.be/Z2VwbQkD_xE) in Addis Abeba, who builds a form of EDM upon traditional Ethiopian music. He’s very popular there. You can find out more on my friend Mike Calandra’s latest[ Taxi Waves](https://www.youtube.com/c/CrudoVoltaRadio/videos) docu-series for [Crudo Volta](https://www.youtube.com/channel/UCUeo8Id548iRPuOfGUys4Ow).
 
 Together with the Crudo Volta crew, we also had a very interesting encounter in Mozambique with Maputo producer Dino and the ***Moz Afro Gang*** collective.
 
-\*Embedded:<https://youtu.be/ZV4O_Iw41Iw>
+<iframe width="100%" height="380" src="https://www.youtube-nocookie.com/embed/ZV4O_Iw41Iw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen referrerpolicy="origin"></iframe>
 
 ***\- I've always seen you as a sort of life explorer, reading a ton, traveling to mystical places to meet shamans etc... anything else non-music related you’ve been up to ?***
 
