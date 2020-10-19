@@ -1,9 +1,9 @@
 ---
 templateKey: blog-post
-title: Blu Ritual
+title: "Introducing: Blu Ritual"
 teaser: Gqom!, musical transitions, rebirth of Psychedelia and shamanism, the
   critically acclaimed mystical DJ/Producer formerly know as Nan Kolé takes us
-  on a journey. Sit back and meditate with us!
+  on his journey. Sit back and meditate!
 featuredimage: /img/theasymetrics_blu_ritual_big.jpg
 author: Malong
 categories: news
@@ -25,11 +25,9 @@ After pushing one of the [most exciting genres](https://en.wikipedia.org/wiki/Gq
 
 <iframe style="border: 0; width: 100%; height: 380px;" src="https://bandcamp.com/EmbeddedPlayer/album=1167044407/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/track=1502225380/transparent=true/" seamless><a href="https://nankole.bandcamp.com/album/outro">Outro by Nan Kolè</a></iframe>
 
-*\*Francesco' farewell to his Nan Kolé project: the deep and intimate ["Outro" LP](https://nankole.bandcamp.com/album/outro)*
+*\*Francesco's farewell to his [Nan Kolé](https://nankole.bandcamp.com/) project: the deep and intimate ["Outro" LP](https://nankole.bandcamp.com/album/outro)*
 
 <br>
-
-
 
 **Last time** I saw Francesco five years ago, we were having a beer in [Pigneto](https://www.romeing.it/pigneto-neighbourhood-rome/), a notorious alternative hood of Rome, with a couple local DJs. He was about to launch the first release of[ Gqom-Oh](https://gqomoh.bandcamp.com/music) and I had no idea what was about to hit me! Casually mentioning the project, his usual humble stance did not prepare me. As he passed me his headphones to check the first tracks that were about to be released, I got slapped on the brain! I remember telling him how staggering the music was, and how I thought something so fresh, at the time only known to a handful of kids in the townships of Durban, had the potential to run a tsunami over London and Berlin!
 
