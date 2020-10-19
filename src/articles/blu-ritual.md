@@ -165,21 +165,19 @@ I’m also very much into "Shamanism" and the worship and devotion to Mother Ear
 
 Tracklist:
 
-\- Sonqo Manta
+**\- Aro Nainawa: Raminako Ramino**
 
+A beautiful traditional Shipibo song with great healing powers
 
+**\- Elves do Jurua: Silencio**
+
+A traditional Ayahuasca healing tracks from the same region. I had the blessing to have ceremonies with the artists: Elves do Jurua and Ariadine from Caboclança Universal
 
 this crowd funding compilation organized by Nightwave (with a track of mine inside as well).100% of the proceeds from this first***Love Amazonia***compilation will go directly to the Huni Kuin Kaxinawáindigenous group in the state of Acre, Brazil:
 
 <https://nightwave.bandcamp.com/track/mi-voz>
 
-Then a traditional Ayahuasca healing tracks from the same region. I had the blessing to have ceremonies with the artists: Elves do Jurua and Ariadine from Caboclança Universal
 
-<https://soundcloud.com/caboclancauniversal/elves-do-jurua-salve-o-axe>\*\** (wrong track)
-
-A beautiful traditional Shipibo song with great healing powers:
-
-<https://soundcloud.com/sonqo-manta-77/raminako-ramino-aro-nainawa?in=blu-ritual/sets/for-mael/s-I0PinEU8TQ7>\*\**
 
 The next three songs are from this relatively new "wave" of whatitscall Musica Medicina, three "classic”anthemsandvery powerful healer songs:
 
