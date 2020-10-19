@@ -135,25 +135,41 @@ Traveling has given me so much on many different levels, especially thanks to th
 
 A cool example I could give you is [Rophnan](https://youtu.be/Z2VwbQkD_xE) in Addis Abeba, who builds a form of EDM upon traditional Ethiopian music. He’s very popular there. You can find out more on my friend Mike Calandra’s latest[ Taxi Waves](https://www.youtube.com/c/CrudoVoltaRadio/videos) docu-series for [Crudo Volta](https://www.youtube.com/channel/UCUeo8Id548iRPuOfGUys4Ow).
 
-Together with the Crudo Volta crew, we also had a very interesting encounter in Mozambique with Maputo producer Dino and the ***Moz Afro Gang*** collective.
+Together with the Crudo Volta crew, we also had a very interesting encounter in Mozambique with Maputo producer Dino and the ***Moz Afro Gang*** collective:
 
 <iframe width="100%" height="380" src="https://www.youtube-nocookie.com/embed/ZV4O_Iw41Iw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen referrerpolicy="origin"></iframe>
 
+<br>
+
+<br>
+
 ***\- I've always seen you as a sort of life explorer, reading a ton, traveling to mystical places to meet shamans etc... anything else non-music related you’ve been up to ?***
 
-*The only thing i really explore is my soul or better i'm an explorer of my inner child and i'm constructingmy soul through this exploration.*
+The only thing i really explore is my soul or better, I'm an explorer of my inner child and i'm constructing my soul through this exploration.
 
-*I’m in the process of a spiritual"research" that i'm very very grateful for: from psychotherapy, to astrology, Vipassana meditation, Marseilles tarot, praying in churches, all tools that helped me in the process of healing from traumas and to be connected to Myself.*
+I’m in the process of a spiritual "research" that i'm very very grateful for: from psychotherapy, to astrology, Vipassana meditation, Marseilles tarot, praying in churches, all tools that helped me in the process of healing from traumas and to be connected to Myself.
 
-*I’m also very much into "shamanism" and the worship and devotion toMother Earth and sacred medicines, through which i'm becoming my own healer. It's overwhelming and it's a potential that each and every human being has, it's changing my life deeply, giving me the strength to constantly challenge myself, embrace my mistakes & learning from them, stand up when I'm falling, basically being constantly present and pro-active.*
+I’m also very much into "Shamanism" and the worship and devotion to Mother Earth and sacred medicines, through which I'm becoming my own healer. It's overwhelming and it's a potential that each and every human being has, it's changing my life deeply, giving me the strength to constantly challenge myself, embrace my mistakes and learning from them, stand up when I'm falling, basically being constantly present and pro-active.
 
-Ayahuasca preparation©Wikicommons
+![](/img/theasymetrics_ayahuasca_wikicommons.jpg "Ayahuasca preparation ©Wikicommons")
 
-***\- Thank you so much for all this! And finally, for the dessert: can you share with us a selection of tunes that are meaningful to you and explain why?***
+*Ayahuasca preparation*
 
-*(*I told Francesco on the phone to surprise us, go crazy, and share things he actually listens to when he’s chilling, not his dj sets).*
+<br>
 
-Sure, let’s start with this crowd funding compilation organized by Nightwave (with a track of mine inside as well).100% of the proceeds from this first***Love Amazonia***compilation will go directly to the Huni Kuin Kaxinawáindigenous group in the state of Acre, Brazil:
+***\- Thank you so much for all this! And finally, for the dessert: can you share with us a selection of tunes that are meaningful to you and tell us why?***
+
+(* *I told Francesco on the phone to surprise us, go crazy, and share things he actually listens to when he’s chilling, not his dj sets. The result is the below playlist which will remain "living", as he will update it whenever he feels like it - the tracklist might then become obsolete and I totally love the idea!*)
+
+<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/1128476860&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/blu-ritual" title="Blu Ritual" target="_blank" style="color: #cccccc; text-decoration: none;">Blu Ritual</a> · <a href="https://soundcloud.com/blu-ritual/sets/for-mael" title="Playlist 4 The Asymetrics" target="_blank" style="color: #cccccc; text-decoration: none;">Playlist 4 The Asymetrics</a></div>
+
+Tracklist:
+
+\- Sonqo Manta
+
+
+
+this crowd funding compilation organized by Nightwave (with a track of mine inside as well).100% of the proceeds from this first***Love Amazonia***compilation will go directly to the Huni Kuin Kaxinawáindigenous group in the state of Acre, Brazil:
 
 <https://nightwave.bandcamp.com/track/mi-voz>
 
