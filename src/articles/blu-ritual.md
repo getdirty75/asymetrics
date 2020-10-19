@@ -115,25 +115,27 @@ We are still a small and intimate team, Sboniso Brando Luthuli aka [Citizen Boy]
 
 I haven’t really followed up lately. I’m very critical of Italy in general, and of the music scene in particular. I feel that there is also a“white-washing”of black music (Jazz in the past, now Hip-hop, Trap and even more underground electronics etc.), without enough connection or support to their real roots,not even to Italian POC, from those communities where this music coming from.We defintely have an issue of mimicking and appropriating Black culture in Italy
 
-At the same time, now being an immigrant in the UK, I have noticed how real the uprooted feeling is.I’m living with other two Italian artists here in London and thanks to this vibe in the house I have been trying to reconnect with Italian “cantauroriale” music or lost traditional and folk songs of the Italian South, such as stornelli romani or [Pizzica](https://en.wikipedia.org/wiki/Pizzica) and salterello, which are actually really powerful and sometimes rooted in rituals and forms of shamanismlike [“Malocchio”](https://en.wikipedia.org/wiki/Evil_eye) or ["Tarantismo"](https://en.wikipedia.org/wiki/Tarantism)
+At the same time, now being an immigrant in the UK, I have noticed how real the uprooted feeling is.I’m living with other two Italian artists here in London and thanks to this vibe in the house I have been trying to reconnect with Italian “**Cantauroriale**” music or lost traditional and folk songs of the Italian South, such as [Stornelli Romani](https://www.romecentral.com/en/gli-stornelli-romani-e-le-classiche-canzoni-romane/) or [Pizzica](https://en.wikipedia.org/wiki/Pizzica) and **Salterello**, which are actually really powerful and sometimes rooted in rituals and forms of shamanismlike [“Malocchio”](https://en.wikipedia.org/wiki/Evil_eye) or ["Tarantismo"](https://en.wikipedia.org/wiki/Tarantism)
+
+<iframe width="100%" height="200" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/675501206&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/agostino2801" title="AGOSTINO" target="_blank" style="color: #cccccc; text-decoration: none;">AGOSTINO</a> · <a href="https://soundcloud.com/agostino2801/officina-zoe-suttacqua-e-sutta-jentu-remix" title="Officina Zoè - Sutt&#x27;acqua E Sutta Jentu (EDIT)" target="_blank" style="color: #cccccc; text-decoration: none;">Officina Zoè - Sutt&#x27;acqua E Sutta Jentu (EDIT)</a></div>
 
 I have great hopes for people like [Agostino](https://www.instagram.com/agostino2801/), with his [Turbo Sud](https://www.instagram.com/turbosud/) project and[ Dj Tess](https://soundcloud.com/giuliatess) with her new alias[ Mala Femmina](https://www.instagram.com/mala_femmina_/), I can see that they are fuelling a new authentic, genuine Italian music scene from the south, it's going to be interesting to experience it and see it grow.
 
-<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/675501206&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/agostino2801" title="AGOSTINO" target="_blank" style="color: #cccccc; text-decoration: none;">AGOSTINO</a> · <a href="https://soundcloud.com/agostino2801/officina-zoe-suttacqua-e-sutta-jentu-remix" title="Officina Zoè - Sutt&#x27;acqua E Sutta Jentu (EDIT)" target="_blank" style="color: #cccccc; text-decoration: none;">Officina Zoè - Sutt&#x27;acqua E Sutta Jentu (EDIT)</a></div>
+<iframe width="100%" height="200" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/910496935&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/malafemmina" title="Mala Femmina" target="_blank" style="color: #cccccc; text-decoration: none;">Mala Femmina</a> · <a href="https://soundcloud.com/malafemmina/ruff" title="Ruff" target="_blank" style="color: #cccccc; text-decoration: none;">Ruff</a></div>
 
-\*Embeded: dj Tess & Nan Kole: Gimme any riddim
-
-*(*author note: more news about dj Tess/ Mala Femmina on the Asymetrics soon)*
+<br>
 
 ***\- You've been playing quite literally around the World in the past few years - any travel stories or discoveries you care to share?***
 
-*Francesco with producer Sess in his Lagos studio*
+Traveling has given me so much on many different levels, especially thanks to the fact that I was traveling to do what I love.It was great to see the youth of each and every corner doing their own music and building scenes. In many cases this involved transcending cultural or traditional aspects into modern music, which helped me further understand how music is so much more than entertainment: it encompasses spirituality, lifestyle, politics,“being”, it’s everything!
 
-Traveling has given me so much on many differentlevels, especially thanks to the fact that I was traveling to do what I love.It was great to see the youth of each and every corner doing their own music and building scenes. In many cases this involved transcending cultural or traditional aspects into modern music, which helped me further understand how music is so much more than entertainment: it encompasses spirituality, lifestyle, politics,“being”, it’s everything!
+![](/img/theasymetrics_nankole_sess_lagos.png)
 
-A cool example I could give you is[Rophnan](https://youtu.be/Z2VwbQkD_xE)in Addis Abeba, who builds a form of EDM upon traditional Ethiopian music, he’s very popular there. You can find out more on my friend Mike Calandra’s latest[Taxi Waves](https://www.youtube.com/c/CrudoVoltaRadio/videos)docu-series for Crudo Volta.
+*\*Francesco with producer Sess in his Lagos studio*
 
-Together with the Crudo Volta crew, we also had a very interesting encounter in Mozambique with Maputo producer Dino andthe*Moz Afro Gang*collective.
+A cool example I could give you is [Rophnan](https://youtu.be/Z2VwbQkD_xE) in Addis Abeba, who builds a form of EDM upon traditional Ethiopian music. He’s very popular there. You can find out more on my friend Mike Calandra’s latest[ Taxi Waves](https://www.youtube.com/c/CrudoVoltaRadio/videos) docu-series for Crudo Volta.
+
+Together with the Crudo Volta crew, we also had a very interesting encounter in Mozambique with Maputo producer Dino and the ***Moz Afro Gang*** collective.
 
 \*Embedded:<https://youtu.be/ZV4O_Iw41Iw>
 
@@ -144,17 +146,6 @@ Together with the Crudo Volta crew, we also had a very interesting encounter in 
 *I’m in the process of a spiritual"research" that i'm very very grateful for: from psychotherapy, to astrology, Vipassana meditation, Marseilles tarot, praying in churches, all tools that helped me in the process of healing from traumas and to be connected to Myself.*
 
 *I’m also very much into "shamanism" and the worship and devotion toMother Earth and sacred medicines, through which i'm becoming my own healer. It's overwhelming and it's a potential that each and every human being has, it's changing my life deeply, giving me the strength to constantly challenge myself, embrace my mistakes & learning from them, stand up when I'm falling, basically being constantly present and pro-active.*
-
-<!--\\[if gte vml 1]><v:shape id="_x0000_i1030"
- type="#_x0000_t75" alt="Macintosh HD:Users:Malong:Desktop:MUSIC:ASYMETRICS:Sept 2020:Francesco:Ayahuasca_prep.JPG"
- style='width:243pt;height:182pt' strokeweight="1pt">
- <v:fill o:detectmouseclick="t"/>
- <v:stroke miterlimit="4"/>
- <v:imagedata src="file://localhost/Users/Malong/Library/Caches/TemporaryItems/msoclip/0clip_image011.jpg"
-  o:title="image7"/>
- <v:path arrowok="t"/>
- <o:lock v:ext="edit" rotation="t" position="t"/>
-</v:shape><!\\[endif]--><!--\\[if !vml]-->!\[Macintosh HD:Users:Malong:Desktop:MUSIC:ASYMETRICS:Sept 2020:Francesco:Ayahuasca_prep.JPG](file://localhost/Users/Malong/Library/Caches/TemporaryItems/msoclip/0clip_image012.gif)<!--\\[endif]-->
 
 Ayahuasca preparation©Wikicommons
 
