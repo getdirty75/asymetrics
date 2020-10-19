@@ -67,29 +67,35 @@ Nan Kolè, as all things in life, came to an end. It was a beautiful journey but
 
 Francesco & one of his techno collective van, Late 90s/Early 2000s
 
- I’ve also looked into new ways of creating music and crated the[ **Blu Ritual**](https://soundcloud.com/blu-ritual) project
+ I’ve also looked into new ways of creating music and created the[ **Blu Ritual**](https://soundcloud.com/blu-ritual) project
 
 The name represents my new approach on composing tracks: Having plenty of time during the recent lockdown, I learned new methods and created a sort of personal ritual, taking my time, meditating, cleansing energies in my room and sometimes [micro-dosing](https://www.wired.co.uk/article/what-is-microdosing) mushrooms, which allow a sort of “elapsed” perception of time. I’m also working with intuition. Essentially trying to rush nothing but committed to a start and conclusion of the ritual.
 
 Blue is the main color I envision in the process, and the melodies that come to me are often melancholic and deep.
 
-Under Blu Ritual, I just released a first EP via Bandcamp, and 2 more EPs, ***Numbers & Colours*** and ***epichysis*** (recorded in one sole psychedelic session) will come out in December. They will be released on digital and double-cassette tapes on Italian label[ MFZ records](https://mfzrecords.bandcamp.com/).
+<iframe style="border: 0; width: 100%; height: 380px;" src="https://bandcamp.com/EmbeddedPlayer/album=1833239264/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/transparent=true/" seamless><a href="https://bluritual.bandcamp.com/album/scattered-demo">Scattered demo by Blu Ritual</a></iframe>
+
+<br>
+
+<br>
+
+Under Blu Ritual, I just released a first EP via Bandcamp, and 2 more EPs, ***Numbers & Colours*** and ***epichysis*** (recorded in one sole psychedelic session) will come out in December. They will be released on digital and double-cassette tapes on Italian label[ **MFZ records**](https://mfzrecords.bandcamp.com/).
 
 I am also working with a very talented new visual artist called[ Ayebaitari](https://www.instagram.com/ayebaitari__/) on the graphics and videos of he project.
 
-\*Embeded: Scattered Demo (full EP)
-
 ***\- Can you describe where you're headed with these new projects? Is there a specific genre or scene, or instruments attached to that new identity you're developing as Blu Ritual ?***
 
-I would like to see a new“Psychedelia”era in the electronic music scene, maybe less "ego" and more art?
+I would like to see a new **“Psychedelia”** era in the electronic music scene, maybe less "ego" and more art?
 
-*\*Embedded:https://soundcloud.com/blu-ritual/06051750a*
+<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/892022593&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/blu-ritual" title="Blu Ritual" target="_blank" style="color: #cccccc; text-decoration: none;">Blu Ritual</a> · <a href="https://soundcloud.com/blu-ritual/06051750a" title="06051750" target="_blank" style="color: #cccccc; text-decoration: none;">06051750</a></div>
 
-I'm currently enjoying my[op-1](https://teenage.engineering/products/op-1)synthesizer, the[Meris](https://www.meris.us/)and[electro-harmonix](https://www.ehx.com/)pedals, the[SH-101](https://en.wikipedia.org/wiki/Roland_SH-101), and other toys plus some percussive "organic" instruments, flutes, shakers,[jaw harp](https://en.wikipedia.org/wiki/Jew%252527s_harp), and many more.
+I'm currently enjoying my [op-1](https://teenage.engineering/products/op-1) synthesizer, the[ Meris](https://www.meris.us/) and[ electro-harmonix](https://www.ehx.com/) pedals, the[ SH-101](https://en.wikipedia.org/wiki/Roland_SH-101), and other toys plus some percussive "organic" instruments, flutes, shakers,[jaw harp](https://en.wikipedia.org/wiki/Jew%252527s_harp), and many more.
 
-Also, in that same spirit of reconnecting with the 90s rave era, I am recording with ananalog Mackie mixer, to try and get thatorganic, raw sound.
+Also, in that same spirit of reconnecting with the 90s rave era, I am recording with **ananalog Mackie** mixer, to try and get that organic, raw sound.
 
-Asides from the clear analog techno sound, and a bit of influence from classical inherited from my great-grandfather (a great violinist), I am really enjoying experimenting more and I'm not looking forward to have a clearly defined sound.I recently managed to invest in buying these instruments that i was dreaming about for a long time, which, along with certain processes (rather than lotsof gear and samples) give some directions to my overwhelming creative flow.I don’t feel that an artist necessarily needs external synths, drums or hardware, that's just my personal feeling and journey right now, it doesn't makes my music "better”though.
+Asides from the clear analog techno sound, and a bit of influence from classical inherited from my great-grandfather (a famous violinist), I am really enjoying experimenting more and I'm not looking forward to have a clearly defined sound.I recently managed to invest in buying these instruments that i was dreaming about for a long time, which, along with certain processes (rather than lots of gear and samples) give some directions to my overwhelming creative flow.I don’t feel that an artist necessarily needs external synths, drums or hardware, that's just my personal feeling and journey right now, it doesn't makes my music "better” though.
+
+![](/img/theasymetrics_bluritual2.jpg)
 
 In addition, I actually feel great having reset, and starting from scratch on the scene and social media, even though it can be challenging (who enjoys having 10 plays on Soundcloud and 5 followers on Instagram–LOL). I'm enjoying the new freedom, and feel more compelled to discover and follow new artists without the aim to network or do marketing of my stuff. Even my timelines on social networks are different these days, and I enjoy spending time on it much more!
 
