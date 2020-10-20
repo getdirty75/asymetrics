@@ -1,8 +1,8 @@
 ---
 templateKey: blog-post
-title: Asymetrics Team Random Selections - October 2020
-teaser: A few selections, new & old, for you & yours, brought to you by the
-  Asymetrics Team Force ®️
+title: Asymetrics Random Selection - October 2020
+teaser: A few tunes, new & old, for you & yours, brought to you by the
+  Asymetrics Team Force !
 featuredimage: /img/theasymetrics_cover_big.jpg
 author: Asymetric
 categories: mixtapes
@@ -43,9 +43,13 @@ Direct Link: [The Asymetrics Channel](https://www.youtube.com/playlist?list=PLZt
 
 <br>
 
-#### Taiwan MC - Fire (ft Landa Freak)
+#### Taiwan MC - Fire (ft Landa Freak) 
 
-<iframe width="100%" height="315" src="https://www.youtube-nocookie.com/embed/IxBWTaZuSfg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen referrerpolicy="origin"></iframe>
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/GW9GeVHLOyk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen referrerpolicy="origin"></iframe>
+
+<br>
+
+<br>
 
 <br>
 
@@ -59,9 +63,17 @@ Direct Link: [The Asymetrics Channel](https://www.youtube.com/playlist?list=PLZt
 
 <br>
 
+<br>
+
+<br>
+
 #### Hendrix - Quien Los Mato (ft Alexis Play, Junior Jein & Nidia Gongora)
 
 <iframe width="100%" height="380" src="https://www.youtube-nocookie.com/embed/i7vBVvvHBYY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen referrerpolicy="origin"></iframe>
+
+<br>
+
+<br>
 
 <br>
 
@@ -75,9 +87,17 @@ Direct Link: [The Asymetrics Channel](https://www.youtube.com/playlist?list=PLZt
 
 <br>
 
+<br>
+
+<br>
+
 #### Von D - Hermetica (ft Sinerise)
 
 <iframe width="100%" height="315" src="https://www.youtube-nocookie.com/embed/t2i-tS-gZEU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen referrerpolicy="origin"></iframe>
+
+<br>
+
+<br>
 
 <br>
 
@@ -91,9 +111,17 @@ Direct Link: [The Asymetrics Channel](https://www.youtube.com/playlist?list=PLZt
 
 <br>
 
+<br>
+
+<br>
+
 #### Da Fat Cat Clique - Da Flow
 
 <iframe width="100%" height="315" src="https://www.youtube-nocookie.com/embed/W2z1RHkbPB8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen referrerpolicy="origin"></iframe>
+
+<br>
+
+<br>
 
 <br>
 
@@ -107,6 +135,10 @@ Direct Link: [The Asymetrics Channel](https://www.youtube.com/playlist?list=PLZt
 
 <br>
 
+<br>
+
+<br>
+
 **The Fantastic Johnny C - Boogaloo Down Broadway**
 
 <iframe width="100%" height="315" src="https://www.youtube-nocookie.com/embed/oOpdkxZoNFM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen referrerpolicy="origin"></iframe>
@@ -115,6 +147,12 @@ Direct Link: [The Asymetrics Channel](https://www.youtube.com/playlist?list=PLZt
 
 <br>
 
-### Dig it? Check the full playlist below, and subscribe to our Channel!
+<br>
+
+<br>
+
+### Dig it? 
+
+### Check the full playlist below, & subscribe to The Asymetrics YouTube Channel!
 
 <iframe width="100%" height="380" src="https://www.youtube-nocookie.com/embed/videoseries?list=PLZtgNolXlRSSU9wGUroTgURHYtRGpccEq" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen referrerpolicy="origin"></iframe>
