@@ -16,6 +16,20 @@ tags:
   - "#Playlist"
   - "#ArtistProfile"
 date: 2020-10-19T20:37:01.024Z
+outsideLinks:
+  outsideLinksList:
+    - text: Blu Ritual Music
+      link: https://bluritual.bandcamp.com/releases
+    - text: MFZ Records
+      link: https://mfzrecords.bandcamp.com/
+    - text: Ayebaitari
+      link: https://www.instagram.com/ayebaitari__/
+    - text: Nan Kolè
+      link: https://nankole.bandcamp.com/
+    - text: Gqom Oh!
+      link: https://gqomoh.bandcamp.com/
+    - text: Crudo Volta
+      link: https://www.youtube.com/channel/UCUeo8Id548iRPuOfGUys4Ow?feature=emb_ch_name_ex
 ---
 ![](/img/theasymetrics_blu_ritual_small.jpg)
 
@@ -97,15 +111,17 @@ I would like to see a new **“Psychedelia”** era in the electronic music scen
 
 I'm currently enjoying my [op-1](https://teenage.engineering/products/op-1) synthesizer, the[ Meris](https://www.meris.us/) and[ electro-harmonix](https://www.ehx.com/) pedals, the[ SH-101](https://en.wikipedia.org/wiki/Roland_SH-101), and other toys plus some percussive "organic" instruments, flutes, shakers, [jaw harp](https://en.wikipedia.org/wiki/Jew%252527s_harp), and many more.
 
-Also, in that same spirit of reconnecting with the 90s rave era, I am recording with an **ananalog Mackie** mixer, to try and get that organic, raw sound.
+Also, in that same spirit of reconnecting with the 90s rave era, I am recording with an **analog Mackie** mixer, to try and get that organic, raw sound.
 
-Asides from the clear analog techno sound, and a bit of influence from classical inherited from my great-grandfather (a famous violinist), I am really enjoying experimenting more and I'm not looking forward to have a clearly defined sound. I recently managed to invest in buying these instruments that i was dreaming about for a long time, which, along with certain processes (rather than lots of gear and samples) give some directions to my overwhelming creative flow. I don’t feel that an artist necessarily needs external synths, drums or hardware, that's just my personal feeling and journey right now, it doesn't makes my music "better” though.
+Asides from the clear analog techno sound, and a bit of influence from classical inherited from my great-grandfather (a famous violinist), I am really enjoying experimenting more and I'm not looking forward to have a clearly defined sound. 
+
+I recently managed to invest in buying these instruments that i was dreaming about for a long time, which, along with certain processes (rather than lots of gear and samples) give some directions to my overwhelming creative flow. I don’t feel that an artist necessarily needs external synths, drums or hardware, that's just my personal feeling and journey right now, it doesn't makes my music "better” though.
 
 ![](/img/theasymetrics_bluritual2.jpg)
 
 <br>
 
-In addition, I actually feel great having reset, and starting from scratch on the scene and social media, even though it can be challenging (who enjoys having 10 plays on Soundcloud and 5 followers on Instagram – LOL). I'm enjoying the new freedom, and feel more compelled to discover and follow new artists without the aim to network or do marketing of my stuff. Even my timelines on social networks are different these days, and I enjoy spending time on it much more!
+In addition, I actually feel great having reset, and starting from scratch on the scene and social media, even though it can be challenging (who likes having 10 plays on Soundcloud and 5 followers on Instagram – LOL). I'm enjoying the new freedom, and feel more compelled to discover and follow new artists without the aim to network or do marketing of my stuff. Even my timelines on social networks are different these days, and I enjoy spending time on it much more!
 
 ***\- So while you will be stepping back from the Nan Kolè project, you remain active with the Gqom Oh! Label, which lives on as a collective. Can you introduce us to the team?***
 
@@ -159,8 +175,6 @@ I’m also very much into "Shamanism" and the worship and devotion to Mother Ear
 
 ![](/img/theasymetrics_ayahuasca_wikicommons.jpg "Ayahuasca preparation ©Wikicommons")
 
-*Ayahuasca preparation*
-
 <br>
 
 ***\- Thank you so much for all this! And finally, for the dessert: can you share with us a selection of tunes that are meaningful to you and tell us why?***
@@ -201,7 +215,7 @@ I’m very grateful to have had a connection with the collective **Twin System**
 
 **\- Yak - Dire Hit**
 
-Back on a club vibe, with notorious UK Artist Yak. I love his productions . This one is out on 3024 (**flagship artist Martyn’s label)*
+Back on a club vibe, with notorious UK artist **Yak**. I love his productions . This one is out on **3024** (**flagship artist Martyn’s label)*
 
 ***\- Polyseme - Lava Drone***
 
@@ -223,7 +237,7 @@ Agostino showcasing the Turbo Sud concept. As I Mentioned in the interview this 
 
 <br>
 
-**Juliana - Mi Voz**
+**Julianna - Mi Voz**
 
 <iframe style="border: 0; width: 100%; height: 250px;" src="https://bandcamp.com/EmbeddedPlayer/album=4067759242/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/track=2290258390/transparent=true/" seamless><a href="https://nightwave.bandcamp.com/album/love-amazonia">Love Amazonia by Julianna</a></iframe>
 
@@ -235,7 +249,7 @@ Extracted from a crowd funding compilation organized by [Nightwave](https://nigh
 
 <iframe style="border: 0; width: 100%; height: 250px;" src="https://bandcamp.com/EmbeddedPlayer/track=484454408/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/transparent=true/" seamless><a href="https://zumusic.bandcamp.com/track/planet-8-handpan-analog-synth-in-432-hz">PLANET 8 - HandPan &amp; Analog synth in 432 hz by Andrea ZU - ZuMusic Project</a></iframe>
 
-Some good Frequencies, with an excellent track to start meditation. From Zu, an Italian artist I met a few times performing live during Ayahuasca sessions
+Some good Frequencies, with an excellent track to start meditation. From **Zu**, an Italian artist I met a few times performing live during Ayahuasca sessions
 
 <br>
 
@@ -251,7 +265,7 @@ More "Musica Medicina"
 
 <iframe width="100%" height="250" src="https://www.youtube-nocookie.com/embed/2tlnZCYq_L4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-An Italian songs that was very helpful to me in some Ayahuasca sessions, I really suggest it if you understand Italian.
+An song that was very helpful to me in some Ayahuasca sessions, I really suggest it if you understand Italian.
 
 <br>
 
