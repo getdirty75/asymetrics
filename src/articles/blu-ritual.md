@@ -10,6 +10,7 @@ categories: news
 tags:
   - "#Gqom!"
   - "#Techno"
+  - "#electronics"
   - "#Psychedelic"
   - "#Interview"
   - "#Playlist"
@@ -258,4 +259,12 @@ An Italian songs that was very helpful to me in some Ayahuasca sessions, I reall
 
 <iframe style="border: 0; width: 100%; height: 250px;" src="https://bandcamp.com/EmbeddedPlayer/album=2149773074/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/track=3720932302/transparent=true/" seamless><a href="https://maxdewardener.bandcamp.com/album/music-for-detuned-pianos-2">Music For Detuned Pianos by Max de Wardener</a></iframe>
 
-Finally, I wanted to wrap-up for you guys with a piano solo from one of my favorite recently purchased albums
+Finally, I wanted to wrap-up for you guys with a piano solo from one of my favorite recently purchased albums.
+
+...
+
+<br>
+
+### Massive thanks to Francesco "Blu Ritual" Cucchi for giving us a bit of his time and good vibes!
+
+#### If you want to explore further, follow Blu Ritual on [Instagram](https://www.instagram.com/blu_ritual/) / [Soundcloud](https://soundcloud.com/blu-ritual) / [Bandcamp](https://bluritual.bandcamp.com/releases)
