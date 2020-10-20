@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
-title: 25 Tracks to Get High !
-teaser: 90’S TRIP HOP / ABSTRACT HIP HOP / STONER BEATS
+title: 25 Tracks To Get High !
+teaser: 90’S Trip Hop, Abstract Hip Hop, Stoner Beats...
 featuredimage: /img/theasymetrics_dj_punk_roc_big.jpg
 author: Lord Sandwich
 categories: mixtapes
@@ -36,9 +36,7 @@ outsideLinks:
 ---
 ![](/img/theasymetrics_dj_punk_roc_small.jpg)
 
-
-
-### Long before the « Lo-Fi » Hip Hop movement or the beats tapes; way before « Cloud Rap » or « Lounge compilations » were the mighty Trip Hop Sounds :)
+### Long before the lo-fi hip hop movement or the beat tapes, way before cloud rap or lounge compilations...were the mighty trip hop sounds :)
 
 ### This playlist is a tribute to the 90s herbalists !
 
