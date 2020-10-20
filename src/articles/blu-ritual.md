@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
 title: "Introducing: Blu Ritual"
-teaser: "Gqom!, musical transitions, rebirth of Psychedelia and shamanism: the
+teaser: "Gqom!, musical transitions, rebirth of Psychedelia and Shamanism: the
   critically acclaimed mystical DJ / Producer formerly know as Nan Kolè takes us
   on his journey. Sit back and meditate!"
 featuredimage: /img/theasymetrics_blu_ritual_big.jpg
@@ -11,15 +11,19 @@ tags:
   - "#Gqom!"
   - "#Techno"
   - "#electronics"
+  - "#rave"
+  - "#Afrohouse"
   - "#Psychedelic"
   - "#Interview"
   - "#Playlist"
-  - "#ArtistProfile"
+  - "#Profile"
 date: 2020-10-19T20:37:01.024Z
 outsideLinks:
   outsideLinksList:
     - text: Blu Ritual Music
       link: https://bluritual.bandcamp.com/releases
+    - text: Blu Ritual Playlist 4 the Asymetrics
+      link: https://soundcloud.com/blu-ritual/sets/for-mael
     - text: MFZ Records
       link: https://mfzrecords.bandcamp.com/
     - text: Ayebaitari
@@ -39,31 +43,35 @@ outsideLinks:
 
 After pushing one of the [most exciting genres](https://en.wikipedia.org/wiki/Gqom) of the past decade under the name [](https://boilerroom.tv/recording/nan-kole)[Nan Kolè](https://www.residentadvisor.net/dj/nankole), he is now moving on to a new dimension of sound and tells us all about it!
 
-<iframe style="border: 0; width: 100%; height: 380px;" src="https://bandcamp.com/EmbeddedPlayer/album=1167044407/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/track=1502225380/transparent=true/" seamless><a href="https://nankole.bandcamp.com/album/outro">Outro by Nan Kolè</a></iframe>
+![](/img/theasymetrics_nankole_outro.jpg)
 
-*\*Francesco's farewell to his* [](https://nankole.bandcamp.com/)*[Nan Kolè](https://nankole.bandcamp.com/) project: the deep and intimate ["Outro" LP](https://nankole.bandcamp.com/album/outro)*
+<iframe style="border: 0; width: 100%; height: 42px;" src="https://bandcamp.com/EmbeddedPlayer/album=1167044407/size=small/bgcol=ffffff/linkcol=0687f5/artwork=none/transparent=true/" seamless><a href="https://nankole.bandcamp.com/album/outro">Outro by Nan Kolè</a></iframe>
+
+***Francesco's farewell to his*** [](https://nankole.bandcamp.com/)***[Nan Kolè](https://nankole.bandcamp.com/) project: the deep and intimate ["Outro"](https://nankole.bandcamp.com/album/outro)***
 
 <br>
 
-**Last time** I saw Francesco five years ago, we were having a beer in [Pigneto](https://www.romeing.it/pigneto-neighbourhood-rome/), a notorious alternative hood of Rome, with a couple local DJs. He was about to launch the first release of[ Gqom-Oh](https://gqomoh.bandcamp.com/music)! and I had no idea what was about to hit me! Casually mentioning the project, his usual humble stance did not prepare me. 
+Last time I saw Francesco five years ago, we were having a beer in [Pigneto](https://www.romeing.it/pigneto-neighbourhood-rome/), a notorious alternative hood of Rome, with a couple local DJs. He was about to launch the first release of[ **Gqom-Oh**](https://gqomoh.bandcamp.com/music)**!** and I had no idea what was about to hit me! Casually mentioning the project, his usual humble stance did not prepare me. 
 
-As he passed me his headphones to check the first tracks that were about to be released, I got slapped on the brain! I remember telling him how staggering the music was, and how I thought something so fresh, at the time only known to a handful of kids in the townships of Durban, had the potential to run a tsunami over London and Berlin!
+As he passed me his headphones to check the first tracks that were about to be released, I got slapped on the brain! 
+
+I remember telling him how staggering the music was, and how I thought something so fresh, at the time only known to a handful of kids in the townships of **Durban**, had the potential to run a tsunami over London and Berlin!
 
 ![](/img/theasymetrics_gqom-oh-1.jpg)
 
 <br>
 
-**Fast forward to 2020**, and the outsider South African beat is everywhere. You can hear its touch [all over African electronics](https://www.okayafrica.com/gqom-nigerian-pop-music-south-africa/) and [the wider club scene](https://mixmag.net/feature/no-more-4x4-electronic-sounds-global-south-club-culture-gqom-reggaeton-baile-funk),[ dj Lag](https://djmag.com/content/recognise-dj-lag) is a superstar,[ Citizen Boy](https://citizenboysa.bandcamp.com/) is no longer a kid and destroys dancefloors from London to Shanghai , and even[ Beyonce got seduced](https://www.youtube.com/watch?v=V_ZsbqSg4aE) !
+**Fast forward to 2020**, and the outsider South African beat is everywhere. You can hear its touch [all over African electronics](https://www.okayafrica.com/gqom-nigerian-pop-music-south-africa/) and [the wider club scene](https://mixmag.net/feature/no-more-4x4-electronic-sounds-global-south-club-culture-gqom-reggaeton-baile-funk),[ **dj Lag**](https://djmag.com/content/recognise-dj-lag) is a superstar,[ **Citizen Boy**](https://citizenboysa.bandcamp.com/) is no longer a kid and destroys dancefloors from London to Shanghai , and even[ **Beyonce** got seduced](https://www.youtube.com/watch?v=V_ZsbqSg4aE) !
 
 <br>
 
 <iframe width="100%" height="380" src="https://www.youtube-nocookie.com/embed/BN_keHjc2eM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen referrerpolicy="origin"></iframe>
 
-*\*Teaser for Gqom Oh!'s [Commando Mixtape](https://gqomoh.bandcamp.com/album/commando-mixtape)*
+***Teaser for Gqom Oh!'s [Commando Mixtape](https://gqomoh.bandcamp.com/album/commando-mixtape)***
 
 <br>
 
-Francesco’s contribution to the movement was timely, pivotal, and[ put him under the spotlight](https://www.residentadvisor.net/dj/nankole), but it was always about the original creators of the sound (*watch the fascinating documentary about Gqom Oh!'s inception, filmed by the [Crudo Volta](https://www.youtube.com/channel/UCUeo8Id548iRPuOfGUys4Ow) crew in Durban*):
+Francesco’s contribution to the movement was timely, pivotal, and[ put him under the spotlight](https://www.residentadvisor.net/dj/nankole), but it was always about the original creators of the sound (*watch the fascinating documentary about Gqom Oh!'s inception, filmed by the **[Crudo Volta](https://www.youtube.com/channel/UCUeo8Id548iRPuOfGUys4Ow)** crew in Durban*):
 
 <iframe width="100%" height="380" src="https://www.youtube-nocookie.com/embed/xgHxtE4uzdY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen referrerpolicy="origin"></iframe>
 
@@ -83,7 +91,7 @@ Nan Kolè, as all things in life, came to an end. It was a beautiful journey but
 
 ![](/img/theasymetrics_cukiman_90s.jpg)
 
-*\*Francesco & one of his techno collective van, Late 90s/Early 2000s*
+***Francesco & one of his techno collective van, Late 90s/Early 2000s***
 
  <br>
 
@@ -93,17 +101,21 @@ The name represents my new approach on composing tracks: Having plenty of time d
 
 Blue is the main color I envision in the process, and the melodies that come to me are often melancholic and deep.
 
-<iframe style="border: 0; width: 100%; height: 380px;" src="https://bandcamp.com/EmbeddedPlayer/album=1833239264/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/transparent=true/" seamless><a href="https://bluritual.bandcamp.com/album/scattered-demo">Scattered demo by Blu Ritual</a></iframe>
+#### Blu Ritual
+
+![](/img/theasymetrics_bluritual_scattereddemo.jpg)
+
+<iframe style="border: 0; width: 100%; height: 42px;" src="https://bandcamp.com/EmbeddedPlayer/album=1833239264/size=small/bgcol=ffffff/linkcol=0687f5/artwork=none/transparent=true/" seamless><a href="https://bluritual.bandcamp.com/album/scattered-demo">Scattered demo by Blu Ritual</a></iframe>
 
 <br>
 
 <br>
 
-Under Blu Ritual, I just released a first EP via Bandcamp (*Scattered Demo, above link*), and 2 more EPs: ***Numbers & Colours*** and ***Epichysis*** (recorded in one sole psychedelic session) will come out in December. They will be released on digital and double-cassette tapes on Italian label[ **MFZ records**](https://mfzrecords.bandcamp.com/).
+Under Blu Ritual, I just released a first EP via Bandcamp (***Scattered Demo***, above) and 2 more EPs: ***Numbers & Colours*** and ***Epichysis*** (recorded in one sole psychedelic session) will come out in December. They will be released on digital and double-cassette tapes on Italian label[ **MFZ records**](https://mfzrecords.bandcamp.com/).
 
 I am also working with a very talented new visual artist called[ **Ayebaitari**](https://www.instagram.com/ayebaitari__/) on the graphics and videos of he project.
 
-***\- Can you describe where you're headed with these new projects? Is there a specific genre or scene, or instruments attached to that new identity you're developing as Blu Ritual ?***
+***\- Can you describe where you're headed with this new project? Is there a specific genre or scene, or instruments attached to that new identity you're developing as Blu Ritual ?***
 
 I would like to see a new **“Psychedelia”** era in the electronic music scene, maybe less "ego" and more art?
 
@@ -129,13 +141,13 @@ We are still a small and intimate team, Sboniso Brando Luthuli aka [Citizen Boy]
 
 ![](/img/theasymetrics_cudovolta_nankole.jpg)
 
-*\*In Lagos with the Crudo Volta crew, Mikael Calandra Achode and Tommaso Cassinis.*
+***In Lagos with the Crudo Volta crew, Mikael Calandra Achode and Tommaso Cassinis***
 
 <br>
 
 ***\- You've moved out of Rome for a few years now, but are there any up and coming artists or emerging styles that recently wooed you back home?***
 
-I haven’t really followed up lately. I’m very critical of Italy in general, and of the music scene in particular. I feel that there is also a“white-washing”of black music (Jazz in the past, now Hip-Hop, Trap and even more underground electronics etc.), without enough connection or support to their real roots, not even to Italian POC, from those communities where these music come from. We defintely have an issue of mimicking and appropriating Black cultures in Italy.
+I haven’t really followed up lately. I’m very critical of Italy in general, and of the music scene in particular. I feel that there is also a “white-washing” of black music (Jazz in the past, now Hip-Hop, Trap and even more underground electronics etc.), without enough connection or support to their real roots, not even to Italian POC, from those communities where these musics come from. We definitely have an issue of mimicking and appropriating Black cultures in Italy.
 
 At the same time, now being an immigrant in the UK, I have noticed how real the uprooted feeling is. I’m living with two other Italian artists here in London, and thanks to this vibe in the house I have been trying to reconnect with Italian “**Cantauroriale**” music or lost traditional and folk songs of the Italian South, such as **[Stornelli Romani](https://www.romecentral.com/en/gli-stornelli-romani-e-le-classiche-canzoni-romane/)** or **[Pizzica](https://en.wikipedia.org/wiki/Pizzica)** and **Salterello**, which are actually really powerful and sometimes rooted in rituals and forms of shamanism like [“**Malocchio**”](https://en.wikipedia.org/wiki/Evil_eye) or ["**Tarantismo**"](https://en.wikipedia.org/wiki/Tarantism)
 
@@ -153,7 +165,7 @@ Traveling has given me so much on many different levels, especially thanks to th
 
 ![](/img/theasymetrics_nankole_sess_lagos.png)
 
-*\*Francesco with producer Sess in his Lagos studio*
+***Francesco with producer Sess in his Lagos studio***
 
 A cool example I could give you is [Rophnan](https://youtu.be/Z2VwbQkD_xE) in Addis Abeba, who builds a form of EDM upon traditional Ethiopian music. He’s very popular there. You can find out more on my friend Mike Calandra’s latest[ Taxi Waves](https://www.youtube.com/c/CrudoVoltaRadio/videos) docu-series for [Crudo Volta](https://www.youtube.com/channel/UCUeo8Id548iRPuOfGUys4Ow).
 
@@ -181,53 +193,37 @@ I’m also very much into "Shamanism" and the worship and devotion to Mother Ear
 
 (* *I told Francesco on the phone to surprise us, go crazy, and share things he actually listens to when he’s chilling, not his dj sets. The result is this playlist which will remain "living", as he will update it whenever he feels like it - the tracklist might then become obsolete and I totally love the idea! Also: read on for bonus tracks not featured on the below link.*)
 
-<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/1128476860&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/blu-ritual" title="Blu Ritual" target="_blank" style="color: #cccccc; text-decoration: none;">Blu Ritual</a> · <a href="https://soundcloud.com/blu-ritual/sets/for-mael" title="Playlist 4 The Asymetrics" target="_blank" style="color: #cccccc; text-decoration: none;">Playlist 4 The Asymetrics</a></div>
+<iframe width="100%" height="380" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/1128476860&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/blu-ritual" title="Blu Ritual" target="_blank" style="color: #cccccc; text-decoration: none;">Blu Ritual</a> · <a href="https://soundcloud.com/blu-ritual/sets/for-mael" title="Playlist 4 The Asymetrics" target="_blank" style="color: #cccccc; text-decoration: none;">Playlist 4 The Asymetrics</a></div>
 
 <br>
 
 **Tracklist:**
 
-**\- Aro Nainawa: Raminako Ramino**
+**\- Aro Nainawa - Raminako Ramino:** A beautiful traditional Shipibo song with great healing powers
 
-A beautiful traditional Shipibo song with great healing powers
-
-**\- Elves do Jurua: Silencio**
-
-A traditional Ayahuasca healing tracks from the same region. I had the blessing to have ceremonies with the artists: Elves do Jurua and Ariadine from Caboclança Universal
+**\- Elves do Jurua - Silencio:** A traditional Ayahuasca healing tracks from the same region. I had the blessing to have ceremonies with the artists: Elves do Jurua and Ariadine from Caboclança Universal
 
 The next three songs are from this relatively new "wave" of what is called "Musica Medicina",  classic anthems of very powerful healing music:
 
-**\- Nick Barbacheno - Madre Tierra** (A Love Letter to Mother earth - Pachamama)
+**\- Nick Barbacheno - Madre Tierra:** A Love Letter to Mother earth - Pachamama
 
 **\- Danit - Guacamayo**
 
-**\- Isaque Solaris - The Tree** (from Portugal, moving more towards the electronic field of "Musica Medicina")
-
-<br>
+**\- Isaque Solaris - The Tree:** from Portugal, moving more towards the electronic field of "Musica Medicina"
 
 **\- Francesco - Silencio CURA (Tribute to Elves do Jurua)**
 
 **\- Ancestral Voices - Samhain**
 
-**\- Twin System: Steel**
+**\- Twin System - Steel:** I’m very grateful to have had a connection with the collective Twin System just before closing my project Nan Kolè. I Really like their Radio Shows and music taste, plus their productions are fire!
 
-I’m very grateful to have had a connection with the collective **Twin System** just before closing my project Nan Kolè. I Really like their Radio Shows and music taste, plus their productions are fire!
+**\- Yak - Dire Hit:** Back on a club vibe, with notorious UK artist Yak. I love his productions . This one is out on 3024 (**flagship artist Martyn’s label)*
 
-**\- Yak - Dire Hit**
+***\- Polyseme - Lava Drone:*** Polyseme is an artist from Finland, who produces great acid/psychedelic music. I bought a nice tape cassette from her record label called **Acid Waxa**. Good imprint to follow as well.
 
-Back on a club vibe, with notorious UK artist **Yak**. I love his productions . This one is out on **3024** (**flagship artist Martyn’s label)*
+**\- Mala Femmina - Ruff:** A sample of Dj Tess' new project, Italian folk & electronica.
 
-***\- Polyseme - Lava Drone***
-
-Polyseme is an artist from Finland, who produces great acid/psychedelic music. I bought a nice tape cassette from her record label called **Acid Waxa**. Good imprint to follow as well.
-
-**\- Mala Femmina - Ruff**
-
-A sample of Dj Tess' new project, Italian folk & electronica.
-
-**\- Officina Zoè - Sutt'Acqua E Sutta Jentu (Agostino EDIT)**
-
-Agostino showcasing the Turbo Sud concept. As I Mentioned in the interview this is someone I follow who, auspiciously, is experimenting with traditional music from the South of Italy.
+**\- Officina Zoè - Sutt'Acqua E Sutta Jentu (Agostino EDIT):** Agostino showcasing the Turbo Sud concept. As I Mentioned in the interview this is someone I follow who, auspiciously, is experimenting with traditional music from the South of Italy.
 
 <br>
 
@@ -263,7 +259,7 @@ More "Musica Medicina"
 
 **Giorgio Gaber - I Mostri che Abbiamo Dentro**
 
-<iframe width="100%" height="250" src="https://www.youtube-nocookie.com/embed/2tlnZCYq_L4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="100%" height="250" src="https://www.youtube-nocookie.com/embed/2tlnZCYq_L4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen referrerpolicy="origin"></iframe>
 
 An song that was very helpful to me in some Ayahuasca sessions, I really suggest it if you understand Italian.
 
