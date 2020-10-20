@@ -113,7 +113,7 @@ Under Blu Ritual, I just released a first EP via Bandcamp (***Scattered Demo***,
 
 I am also working with a very talented new visual artist called[ **Ayebaitari**](https://www.instagram.com/ayebaitari__/) on the graphics and videos of he project.
 
-***\- Can you describe where you're headed with these new projects? Is there a specific genre or scene, or instruments attached to that new identity you're developing as Blu Ritual ?***
+***\- Can you describe where you're headed with this new project? Is there a specific genre or scene, or instruments attached to that new identity you're developing as Blu Ritual ?***
 
 I would like to see a new **“Psychedelia”** era in the electronic music scene, maybe less "ego" and more art?
 
