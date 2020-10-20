@@ -2,7 +2,7 @@
 templateKey: blog-post
 title: "Introducing: Blu Ritual"
 teaser: Gqom!, musical transitions, rebirth of Psychedelia and shamanism, the
-  critically acclaimed mystical DJ/Producer formerly know as Nan Kolé takes us
+  critically acclaimed mystical DJ/Producer formerly know as Nan Kolè takes us
   on his journey. Sit back and meditate!
 featuredimage: /img/theasymetrics_blu_ritual_big.jpg
 author: Malong
@@ -21,15 +21,15 @@ date: 2020-10-19T20:37:01.024Z
 
 #### For over 20 years, Francesco Cucchi invested his soul in a vast spectrum of different music: from driving a sound truck around illegal raves to experiments with Liberian & Ghanaian House-Music, only to eventually launch cornerstone label [Gqom Oh!](https://gqomoh.bandcamp.com/music)
 
-After pushing one of the [most exciting genres](https://en.wikipedia.org/wiki/Gqom) of the past decade under the name [](https://boilerroom.tv/recording/nan-kole)[Nan Kolé](https://www.residentadvisor.net/dj/nankole), he is now moving on to a new dimension of sound and tells us all about it!
+After pushing one of the [most exciting genres](https://en.wikipedia.org/wiki/Gqom) of the past decade under the name [](https://boilerroom.tv/recording/nan-kole)[Nan Kolè](https://www.residentadvisor.net/dj/nankole), he is now moving on to a new dimension of sound and tells us all about it!
 
 <iframe style="border: 0; width: 100%; height: 380px;" src="https://bandcamp.com/EmbeddedPlayer/album=1167044407/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/track=1502225380/transparent=true/" seamless><a href="https://nankole.bandcamp.com/album/outro">Outro by Nan Kolè</a></iframe>
 
-*\*Francesco's farewell to his [Nan Kolé](https://nankole.bandcamp.com/) project: the deep and intimate ["Outro" LP](https://nankole.bandcamp.com/album/outro)*
+*\*Francesco's farewell to his [](https://nankole.bandcamp.com/)[Nan Kolè](https://nankole.bandcamp.com/) project: the deep and intimate ["Outro" LP](https://nankole.bandcamp.com/album/outro)*
 
 <br>
 
-**Last time** I saw Francesco five years ago, we were having a beer in [Pigneto](https://www.romeing.it/pigneto-neighbourhood-rome/), a notorious alternative hood of Rome, with a couple local DJs. He was about to launch the first release of[ Gqom-Oh](https://gqomoh.bandcamp.com/music) and I had no idea what was about to hit me! Casually mentioning the project, his usual humble stance did not prepare me. As he passed me his headphones to check the first tracks that were about to be released, I got slapped on the brain! I remember telling him how staggering the music was, and how I thought something so fresh, at the time only known to a handful of kids in the townships of Durban, had the potential to run a tsunami over London and Berlin!
+**Last time** I saw Francesco five years ago, we were having a beer in [Pigneto](https://www.romeing.it/pigneto-neighbourhood-rome/), a notorious alternative hood of Rome, with a couple local DJs. He was about to launch the first release of[ Gqom-Oh](https://gqomoh.bandcamp.com/music)! and I had no idea what was about to hit me! Casually mentioning the project, his usual humble stance did not prepare me. As he passed me his headphones to check the first tracks that were about to be released, I got slapped on the brain! I remember telling him how staggering the music was, and how I thought something so fresh, at the time only known to a handful of kids in the townships of Durban, had the potential to run a tsunami over London and Berlin!
 
 ![](/img/theasymetrics_gqom-oh-1.jpg)
 
@@ -51,13 +51,13 @@ Francesco’s contribution to the movement was timely, pivotal, and[ put him und
 
 <br>
 
-Having recently got wind that Francesco, while remaining invested in the label, was moving on from his Nan Kolé identity, I caught-up with him over phone and emails to make-up for the past 5 years, pick his brain on what was next and ask him for a playlist of what’s vibrating with him!
+Having recently got wind that Francesco, while remaining invested in the label, was moving on from his Nan Kolè identity, I caught-up with him over phone and emails to make-up for the past 5 years, pick his brain on what was next and ask him for a playlist of what’s vibrating with him!
 
 <br>
 
 **INTERVIEW**
 
-***\- So, first things first Francesco, when we briefly spoke on the phone you told me you were moving on from the Nan Kolé project as a whole, what's your new moniker? How do I address you now?***
+***\- So, first things first Francesco, when we briefly spoke on the phone you told me you were moving on from the Nan Kolè project as a whole, what's your new moniker? How do I address you now?***
 
 Nan Kolè, as all things in life, came to an end. It was a beautiful journey but a lot of things changed and I want to be more "honest"and authentic to my higher self in my new endeavors. I have reconnected to some of the musical experiences from my twenties when I was raving and travelling in a van with my sound system.
 
@@ -79,7 +79,7 @@ Blue is the main color I envision in the process, and the melodies that come to 
 
 Under Blu Ritual, I just released a first EP via Bandcamp, and 2 more EPs, ***Numbers & Colours*** and ***epichysis*** (recorded in one sole psychedelic session) will come out in December. They will be released on digital and double-cassette tapes on Italian label[ **MFZ records**](https://mfzrecords.bandcamp.com/).
 
-I am also working with a very talented new visual artist called[ Ayebaitari](https://www.instagram.com/ayebaitari__/) on the graphics and videos of he project.
+I am also working with a very talented new visual artist called[ **Ayebaitari**](https://www.instagram.com/ayebaitari__/) on the graphics and videos of he project.
 
 ***\- Can you describe where you're headed with these new projects? Is there a specific genre or scene, or instruments attached to that new identity you're developing as Blu Ritual ?***
 
@@ -99,7 +99,7 @@ Asides from the clear analog techno sound, and a bit of influence from classical
 
 In addition, I actually feel great having reset, and starting from scratch on the scene and social media, even though it can be challenging (who enjoys having 10 plays on Soundcloud and 5 followers on Instagram – LOL). I'm enjoying the new freedom, and feel more compelled to discover and follow new artists without the aim to network or do marketing of my stuff. Even my timelines on social networks are different these days, and I enjoy spending time on it much more!
 
-***\- So while you will be stepping back from the Nan Kolé project, you remain active with the Gqom Oh! Label, which lives on as a collective. Can you introduce us to the team?***
+***\- So while you will be stepping back from the Nan Kolè project, you remain active with the Gqom Oh! Label, which lives on as a collective. Can you introduce us to the team?***
 
 We are still a small and intimate team, Sboniso Brando Luthuli aka [Citizen Boy](https://www.instagram.com/theboycitizen/) is becoming the main A&R soon and[ Mikael Calandra Achode](https://www.instagram.com/mikecalandra/) from[ Crudo Volta](https://www.instagram.com/crudovoltaradio/) and[ Python Syndicate](https://www.instagram.com/pythonsyndicate/) is directing the aesthetic and visuals and conceptual aspect, this is a process so anything can change and evolve, we’re moving towards a new season/stage for the record label in 2021.
 
@@ -113,7 +113,7 @@ We are still a small and intimate team, Sboniso Brando Luthuli aka [Citizen Boy]
 
 I haven’t really followed up lately. I’m very critical of Italy in general, and of the music scene in particular. I feel that there is also a“white-washing”of black music (Jazz in the past, now Hip-Hop, Trap and even more underground electronics etc.), without enough connection or support to their real roots, not even to Italian POC, from those communities where this music coming from. We defintely have an issue of mimicking and appropriating Black cultures in Italy.
 
-At the same time, now being an immigrant in the UK, I have noticed how real the uprooted feeling is. I’m living with two other Italian artists here in London, and thanks to this vibe in the house I have been trying to reconnect with Italian “**Cantauroriale**” music or lost traditional and folk songs of the Italian South, such as [Stornelli Romani](https://www.romecentral.com/en/gli-stornelli-romani-e-le-classiche-canzoni-romane/) or [Pizzica](https://en.wikipedia.org/wiki/Pizzica) and **Salterello**, which are actually really powerful and sometimes rooted in rituals and forms of shamanismlike [“Malocchio”](https://en.wikipedia.org/wiki/Evil_eye) or ["Tarantismo"](https://en.wikipedia.org/wiki/Tarantism)
+At the same time, now being an immigrant in the UK, I have noticed how real the uprooted feeling is. I’m living with two other Italian artists here in London, and thanks to this vibe in the house I have been trying to reconnect with Italian “**Cantauroriale**” music or lost traditional and folk songs of the Italian South, such as **[Stornelli Romani](https://www.romecentral.com/en/gli-stornelli-romani-e-le-classiche-canzoni-romane/)** or **[Pizzica](https://en.wikipedia.org/wiki/Pizzica)** and **Salterello**, which are actually really powerful and sometimes rooted in rituals and forms of shamanism like [“**Malocchio**”](https://en.wikipedia.org/wiki/Evil_eye) or ["**Tarantismo**"](https://en.wikipedia.org/wiki/Tarantism)
 
 <iframe width="100%" height="200" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/675501206&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/agostino2801" title="AGOSTINO" target="_blank" style="color: #cccccc; text-decoration: none;">AGOSTINO</a> · <a href="https://soundcloud.com/agostino2801/officina-zoe-suttacqua-e-sutta-jentu-remix" title="Officina Zoè - Sutt&#x27;acqua E Sutta Jentu (EDIT)" target="_blank" style="color: #cccccc; text-decoration: none;">Officina Zoè - Sutt&#x27;acqua E Sutta Jentu (EDIT)</a></div>
 
@@ -190,6 +190,14 @@ I’m very grateful to have had a connection with the collective **Twin System**
 
 **\- Yak - Dire Hit**
 
-Back on a club vibe, with notorious UK Artist Yak. I love his productions . This one is out on 3024 *(*flagship artist Martyn’s label)*
+Back on a club vibe, with notorious UK Artist Yak. I love his productions . This one is out on 3024 (**flagship artist Martyn’s label)*
 
-<!--EndFragment-->
+***\- Polyseme - Lava Drone***
+
+Polyseme is an artist from Finland, who produces great acid/psychedelic music. I bought a nice tape cassette from her record label called **Acid Waxa**. Good imprint to follow as well.
+
+**\- Mala Femmina - Ruff**
+
+A taste of Dj Tess' new project, rooted in Italian folk & techno
+
+**\- Officina Zoè - Sutt'Acqua E Sutta Jentu (Agostino EDIT)**
