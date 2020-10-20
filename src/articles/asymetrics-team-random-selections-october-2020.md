@@ -31,7 +31,7 @@ outsideLinks:
     - text: Special Request
       link: https://theasymetrics.com/blog/special-request/
 ---
-![](/img/theasymetrics_cover_small.jpg "©Dave Weatherall")
+![](/img/theasymetrics_cover_small.jpg)
 
 <br>
 
@@ -43,7 +43,7 @@ Direct Link: [The Asymetrics Channel](https://www.youtube.com/playlist?list=PLZt
 
 <br>
 
-#### Taiwan MC - Fire (ft Landa Freak) 
+#### Taiwan MC - Fire (ft Landa Freak)
 
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/GW9GeVHLOyk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen referrerpolicy="origin"></iframe>
 
@@ -151,7 +151,7 @@ Direct Link: [The Asymetrics Channel](https://www.youtube.com/playlist?list=PLZt
 
 <br>
 
-### Dig it? 
+### Dig it?
 
 ### Check the full playlist below, & subscribe to The Asymetrics YouTube Channel!
 
