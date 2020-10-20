@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
 title: "Introducing: Blu Ritual"
-teaser: "Gqom!, musical transitions, rebirth of Psychedelia and shamanism: the
+teaser: "Gqom!, musical transitions, rebirth of Psychedelia and Shamanism: the
   critically acclaimed mystical DJ / Producer formerly know as Nan Kolè takes us
   on his journey. Sit back and meditate!"
 featuredimage: /img/theasymetrics_blu_ritual_big.jpg
@@ -11,10 +11,12 @@ tags:
   - "#Gqom!"
   - "#Techno"
   - "#electronics"
+  - "#rave"
+  - "#Afrohouse"
   - "#Psychedelic"
   - "#Interview"
   - "#Playlist"
-  - "#ArtistProfile"
+  - "#Profile"
 date: 2020-10-19T20:37:01.024Z
 outsideLinks:
   outsideLinksList:
