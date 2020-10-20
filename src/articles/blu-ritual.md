@@ -66,7 +66,7 @@ Nan Kolè, as all things in life, came to an end. It was a beautiful journey but
 
 ![](/img/theasymetrics_cukiman_90s.jpg)
 
-Francesco & one of his techno collective van, Late 90s/Early 2000s
+*\*Francesco & one of his techno collective van, Late 90s/Early 2000s*
 
  I’ve also looked into new ways of creating music and created the[ **Blu Ritual**](https://soundcloud.com/blu-ritual) project
 
