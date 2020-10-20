@@ -1,9 +1,9 @@
 ---
 templateKey: blog-post
 title: "Introducing: Blu Ritual"
-teaser: Gqom!, musical transitions, rebirth of Psychedelia and shamanism, the
-  critically acclaimed mystical DJ/Producer formerly know as Nan Kolè takes us
-  on his journey. Sit back and meditate!
+teaser: "Gqom!, musical transitions, rebirth of Psychedelia and shamanism: the
+  critically acclaimed mystical DJ / Producer formerly know as Nan Kolè takes us
+  on his journey. Sit back and meditate!"
 featuredimage: /img/theasymetrics_blu_ritual_big.jpg
 author: Malong
 categories: news
@@ -13,9 +13,10 @@ tags:
   - "#Psychedelic"
   - "#Interview"
   - "#Playlist"
+  - "#ArtistProfile"
 date: 2020-10-19T20:37:01.024Z
 ---
-5
+![](/img/theasymetrics_blu_ritual_small.jpg)
 
 <br>
 
@@ -29,13 +30,15 @@ After pushing one of the [most exciting genres](https://en.wikipedia.org/wiki/Gq
 
 <br>
 
-**Last time** I saw Francesco five years ago, we were having a beer in [Pigneto](https://www.romeing.it/pigneto-neighbourhood-rome/), a notorious alternative hood of Rome, with a couple local DJs. He was about to launch the first release of[ Gqom-Oh](https://gqomoh.bandcamp.com/music)! and I had no idea what was about to hit me! Casually mentioning the project, his usual humble stance did not prepare me. As he passed me his headphones to check the first tracks that were about to be released, I got slapped on the brain! I remember telling him how staggering the music was, and how I thought something so fresh, at the time only known to a handful of kids in the townships of Durban, had the potential to run a tsunami over London and Berlin!
+**Last time** I saw Francesco five years ago, we were having a beer in [Pigneto](https://www.romeing.it/pigneto-neighbourhood-rome/), a notorious alternative hood of Rome, with a couple local DJs. He was about to launch the first release of[ Gqom-Oh](https://gqomoh.bandcamp.com/music)! and I had no idea what was about to hit me! Casually mentioning the project, his usual humble stance did not prepare me. 
+
+As he passed me his headphones to check the first tracks that were about to be released, I got slapped on the brain! I remember telling him how staggering the music was, and how I thought something so fresh, at the time only known to a handful of kids in the townships of Durban, had the potential to run a tsunami over London and Berlin!
 
 ![](/img/theasymetrics_gqom-oh-1.jpg)
 
 <br>
 
-Fast forward to 2020, and the outsider South African beat is everywhere. You can hear its touch [all over African electronics](https://www.okayafrica.com/gqom-nigerian-pop-music-south-africa/) and [the wider club scene](https://mixmag.net/feature/no-more-4x4-electronic-sounds-global-south-club-culture-gqom-reggaeton-baile-funk),[ dj Lag](https://djmag.com/content/recognise-dj-lag) is a superstar,[ Citizen Boy](https://citizenboysa.bandcamp.com/) is no longer a kid and destroys dancefloors from London to Shanghai , and even[ Beyonce got seduced](https://www.youtube.com/watch?v=V_ZsbqSg4aE) !
+**Fast forward to 2020**, and the outsider South African beat is everywhere. You can hear its touch [all over African electronics](https://www.okayafrica.com/gqom-nigerian-pop-music-south-africa/) and [the wider club scene](https://mixmag.net/feature/no-more-4x4-electronic-sounds-global-south-club-culture-gqom-reggaeton-baile-funk),[ dj Lag](https://djmag.com/content/recognise-dj-lag) is a superstar,[ Citizen Boy](https://citizenboysa.bandcamp.com/) is no longer a kid and destroys dancefloors from London to Shanghai , and even[ Beyonce got seduced](https://www.youtube.com/watch?v=V_ZsbqSg4aE) !
 
 <iframe width="100%" height="380" src="https://www.youtube-nocookie.com/embed/BN_keHjc2eM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen referrerpolicy="origin"></iframe>
 
@@ -43,7 +46,7 @@ Fast forward to 2020, and the outsider South African beat is everywhere. You can
 
 <br>
 
-Francesco’s contribution to the movement was timely, pivotal, and[ put him under the spotlight](https://www.residentadvisor.net/dj/nankole), but it was always about the original creators of the sound (*watch the fascinating documentary filmed by the [Crudo Volta](https://www.youtube.com/channel/UCUeo8Id548iRPuOfGUys4Ow) crew in Durban*):
+Francesco’s contribution to the movement was timely, pivotal, and[ put him under the spotlight](https://www.residentadvisor.net/dj/nankole), but it was always about the original creators of the sound (*watch the fascinating documentary about Gqom Oh!'s inception, filmed by the [Crudo Volta](https://www.youtube.com/channel/UCUeo8Id548iRPuOfGUys4Ow) crew in Durban*):
 
 <iframe width="100%" height="380" src="https://www.youtube-nocookie.com/embed/xgHxtE4uzdY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen referrerpolicy="origin"></iframe>
 
