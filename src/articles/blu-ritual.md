@@ -15,7 +15,7 @@ tags:
   - "#Playlist"
 date: 2020-10-19T20:37:01.024Z
 ---
-![](/img/theasymetrics_blu_ritual_small.jpg)
+5
 
 <br>
 
@@ -181,6 +181,12 @@ The next three songs are from this relatively new "wave" of what is called "Musi
 
 **\- Isaque Solaris - The Tree** (from Portugal, moving more towards the electronic field of "Musica Medicina")
 
+<br>
+
+**\- Francesco - Silencio CURA (Tribute to Elves do Jurua)**
+
+**\- Ancestral Voices - Samhain**
+
 **\- Twin System: Steel**
 
 I’m very grateful to have had a connection with the collective **Twin System** just before closing my project Nan Kolè. I Really like their Radio Shows and music taste, plus their productions are fire!
@@ -195,17 +201,21 @@ Polyseme is an artist from Finland, who produces great acid/psychedelic music. I
 
 **\- Mala Femmina - Ruff**
 
-A taste of Dj Tess' new project, rooted in Italian folk & techno
+A sample of Dj Tess' new project, Italian folk & electronica.
 
 **\- Officina Zoè - Sutt'Acqua E Sutta Jentu (Agostino EDIT)**
 
-Agostino showcasing the Turbo Sud concept. As I Mentioned in the interview this is someone I follow who, auspiciously, is experimenting with traditional music from the South of Italy
+Agostino showcasing the Turbo Sud concept. As I Mentioned in the interview this is someone I follow who, auspiciously, is experimenting with traditional music from the South of Italy.
 
 <br>
 
 <br>
 
-#### \*Bonus Tracks
+#### \*Bonus Tracks:
+
+<br>
+
+**Juliana - Mi Voz**
 
 <iframe style="border: 0; width: 100%; height: 250px;" src="https://bandcamp.com/EmbeddedPlayer/album=4067759242/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/track=2290258390/transparent=true/" seamless><a href="https://nightwave.bandcamp.com/album/love-amazonia">Love Amazonia by Julianna</a></iframe>
 
@@ -213,8 +223,32 @@ Extracted from a crowd funding compilation organized by [Nightwave](https://nigh
 
 <br>
 
+**Zu - Planet 8**
+
 <iframe style="border: 0; width: 100%; height: 250px;" src="https://bandcamp.com/EmbeddedPlayer/track=484454408/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/transparent=true/" seamless><a href="https://zumusic.bandcamp.com/track/planet-8-handpan-analog-synth-in-432-hz">PLANET 8 - HandPan &amp; Analog synth in 432 hz by Andrea ZU - ZuMusic Project</a></iframe>
 
 Some good Frequencies, with an excellent track to start meditation. From Zu, an ttalian artist Imet a few times performing live during Ayahuasca sessions
 
-<!--EndFragment-->
+<br>
+
+**Rainer Scheurenbrand - Yemanja**
+
+<iframe style="border: 0; width: 100%; height: 250px;" src="https://bandcamp.com/EmbeddedPlayer/album=577629641/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/track=138949578/transparent=true/" seamless><a href="https://rainerscheurenbrand.bandcamp.com/album/viento-bueno">Viento Bueno by Rainer Scheurenbrand</a></iframe>
+
+More "Musica Medicina"
+
+<br>
+
+**Giorgio Gaber - I Mostri che Abbiamo Dentro**
+
+<iframe width="100%" height="250" src="https://www.youtube-nocookie.com/embed/2tlnZCYq_L4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+An Italian songs that was very helpful to me in some Ayahuasca sessions, I really suggest it if you understand Italian.
+
+<br>
+
+**Max de Wardener - Star Song**
+
+<iframe style="border: 0; width: 100%; height: 250px;" src="https://bandcamp.com/EmbeddedPlayer/album=2149773074/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/track=3720932302/transparent=true/" seamless><a href="https://maxdewardener.bandcamp.com/album/music-for-detuned-pianos-2">Music For Detuned Pianos by Max de Wardener</a></iframe>
+
+Finally, I wanted to wrap-up for you guys with a piano solo from one of my favorite recently purchased albums
