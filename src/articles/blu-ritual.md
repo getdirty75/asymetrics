@@ -25,7 +25,7 @@ After pushing one of the [most exciting genres](https://en.wikipedia.org/wiki/Gq
 
 <iframe style="border: 0; width: 100%; height: 380px;" src="https://bandcamp.com/EmbeddedPlayer/album=1167044407/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/track=1502225380/transparent=true/" seamless><a href="https://nankole.bandcamp.com/album/outro">Outro by Nan Kolè</a></iframe>
 
-*\*Francesco's farewell to his [](https://nankole.bandcamp.com/)[Nan Kolè](https://nankole.bandcamp.com/) project: the deep and intimate ["Outro" LP](https://nankole.bandcamp.com/album/outro)*
+*\*Francesco's farewell to his* [](https://nankole.bandcamp.com/)*[Nan Kolè](https://nankole.bandcamp.com/) project: the deep and intimate ["Outro" LP](https://nankole.bandcamp.com/album/outro)*
 
 <br>
 
@@ -172,7 +172,6 @@ A beautiful traditional Shipibo song with great healing powers
 **\- Elves do Jurua: Silencio**
 
 A traditional Ayahuasca healing tracks from the same region. I had the blessing to have ceremonies with the artists: Elves do Jurua and Ariadine from Caboclança Universal
-  
 
 The next three songs are from this relatively new "wave" of what is called "Musica Medicina",  classic anthems of very powerful healing music:
 
@@ -181,8 +180,6 @@ The next three songs are from this relatively new "wave" of what is called "Musi
 **\- Danit - Guacamayo**
 
 **\- Isaque Solaris - The Tree** (from Portugal, moving more towards the electronic field of "Musica Medicina")
-
-
 
 **\- Twin System: Steel**
 
@@ -201,3 +198,23 @@ Polyseme is an artist from Finland, who produces great acid/psychedelic music. I
 A taste of Dj Tess' new project, rooted in Italian folk & techno
 
 **\- Officina Zoè - Sutt'Acqua E Sutta Jentu (Agostino EDIT)**
+
+Agostino showcasing the Turbo Sud concept. As I Mentioned in the interview this is someone I follow who, auspiciously, is experimenting with traditional music from the South of Italy
+
+<br>
+
+<br>
+
+#### \*Bonus Tracks
+
+<iframe style="border: 0; width: 100%; height: 250px;" src="https://bandcamp.com/EmbeddedPlayer/album=4067759242/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/track=2290258390/transparent=true/" seamless><a href="https://nightwave.bandcamp.com/album/love-amazonia">Love Amazonia by Julianna</a></iframe>
+
+Extracted from a crowd funding compilation organized by [Nightwave](https://nightwave.bandcamp.com/music) (with a track of mine inside). 100% of the proceeds from this first [***Love Amazonia*** compilation](https://nightwave.bandcamp.com/album/love-amazonia) will go directly to the **Huni Kuin Kaxinawá** indigenous group in the state of Acre, Brazil.
+
+<br>
+
+<iframe style="border: 0; width: 100%; height: 250px;" src="https://bandcamp.com/EmbeddedPlayer/track=484454408/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/transparent=true/" seamless><a href="https://zumusic.bandcamp.com/track/planet-8-handpan-analog-synth-in-432-hz">PLANET 8 - HandPan &amp; Analog synth in 432 hz by Andrea ZU - ZuMusic Project</a></iframe>
+
+Some good Frequencies, with an excellent track to start meditation. From Zu, an ttalian artist Imet a few times performing live during Ayahuasca sessions
+
+<!--EndFragment-->
