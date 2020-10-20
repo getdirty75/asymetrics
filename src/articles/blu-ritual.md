@@ -161,7 +161,9 @@ I’m also very much into "Shamanism" and the worship and devotion to Mother Ear
 
 <iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/1128476860&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/blu-ritual" title="Blu Ritual" target="_blank" style="color: #cccccc; text-decoration: none;">Blu Ritual</a> · <a href="https://soundcloud.com/blu-ritual/sets/for-mael" title="Playlist 4 The Asymetrics" target="_blank" style="color: #cccccc; text-decoration: none;">Playlist 4 The Asymetrics</a></div>
 
-Tracklist:
+<br>
+
+**Tracklist:**
 
 **\- Aro Nainawa: Raminako Ramino**
 
@@ -170,9 +172,24 @@ A beautiful traditional Shipibo song with great healing powers
 **\- Elves do Jurua: Silencio**
 
 A traditional Ayahuasca healing tracks from the same region. I had the blessing to have ceremonies with the artists: Elves do Jurua and Ariadine from Caboclança Universal
+  
 
-**\- Nick Barbacheno - Madre Tierra**
+The next three songs are from this relatively new "wave" of what is called "Musica Medicina",  classic anthems of very powerful healing music:
 
-A Love Letter to Mother earth Pachamama
+**\- Nick Barbacheno - Madre Tierra** (A Love Letter to Mother earth - Pachamama)
 
 **\- Danit - Guacamayo**
+
+**\- Isaque Solaris - The Tree** (from Portugal, moving more towards the electronic field of "Musica Medicina")
+
+
+
+**\- Twin System: Steel**
+
+I’m very grateful to have had a connection with the collective **Twin System** just before closing my project Nan Kolè. I Really like their Radio Shows and music taste, plus their productions are fire!
+
+**\- Yak - Dire Hit**
+
+Back on a club vibe, with notorious UK Artist Yak. I love his productions . This one is out on 3024 *(*flagship artist Martyn’s label)*
+
+<!--EndFragment-->
