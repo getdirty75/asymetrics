@@ -20,6 +20,8 @@ outsideLinks:
   outsideLinksList:
     - text: Blu Ritual Music
       link: https://bluritual.bandcamp.com/releases
+    - text: Blu Ritual Playlist 4 the Asymetrics
+      link: https://soundcloud.com/blu-ritual/sets/for-mael
     - text: MFZ Records
       link: https://mfzrecords.bandcamp.com/
     - text: Ayebaitari
@@ -39,13 +41,11 @@ outsideLinks:
 
 After pushing one of the [most exciting genres](https://en.wikipedia.org/wiki/Gqom) of the past decade under the name [](https://boilerroom.tv/recording/nan-kole)[Nan Kolè](https://www.residentadvisor.net/dj/nankole), he is now moving on to a new dimension of sound and tells us all about it!
 
-
-
 ![](/img/theasymetrics_nankole_outro.jpg)
 
-<iframe style="border: 0; width: 500px; height: 42px;" src="https://bandcamp.com/EmbeddedPlayer/album=1167044407/size=small/bgcol=ffffff/linkcol=0687f5/artwork=none/transparent=true/" seamless><a href="https://nankole.bandcamp.com/album/outro">Outro by Nan Kolè</a></iframe>
+<iframe style="border: 0; width: 100%; height: 42px;" src="https://bandcamp.com/EmbeddedPlayer/album=1167044407/size=small/bgcol=ffffff/linkcol=0687f5/artwork=none/transparent=true/" seamless><a href="https://nankole.bandcamp.com/album/outro">Outro by Nan Kolè</a></iframe>
 
-***Francesco's farewell to his [](https://nankole.bandcamp.com/)[Nan Kolè](https://nankole.bandcamp.com/) project: the deep and intimate ["Outro"](https://nankole.bandcamp.com/album/outro)***
+***Francesco's farewell to his*** [](https://nankole.bandcamp.com/)***[Nan Kolè](https://nankole.bandcamp.com/) project: the deep and intimate ["Outro"](https://nankole.bandcamp.com/album/outro)***
 
 <br>
 
@@ -103,7 +103,7 @@ Blue is the main color I envision in the process, and the melodies that come to 
 
 ![](/img/theasymetrics_bluritual_scattereddemo.jpg)
 
-<iframe style="border: 0; width: 500px; height: 42px;" src="https://bandcamp.com/EmbeddedPlayer/album=1833239264/size=small/bgcol=ffffff/linkcol=0687f5/artwork=none/transparent=true/" seamless><a href="https://bluritual.bandcamp.com/album/scattered-demo">Scattered demo by Blu Ritual</a></iframe>
+<iframe style="border: 0; width: 100%; height: 42px;" src="https://bandcamp.com/EmbeddedPlayer/album=1833239264/size=small/bgcol=ffffff/linkcol=0687f5/artwork=none/transparent=true/" seamless><a href="https://bluritual.bandcamp.com/album/scattered-demo">Scattered demo by Blu Ritual</a></iframe>
 
 <br>
 
@@ -163,7 +163,7 @@ Traveling has given me so much on many different levels, especially thanks to th
 
 ![](/img/theasymetrics_nankole_sess_lagos.png)
 
-*\*Francesco with producer Sess in his Lagos studio*
+***Francesco with producer Sess in his Lagos studio***
 
 A cool example I could give you is [Rophnan](https://youtu.be/Z2VwbQkD_xE) in Addis Abeba, who builds a form of EDM upon traditional Ethiopian music. He’s very popular there. You can find out more on my friend Mike Calandra’s latest[ Taxi Waves](https://www.youtube.com/c/CrudoVoltaRadio/videos) docu-series for [Crudo Volta](https://www.youtube.com/channel/UCUeo8Id548iRPuOfGUys4Ow).
 
@@ -233,7 +233,7 @@ The next three songs are from this relatively new "wave" of what is called "Musi
 
 **Julianna - Mi Voz**
 
-<iframe style="border: 0; width: 500px; height: 250px;" src="https://bandcamp.com/EmbeddedPlayer/album=4067759242/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/track=2290258390/transparent=true/" seamless><a href="https://nightwave.bandcamp.com/album/love-amazonia">Love Amazonia by Julianna</a></iframe>
+<iframe style="border: 0; width: 100%; height: 250px;" src="https://bandcamp.com/EmbeddedPlayer/album=4067759242/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/track=2290258390/transparent=true/" seamless><a href="https://nightwave.bandcamp.com/album/love-amazonia">Love Amazonia by Julianna</a></iframe>
 
 Extracted from a crowd funding compilation organized by [Nightwave](https://nightwave.bandcamp.com/music) (with a track of mine inside). 100% of the proceeds from this first [***Love Amazonia*** compilation](https://nightwave.bandcamp.com/album/love-amazonia) will go directly to the **Huni Kuin Kaxinawá** indigenous group in the state of Acre, Brazil.
 
@@ -241,7 +241,7 @@ Extracted from a crowd funding compilation organized by [Nightwave](https://nigh
 
 **Zu - Planet 8**
 
-<iframe style="border: 0; width: 500px; height: 250px;" src="https://bandcamp.com/EmbeddedPlayer/track=484454408/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/transparent=true/" seamless><a href="https://zumusic.bandcamp.com/track/planet-8-handpan-analog-synth-in-432-hz">PLANET 8 - HandPan &amp; Analog synth in 432 hz by Andrea ZU - ZuMusic Project</a></iframe>
+<iframe style="border: 0; width: 100%; height: 250px;" src="https://bandcamp.com/EmbeddedPlayer/track=484454408/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/transparent=true/" seamless><a href="https://zumusic.bandcamp.com/track/planet-8-handpan-analog-synth-in-432-hz">PLANET 8 - HandPan &amp; Analog synth in 432 hz by Andrea ZU - ZuMusic Project</a></iframe>
 
 Some good Frequencies, with an excellent track to start meditation. From **Zu**, an Italian artist I met a few times performing live during Ayahuasca sessions
 
@@ -249,7 +249,7 @@ Some good Frequencies, with an excellent track to start meditation. From **Zu**,
 
 **Rainer Scheurenbrand - Yemanja**
 
-<iframe style="border: 0; width: 500px; height: 250px;" src="https://bandcamp.com/EmbeddedPlayer/album=577629641/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/track=138949578/transparent=true/" seamless><a href="https://rainerscheurenbrand.bandcamp.com/album/viento-bueno">Viento Bueno by Rainer Scheurenbrand</a></iframe>
+<iframe style="border: 0; width: 100%; height: 250px;" src="https://bandcamp.com/EmbeddedPlayer/album=577629641/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/track=138949578/transparent=true/" seamless><a href="https://rainerscheurenbrand.bandcamp.com/album/viento-bueno">Viento Bueno by Rainer Scheurenbrand</a></iframe>
 
 More "Musica Medicina"
 
