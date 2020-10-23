@@ -34,7 +34,7 @@ Direct Link: [Soundcloud](https://soundcloud.com/the-asymetrics/asymetrics-mixta
 
 #### A few weeks ago, little did I know about this funky individual: I stumbled upon one of [Gazonade’s](https://soundcloud.com/gazonade) sets by chance thanks to the mysteries of the Soundcloud algorithm, during a very long train ride that was easily relieved by his nearly 5 hours long eclectic mix…
 
-He blends downtempo house music & ambient soundscapes with bouncy funky tunes & throws in  some very roots selections as well, apparently likes to makes his dj sets the longest possible, 2 hours seeming to be a strict minimum for this dj, and originates from Lille, in the north of France.
+He blends downtempo house music & ambient soundscapes with bouncy funky tunes, throws in a few roots selections as well, apparently likes to make his dj sets the longest possible, 2 hours seeming to be a strict minimum for this dj, and he originates from Lille, in the north of France.
 
 When informed of his existence, the Asymetrics immediatly requested a mix for the blog, and a few days later we had in our headphones this magnificent patchwork of tracks & grooves : **Desert’s Bustle** by **Gazonade**.
 
