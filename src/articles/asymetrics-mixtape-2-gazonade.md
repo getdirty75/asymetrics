@@ -6,6 +6,7 @@ featuredimage: /img/screenshot_2020-10-20-the-asymetrics.png
 author: Lord Sandwich
 categories: mixtapes
 tags:
+  - "#AsymetricsTapes"
   - "#Tuareg"
   - "#Funk"
   - "#Afrobeat"
@@ -14,6 +15,18 @@ tags:
   - "#Disco"
   - "#House"
 date: 2020-10-23T02:02:30.538Z
+outsideLinks:
+  outsideLinksList:
+    - text: Gazonade Music
+      link: https://gazonade.bandcamp.com
+    - text: Gazonade Mixes
+      link: https://soundcloud.com/gazonade
+    - text: Gazonade Tumblr
+      link: https://gazonade.tumblr.com
+    - text: "Asymetrics Mixtape #1"
+      link: https://theasymetrics.com/blog/asymetrics-mixtape-1-satta-don-dada/
+    - text: "Malong's Round-Up # 3"
+      link: https://theasymetrics.com/blog/malongs-round-up-round-3/
 ---
 ![](/img/screenshot_2020-10-20-the-asymetrics.png)
 
@@ -91,21 +104,21 @@ When informed of his existence, the Asymetrics immediatly requested a mix for th
 
 **Maria Mudie - Little Darlin'**
 
-**<br>**
+**...**
 
 ### Gazonade:
 
 ![](/img/tumblr_pq3zmqrkzm1wh8veuo1_1280.jpg)
 
-Record collector and producer, Gazon is exploring music in all its forms.
+Record collector and producer, **Gazon** is exploring music in all its forms.
 
 Heavily influenced by blues and gospel music in his early years, he later got impressed by the federating power of electronic music.
 
 His mixes are landscapes, travelling through space and ages. Ancestral rhythms fused with modern grooves, taking you off for a visionary odyssey.
 
-In a constant struggle to explore new ways of expressions, he recently started producing music. Offering deep soulful grooves from disco to techno.
+In a constant struggle to explore new ways of expressions, he recently started [producing music](https://gazonade.bandcamp.com). Offering deep soulful grooves from disco to techno.
 
-Broadcasted from a desert pirate radio, this mixtape is an exploration of Africa rooted music in its various forms.
+Broadcasted from a desert pirate radio, this mixtape is an exploration of Africa-rooted music in its various forms.
 
 A patchwork of Reggae, Afro, Jazz, Disco, Funk and Tuareg music blended in an effort to free your mind.
 
