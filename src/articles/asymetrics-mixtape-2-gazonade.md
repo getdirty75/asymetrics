@@ -30,7 +30,7 @@ outsideLinks:
 ---
 ![](/img/screenshot_2020-10-20-the-asymetrics.png)
 
-Direct Link: [Soundcloud](https://soundcloud.com/the-asymetrics/asymetrics-mixtape-2-gazonade-deserts-bustle)
+Direct Link: [Soundcloud](https://soundcloud.com/the-asymetrics/asymetrics-mixtape-2-gazonade-deserts-bustle) / [Mixcloud](https://www.mixcloud.com/The_Asymetrics/asymetrics-mixtape-2-gazonade/)
 
 #### A few weeks ago, little did I know about this funky individual: I stumbled upon one of [Gazonade’s](https://soundcloud.com/gazonade) sets by chance thanks to the mysteries of the Soundcloud algorithm, during a very long train ride that was easily relieved by his nearly 5 hours long eclectic mix…
 
@@ -46,63 +46,7 @@ When informed of his existence, the Asymetrics immediatly requested a mix for th
 
 ### Tracklist:
 
-**Tinariwen - Hayati**
-
-**Sportes, Daniel Jamet - Desert Boogie**
-
-**Mop Mop - Kamakumba**
-
-**Wild Fire - The Rebels**
-
-**Lennie Hibbert - More Creation**
-
-**Vibraphonic - I See You**
-
-**Lonnie Liston Smith - Magic Lady (Most Beautiful)**
-
-**A vision of panorama - Barbados**
-
-**In Flagranti - Freakin Time**
-
-**Dexter Story - Be My Habesha**
-
-**Felix Laband - Ding Dong Thing**
-
-**Khidja - Drums of Taskim (Baris K & Mehmet Aslan)**
-
-**Carrot Green & Selvagem - Dengo**
-
-**Nicolas Cruz, Cain - Siku**
-
-**Flamingo Pier - Find your Way (Earthboogie Remix)**
-
-**Laroye - Basamsike**
-
-**Marco Tegui - Yira Yirar**
-
-**Orange Tree Edits - Pembe (Jimmy Rouge Edit)**
-
-**Orange Tree Edits - (Dorian (Jimmy Rouge Edit)**
-
-**Famingo Pier - Tell Me How**
-
-**Schegg - Secret Safari**
-
-**Pasteur Lappe - Na Real Sekele Fo Ya**
-
-**Geoffrey Orye - Kel Kweyo (Joe CLaussell Remix)**
-
-**Laroye - Awon Iye (Atjazz Remix)**
-
-**Showfa - Hotfire**
-
-**Amas - Slow Down**
-
-**The Drive - Ain't Sittin' Down Doin' Nothing**
-
-**Yusseff Kamaal - Black Focus**
-
-**Maria Mudie - Little Darlin'**
+![](/img/gazonade_back.jpg)
 
 **...**
 
