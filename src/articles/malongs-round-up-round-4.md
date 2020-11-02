@@ -190,11 +190,13 @@ A wicked little dark Cumbia tune produced by newcomer Jose Gonzalez aka [Selvaxn
 
 <br>
 
-Extracted from the brilliant [Vodou Alé](https://choukbwa.bandcamp.com/album/vodou-al-2) album, where Haitian band **Chouk Bwa** meets Brussels’ infamous [Ångstromers](https://www.discogs.com/artist/7907347-The-%C3%85ngstr%C3%B6mers) for a blazing mix of *mizik rasin*(roots music) & Vodou, enhanced by experimental synth-heavy dub – the Belgian duo’s signature sound, which can often be heard in the EU capital’s unforgettable, super edgy,[“Café Central”](https://lecafecentral.com/).
+<br>
+
+Extracted from the brilliant [Vodou Alé](https://choukbwa.bandcamp.com/album/vodou-al-2) album, where Haitian band **Chouk Bwa** meets Brussels’ infamous [Ångstromers](https://www.discogs.com/artist/7907347-The-%C3%85ngstr%C3%B6mers) for a blazing mix of *mizik rasin* (roots music) & Vodou, enhanced by experimental synth-heavy dub – the Belgian duo’s signature sound, which can often be heard in the EU capital’s unforgettable, super edgy, [“Café Central”](https://lecafecentral.com/).
 
 <br>
 
-#### The next 3 tunes are all part of re-edited EPs by the groundbreaking label[ Secousse](https://secousse.bandcamp.com/music) – brainchild of French cutting-edge DJ Etienne Tron and his wonderful [Secousse Radio](http://secousse.tv/).
+#### The next 3 tunes are all part of re-edited EPs by the groundbreaking label[ Secousse](https://secousse.bandcamp.com/music) – brainchild of French DJ Etienne Tron and his wonderful [Secousse Radio](http://secousse.tv/).
 
 <br>
 
@@ -216,12 +218,28 @@ Secousse also edited a cool video for the release:
 
 <br>
 
+<br>
+
 #### Max Rambhojan – Tou’t Jou Pa Min’m
+
+<iframe style="border: 0; width: 100%; height: 42px;" src="https://bandcamp.com/EmbeddedPlayer/album=3803453218/size=small/bgcol=ffffff/linkcol=0687f5/track=3769906737/transparent=true/" seamless><a href="https://secousse.bandcamp.com/album/max-rambhojan">Max Rambhojan by Max Rambhojan</a></iframe>
+
+![](/img/theaymetrics_max_rambhojan.jpg)
+
+<br>
 
 Guadeloupe veteran of [Gwo-Ka](https://en.wikipedia.org/wiki/Gwo_ka), Rambhojan dabbled in Zouk with heavy electronic production in the 1980’s. This track is pure dancefloor joy!
 
 If you want more of this, don’t miss Secousse Radio’s [Retro Zouk Mixtapes](https://soundcloud.com/secousse/sets/retro-zouk-mixtapes), a potential palliative to whatever restrictive measures are keeping you home right now!
 
-Jules-Henri Malaki – Makiyaj
+<br>
+
+#### Jules-Henri Malaki – Makiyaj
+
+<iframe style="border: 0; width: 100%; height: 42px;" src="https://bandcamp.com/EmbeddedPlayer/album=3383471577/size=small/bgcol=ffffff/linkcol=0687f5/track=3557628723/transparent=true/" seamless><a href="https://secousse.bandcamp.com/album/makiyaj">Makiyaj by Jules-Henry Malaki</a></iframe>
+
+![](/img/theasymtetrics_jules_henri_malaki.jpg)
+
+<br>
 
 Monster bombtrack from the mid-90’s Guadeloupe, Makiyaj is one of my favourite Zouk tunes (along with Erick Cosaque’s Embawgo, which I already mentioned in my very [first Round-Up](https://theasymetrics.com/blog/malong%E2%80%99s-monthly-round-up-%E2%80%93-first-round/)). Just shut your eyes and let that insane, blissful, bass swing take you away!
