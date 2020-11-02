@@ -58,7 +58,7 @@ I have nothing but fascination and love for [Timecow](https://soundcloud.com/kul
 
 Out of many of their unstoppable flow of productions, this particular song got me totally hooked. It features the phenomenal [Exile di Brave](https://www.reggaeville.com/artist-details/exile-di-brave/about/), who can also be heard over the oddity [“Run”](https://www.youtube.com/watch?v=TLWhL1QbdPs) by [Gavsborg](https://soundcloud.com/gavsborg) (another Equiknoxx founder).
 
-And, speaking of Gavsborg, here is a super weird video assembled to illustrate the beautifully deep and spacey “Elephant Man” tune, featuring the same Timecow on the vocals this time, alongside up & coming London MC [Rtkal](https://soundcloud.com/rtkal1):
+And, speaking of Gavsborg, here is the strange video assembled to illustrate the beautifully deep and spacey **“Elephant Man”** tune, featuring the same Timecow on the vocals this time, alongside up & coming London MC [Rtkal](https://soundcloud.com/rtkal1):
 
 <iframe width="100%" height="380" src="https://www.youtube-nocookie.com/embed/OBqxWowqUyQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen referrerpolicy="origin"></iframe>
 
@@ -76,7 +76,7 @@ And, speaking of Gavsborg, here is a super weird video assembled to illustrate t
 
 Insane wobbly, post-apocalypse vibe by the one and only [@jahjahmuldrow](https://twitter.com/JAHJAHMULDROW)!
 
-The unclassifiable producer known for her completely free approach to anything hip-hop and affiliated thereof captured my mind with her [VWETOII](https://georgiaannemuldrow.bandcamp.com/album/vweto-ii) album – oscillating between J-Dilla-esque beats, soulful shizzle, and ‘ardcore continuum madness!
+The unclassifiable producer known for her completely free approach to anything hip-hop and affiliation thereof captured my mind with her [VWETOII](https://georgiaannemuldrow.bandcamp.com/album/vweto-ii) album – oscillating between J-Dilla-esque beats, soulful shizzle, and ‘ardcore continuum madness!
 
 If you’re not yet familiar with [Georgia](https://www.thenation.com/article/culture/georgia-anne-muldrow-mama-you-can-bet-music/), check her having fun making out-of-this-World beats for Berkeley Music College Students’ education:
 
@@ -110,9 +110,11 @@ A new staple of Berlin’s percussive Bass scene, Goro originally hails from Sof
 
 <br>
 
+<br>
+
 Cosmic Raï from French Algerian music veteran [Sofiane Saidi](https://www.washingtonpost.com/goingoutguide/music/sofiane-saidi-and-mazalda-bring-the-spirit-of-rai-music-to-the-district/2020/01/02/f7a8810a-2c20-11ea-bcd4-24597950008f_story.html), who teamed up with the band Mazalda in 2018 to come up with the colourful album [El Ndjoum](https://sofianesaidimazalda.bandcamp.com/album/el-ndjoum).
 
-The titular song was co-produced with the uniqueSofyann Ben Youssef, aka[Ammar 808](https://www.theguardian.com/music/2018/jun/15/ammar-808-maghreb-united-review-an-exuberant-full-tilt-affair), a Brussels-based Tunisian, transcending Maghreb’s rich music with synth and bass heavy rhythms. If you dig the vibe, don’t miss Ben Youssef’s latest inprint, titled [Global Control/ Invisible Invasion](https://ammar808.bandcamp.com/album/global-control-invisible-invasion), for which he traveled to Tamil Nadu to further push his music’s envelope with intense Southern Indian sounds – see for yourself with the below clip – this stuff runs real deep!
+The titular song was co-produced with the unique Sofyann Ben Youssef, aka[ Ammar 808](https://www.theguardian.com/music/2018/jun/15/ammar-808-maghreb-united-review-an-exuberant-full-tilt-affair), a Brussels-based Tunisian, transcending Maghreb’s rich music with synth and bass heavy rhythms. If you dig the vibe, don’t miss Ben Youssef’s latest inprint, titled [Global Control/ Invisible Invasion](https://ammar808.bandcamp.com/album/global-control-invisible-invasion), for which he traveled to Tamil Nadu to further push his music’s envelope with intense Southern Indian sounds – see for yourself with the below clip – this stuff runs real deep!
 
 <iframe width="100%" height="380" src="https://www.youtube-nocookie.com/embed/ZbGinA7ZvHU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen referrerpolicy="origin"></iframe>
 
@@ -130,7 +132,7 @@ The titular song was co-produced with the uniqueSofyann Ben Youssef, aka[Ammar 8
 
 Already featured on [my 2nd Round-Up](https://theasymetrics.com/blog/malong%E2%80%99s-round-up-2nd-round/), the Roman producer and Kampalan MC are back in full force with a proto-Dancehall Bass hitter. The flip side to this release is also a killer, pushing an old-school 2-step swing with maaaadd lyricism from the rising star of Uganda.
 
-The EP is out on November 6, 2020 – a [Bandcamp Friday](https://daily.bandcamp.com/features/update-on-bandcamp-fridays). If you’re not familiar with the platform, just know that once a month since the beginning of the Covid crisis, it waves its (already reasonable) percentage on sales, heavily promoting the event, allowing struggling artists to get a humble extra income in these troubled times. Lorenzo also told me that all sales would go directly to Kitala, who recently had major health issues.
+The EP is out on November 6, 2020 – a [Bandcamp Friday](https://daily.bandcamp.com/features/update-on-bandcamp-fridays). If you’re not familiar with the platform, just know that once a month since the beginning of the Covid crisis, it waves its (already reasonable) percentage on sales, heavily promoting the event, allowing struggling artists to get a humble extra income in these troubled times. Lorenzo also told me that Kitala recently suffered health issues, and that all sales would go directly in his support.
 
 ![](/img/theasymetrics_swordman_kitala_pam.jpg "Swordman Kitala / © Pan African Music (PAM)")
 
@@ -144,7 +146,7 @@ The EP is out on November 6, 2020 – a [Bandcamp Friday](https://daily.bandcamp
 
 <br>
 
-Killer [45 release](https://www.discogs.com/Mumbia-Y-Sus-Candelosos-Hokkori-Time-Cumbia-Ducha/release/14719346)! 
+Wicked [45 release](https://www.discogs.com/Mumbia-Y-Sus-Candelosos-Hokkori-Time-Cumbia-Ducha/release/14719346)! 
 
 I already mentioned Mumbia y Sus Candelosos in a [previous article about Minyo Crusaders](https://theasymetrics.com/blog/minyo-crusaders/): Baddass percussionist **Mutsumi Kobayashi** leads this Tokyo-based Cumbia mayhem. The record artwork is also worth mentioning, coming in hot from Bogota-based Mateao Rivano: read more on Gladys Palmera’s[ essential website](https://gladyspalmera.com/), where dj Pinche had the brilliant idea to prepare a [playlist based on Rivera’s shenanigans](https://gladyspalmera.com/actualidad/mateo-rivano-colores-insurrectos/).
 
@@ -190,7 +192,7 @@ Courtesy of psychedelic guitarist [Chico Mann](http://www.chicomann.com/) involv
 
 <br>
 
-A wicked little dark Cumbia tune produced by newcomer Jose Gonzalez aka [Selvaxnegra](https://selvaxnegra.bandcamp.com/releases), from Orange County CA., whom I originally came across via his amazing [photography work](https://www.instagram.com/selvaxnegra/?hl=en) – deep, dark and stormy art, sonically and visually, watch this space!
+A deep & dark Cumbia tune produced by newcomer Jose Gonzalez aka [Selvaxnegra](https://selvaxnegra.bandcamp.com/releases), from Orange County CA., whom I originally came across via his amazing [photography work](https://www.instagram.com/selvaxnegra/?hl=en) – deep, dark and stormy art, sonically and visually, watch this space!
 
 <br>
 
