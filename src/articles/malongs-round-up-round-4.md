@@ -26,9 +26,11 @@ date: 2020-11-02T04:46:32.489Z
 ---
 ![](/img/fer-gomez-dia-muertos-small.jpg "©Fer Gomez")
 
-#### **For the full mixtape scroll to bottom, or check our [](https://soundcloud.com/the-asymetrics/malongs-round-up-3)[Soundcloud](https://soundcloud.com/the-asymetrics/malongs-round-up-4) / [Mixcloud](https://www.mixcloud.com/The_Asymetrics/round-up-4-malong/) Pages**
+<br>
 
-## **Darker times, darker selection! This month, we try to connect the dots between deconstructed Dancehall, Futuristic Raï, Bulgarian Bass, Japanese Cumbia, Guadeloupean Zouk, and much more...** 
+#### **For the full mixtape scroll to bottom, or check our** [](https://soundcloud.com/the-asymetrics/malongs-round-up-3)**[Soundcloud](https://soundcloud.com/the-asymetrics/malongs-round-up-4) / [Mixcloud](https://www.mixcloud.com/The_Asymetrics/round-up-4-malong/) Pages**
+
+## **Darker times, darker selection! This month, we try to connect the dots between deconstructed Dancehall, Futuristic Raï, Bulgarian Bass, Japanese Cumbia, Guadeloupean Zouk, and much more...**
 
 ## **Featured tracks are:**
 
@@ -54,7 +56,7 @@ And, speaking of Gavsborg, here is a super weird video assembled to illustrate t
 
 <br>
 
-#### **[](https://georgiaannemuldrow.bandcamp.com)Georgia Anne Muldrow– Mary Lou’s Motherboard**
+#### [](https://georgiaannemuldrow.bandcamp.com)**Georgia Anne Muldrow– Mary Lou’s Motherboard**
 
 <iframe style="border: 0; width: 100%; height: 42px;" src="https://bandcamp.com/EmbeddedPlayer/album=8639420/size=small/bgcol=ffffff/linkcol=0687f5/track=3560616589/transparent=true/" seamless><a href="https://georgiaannemuldrow.bandcamp.com/album/vweto-ii">VWETO II by Georgia Anne Muldrow</a></iframe>
 
@@ -69,6 +71,8 @@ The unclassifiable producer known for her completely free approach to anything h
 If you’re not yet familiar with [Georgia](https://www.thenation.com/article/culture/georgia-anne-muldrow-mama-you-can-bet-music/), check her having fun making out-of-this-World beats for Berkeley Music College Students’ education:
 
 <iframe width="100%" height="380" src="https://www.youtube-nocookie.com/embed/iEMGMwEMHzs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen referrerpolicy="origin"></iframe
+
+<br>
 
 <br>
 
@@ -158,59 +162,65 @@ French producer and Lisbon-based [Izem](http://www.izem.me/) worked with veteran
 
 <iframe style="border: 0; width: 100%; height: 42px;" src="https://bandcamp.com/EmbeddedPlayer/album=3865565662/size=small/bgcol=ffffff/linkcol=0687f5/track=3777478027/transparent=true/" seamless><a href="https://chicomann.bandcamp.com/album/manifest-tone">Manifest Tone by Chico Mann</a></iframe>
 
-<br> 
+![](/img/theasymetrics_chico_mann_manifestone.jpg)
+
+<br>
 
 Courtesy of psychedelic guitarist [Chico Mann](http://www.chicomann.com/) involved with the fantastic NYC Afrobeat outlet [Antibalas](https://en.wikipedia.org/wiki/Antibalas).
 
-![](/img/theasymetrics_chico_mann_manifestone.jpg)
+<br>
 
 
 
+#### Selvaxnegra – Muerte del Ego
 
+<iframe style="border: 0; width: 100%; height: 42px;" src="https://bandcamp.com/EmbeddedPlayer/album=240065110/size=small/bgcol=ffffff/linkcol=0687f5/track=1324582769/transparent=true/" seamless><a href="https://selvaxnegra.bandcamp.com/album/el-curandero">El Curandero by selvaxnegra</a></iframe>
 
+![](/img/theasymetrics_selvaxnegra.jpg)
 
-
-Selvaxnegra – Muerte del Ego
-
-https://selvaxnegra.bandcamp.com/releases
+<br>
 
 A wicked little dark Cumbia tune produced by newcomer Jose Gonzalez aka [Selvaxnegra](https://selvaxnegra.bandcamp.com/releases), from Orange County CA., whom I originally came across via his amazing [photography work](https://www.instagram.com/selvaxnegra/?hl=en) – deep, dark and stormy art, sonically and visually, watch this space!
 
+<br>
 
+#### Chouk Bwa & The Ångstromers – Sali Lento
 
-Chouk Bwa & The Ångstromers – Sali Lento
+<iframe width="100%" height="380" src="https://www.youtube-nocookie.com/embed/Ju18ez3gIhE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen referrerpolicy="origin"></iframe>
 
-https://www.youtube.com/watch?v=Ju18ez3gIhE
+<br>
 
+Extracted from the brilliant [Vodou Alé](https://choukbwa.bandcamp.com/album/vodou-al-2) album, where Haitian band **Chouk Bwa** meets Brussels’ infamous [Ångstromers](https://www.discogs.com/artist/7907347-The-%C3%85ngstr%C3%B6mers) for a blazing mix of *mizik rasin*(roots music) & Vodou, enhanced by experimental synth-heavy dub – the Belgian duo’s signature sound, which can often be heard in the EU capital’s unforgettable, super edgy,[“Café Central”](https://lecafecentral.com/).
 
+<br>
 
-Extracted from the brilliant [Vodou Alé](https://choukbwa.bandcamp.com/album/vodou-al-2) album, where Haitian band **Chouk Bwa** meets Brussels’ infamous [Ångstromers](https://www.discogs.com/artist/7907347-The-%C3%85ngstr%C3%B6mers) for a blazing mix of *mizik rasin*(roots music) & Vodou, enhanced by experimental synth-heavy dub – the Belgian duo’s signature sound, which can often be heard in the EU capital’s unforgettable, super edgy,[“Café Central”](https://lecafecentral.com/)!
+#### The next 3 tunes are all part of re-edited EPs by the groundbreaking label[ Secousse](https://secousse.bandcamp.com/music) – brainchild of French cutting-edge DJ Etienne Tron and his wonderful [Secousse Radio](http://secousse.tv/).
 
+<br>
 
+#### Neba Solo – CAN 2002
 
-The next 3 tunes are all part of re-edited EPs by the groundbreaking label[Secousse](https://secousse.bandcamp.com/music)– brainchild of French cutting-edge DJ Etienne Tron and his wonderful[Secousse Radio](http://secousse.tv/)
+<iframe style="border: 0; width: 100%; height: 42px;" src="https://bandcamp.com/EmbeddedPlayer/album=752916456/size=small/bgcol=ffffff/linkcol=0687f5/track=1456281494/transparent=true/" seamless><a href="https://secousse.bandcamp.com/album/can-2002">Can 2002 by Neba Solo</a></iframe>
 
+![](/img/theasymetrics_neba_solo.jpg)
 
-
-Neba Solo – CAN 2002
+<br>
 
 Composed in 1999 by Malian Balafon virtuoso [Neba Solo](https://en.wikipedia.org/wiki/Neba_Solo) (Souleymane Traoré) to celebrate the selection of Mali as host country for the African Cup of Nations (CAN) 2002, this tune has become somewhat of a major hit since, with a killer vibe still resonating over 20 years later.
 
 Secousse also edited a cool video for the release:
 
-https://www.youtube.com/watch?v=eIeb22A3KFM&feature=youtu.be
+<iframe width="100%" height="380" src="https://www.youtube-nocookie.com/embed/eIeb22A3KFM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen referrerpolicy="origin"></iframe>
 
+<br>
 
+<br>
 
-
-
-Max Rambhojan – Tou’t Jou Pa Min’m
+#### Max Rambhojan – Tou’t Jou Pa Min’m
 
 Guadeloupe veteran of [Gwo-Ka](https://en.wikipedia.org/wiki/Gwo_ka), Rambhojan dabbled in Zouk with heavy electronic production in the 1980’s. This track is pure dancefloor joy!
 
 If you want more of this, don’t miss Secousse Radio’s [Retro Zouk Mixtapes](https://soundcloud.com/secousse/sets/retro-zouk-mixtapes), a potential palliative to whatever restrictive measures are keeping you home right now!
-
-
 
 Jules-Henri Malaki – Makiyaj
 
