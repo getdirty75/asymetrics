@@ -33,6 +33,8 @@ outsideLinks:
       link: https://theasymetrics.com/blog/malongs-round-up-2nd-mixtape/
     - text: "Malong's Round-Up # 1"
       link: https://theasymetrics.com/blog/malong%E2%80%99s-monthly-round-up-%E2%80%93-first-round/
+    - text: Asymetrics Random Selections (Oct 2020)
+      link: https://theasymetrics.com/blog/asymetrics-team-random-selections-october-2020/
 ---
 ![](/img/fer-gomez-dia-muertos-small.jpg "©Fer Gomez")
 
