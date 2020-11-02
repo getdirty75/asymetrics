@@ -23,6 +23,16 @@ tags:
   - "#Guadeloupe"
   - "#Algeria"
 date: 2020-11-02T04:46:32.489Z
+outsideLinks:
+  outsideLinksList:
+    - text: The Round-up Videos playlist
+      link: https://www.youtube.com/playlist?list=PLZtgNolXlRSRmC3zZSi2iXAE-4OaIkVj2
+    - text: "Malong's Round-Up # 3"
+      link: https://theasymetrics.com/blog/malongs-round-up-round-3/
+    - text: "Malong's Round-Up # 2"
+      link: https://theasymetrics.com/blog/malongs-round-up-2nd-mixtape/
+    - text: "Malong's Round-Up # 1"
+      link: https://theasymetrics.com/blog/malong%E2%80%99s-monthly-round-up-%E2%80%93-first-round/
 ---
 ![](/img/fer-gomez-dia-muertos-small.jpg "©Fer Gomez")
 
@@ -243,3 +253,11 @@ If you want more of this, don’t miss Secousse Radio’s [Retro Zouk Mixtapes](
 <br>
 
 Monster bombtrack from the mid-90’s Guadeloupe, Makiyaj is one of my favourite Zouk tunes (along with Erick Cosaque’s Embawgo, which I already mentioned in my very [first Round-Up](https://theasymetrics.com/blog/malong%E2%80%99s-monthly-round-up-%E2%80%93-first-round/)). Just shut your eyes and let that insane, blissful, bass swing take you away!
+
+<br>
+
+### This wraps it up. Enjoyed the selection and want it full spectrum? Check out the mixtape:
+
+<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/919404811&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/the-asymetrics" title="The Asymetrics" target="_blank" style="color: #cccccc; text-decoration: none;">The Asymetrics</a> · <a href="https://soundcloud.com/the-asymetrics/malongs-round-up-4" title="Malong&#x27;s Round-Up #4" target="_blank" style="color: #cccccc; text-decoration: none;">Malong&#x27;s Round-Up #4</a></div>
+
+### Stay Safe and Keep Digging!
