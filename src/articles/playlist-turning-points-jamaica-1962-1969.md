@@ -39,7 +39,7 @@ Direct link: [Turning Points Playlist on Youtube](https://www.youtube.com/playli
 
 ***The pioneer Prince Buster***
 
-***<br>***
+
 
 From the **Calypso, Mento & US R&B** roots, grows **Ska, Rocksteady** & then **« Early Reggae »** !
 
