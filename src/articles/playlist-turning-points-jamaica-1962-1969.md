@@ -29,7 +29,7 @@ outsideLinks:
 ---
 ![](/img/theasymetrics_skalipso_small.jpg)
 
-Scroll down for full playlist, or head directly to the [Turning Points Playlist on Youtube](https://www.youtube.com/playlist?list=PLZtgNolXlRSSbJiYujks9W19BLbn5Ah-N)
+Scroll down for full playlist, or head directly to ["**Turning Points" on our Channel**](https://www.youtube.com/playlist?list=PLZtgNolXlRSSbJiYujks9W19BLbn5Ah-N)
 
 ### The glorious decade starting triumphantly with the independence of Jamaica from British colonization sees the quality of music produced & performed on the island grow & evolve into different wicked styles & patterns…
 
