@@ -89,7 +89,7 @@ Here is a quick selection of a few awesome tunes recorded on the Caribbean islan
 
 <br>
 
-#### Hopeton Lewis - Take It Easy - (1966)
+#### Hopeton Lewis - Take It Easy (1966)
 
 <iframe width="100%" height="380" src="https://www.youtube-nocookie.com/embed/nz7kxeFK7w4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen referrerpolicy="origin"></iframe>
 
@@ -171,7 +171,7 @@ Hopeton Lewis - This Music Got Soul (1966)
 
 Delroy Wilson - Dancing Mood (1966)
 
-Hopeton Lewis - Take It Easy - (1966)
+Hopeton Lewis - Take It Easy (1966)
 
 Alton Ellis - Rocksteady (1966)
 
