@@ -29,7 +29,7 @@ outsideLinks:
 ---
 ![](/img/theasymetrics_skalipso_small.jpg)
 
-Direct link: [Turning Points Playlist on Youtube](https://www.youtube.com/playlist?list=PLZtgNolXlRSSbJiYujks9W19BLbn5Ah-N)
+Scroll down for full playlist, or head directly to the [Turning Points Playlist on Youtube](https://www.youtube.com/playlist?list=PLZtgNolXlRSSbJiYujks9W19BLbn5Ah-N)
 
 ### The glorious decade starting triumphantly with the independence of Jamaica from British colonization sees the quality of music produced & performed on the island grow & evolve into different wicked styles & patterns…
 
@@ -39,7 +39,7 @@ Direct link: [Turning Points Playlist on Youtube](https://www.youtube.com/playli
 
 ***The pioneer Prince Buster***
 
-
+<br>
 
 From the **Calypso, Mento & US R&B** roots, grows **Ska, Rocksteady** & then **« Early Reggae »** !
 
@@ -47,11 +47,85 @@ In less than a 10 years span, the music industry was changed forever …
 
 Here is a quick selection of a few awesome tunes recorded on the Caribbean island more than 50 years ago…
 
+<br>
+
+#### Lloyd Clarke - Bad Weed (1962)
+
+<iframe width="100%" height="380" src="https://www.youtube-nocookie.com/embed/O0I0wc1E7Fs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen referrerpolicy="origin"></iframe>
+
+<br>
+
+<br>
+
+#### The Charmer - Back To Back (1963)
+
+<iframe width="100%" height="380" src="https://www.youtube-nocookie.com/embed/isrPYjeIR0U" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen referrerpolicy="origin"></iframe>
+
+<br>
+
+<br>
+
+#### Prince Buster - Al Capone (1964)
+
+<iframe width="100%" height="380" src="https://www.youtube-nocookie.com/embed/elo1z5yAIXw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen referrerpolicy="origin"></iframe>
+
+<br>
+
+<br>
+
+#### Llans Thelwell & His Celestials - Mughead Ska (1965)
+
+<iframe width="100%" height="380" src="https://www.youtube-nocookie.com/embed/GUxffLJnF38" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen referrerpolicy="origin"></iframe>
+
+<br>
+
+<br>
+
+#### Delroy Wilson - Dancing Mood (1966)
+
+<iframe width="100%" height="380" src="https://www.youtube-nocookie.com/embed/oZvtZEh3QUg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen referrerpolicy="origin"></iframe>
+
+<br>
+
+<br>
+
+#### Hopeton Lewis - Take It Easy - (1966)
+
+<iframe width="100%" height="380" src="https://www.youtube-nocookie.com/embed/nz7kxeFK7w4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen referrerpolicy="origin"></iframe>
+
+<br>
+
+<br>
+
+#### Keith & Tex - Stop That Train (1967)
+
+<iframe width="100%" height="380" src="https://www.youtube-nocookie.com/embed/XIQXFCicwI8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen referrerpolicy="origin"></iframe>
+
+<br>
+
+<br>
+
+#### The Ethiopians - Reggae Hit The Town (1968)
+
+<iframe width="100%" height="380" src="https://www.youtube-nocookie.com/embed/rIvwbsWsoOA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen referrerpolicy="origin"></iframe>
+
+<br>
+
+<br>
+
+#### Joe Nolan - Cool It With Reggae (1969)
+
+<iframe width="100%" height="380" src="https://www.youtube-nocookie.com/embed/FrMQxM1E2VA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen referrerpolicy="origin"></iframe>
+
+<br>
+
+<br>
+
+### And here is the full playlist of 43 essential tunes:
+
 <iframe width="100%" height="500" src="https://www.youtube-nocookie.com/embed/videoseries?list=PLZtgNolXlRSSbJiYujks9W19BLbn5Ah-N" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen referrerpolicy="origin"></iframe>
 
-
-
-### Full Tracklist:
+### Tracklist:
 
 Lord Creator - Independent Jamaica (1962)
 
