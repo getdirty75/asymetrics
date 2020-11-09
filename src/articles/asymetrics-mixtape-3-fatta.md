@@ -28,7 +28,7 @@ outsideLinks:
 
 <br>
 
-Direct Link: **Soundcloud / [Mixcloud](https://www.mixcloud.com/The_Asymetrics/asymetrics-mixtape-3-fatta/)**
+Direct Link: **[Soundcloud](https://soundcloud.com/the-asymetrics/asymetrics-mixtape-3-fatta) / [Mixcloud](https://www.mixcloud.com/The_Asymetrics/asymetrics-mixtape-3-fatta/)**
 
 ### The 3rd edition of our mixtape series welcomes a 100% vinyl reggae mix by Fatta (Soul Stereo) !
 
