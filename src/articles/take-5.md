@@ -12,6 +12,18 @@ tags:
   - "#Covers"
   - "#Storyofatrack"
 date: 2020-11-16T03:40:14.992Z
+outsideLinks:
+  outsideLinksList:
+    - text: Take 5 Playlist (full)
+      link: https://www.youtube.com/playlist?list=PLZtgNolXlRSSr25FfDdRG8FOY3FK1WXHU
+    - text: "Story of a Track: Caravan"
+      link: https://theasymetrics.com/blog/caravan/
+    - text: Stormy Weather Playlist
+      link: https://www.youtube.com/playlist?list=PLZtgNolXlRSRpHTdpdBkqXUaHUzC46yYL
+    - text: "Story of a Track: the Message"
+      link: https://theasymetrics.com/blog/cymande-the-message/
+    - text: "Story of a Track: I am the Black Gold of the Sun"
+      link: https://theasymetrics.com/blog/i-am-the-black-gold-of-the-sun/
 ---
 ![](/img/take-5-cover.jpg)
 
