@@ -95,7 +95,7 @@ But let’s take it backwards and start with the latest! The **Python Syndicate*
 
 ![](/img/mike-2.png)
 
-*<br>*
+
 
 **I thought the only way to capture this “Now” was to look into the young demographics, and I started exploring the social media spheres in Africa. I was also convinced that music is the main literature, the key method of cultural archiving and cultural preservation in Africa.**
 
