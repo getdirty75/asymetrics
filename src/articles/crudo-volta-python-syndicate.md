@@ -21,11 +21,9 @@ date: 2020-11-17T02:17:29.563Z
 ---
 ![](/img/cover-pic.jpg)
 
-<br>
-
 ### [Crudo Volta](https://www.instagram.com/crudovoltaradio/) is a collective at the forefront of contemporary African music, producing [cutting-edge documentaries](https://www.youtube.com/channel/UCUeo8Id548iRPuOfGUys4Ow?feature=emb_ch_name_ex), with a sub-label called [Python Syndicate](https://pythonsyndicate.bandcamp.com/) serving as a channel for music production – to learn more about this fascinating platform, we spoke to [Mikael Calandra Achode](https://www.instagram.com/mikecalandra/?hl=en), the mastermind behind the whole adventure!
 
-Mike has had a lot going on in the past 5 years, meeting major success with Crudo Volta’s critically acclaimed documentaries [Woza Taxi](https://youtu.be/xgHxtE4uzdY) (briefly introduced in [our interview with Francesco Cucch](https://theasymetrics.com/blog/blu-ritual/)i) and **Yenkyi Taxi**:
+Mike has had a lot going on in the past 5 years, in between [designing work and teaching](https://www.arts.ac.uk/colleges/london-college-of-fashion/stories/black-history-month-2020-in-conversation-with-mikael-calandra-achode), he met major success with Crudo Volta’s critically acclaimed documentaries [Woza Taxi](https://youtu.be/xgHxtE4uzdY) (briefly introduced in [our interview with Francesco Cucch](https://theasymetrics.com/blog/blu-ritual/)i) and **Yenkyi Taxi**:
 
 <iframe width="100%" height="380" src="https://www.youtube-nocookie.com/embed/DMCwkfFFURE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen referrerpolicy="origin"></iframe>
 
