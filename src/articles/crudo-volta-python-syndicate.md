@@ -18,6 +18,22 @@ tags:
   - "#Ethiopia"
   - "#Mozambique"
 date: 2020-11-17T02:17:29.563Z
+outsideLinks:
+  outsideLinksList:
+    - text: Crudo Volta Channel
+      link: https://www.youtube.com/channel/UCUeo8Id548iRPuOfGUys4Ow
+    - text: Python Syndicate Music
+      link: https://pythonsyndicate.bandcamp.com/
+    - text: Crudo Volta Instagram
+      link: https://www.instagram.com/crudovoltaradio/
+    - text: Mike Calandra
+      link: https://www.instagram.com/mikecalandra/
+    - text: Free the Youth
+      link: https://www.instagram.com/freetheyouth_ghana/?hl=en
+    - text: Blu Ritual
+      link: https://theasymetrics.com/blog/blu-ritual/
+    - text: "Essential RA article on Ghanaian music: "
+      link: https://www.residentadvisor.net/features/3673
 ---
 ![](/img/cover-pic.jpg)
 
