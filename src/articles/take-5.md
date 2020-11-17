@@ -49,7 +49,7 @@ Composed by Desmond in 1959, ***Take 5*** came from a specific request from Brub
 
 <br>
 
-Way up on the list of essentials, it has been covered by[ countless musicians](https://secondhandsongs.com/work/20406/versions#nav-entity), and went on to become the highest selling jazz single of all times, only to cross-over and give inspiration to some of the most inspired 20th century artists in many genres, be it through covers or creative sampling!
+Way up on the list of essentials, it has been covered by[ countless musicians](https://secondhandsongs.com/work/20406/versions#nav-entity), and went on to become the highest selling jazz single of all times, only to cross-over and give inspiration to some of the most creative 20th century artists in many genres, be it through covers or creative sampling!
 
 ### We've put together our 19 favorite cuts in a proper playlist (scroll down for the whole shebang), and here are our 5 (of course) top picks:
 
