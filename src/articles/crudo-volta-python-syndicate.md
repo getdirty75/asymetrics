@@ -155,34 +155,46 @@ But let’s take it backwards and start with the latest!the Python Syndicate lab
 
 **[Woza Taxi](https://www.youtube.com/watch?v=xgHxtE4uzdY) (2017) garnered a lot of attention for something produced out of my bedroom! We got tons of coverage from [The Fader](https://www.thefader.com/2016/07/25/woza-taxi-documentary-gqom-oh-interview), [Mixmag](https://mixmag.net/read/watch-this-documentary-on-south-africas-new-gqom-scene-video-blog), [Fact](https://www.factmag.com/2016/09/22/gqom-oh-europe-and-asia-showcase/), etc.. and the documentary resonated well with white/ European audiences. It also worked quite well in South Africa where Gqom was completely dismissed from the main players. I was happy that it was so accessible and pivotal for the featured artists, who needed reperesentation.**
 
-T**hen Yenkyi Taxi (2018) came from meeting Hagan, whom we followed around Accra, Ghana. There we became familiar with artists like Gafacci and Rvdical the Kid among many.We really explored the connections between modern UK electronic music and West African heritage., and I think the connection with sounds like UK-Funky and the London scene opened the doors to a Black audience, to the diaspora.**
+T**hen [Yenkyi Taxi](https://www.youtube.com/watch?v=1ojmirG0TFk) (2018) came from meeting [Hagan](https://hagan.bandcamp.com/), whom we followed around Accra, Ghana. There we became familiar with artists like Gafacci and Rvdical the Kid among many.We really explored the connections between modern UK electronic music and West African heritage., and I think the connection with sounds like UK-Funky and the London scene opened the doors to a Black audience, to the diaspora.**
 
 **It’s also the project I am the most attached to so far – where I felt like I became a Director. All shots, color codes etc. were planned ahead, and we worked a lot on location scouting. I also learned to edit properly.**
 
-Pic: HAGAN
 
-For me, this second documentary had to be the work of maturity, a real confirmation after the success of Woza Taxi.
 
-I had already received an offer from an Italian streaming platform but I put that on hold as this one was too personal. I wanted to keep room for creative experimentation and avoid loosing focus to satisfy the mainstream!
+![](/img/hagan-2.jpg)
 
-It was again a major success and we got a lot of [good reviews](https://www.thewire.co.uk/news/50521/tommaso-cassinis-follows-hagan-to-ghana-documentary-yenkyi-tax).
+<br>
 
-Pic: SESS
+**For me, this second documentary had to be the work of maturity, a real confirmation after the success of Woza Taxi.**
 
-The Taxi Waves (2019) sessions were then commissioned by TIMVision, a VOD platform owned by Italia Telecom. They were interested in contemporary Afican music and gave us a nice budget so we hired local fixers to help us.
+**I had already received an offer from an Italian streaming platform but I put that on hold as this one was too personal. I wanted to keep room for creative experimentation and avoid loosing focus to satisfy the mainstream!**
 
-In Addis Ababa we got help from people at Afro City FM, who introduced us to Rohpan and Ethiopian Records. In Lagos we were supported by Cool FM, and in Mozambique we were driven by Bulldozer, a popular artist from the [Pandza scene](https://africasacountry.com/2013/10/mozambiques-pandza-music) in Maputo.
+**It was again a major success and we got a lot of [good reviews](https://www.thewire.co.uk/news/50521/tommaso-cassinis-follows-hagan-to-ghana-documentary-yenkyi-tax).**
 
-Embed: Taxi waves (which ???)
 
-Film festivals will be the natural follow-up. We participated to a few so far but have been trying to take it slow while we develop the right image we want to push.
 
-**What’s next?**
+![](/img/sess.jpg)
 
-We’re working on the next featured length, but of course everything is on hold with the sanitary crisis.
+<br>
 
-There’s also an album in the works with Hagan, with major collaboration, but I can’t reveal too much yet… watch this space!
+**The [Taxi Waves](https://www.youtube.com/playlist?list=PLKlEkuoSJwyAkpgc6oFZHGz1Vyeeiuny_) (2019) sessions were then commissioned by TIMVision, a VOD platform owned by Italia Telecom. They were interested in contemporary Afican music and gave us a nice budget so we hired local fixers to help us.**
 
-### Huge thanks to Mike Calandra Achode for spending some time with the Asymetrics and sharing his story!
+**In Addis Ababa we got help from people at Afro City FM, who introduced us to Rohpan and Ethiopian Records. In Lagos we were supported by Cool FM, and in Mozambique we were driven by Bulldozer, a popular artist from the [Pandza scene](https://africasacountry.com/2013/10/mozambiques-pandza-music) in Maputo.**
 
-### Hope you enjoyed the journey – stay safe and keep digging !
+<iframe width="100%" height="380" src="https://www.youtube-nocookie.com/embed/gSZ8iRpjfto" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen referrerpolicy="origin"></iframe>
+
+<br>
+
+<br>
+
+**Film festivals will be the natural follow-up. We participated to a few so far but have been trying to take it slow while we develop the right image we want to push.**
+
+*So now, what’s next?*
+
+**We’re working on the next featured length, but of course everything is on hold with the sanitary crisis.**
+
+**There’s also an album in the works with Hagan, with major collaboration, but I can’t reveal too much yet… watch this space!**
+
+**<br>**
+
+### Huge thanks to Mike Calandra Achode for spending some time with the Asymetrics and sharing his story! Hope you enjoyed the journey – stay safe and keep digging !
