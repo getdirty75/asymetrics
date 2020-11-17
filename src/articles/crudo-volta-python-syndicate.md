@@ -107,8 +107,6 @@ But let’s take it backwards and start with the latest! The **Python Syndicate*
 
 **At the time, even among African communities, the diaspora, and Afro-centrists spheres trying to deconstruct the colonial discourse, there was a lot of space for reminding of Africa’s glorious past, its mighty kingdoms etc., mixed with a growing sentiment that “Africa is the Future” – but there was no discussion about the present! What does it mean or feel like to be African today?**
 
-
-
 ![](/img/mike-2.png)
 
 <br>
@@ -131,13 +129,11 @@ But let’s take it backwards and start with the latest! The **Python Syndicate*
 
 **At that time (2015), I came across the story of the legendary label and shop [Disques GAM](https://thevinylfactory.com/features/worlds-best-record-shops-051-disques-gam-casablanca/) in Casablanca, and I was super interested in the [Gnawa](https://en.wikipedia.org/wiki/Gnawa_music) sound. There was also a wide ranging West African touch in the 1960’s and 70’s, and I also discovered amazing [Berber](https://en.wikipedia.org/wiki/Berber_music) and [Jewish](https://www.iemj.org/en/listen/songs-of-moroccan-jews.html?lang=en) music.**
 
-**I was also keen on filming in a predominantly Muslim country to counter the super negative treatment of African Islam at the time. Most information was heavily focused on the emergence of the so-called Islamic State, Wahabbism etc.. Again, you have to remember that the post-colonial treatment of Africa in the madia was much harsher at the time. So I thought it would be interesting to approach the relationship between Maghreb and West Africa, the intricate conversations going on with Mauritanian tribes, [Tuaregs](https://www.britannica.com/topic/Tuareg), [Peuls](https://en.wikipedia.org/wiki/Fula_people) (Fula people), [Hausas ](https://en.wikipedia.org/wiki/Hausa_people)etc.**
+**I was also keen on filming in a predominantly Muslim country to counter the super negative treatment of African Islam at the time. Most information was heavily focused on the emergence of the so-called Islamic State, Wahabbism etc.. Again, you have to remember that the post-colonial treatment of Africa in the media was much harsher at the time. So I thought it would be interesting to approach the relationship between Maghreb and West Africa, the intricate conversations going on with Mauritanian tribes, [Tuaregs](https://www.britannica.com/topic/Tuareg), [Peuls](https://en.wikipedia.org/wiki/Fula_people) (Fula people), or [Hausas](https://en.wikipedia.org/wiki/Hausa_people).**
 
-**That first shoot was meant to revolve around my music digging and discussions with local youth. Not knowing better at the time, I envisioned it somewhat similar to skateboard videos or immersive, gonzo media styles that were emerging then (Vice/ Noisey etc.). It was a foggy and experimental vision, There was no storyboard of narrative plot. I needed to experiment to find out how I could say what I wanted to say using a contemporary language and a stealth approach.**
+**That first shoot was meant to revolve around my music digging and discussions with local youth. Not knowing better at the time, I envisioned it somewhat similar to skateboard videos or immersive, gonzo media styles that were emerging then (Vice/ Noisey...). It was a foggy and experimental vision, There was no storyboard of narrative plot. I needed to experiment to find out how I could say what I wanted to say using a contemporary language and a stealth approach.**
 
 **But then we got there and another format showed up naturally!**
-
-
 
 ![](/img/mike-mountains.jpg)
 
@@ -147,7 +143,7 @@ But let’s take it backwards and start with the latest! The **Python Syndicate*
 
 \*MCA: **It came about when we visited those 3 cities in Morocco (Casablanca, Fez, and Rabbat). I realized neither Tommasso nor myself were relating with the skateboard esthetics – it just wasn’t us. We ended up moving about in local [“Petit Taxis”](https://en.wikipedia.org/wiki/Taxicabs_of_Morocco) and loved the idea as a format: not fully immersed in the local context, a bit like tourists or observers, but engaging in fascinating conversations, hearing stories, talking politics etc.**
 
-**What was incredible is that when we then headed to Durban (South Africa) for the shooting of “Woza Taxi”, we realized that taxis were the main introduction and promotion points for [Gqom](https://en.wikipedia.org/wiki/Gqom)!**
+**What was incredible is that when we then headed to Durban for the shooting of “Woza Taxi”, we realized that taxis were the main introduction and promotion points for [Gqom](https://en.wikipedia.org/wiki/Gqom) !**
 
 <iframe width="100%" height="380" src="https://www.youtube-nocookie.com/embed/hspDvYL1MUQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen referrerpolicy="origin"></iframe>
 
@@ -155,11 +151,11 @@ But let’s take it backwards and start with the latest! The **Python Syndicate*
 
 *\*M: How did things take off from there? And how did you organize the following filmings?*
 
-\*MCA: **“Petit Taxi” ended up being a pilot only, which we used as a trailer for a mixtape I was working on.At the time we had the idea to build a radio with Italy as a targeted audience (hence the name Crudo Volta Radio).**
+\*MCA: **“Petit Taxi” ended up being a pilot only, which we used as a trailer for a mixtape I was working on. At the time we had the idea to build a radio with Italy as a targeted audience (hence the name Crudo Volta Radio).**
 
-**That pilot gave me great introduction material to present my vision of driving a better representation of African Culture through contemporary music. I met [Francesco Cucchi](https://theasymetrics.com/blog/blu-ritual/) through common friends in Rome, and he was just getting some attention around the [first Gqom Oh EP](https://soundsoftheuniverse.com/sjr/product/gqom-oh-gqom-oh-sampler-ep). I thought this would be a perfect match, and the audience for that music in the West needed to see who was behind it, have a proper introduction to these unique artists. Although contemporary African music is accessible and trendy now, at that time (not so long ago) it was not yet officially cool worldwide!**
+**That pilot gave me great introduction material to present my vision of driving a better representation of African Culture through contemporary music.** 
 
-
+**I met [Francesco Cucchi](https://theasymetrics.com/blog/blu-ritual/) through common friends in Rome, and he was just getting some attention around the [first Gqom Oh EP](https://soundsoftheuniverse.com/sjr/product/gqom-oh-gqom-oh-sampler-ep). I thought this would be a perfect match, and the audience for that music in the West needed to see who was behind it, have a proper introduction to these unique artists. Although contemporary African music is accessible and trendy now, at that time (not so long ago) it was not yet officially cool worldwide!**
 
 ![](/img/mike-francesco.jpg)
 
@@ -175,11 +171,9 @@ But let’s take it backwards and start with the latest! The **Python Syndicate*
 
 <br>
 
-**Then [Yenkyi Taxi](https://www.youtube.com/watch?v=1ojmirG0TFk) (2018) came from meeting [Hagan](https://hagan.bandcamp.com/)** (*pictured above*)**, whom we followed around Accra, Ghana. There we became familiar with artists like Gafacci and Rvdical the Kid among many. We really explored the connections between modern UK electronic music and West African heritage, and I think the connection with sounds like UK-Funky and the London scene opened the doors to a Black audience, to the diaspora.**
+**Then [Yenkyi Taxi](https://www.youtube.com/watch?v=1ojmirG0TFk) (2018) came from meeting [Hagan](https://hagan.bandcamp.com/)** (*pictured above*)**, whom we followed around Accra. There we became familiar with artists like Gafacci and Rvdical the Kid among many. We really explored the connections between modern UK electronic music and West African heritage, and I think the connection with sounds like UK-Funky and the London scene opened the doors to a Black audience, to the diaspora.**
 
 **It’s also the project I am the most attached to so far – where I felt like I became a Director. All shots, color codes etc. were planned ahead, and we worked a lot on location scouting. I also learned to edit properly.**
-
-
 
 ![](/img/all-crew-in-lagos.jpg)
 
@@ -191,15 +185,13 @@ But let’s take it backwards and start with the latest! The **Python Syndicate*
 
 **It was again a major success and we got a lot of [good reviews](https://www.thewire.co.uk/news/50521/tommaso-cassinis-follows-hagan-to-ghana-documentary-yenkyi-tax).**
 
-
-
 ![](/img/sess.jpg)
 
 <br>
 
 **The [Taxi Waves](https://www.youtube.com/playlist?list=PLKlEkuoSJwyAkpgc6oFZHGz1Vyeeiuny_) (2019) sessions were then commissioned by TIMVision, a VOD platform owned by Italia Telecom. They were interested in contemporary African music and gave us a nice budget so we hired local fixers to help us.**
 
-**In Addis Ababa we got help from people at [Afro FM](https://www.facebook.com/105.3AfroFM/), who introduced us to [Rohpan](https://www.youtube.com/watch?v=6rnjyU-W00g) and [Ethiopian Records](https://youtu.be/BrHB7FDk9-g). In Lagos we were supported by [Cool FM](https://www.coolfm.ng/), and in Mozambique we were driven by [Bulldozer](https://www.facebook.com/profile.php?id=100010310763813), a popular artist from the [Pandza scene](https://africasacountry.com/2013/10/mozambiques-pandza-music) in Maputo.**
+**In Addis Abeba we got help from people at [Afro FM](https://www.facebook.com/105.3AfroFM/), who introduced us to [Rohpan](https://www.youtube.com/watch?v=6rnjyU-W00g) and [Ethiopian Records](https://youtu.be/BrHB7FDk9-g). In Lagos we were supported by [Cool FM](https://www.coolfm.ng/), and in Mozambique we were driven by [Bulldozer](https://www.facebook.com/profile.php?id=100010310763813), a popular artist from the [Pandza scene](https://africasacountry.com/2013/10/mozambiques-pandza-music) in Maputo.**
 
 <iframe width="100%" height="380" src="https://www.youtube-nocookie.com/embed/gSZ8iRpjfto" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen referrerpolicy="origin"></iframe>
 
