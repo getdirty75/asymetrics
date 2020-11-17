@@ -107,8 +107,6 @@ But let’s take it backwards and start with the latest! The **Python Syndicate*
 
 **At the time, even among African communities, the diaspora, and Afro-centrists spheres trying to deconstruct the colonial discourse, there was a lot of space for reminding of Africa’s glorious past, its mighty kingdoms etc., mixed with a growing sentiment that “Africa is the Future” – but there was no discussion about the present! What does it mean or feel like to be African today?**
 
-
-
 ![](/img/mike-2.png)
 
 <br>
@@ -131,13 +129,11 @@ But let’s take it backwards and start with the latest! The **Python Syndicate*
 
 **At that time (2015), I came across the story of the legendary label and shop [Disques GAM](https://thevinylfactory.com/features/worlds-best-record-shops-051-disques-gam-casablanca/) in Casablanca, and I was super interested in the [Gnawa](https://en.wikipedia.org/wiki/Gnawa_music) sound. There was also a wide ranging West African touch in the 1960’s and 70’s, and I also discovered amazing [Berber](https://en.wikipedia.org/wiki/Berber_music) and [Jewish](https://www.iemj.org/en/listen/songs-of-moroccan-jews.html?lang=en) music.**
 
-**I was also keen on filming in a predominantly Muslim country to counter the super negative treatment of African Islam at the time. Most information was heavily focused on the emergence of the so-called Islamic State, Wahabbism etc.. Again, you have to remember that the post-colonial treatment of Africa in the madia was much harsher at the time. So I thought it would be interesting to approach the relationship between Maghreb and West Africa, the intricate conversations going on with Mauritanian tribes, [Tuaregs](https://www.britannica.com/topic/Tuareg), [Peuls](https://en.wikipedia.org/wiki/Fula_people) (Fula people), [Hausas ](https://en.wikipedia.org/wiki/Hausa_people)etc.**
+**I was also keen on filming in a predominantly Muslim country to counter the super negative treatment of African Islam at the time. Most information was heavily focused on the emergence of the so-called Islamic State, Wahabbism etc.. Again, you have to remember that the post-colonial treatment of Africa in the media was much harsher at the time. So I thought it would be interesting to approach the relationship between Maghreb and West Africa, the intricate conversations going on with Mauritanian tribes, [Tuaregs](https://www.britannica.com/topic/Tuareg), [Peuls](https://en.wikipedia.org/wiki/Fula_people) (Fula people), [Hausas ](https://en.wikipedia.org/wiki/Hausa_people)etc.**
 
 **That first shoot was meant to revolve around my music digging and discussions with local youth. Not knowing better at the time, I envisioned it somewhat similar to skateboard videos or immersive, gonzo media styles that were emerging then (Vice/ Noisey etc.). It was a foggy and experimental vision, There was no storyboard of narrative plot. I needed to experiment to find out how I could say what I wanted to say using a contemporary language and a stealth approach.**
 
 **But then we got there and another format showed up naturally!**
-
-
 
 ![](/img/mike-mountains.jpg)
 
@@ -159,8 +155,6 @@ But let’s take it backwards and start with the latest! The **Python Syndicate*
 
 **That pilot gave me great introduction material to present my vision of driving a better representation of African Culture through contemporary music. I met [Francesco Cucchi](https://theasymetrics.com/blog/blu-ritual/) through common friends in Rome, and he was just getting some attention around the [first Gqom Oh EP](https://soundsoftheuniverse.com/sjr/product/gqom-oh-gqom-oh-sampler-ep). I thought this would be a perfect match, and the audience for that music in the West needed to see who was behind it, have a proper introduction to these unique artists. Although contemporary African music is accessible and trendy now, at that time (not so long ago) it was not yet officially cool worldwide!**
 
-
-
 ![](/img/mike-francesco.jpg)
 
 <br>
@@ -179,8 +173,6 @@ But let’s take it backwards and start with the latest! The **Python Syndicate*
 
 **It’s also the project I am the most attached to so far – where I felt like I became a Director. All shots, color codes etc. were planned ahead, and we worked a lot on location scouting. I also learned to edit properly.**
 
-
-
 ![](/img/all-crew-in-lagos.jpg)
 
 <br>
@@ -190,8 +182,6 @@ But let’s take it backwards and start with the latest! The **Python Syndicate*
 **I had already received an offer from an Italian streaming platform but I put that on hold as this one was too personal. I wanted to keep room for creative experimentation and avoid loosing focus to satisfy the mainstream!**
 
 **It was again a major success and we got a lot of [good reviews](https://www.thewire.co.uk/news/50521/tommaso-cassinis-follows-hagan-to-ghana-documentary-yenkyi-tax).**
-
-
 
 ![](/img/sess.jpg)
 
