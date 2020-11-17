@@ -129,9 +129,9 @@ But let’s take it backwards and start with the latest! The **Python Syndicate*
 
 *\*M: So that’s how the taxi format came about?*
 
-\*MCA: **It came about when we visited those 3 cities in Morocco (Casablanca, Fez, and Rabbat). I realized neither Tommasso nor myself were relating with the skateboard esthetics – it just wasn’t us. We ended up moving about in local “Petit Taxis” and loved the idea as a format: not fully immersed in the local context, a bit like tourists or observers, but engaging in fascinating conversations, hearing stories, talking politics etc.**
+\*MCA: **It came about when we visited those 3 cities in Morocco (Casablanca, Fez, and Rabbat). I realized neither Tommasso nor myself were relating with the skateboard esthetics – it just wasn’t us. We ended up moving about in local [“Petit Taxis”](https://en.wikipedia.org/wiki/Taxicabs_of_Morocco) and loved the idea as a format: not fully immersed in the local context, a bit like tourists or observers, but engaging in fascinating conversations, hearing stories, talking politics etc.**
 
-**What was incredible is that when we then headed to Durban (South Africa) for the shooting of “Woza Taxi”, we realized that taxis were the main introduction and promotion points for Gqom!**
+**What was incredible is that when we then headed to Durban (South Africa) for the shooting of “Woza Taxi”, we realized that taxis were the main introduction and promotion points for [Gqom](https://en.wikipedia.org/wiki/Gqom)!**
 
 <iframe width="100%" height="380" src="https://www.youtube-nocookie.com/embed/hspDvYL1MUQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen referrerpolicy="origin"></iframe>
 
@@ -155,7 +155,7 @@ But let’s take it backwards and start with the latest! The **Python Syndicate*
 
 **[Woza Taxi](https://www.youtube.com/watch?v=xgHxtE4uzdY) (2017) garnered a lot of attention for something produced out of my bedroom! We got tons of coverage from [The Fader](https://www.thefader.com/2016/07/25/woza-taxi-documentary-gqom-oh-interview), [Mixmag](https://mixmag.net/read/watch-this-documentary-on-south-africas-new-gqom-scene-video-blog), [Fact](https://www.factmag.com/2016/09/22/gqom-oh-europe-and-asia-showcase/), etc.. and the documentary resonated well with white/ European audiences. It also worked quite well in South Africa where Gqom was completely dismissed from the main players. I was happy that it was so accessible and pivotal for the featured artists, who needed reperesentation.**
 
-T**hen [Yenkyi Taxi](https://www.youtube.com/watch?v=1ojmirG0TFk) (2018) came from meeting [Hagan](https://hagan.bandcamp.com/), whom we followed around Accra, Ghana. There we became familiar with artists like Gafacci and Rvdical the Kid among many.We really explored the connections between modern UK electronic music and West African heritage., and I think the connection with sounds like UK-Funky and the London scene opened the doors to a Black audience, to the diaspora.**
+T**hen [Yenkyi Taxi](https://www.youtube.com/watch?v=1ojmirG0TFk) (2018) came from meeting [Hagan](https://hagan.bandcamp.com/), whom we followed around Accra, Ghana. There we became familiar with artists like Gafacci and Rvdical the Kid among many. We really explored the connections between modern UK electronic music and West African heritage, and I think the connection with sounds like UK-Funky and the London scene opened the doors to a Black audience, to the diaspora.**
 
 **It’s also the project I am the most attached to so far – where I felt like I became a Director. All shots, color codes etc. were planned ahead, and we worked a lot on location scouting. I also learned to edit properly.**
 
@@ -177,9 +177,9 @@ T**hen [Yenkyi Taxi](https://www.youtube.com/watch?v=1ojmirG0TFk) (2018) came fr
 
 <br>
 
-**The [Taxi Waves](https://www.youtube.com/playlist?list=PLKlEkuoSJwyAkpgc6oFZHGz1Vyeeiuny_) (2019) sessions were then commissioned by TIMVision, a VOD platform owned by Italia Telecom. They were interested in contemporary Afican music and gave us a nice budget so we hired local fixers to help us.**
+**The [Taxi Waves](https://www.youtube.com/playlist?list=PLKlEkuoSJwyAkpgc6oFZHGz1Vyeeiuny_) (2019) sessions were then commissioned by TIMVision, a VOD platform owned by Italia Telecom. They were interested in contemporary African music and gave us a nice budget so we hired local fixers to help us.**
 
-**In Addis Ababa we got help from people at Afro City FM, who introduced us to Rohpan and Ethiopian Records. In Lagos we were supported by Cool FM, and in Mozambique we were driven by Bulldozer, a popular artist from the [Pandza scene](https://africasacountry.com/2013/10/mozambiques-pandza-music) in Maputo.**
+**In Addis Ababa we got help from people at [Afro FM](https://www.facebook.com/105.3AfroFM/), who introduced us to [Rohpan](https://www.youtube.com/watch?v=6rnjyU-W00g) and [Ethiopian Records](https://youtu.be/BrHB7FDk9-g). In Lagos we were supported by [Cool FM](https://www.coolfm.ng/), and in Mozambique we were driven by [Bulldozer](https://www.facebook.com/profile.php?id=100010310763813), a popular artist from the [Pandza scene](https://africasacountry.com/2013/10/mozambiques-pandza-music) in Maputo.**
 
 <iframe width="100%" height="380" src="https://www.youtube-nocookie.com/embed/gSZ8iRpjfto" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen referrerpolicy="origin"></iframe>
 
@@ -189,9 +189,9 @@ T**hen [Yenkyi Taxi](https://www.youtube.com/watch?v=1ojmirG0TFk) (2018) came fr
 
 **Film festivals will be the natural follow-up. We participated to a few so far but have been trying to take it slow while we develop the right image we want to push.**
 
-*So now, what’s next?*
+*\*M: So now, what’s next?*
 
-**We’re working on the next featured length, but of course everything is on hold with the sanitary crisis.**
+\* MCA: **We’re working on the next featured length, but of course everything is on hold with the sanitary crisis.**
 
 **There’s also an album in the works with Hagan, with major collaboration, but I can’t reveal too much yet… watch this space!**
 
