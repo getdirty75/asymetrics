@@ -1,6 +1,6 @@
 ---
 templateKey: blog-post
-title: "Asymetrics Videotape # 1: DJ Keutch - D&B Vinyl Set"
+title: "Asymetrics Video #1: DJ Keutch - D&B Vinyl Set"
 teaser: "Dj Keutch from Lille, France, blessed us with an original Drum & Bass
   selection ! "
 featuredimage: /img/keutch-950x709.jpg
