@@ -33,7 +33,7 @@ Mike has had a lot going on in the past 5 years, in between [designing work and 
 
 But let’s take it backwards and start with the latest! The **Python Syndicate** label just released a capsule collaboration of music & fashion with Ghanaian street wear brand [Free the Youth](https://www.instagram.com/freetheyouth_ghana/?hl=en). Titled **Free Borga,** after the [distinctive style](https://en.wikipedia.org/wiki/Burger-highlife) emerging from Ghanaian highlife musicians moving to Europe or the USA in the 1980s, the collab’ features a great 8 tracks compilation, [Heaven’s Gate No Bribe](https://pythonsyndicate.bandcamp.com/album/free-borga-heavens-gate-no-bribe) (another nod to Ghana, where you would see this kind of religious messages at the back of every taxis & buses).
 
-<iframe style="border: 0; width: 100%; height: 42px;" src="https://bandcamp.com/EmbeddedPlayer/album=2346196075/size=small/bgcol=ffffff/linkcol=0687f5/transparent=true/" seamless><a href="https://pythonsyndicate.bandcamp.com/album/free-borga-heavens-gate-no-bribe">Free Borga - Heaven&#39;s Gate No Bribe by Python Syndicate</a></iframe>
+<iframe style="border: 0; width: 100%; height: 42px;" src="https://bandcamp.com/EmbeddedPlayer/album=2346196075/size=small/bgcol=ffffff/linkcol=0687f5/track=1792636082/transparent=true/" seamless><a href="https://pythonsyndicate.bandcamp.com/album/free-borga-heavens-gate-no-bribe">Free Borga - Heaven&#39;s Gate No Bribe by Blaq Pages</a></iframe>
 
 ![](/img/final.jpg)
 
@@ -71,7 +71,7 @@ But let’s take it backwards and start with the latest! The **Python Syndicate*
 
 <iframe width="100%" height="380" src="https://www.youtube-nocookie.com/embed/XFmNbIKxr58" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen referrerpolicy="origin"></iframe>
 
-
+**<br> /**
 
 ### **Interview**
 
@@ -95,7 +95,7 @@ But let’s take it backwards and start with the latest! The **Python Syndicate*
 
 ![](/img/mike-2.png)
 
-
+<br>
 
 **I thought the only way to capture this “Now” was to look into the young demographics, and I started exploring the social media spheres in Africa. I was also convinced that music is the main literature, the key method of cultural archiving and cultural preservation in Africa.**
 
@@ -155,13 +155,17 @@ But let’s take it backwards and start with the latest! The **Python Syndicate*
 
 **[Woza Taxi](https://www.youtube.com/watch?v=xgHxtE4uzdY) (2017) garnered a lot of attention for something produced out of my bedroom! We got tons of coverage from [The Fader](https://www.thefader.com/2016/07/25/woza-taxi-documentary-gqom-oh-interview), [Mixmag](https://mixmag.net/read/watch-this-documentary-on-south-africas-new-gqom-scene-video-blog), [Fact](https://www.factmag.com/2016/09/22/gqom-oh-europe-and-asia-showcase/), etc.. and the documentary resonated well with white/ European audiences. It also worked quite well in South Africa where Gqom was completely dismissed from the main players. I was happy that it was so accessible and pivotal for the featured artists, who needed reperesentation.**
 
-T**hen [Yenkyi Taxi](https://www.youtube.com/watch?v=1ojmirG0TFk) (2018) came from meeting [Hagan](https://hagan.bandcamp.com/), whom we followed around Accra, Ghana. There we became familiar with artists like Gafacci and Rvdical the Kid among many. We really explored the connections between modern UK electronic music and West African heritage, and I think the connection with sounds like UK-Funky and the London scene opened the doors to a Black audience, to the diaspora.**
+![](/img/hagan-2.jpg)
+
+<br>
+
+**Then [Yenkyi Taxi](https://www.youtube.com/watch?v=1ojmirG0TFk) (2018) came from meeting [Hagan](https://hagan.bandcamp.com/)** (*pictured above*)**, whom we followed around Accra, Ghana. There we became familiar with artists like Gafacci and Rvdical the Kid among many. We really explored the connections between modern UK electronic music and West African heritage, and I think the connection with sounds like UK-Funky and the London scene opened the doors to a Black audience, to the diaspora.**
 
 **It’s also the project I am the most attached to so far – where I felt like I became a Director. All shots, color codes etc. were planned ahead, and we worked a lot on location scouting. I also learned to edit properly.**
 
 
 
-![](/img/hagan-2.jpg)
+![](/img/all-crew-in-lagos.jpg)
 
 <br>
 
@@ -195,6 +199,6 @@ T**hen [Yenkyi Taxi](https://www.youtube.com/watch?v=1ojmirG0TFk) (2018) came fr
 
 **There’s also an album in the works with Hagan, with major collaboration, but I can’t reveal too much yet… watch this space!**
 
-**<br>**
+**<br>/**
 
 ### Huge thanks to Mike Calandra Achode for spending some time with the Asymetrics and sharing his story! Hope you enjoyed the journey – stay safe and keep digging !
