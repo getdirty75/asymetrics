@@ -31,7 +31,7 @@ Mike has had a lot going on in the past 5 years, in between [designing work and 
 
 <br>
 
-But let’s take it backwards and start with the latest!the Python Syndicate label just released a capsule collaboration of music & fashion with Ghanaian street wear brand [Free the Youth](https://www.instagram.com/freetheyouth_ghana/?hl=en). Titled **Free Borga,** after the [distinctive style](https://en.wikipedia.org/wiki/Burger-highlife) emerging from Ghanaian highlife musicians moving to Europe or the USA in the 1980s, the collab’ features a great 8 tracks compilation [Heaven’s Gate No Bribe](https://pythonsyndicate.bandcamp.com/album/free-borga-heavens-gate-no-bribe) (another nod to Ghana, where you would see this kind of religious messages at the back of every taxis & buses).
+But let’s take it backwards and start with the latest! The **Python Syndicate** label just released a capsule collaboration of music & fashion with Ghanaian street wear brand [Free the Youth](https://www.instagram.com/freetheyouth_ghana/?hl=en). Titled **Free Borga,** after the [distinctive style](https://en.wikipedia.org/wiki/Burger-highlife) emerging from Ghanaian highlife musicians moving to Europe or the USA in the 1980s, the collab’ features a great 8 tracks compilation, [Heaven’s Gate No Bribe](https://pythonsyndicate.bandcamp.com/album/free-borga-heavens-gate-no-bribe) (another nod to Ghana, where you would see this kind of religious messages at the back of every taxis & buses).
 
 <iframe style="border: 0; width: 100%; height: 42px;" src="https://bandcamp.com/EmbeddedPlayer/album=2346196075/size=small/bgcol=ffffff/linkcol=0687f5/transparent=true/" seamless><a href="https://pythonsyndicate.bandcamp.com/album/free-borga-heavens-gate-no-bribe">Free Borga - Heaven&#39;s Gate No Bribe by Python Syndicate</a></iframe>
 
@@ -41,13 +41,13 @@ But let’s take it backwards and start with the latest!the Python Syndicate lab
 
 **"The connection came through [Chris Adofo](https://twitter.com/CAdofo), a collaborator with Crudo Volta who is currently writing a book on Afrobeats. He was in Accra last December and met this collective of young creators, with positive representation",** Mike explained. 
 
-**"We organized screenings of our work with them and the idea of a capsule came up, with music attached to it, and showcasing the African diaspora".**
+**"We organized screenings of our work with them and the idea of a capsule came up, with music attached to it, showcasing the African diaspora's creativity".**
 
 ![](/img/kayso-2.png)
 
 ***[KaySo](https://soundcloud.com/kayso), featured on Free Borga***
 
-8 artists are featured, representing a wide array of sonic experiments from West Africa, London or L.A, blending R&B, Afrohouse, UK Funky, or dancehall with more classic styles like Highlife and Afrobeat, making the ensemble difficult to pinpoint, yet brilliant!
+8 artists are featured, representing a wide array of sonic experiments from West Africa, London or L.A, blending R&B, Afrohouse, UK Funky, or dancehall with more classic styles like Highlife and Afrobeat, making the ensemble difficult to pinpoint, yet boiling!
 
 **"It wouldn’t make sense to limit the releases to a genre, or try to label our music too much"**, Mike says. **Africans have a polychromic patchwork approach to things, much like in the polyrhythmic percussive tradition, where drums interact with each other even though laying different rhythms. And our aim with these compilations is to showcase a feeling, an aesthetic of the mind, of what it means to be African right now"!**
 
@@ -57,7 +57,7 @@ But let’s take it backwards and start with the latest!the Python Syndicate lab
 
 ***[KG](https://www.instagram.com/karennyamekg/),  featured on Free Borga***
 
-**Free Borga** follows-up after a 1st amazing release titled **[Taxi Sampler](https://pythonsyndicate.bandcamp.com/album/taxi-sampler-01-rhythms-vibes-from-the-spirit-of-young-africa)**, which came after the filiming of Crudo Volta’s Taxi Series of documentaries: **[Woza Taxi](https://www.youtube.com/watch?v=xgHxtE4uzdY&list=PLKlEkuoSJwyDbnocPjPfiTMHOY57dn4xI&index=4), [Yenki Taxi](https://www.youtube.com/watch?v=1ojmirG0TFk&list=PLKlEkuoSJwyDbnocPjPfiTMHOY57dn4xI&index=1&t=6s)**, and **[Taxi Waves](https://www.youtube.com/playlist?list=PLKlEkuoSJwyAkpgc6oFZHGz1Vyeeiuny_)**, filmed in **Durban** (South Africa), **Accra** (Ghana), **Lagos** (Nigeria), **Addis Ababa** (Ethiopia) and **Maputo** (Mozambique). The [vinyl release](https://www.discogs.com/Crudo-Volta-Various-Taxi-Sampler-01-Rhythms-Vibes-From-The-Spirit-Of-Young-Africa/release/13914629) came with a beautiful 26 pages booklet, and featured an incredibly large spectrum of African beats .
+**Free Borga** follows-up after a 1st amazing release titled **[Taxi Sampler](https://pythonsyndicate.bandcamp.com/album/taxi-sampler-01-rhythms-vibes-from-the-spirit-of-young-africa)**, which came after the filiming of Crudo Volta’s Taxi Series of documentaries: **[Woza Taxi](https://www.youtube.com/watch?v=xgHxtE4uzdY&list=PLKlEkuoSJwyDbnocPjPfiTMHOY57dn4xI&index=4), [Yenki Taxi](https://www.youtube.com/watch?v=1ojmirG0TFk&list=PLKlEkuoSJwyDbnocPjPfiTMHOY57dn4xI&index=1&t=6s)**, and **[Taxi Waves](https://www.youtube.com/playlist?list=PLKlEkuoSJwyAkpgc6oFZHGz1Vyeeiuny_)**, filmed in **Durban** (South Africa), **Accra** (Ghana), **Lagos** (Nigeria), **Addis Abeba** (Ethiopia) and **Maputo** (Mozambique). The [vinyl release](https://www.discogs.com/Crudo-Volta-Various-Taxi-Sampler-01-Rhythms-Vibes-From-The-Spirit-Of-Young-Africa/release/13914629) came with a beautiful 26 pages booklet, and featured an incredibly large spectrum of contemporary African beats .
 
 <iframe style="border: 0; width: 100%; height: 42px;" src="https://bandcamp.com/EmbeddedPlayer/album=2158033941/size=small/bgcol=ffffff/linkcol=0687f5/transparent=true/" seamless><a href="https://pythonsyndicate.bandcamp.com/album/taxi-sampler-01-rhythms-vibes-from-the-spirit-of-young-africa">Taxi Sampler 01 - Rhythms &amp; Vibes from the Spirit of Young Africa by Python Syndicate</a></iframe>
 
@@ -67,7 +67,7 @@ But let’s take it backwards and start with the latest!the Python Syndicate lab
 
 <br>
 
-**"We met so many incredible talents while filming in these different locations"**, Mike told me, "**so we thought it would make sense to link-up and promote their music. With retrospect, I’m amazed to see how many musicians we filmed, or produced on the compilation, became pivotal on the emerging African scene"**. Indeed artists like [**Gafacci**,](https://gafacci.bandcamp.com/) **[Rvdical the Kid](https://soundcloud.com/rvdicalthekid)**, **[Ethiopian Records](https://djmag.com/content/cue-ethiopian-records?fbclid=IwAR05Cil1xavNF1vj0EF1IhOaR3JOkwqPmh3VZMlswQa7lmVPszFxXNTT34g)**, **[Sess the Problem](https://en.gyaanipedia.co.in/wiki/Sess_(producer))**, or **[Citizen Boy](https://www.residentadvisor.net/dj/CitizenBoy)** for instance, are all now key players of forward-thinking beats across the continent.
+**"We met so many incredible talents while filming in these different locations"**, Mike told me, "**so we thought it would make sense to link-up and promote their music. With retrospect, I’m amazed to see how many musicians we filmed, or produced on the compilation, became pivotal on the emerging African scene"**. Indeed artists like [**Gafacci**,](https://gafacci.bandcamp.com/) **[Rvdical the Kid](https://soundcloud.com/rvdicalthekid)**, **[Ethiopian Records](https://djmag.com/content/cue-ethiopian-records?fbclid=IwAR05Cil1xavNF1vj0EF1IhOaR3JOkwqPmh3VZMlswQa7lmVPszFxXNTT34g)**, **[Sess the Problem](https://en.gyaanipedia.co.in/wiki/Sess_(producer))**, or **[Citizen Boy](https://www.residentadvisor.net/dj/CitizenBoy)** for instance, are all now key players of the forward-thinking beats scene across the continent.
 
 <iframe width="100%" height="380" src="https://www.youtube-nocookie.com/embed/XFmNbIKxr58" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen referrerpolicy="origin"></iframe>
 
@@ -75,9 +75,9 @@ But let’s take it backwards and start with the latest!the Python Syndicate lab
 
 ### **Interview**
 
-*Tell me a little bit about the inception of Crudo Volta, how did the whole concept come about?*
+*\*Malong: Tell me a little bit about the inception of Crudo Volta, how did the whole concept come about?*
 
-**So, there are different timelines in the experience and several factors that drove me to it: I was born in Benin but lived around Europe most of my adult life, and a few years back, after making music in Italy for about 12 years (producing Hip-Hop and Dancehall), I found myself unhappy about my creative journey. I was very much influenced by music from the US and Jamaica, and I felt like my approach was gimmicky instead of actually coming from my feelings. Something was missing, something I call the Black element, which I eventually found when I moved to London and got closer to a Black/African community, where I felt my skills improved. It’s from a sort of an aesthetic of the mind, present in the community, and music is used as a language to convey certain feelings.**
+\*Mikael Calandra Achode: **So, there are different timelines in the experience and several factors that drove me to it: I was born in Benin but lived around Europe most of my adult life, and a few years back, after making music in Italy for about 12 years (producing Hip-Hop and Dancehall), I found myself unhappy about my creative journey. I was very much influenced by music from the US and Jamaica, and I felt like my approach was gimmicky instead of actually coming from my feelings. Something was missing, something I call the Black element, which I eventually found when I moved to London and got closer to a Black/African community, where I felt my skills improved. It’s from a sort of an aesthetic of the mind, present in the community, and music is used as a language to convey certain feelings.**
 
 **Around the same time I became a dad and felt I needed a proper job, and as I’m also passionate about visual art, I started studying and working in graphic design. It made me reflect a lot on the impact of the profession in society, the impact of image. It was around the period of the “Arab Spring” and the major turmoil that followed, including the ensuing big media focus on African migrants. You know, we have very short-term memory, but the imaginary of Africa in the West was very different 10 years ago. And we started seeing these images reinforcing the idea of a poor, destabilized Africa, and very negative and diminishing images of African migrants.**
 
@@ -85,11 +85,11 @@ But let’s take it backwards and start with the latest!the Python Syndicate lab
 
 *<br>*
 
-**This was way before the current socio-economic conversation, and the push for representation of so called “minorities” or marginalized communities. It made me think that my wanting to have a corporate job may push me to take part in something I was criticizing, selling and translating ideas visually, or representations that I found problematic.So I wondered, as an African, an immigrant, how could I take part in economies connected to my roots, rather than nurturing conflicting ones?**
+**This was before the current socio-economic conversation, and the push for representation of so called “minorities” or marginalized communities. It made me think that my wanting to have a corporate job may push me to take part in something I was criticizing, selling and translating ideas visually, or representations that I found problematic. So I wondered, as an African, an immigrant, how could I take part in economies connected to my roots, rather than nurturing conflicting ones?**
 
-**But before even considering participating in African or Pan-African economies, I went through some soul searching and wanted to understand what it is to be African today.**
+**But before even considering participating in African or Pan-African economies, I went through some soul searching and wanted to understand what it is to be African.**
 
-**At the time, even among African communities, the diaspora, and Afro-centrists spheres trying to deconstruct the colonial discourse, there was a lot of space for reminding of Arica’s glorious past, its mighty kingdoms etc., mixed with a growing sentiment that “Africa is the Future” – but there was no discussion about the present! What does it mean or feel like to be African today?**
+**At the time, even among African communities, the diaspora, and Afro-centrists spheres trying to deconstruct the colonial discourse, there was a lot of space for reminding of Africa’s glorious past, its mighty kingdoms etc., mixed with a growing sentiment that “Africa is the Future” – but there was no discussion about the present! What does it mean or feel like to be African today?**
 
 
 
@@ -97,9 +97,11 @@ But let’s take it backwards and start with the latest!the Python Syndicate lab
 
 *<br>*
 
-**I thought the only way to capture this “Now” was to look into the young demographics, and I started exploring the social media spheres in Africa. I was also convinced that music is the main literature, the key way of cultural archiving and preservation in Africa. I had produced fanzines before and had a very canonical approach, but started realizing that everyone was increasingly on their smartphones and it was time to switch to new formats.**
+**I thought the only way to capture this “Now” was to look into the young demographics, and I started exploring the social media spheres in Africa. I was also convinced that music is the main literature, the key method of cultural archiving and cultural preservation in Africa.**
 
-**Then I met Tomasso Cassinis through one of my best friends. At the time he was filming advertising and editorial stuff for agencies like Magnum and others. He had no experience in documentary making so he was a bit puzzled when I pitched the idea. Essentially I told him: “I want you to follow me around Africa, you know how to use a camera so let’s go!”**
+ **I had produced fanzines before and had a very canonical approach, but started realizing that everyone was increasingly on their smartphones, and it was time to switch to new formats.**
+
+**Then I met [Tomasso Cassinis](https://www.tommasocassinis.com/) through one of my best friends. At the time he was filming advertising and editorial stuff for agencies like Magnum and others. He had no experience in documentary making so he was a bit puzzled when I pitched the idea. Essentially I told him: “I want you to follow me around Africa, you know how to use a camera, so let’s go!”**
 
 <iframe width="100%" height="380" src="https://www.youtube-nocookie.com/embed/M8DIWE-i0Z0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen referrerpolicy="origin"></iframe>
 
@@ -107,13 +109,13 @@ But let’s take it backwards and start with the latest!the Python Syndicate lab
 
 <br>
 
-*Why did you decide on Morocco as your first destination?*
+*\*M: Why did you decide on Morocco as your first destination?*
 
-**Before anything else, I’m a music digger. I always do a lot of digging around before hitting a country and I always continue after!**
+\*MCA: **Before anything else, I’m a music digger. I always do a lot of digging around before hitting a country and I always continue after!**
 
-**At that time (2015), I came across the story of the legendary label and shop [Disques GAM](https://thevinylfactory.com/features/worlds-best-record-shops-051-disques-gam-casablanca/) in Casablanca, and I was super interested in Gnawa sound. There was also a wide ranging West African touch in the 1960’s and 70’s, and I also discovered amazing Berber and Jewish music.**
+**At that time (2015), I came across the story of the legendary label and shop [Disques GAM](https://thevinylfactory.com/features/worlds-best-record-shops-051-disques-gam-casablanca/) in Casablanca, and I was super interested in the [Gnawa](https://en.wikipedia.org/wiki/Gnawa_music) sound. There was also a wide ranging West African touch in the 1960’s and 70’s, and I also discovered amazing [Berber](https://en.wikipedia.org/wiki/Berber_music) and [Jewish](https://www.iemj.org/en/listen/songs-of-moroccan-jews.html?lang=en) music.**
 
-**I was also keen on filming in a predominantly Muslim country to counter the super negative treatment of African Islam at the time. Most information was heavily focused on the emergence of the so-called Islamic State, Wahabbism etc.. Again, you have to remember that the post-colonial treatment of Africa in the madia was much harsher at the time. So I thought it would be interesting to approach the relationship between Maghreb and West Africa, the intricate conversations going on with Mauritanian tribes, Tuarges, Peuls, Hausa people etc.**
+**I was also keen on filming in a predominantly Muslim country to counter the super negative treatment of African Islam at the time. Most information was heavily focused on the emergence of the so-called Islamic State, Wahabbism etc.. Again, you have to remember that the post-colonial treatment of Africa in the madia was much harsher at the time. So I thought it would be interesting to approach the relationship between Maghreb and West Africa, the intricate conversations going on with Mauritanian tribes, [Tuaregs](https://www.britannica.com/topic/Tuareg), [Peuls](https://en.wikipedia.org/wiki/Fula_people) (Fula people), [Hausas ](https://en.wikipedia.org/wiki/Hausa_people)etc.**
 
 **That first shoot was meant to revolve around my music digging and discussions with local youth. Not knowing better at the time, I envisioned it somewhat similar to skateboard videos or immersive, gonzo media styles that were emerging then (Vice/ Noisey etc.). It was a foggy and experimental vision, There was no storyboard of narrative plot. I needed to experiment to find out how I could say what I wanted to say using a contemporary language and a stealth approach.**
 
@@ -125,9 +127,9 @@ But let’s take it backwards and start with the latest!the Python Syndicate lab
 
 *<br>*
 
-*So that’s how the taxi format came about?*
+*\*M: So that’s how the taxi format came about?*
 
-**It came about when we visited those 3 cities in Morocco (Casablanca, Fez, and Rabbat). I realized neither Tommasso nor myself were relating with the skateboard esthetics – it just wasn’t us. We ended up moving about in local “Petit Taxis” and loved the idea as a format: not fully immersed in the local context, a bit like tourists or observers, but engaging in fascinating conversations, hearing stories, talking politics etc.**
+\*MCA: **It came about when we visited those 3 cities in Morocco (Casablanca, Fez, and Rabbat). I realized neither Tommasso nor myself were relating with the skateboard esthetics – it just wasn’t us. We ended up moving about in local “Petit Taxis” and loved the idea as a format: not fully immersed in the local context, a bit like tourists or observers, but engaging in fascinating conversations, hearing stories, talking politics etc.**
 
 **What was incredible is that when we then headed to Durban (South Africa) for the shooting of “Woza Taxi”, we realized that taxis were the main introduction and promotion points for Gqom!**
 
@@ -135,9 +137,9 @@ But let’s take it backwards and start with the latest!the Python Syndicate lab
 
 *<br>*
 
-*How did things take off from there? And how did you organize the following filmings?*
+*\*M: How did things take off from there? And how did you organize the following filmings?*
 
-**“Petit Taxi” ended up being a pilot only, which we used as a trailer for a mixtape I was working on.At the time we had the idea to build a radio with Italy as a targeted audience (hence the name Crudo Volta Radio).**
+\*MCA: **“Petit Taxi” ended up being a pilot only, which we used as a trailer for a mixtape I was working on.At the time we had the idea to build a radio with Italy as a targeted audience (hence the name Crudo Volta Radio).**
 
 **That pilot gave me great introduction material to present my vision of driving a better representation of African Culture through contemporary music. I met [Francesco Cucchi](https://theasymetrics.com/blog/blu-ritual/) through common friends in Rome, and he was just getting some attention around the [first Gqom Oh EP](https://soundsoftheuniverse.com/sjr/product/gqom-oh-gqom-oh-sampler-ep). I thought this would be a perfect match, and the audience for that music in the West needed to see who was behind it, have a proper introduction to these unique artists. Although contemporary African music is accessible and trendy now, at that time (not so long ago) it was not yet officially cool worldwide!**
 
