@@ -4,7 +4,7 @@ title: "Asymetrics Video #1: DJ Keutch - D&B Vinyl Set"
 teaser: "Dj Keutch from Lille, France, blessed us with an original Drum & Bass
   selection ! "
 featuredimage: /img/keutch-950x709.jpg
-author: Lord Sandwich
+author: Asymetric
 categories: mixtapes
 tags:
   - "#Drum&Bass"
