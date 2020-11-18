@@ -3,7 +3,7 @@ templateKey: blog-post
 title: DJ Pohy - The Asymetrics Charts (Top 9)
 teaser: Every month, DJ Pohy (Rinse France) shares his top 9 tunes. Rewind !
 featuredimage: /img/dj-pohy.jpg
-author: Lord Sandwich
+author: Asymetric
 categories: mixtapes
 tags:
   - "#Drum&Bass"
