@@ -32,7 +32,7 @@ outsideLinks:
       link: https://www.instagram.com/freetheyouth_ghana/?hl=en
     - text: Blu Ritual
       link: https://theasymetrics.com/blog/blu-ritual/
-    - text: "Essential RA article on Ghanaian music: "
+    - text: "Essential article on Ghanaian music: "
       link: https://www.residentadvisor.net/features/3673
 ---
 ![](/img/cover-pic.jpg)
