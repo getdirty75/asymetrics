@@ -3,7 +3,7 @@ templateKey: blog-post
 title: Take 5
 teaser: "Story of a track: “Take 5”. A time-traveling jazz classic!"
 featuredimage: /img/take-5-cover.jpg
-author: Lord Sandwich
+author: Asymetric
 categories: knowledge
 tags:
   - "#Knowledge"
