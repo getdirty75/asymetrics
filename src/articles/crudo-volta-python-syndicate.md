@@ -69,7 +69,7 @@ But let’s take it backwards and start with the latest! The **Python Syndicate*
 
 ***[KaySo](https://soundcloud.com/kayso), featured on Free Borga***
 
-8 artists are featured, representing a wide array of sonic experiments from West Africa, London or L.A, blending R&B, Afrohouse, UK Funky, or dancehall with more classic styles like Highlife and Afrobeat, making the ensemble difficult to pinpoint, yet boiling!
+8 artists are featured, representing a wide array of sonic experiments from West Africa, London or L.A, blending R&B, Afrohouse, UK Funky, or Dancehall with more classic styles like Highlife and Afrobeat, making the ensemble difficult to pinpoint, yet boiling!
 
 **"It wouldn’t make sense to limit the releases to a genre, or try to label our music too much"**, Mike says. **Africans have a polychromic patchwork approach to things, much like in the polyrhythmic percussive tradition, where drums interact with each other even though laying different rhythms. And our aim with these compilations is to showcase a feeling, an aesthetic of the mind, of what it means to be African right now"!**
 
@@ -91,7 +91,7 @@ But let’s take it backwards and start with the latest! The **Python Syndicate*
 
 <br>
 
-**"We met so many incredible talents while filming in these different locations"**, Mike told me, "**so we thought it would make sense to link-up and promote their music. With retrospect, I’m amazed to see how many musicians we filmed, or produced on the compilation, became pivotal on the emerging African scene"**. Indeed artists like [**Gafacci**,](https://gafacci.bandcamp.com/) **[Rvdical the Kid](https://soundcloud.com/rvdicalthekid)**, **[Ethiopian Records](https://djmag.com/content/cue-ethiopian-records?fbclid=IwAR05Cil1xavNF1vj0EF1IhOaR3JOkwqPmh3VZMlswQa7lmVPszFxXNTT34g)**, **[Sess the Problem](https://en.gyaanipedia.co.in/wiki/Sess_(producer))**, or **[Citizen Boy](https://www.residentadvisor.net/dj/CitizenBoy)** for instance, are all now key players of the forward-thinking beats scene across the continent.
+**"We met so many incredible talents while filming in these different locations"**, Mike told me, "**so we thought it would make sense to link-up and promote their music. With retrospect, I’m amazed to see how many musicians we filmed, or produced on the compilation, became pivotal on the emerging African scene"**. Indeed artists like** [Gafacci,](https://gafacci.bandcamp.com/) [Rvdical the Kid](https://soundcloud.com/rvdicalthekid), [Ethiopian Records](https://djmag.com/content/cue-ethiopian-records?fbclid=IwAR05Cil1xavNF1vj0EF1IhOaR3JOkwqPmh3VZMlswQa7lmVPszFxXNTT34g), [Sess the Problem](https://en.gyaanipedia.co.in/wiki/Sess_(producer))**, or **[Citizen Boy](https://www.residentadvisor.net/dj/CitizenBoy)** for instance, are all now key players of the forward-thinking beats scene across the continent.
 
 <iframe width="100%" height="380" src="https://www.youtube-nocookie.com/embed/XFmNbIKxr58" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen referrerpolicy="origin"></iframe> <br>
 
@@ -173,7 +173,7 @@ But let’s take it backwards and start with the latest! The **Python Syndicate*
 
 **We started working on the documentary as soon as the first [Gqom Oh LP](https://gqomoh.bandcamp.com/album/gqom-oh-the-sound-of-durban) was released, and prepared the whole thing in just 2 weeks.**
 
-**[Woza Taxi](https://www.youtube.com/watch?v=xgHxtE4uzdY) (2017) garnered a lot of attention for something produced out of my bedroom! We got tons of coverage from [The Fader](https://www.thefader.com/2016/07/25/woza-taxi-documentary-gqom-oh-interview), [Mixmag](https://mixmag.net/read/watch-this-documentary-on-south-africas-new-gqom-scene-video-blog), [Fact](https://www.factmag.com/2016/09/22/gqom-oh-europe-and-asia-showcase/), etc.. and the documentary resonated well with white/ European audiences. It also worked quite well in South Africa where Gqom was completely dismissed from the main players. I was happy that it was so accessible and pivotal for the featured artists, who needed reperesentation.**
+**[Woza Taxi](https://www.youtube.com/watch?v=xgHxtE4uzdY) (2017) garnered a lot of attention for something produced out of my bedroom! We got tons of coverage from [The Fader](https://www.thefader.com/2016/07/25/woza-taxi-documentary-gqom-oh-interview), [Mixmag](https://mixmag.net/read/watch-this-documentary-on-south-africas-new-gqom-scene-video-blog), [Fact](https://www.factmag.com/2016/09/22/gqom-oh-europe-and-asia-showcase/), etc.. and the documentary resonated well with white/ European audiences. It also worked quite well in South Africa where Gqom was completely dismissed from the main players. I was happy that it was so accessible and pivotal for the featured artists, who needed representation.**
 
 ![](/img/hagan-2.jpg)
 
