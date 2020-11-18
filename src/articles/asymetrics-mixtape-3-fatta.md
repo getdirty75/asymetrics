@@ -3,7 +3,7 @@ templateKey: blog-post
 title: "Asymetrics Mixtape # 3: Fatta"
 teaser: "Fatta presents: American Reggae Live Mix"
 featuredimage: /img/fatta_soulstereo_logo_page-0001.jpg
-author: Lord Sandwich
+author: Asymetric
 categories: mixtapes
 tags:
   - "#Reggae"

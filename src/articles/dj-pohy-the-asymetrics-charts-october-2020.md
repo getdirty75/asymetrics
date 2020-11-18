@@ -3,7 +3,7 @@ templateKey: blog-post
 title: DJ Pohy - The Asymetrics Charts (October 2020)
 teaser: Every month, DJ Pohy (Rinse France) shares his top 9 tunes. Rewind !
 featuredimage: /img/dj-pohy-logo.jpg
-author: Lord Sandwich
+author: Asymetric
 categories: mixtapes
 tags:
   - "#Drum&Bass"

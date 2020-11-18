@@ -32,14 +32,18 @@ outsideLinks:
       link: https://www.instagram.com/freetheyouth_ghana/?hl=en
     - text: Blu Ritual
       link: https://theasymetrics.com/blog/blu-ritual/
-    - text: "Essential RA article on Ghanaian music: "
+    - text: "Essential article on Ghanaian music: "
       link: https://www.residentadvisor.net/features/3673
 ---
 ![](/img/cover-pic.jpg)
 
-### [Crudo Volta](https://www.instagram.com/crudovoltaradio/) is a collective at the forefront of contemporary African music, producing [cutting-edge documentaries](https://www.youtube.com/channel/UCUeo8Id548iRPuOfGUys4Ow?feature=emb_ch_name_ex), with a sub-label called [Python Syndicate](https://pythonsyndicate.bandcamp.com/) serving as a channel for music production – to learn more about this fascinating platform, we spoke to [Mikael Calandra Achode](https://www.instagram.com/mikecalandra/?hl=en), the mastermind behind the whole adventure!
+### [Crudo Volta](https://www.instagram.com/crudovoltaradio/) is a collective at the forefront of contemporary African music, producing [cutting-edge documentaries](https://www.youtube.com/channel/UCUeo8Id548iRPuOfGUys4Ow?feature=emb_ch_name_ex), with a sub-label called [Python Syndicate](https://pythonsyndicate.bandcamp.com/) serving as a channel for music production. To learn more about this fascinating platform, we spoke to [Mikael Calandra Achode](https://www.instagram.com/mikecalandra/?hl=en), the mastermind behind the whole adventure!
 
-Mike has had a lot going on in the past 5 years, in between [designing work and teaching](https://www.arts.ac.uk/colleges/london-college-of-fashion/stories/black-history-month-2020-in-conversation-with-mikael-calandra-achode), he met major success with Crudo Volta’s critically acclaimed documentaries [Woza Taxi](https://youtu.be/xgHxtE4uzdY) (briefly introduced in [our interview with Francesco Cucch](https://theasymetrics.com/blog/blu-ritual/)i) and **Yenkyi Taxi**:
+![](/img/mike-portrait-©british-council-of-colombia.jpg)
+
+<br>
+
+Mike has had a lot going on in the past 5 years, in between [designing work and teaching](https://www.arts.ac.uk/colleges/london-college-of-fashion/stories/black-history-month-2020-in-conversation-with-mikael-calandra-achode), he met major success with Crudo Volta’s critically acclaimed documentaries [Woza Taxi](https://youtu.be/xgHxtE4uzdY) (briefly introduced in [our interview with Francesco Cucch](https://theasymetrics.com/blog/blu-ritual/)i) and **[Yenkyi Taxi](https://youtu.be/1ojmirG0TFk)**:
 
 <iframe width="100%" height="380" src="https://www.youtube-nocookie.com/embed/DMCwkfFFURE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen referrerpolicy="origin"></iframe>
 
@@ -59,15 +63,19 @@ But let’s take it backwards and start with the latest! The **Python Syndicate*
 
 **"We organized screenings of our work with them and the idea of a capsule came up, with music attached to it, showcasing the African diaspora's creativity".**
 
+<iframe style="border: 0; width: 100%; height: 42px;" src="https://bandcamp.com/EmbeddedPlayer/album=2346196075/size=small/bgcol=ffffff/linkcol=0687f5/track=461898658/transparent=true/" seamless><a href="https://pythonsyndicate.bandcamp.com/album/free-borga-heavens-gate-no-bribe">Free Borga - Heaven&#39;s Gate No Bribe by Kayso</a></iframe>
+
 ![](/img/kayso-2.png)
 
 ***[KaySo](https://soundcloud.com/kayso), featured on Free Borga***
 
-8 artists are featured, representing a wide array of sonic experiments from West Africa, London or L.A, blending R&B, Afrohouse, UK Funky, or dancehall with more classic styles like Highlife and Afrobeat, making the ensemble difficult to pinpoint, yet boiling!
+8 artists are featured, representing a wide array of sonic experiments from West Africa, London or L.A, blending R&B, Afrohouse, UK Funky, or Dancehall with more classic styles like Highlife and Afrobeat, making the ensemble difficult to pinpoint, yet boiling!
 
 **"It wouldn’t make sense to limit the releases to a genre, or try to label our music too much"**, Mike says. **Africans have a polychromic patchwork approach to things, much like in the polyrhythmic percussive tradition, where drums interact with each other even though laying different rhythms. And our aim with these compilations is to showcase a feeling, an aesthetic of the mind, of what it means to be African right now"!**
 
 **"That’s our contribution to the scene, sharing, pushing, spreading that FEELING that can’t otherwise be put in written words".**
+
+<iframe style="border: 0; width: 100%; height: 42px;" src="https://bandcamp.com/EmbeddedPlayer/album=2346196075/size=small/bgcol=ffffff/linkcol=0687f5/track=108872445/transparent=true/" seamless><a href="https://pythonsyndicate.bandcamp.com/album/free-borga-heavens-gate-no-bribe">Free Borga - Heaven&#39;s Gate No Bribe by KG</a></iframe>
 
 ![](/img/kg-2.jpg)
 
@@ -83,17 +91,17 @@ But let’s take it backwards and start with the latest! The **Python Syndicate*
 
 <br>
 
-**"We met so many incredible talents while filming in these different locations"**, Mike told me, "**so we thought it would make sense to link-up and promote their music. With retrospect, I’m amazed to see how many musicians we filmed, or produced on the compilation, became pivotal on the emerging African scene"**. Indeed artists like [**Gafacci**,](https://gafacci.bandcamp.com/) **[Rvdical the Kid](https://soundcloud.com/rvdicalthekid)**, **[Ethiopian Records](https://djmag.com/content/cue-ethiopian-records?fbclid=IwAR05Cil1xavNF1vj0EF1IhOaR3JOkwqPmh3VZMlswQa7lmVPszFxXNTT34g)**, **[Sess the Problem](https://en.gyaanipedia.co.in/wiki/Sess_(producer))**, or **[Citizen Boy](https://www.residentadvisor.net/dj/CitizenBoy)** for instance, are all now key players of the forward-thinking beats scene across the continent.
+**"We met so many incredible talents while filming in these different locations"**, Mike told me, "**so we thought it would make sense to link-up and promote their music. With retrospect, I’m amazed to see how many musicians we filmed, or produced on the compilation, became pivotal on the emerging African scene"**. Indeed artists like** [Gafacci,](https://gafacci.bandcamp.com/) [Rvdical the Kid](https://soundcloud.com/rvdicalthekid), [Ethiopian Records](https://djmag.com/content/cue-ethiopian-records?fbclid=IwAR05Cil1xavNF1vj0EF1IhOaR3JOkwqPmh3VZMlswQa7lmVPszFxXNTT34g), [Sess the Problem](https://en.gyaanipedia.co.in/wiki/Sess_(producer))**, or **[Citizen Boy](https://www.residentadvisor.net/dj/CitizenBoy)** for instance, are all now key players of the forward-thinking beats scene across the continent.
 
-<iframe width="100%" height="380" src="https://www.youtube-nocookie.com/embed/XFmNbIKxr58" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen referrerpolicy="origin"></iframe>
+<iframe width="100%" height="380" src="https://www.youtube-nocookie.com/embed/XFmNbIKxr58" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen referrerpolicy="origin"></iframe> <br>
 
-**<br> /**
+<br>
 
 ### **Interview**
 
-*\*Malong: Tell me a little bit about the inception of Crudo Volta, how did the whole concept come about?*
+ *Tell me a little bit about the inception of Crudo Volta, how did the whole concept come about?*
 
-\*Mikael Calandra Achode: **So, there are different timelines in the experience and several factors that drove me to it: I was born in Benin but lived around Europe most of my adult life, and a few years back, after making music in Italy for about 12 years (producing Hip-Hop and Dancehall), I found myself unhappy about my creative journey. I was very much influenced by music from the US and Jamaica, and I felt like my approach was gimmicky instead of actually coming from my feelings. Something was missing, something I call the Black element, which I eventually found when I moved to London and got closer to a Black/African community, where I felt my skills improved. It’s from a sort of an aesthetic of the mind, present in the community, and music is used as a language to convey certain feelings.**
+ **So, there are different timelines in the experience and several factors that drove me to it: I was born in Benin but lived around Europe most of my adult life, and a few years back, after making music in Italy for about 12 years (producing Hip-Hop and Dancehall), I found myself unhappy about my creative journey. I was very much influenced by music from the US and Jamaica, and I felt like my approach was gimmicky instead of actually coming from my feelings. Something was missing, something I call the Black element, which I eventually found when I moved to London and got closer to a Black/African community, where I felt my skills improved. It’s from a sort of an aesthetic of the mind, present in the community, and music is used as a language to convey certain feelings.**
 
 **Around the same time I became a dad and felt I needed a proper job, and as I’m also passionate about visual art, I started studying and working in graphic design. It made me reflect a lot on the impact of the profession in society, the impact of image. It was around the period of the “Arab Spring” and the major turmoil that followed, including the ensuing big media focus on African migrants. You know, we have very short-term memory, but the imaginary of Africa in the West was very different 10 years ago. And we started seeing these images reinforcing the idea of a poor, destabilized Africa, and very negative and diminishing images of African migrants.**
 
@@ -123,9 +131,9 @@ But let’s take it backwards and start with the latest! The **Python Syndicate*
 
 <br>
 
-*\*M: Why did you decide on Morocco as your first destination?*
+*Why did you decide on Morocco as your first destination?*
 
-\*MCA: **Before anything else, I’m a music digger. I always do a lot of digging around before hitting a country and I always continue after!**
+**Before anything else, I’m a music digger. I always do a lot of digging around before hitting a country and I always continue after!**
 
 **At that time (2015), I came across the story of the legendary label and shop [Disques GAM](https://thevinylfactory.com/features/worlds-best-record-shops-051-disques-gam-casablanca/) in Casablanca, and I was super interested in the [Gnawa](https://en.wikipedia.org/wiki/Gnawa_music) sound. There was also a wide ranging West African touch in the 1960’s and 70’s, and I also discovered amazing [Berber](https://en.wikipedia.org/wiki/Berber_music) and [Jewish](https://www.iemj.org/en/listen/songs-of-moroccan-jews.html?lang=en) music.**
 
@@ -139,9 +147,9 @@ But let’s take it backwards and start with the latest! The **Python Syndicate*
 
 *<br>*
 
-*\*M: So that’s how the taxi format came about?*
+*So that’s how the taxi format came about?*
 
-\*MCA: **It came about when we visited those 3 cities in Morocco (Casablanca, Fez, and Rabbat). I realized neither Tommasso nor myself were relating with the skateboard esthetics – it just wasn’t us. We ended up moving about in local [“Petit Taxis”](https://en.wikipedia.org/wiki/Taxicabs_of_Morocco) and loved the idea as a format: not fully immersed in the local context, a bit like tourists or observers, but engaging in fascinating conversations, hearing stories, talking politics etc.**
+**It came about when we visited those 3 cities in Morocco (Casablanca, Fez, and Rabbat). I realized neither Tommasso nor myself were relating with the skateboard esthetics – it just wasn’t us. We ended up moving about in local [“Petit Taxis”](https://en.wikipedia.org/wiki/Taxicabs_of_Morocco) and loved the idea as a format: not fully immersed in the local context, a bit like tourists or observers, but engaging in fascinating conversations, hearing stories, talking politics etc.**
 
 **What was incredible is that when we then headed to Durban for the shooting of “Woza Taxi”, we realized that taxis were the main introduction and promotion points for [Gqom](https://en.wikipedia.org/wiki/Gqom) !**
 
@@ -149,13 +157,13 @@ But let’s take it backwards and start with the latest! The **Python Syndicate*
 
 *<br>*
 
-*\*M: How did things take off from there? And how did you organize the following filmings?*
+*How did things take off from there? And how did you organize the following filmings?*
 
-\*MCA: **“Petit Taxi” ended up being a pilot only, which we used as a trailer for a mixtape I was working on. At the time we had the idea to build a radio with Italy as a targeted audience (hence the name Crudo Volta Radio).**
+**“Petit Taxi” ended up being a pilot only, which we used as a trailer for a mixtape I was working on. At the time we had the idea to build a radio with Italy as a targeted audience (hence the name Crudo Volta Radio).**
 
 **That pilot gave me great introduction material to present my vision of driving a better representation of African Culture through contemporary music.** 
 
-**I met [Francesco Cucchi](https://theasymetrics.com/blog/blu-ritual/) through common friends in Rome, and he was just getting some attention around the [first Gqom Oh EP](https://soundsoftheuniverse.com/sjr/product/gqom-oh-gqom-oh-sampler-ep). I thought this would be a perfect match, and the audience for that music in the West needed to see who was behind it, have a proper introduction to these unique artists. Although contemporary African music is accessible and trendy now, at that time (not so long ago) it was not yet officially cool worldwide!**
+**I met [Francesco Cucchi](https://theasymetrics.com/blog/blu-ritual/)** (pictured with Mike below) **through common friends in Rome, and he was just getting some attention around the [first Gqom Oh EP](https://soundsoftheuniverse.com/sjr/product/gqom-oh-gqom-oh-sampler-ep). I thought this would be a perfect match, and the audience for that music in the West needed to see who was behind it, have a proper introduction to these unique artists. Although contemporary African music is accessible and trendy now, at that time (not so long ago) it was not yet officially cool worldwide!**
 
 ![](/img/mike-francesco.jpg)
 
@@ -165,7 +173,7 @@ But let’s take it backwards and start with the latest! The **Python Syndicate*
 
 **We started working on the documentary as soon as the first [Gqom Oh LP](https://gqomoh.bandcamp.com/album/gqom-oh-the-sound-of-durban) was released, and prepared the whole thing in just 2 weeks.**
 
-**[Woza Taxi](https://www.youtube.com/watch?v=xgHxtE4uzdY) (2017) garnered a lot of attention for something produced out of my bedroom! We got tons of coverage from [The Fader](https://www.thefader.com/2016/07/25/woza-taxi-documentary-gqom-oh-interview), [Mixmag](https://mixmag.net/read/watch-this-documentary-on-south-africas-new-gqom-scene-video-blog), [Fact](https://www.factmag.com/2016/09/22/gqom-oh-europe-and-asia-showcase/), etc.. and the documentary resonated well with white/ European audiences. It also worked quite well in South Africa where Gqom was completely dismissed from the main players. I was happy that it was so accessible and pivotal for the featured artists, who needed reperesentation.**
+**[Woza Taxi](https://www.youtube.com/watch?v=xgHxtE4uzdY) (2017) garnered a lot of attention for something produced out of my bedroom! We got tons of coverage from [The Fader](https://www.thefader.com/2016/07/25/woza-taxi-documentary-gqom-oh-interview), [Mixmag](https://mixmag.net/read/watch-this-documentary-on-south-africas-new-gqom-scene-video-blog), [Fact](https://www.factmag.com/2016/09/22/gqom-oh-europe-and-asia-showcase/), etc.. and the documentary resonated well with white/ European audiences. It also worked quite well in South Africa where Gqom was completely dismissed from the main players. I was happy that it was so accessible and pivotal for the featured artists, who needed representation.**
 
 ![](/img/hagan-2.jpg)
 
@@ -201,9 +209,9 @@ But let’s take it backwards and start with the latest! The **Python Syndicate*
 
 **Film festivals will be the natural follow-up. We participated to a few so far but have been trying to take it slow while we develop the right image we want to push.**
 
-*\*M: So now, what’s next?*
+*So now, what’s next?*
 
-\* MCA: **We’re working on the next featured length, but of course everything is on hold with the sanitary crisis.**
+**We’re working on the next featured length, but of course everything is on hold with the sanitary crisis.**
 
 **There’s also an album in the works with Hagan, with major collaboration, but I can’t reveal too much yet… watch this space!**
 
