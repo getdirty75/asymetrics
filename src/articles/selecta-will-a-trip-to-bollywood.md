@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
 title: Selecta Will - A Trip to Bollywood
-teaser: 100% Vinyl live mix! Recorded @ le Couz'in (Marseilles, France) in May 2019.
+teaser: More than 4h of 100% Vinyl live mix! Tribute to Bollywood soundtracks.
 featuredimage: /img/sholay-cover.jpg
 author: Asymetric
 categories: mixtapes
