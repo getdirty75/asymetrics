@@ -39,6 +39,9 @@
     "react-transition-group": "^4.4.1",
     "uuid": "^7.0.0"
   },
+  "resolutions": {
+    "sharp": "0.24.0"
+  },
   "keywords": [
     "gatsby"
   ],
