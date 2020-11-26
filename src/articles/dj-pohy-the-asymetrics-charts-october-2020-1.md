@@ -1,6 +1,6 @@
 ---
 templateKey: blog-post
-title: DJ Pohy - The Asymetrics Charts (October 2020)
+title: DJ Pohy - The Asymetrics Charts (November 2020)
 teaser: Every month, DJ Pohy (Rinse France) shares his top 9 tunes. Somebody say
   Pull up!
 featuredimage: /img/pohy-3-small.jpg
