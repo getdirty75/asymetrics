@@ -11,6 +11,14 @@ tags:
   - "#Bass"
   - "#Playlist"
 date: 2020-11-26T02:30:39.099Z
+outsideLinks:
+  outsideLinksList:
+    - text: the asymetrics Channel
+      link: https://www.youtube.com/channel/UCjm0hKdlJVNA5X3U3KEhEow
+    - text: DJ Pohy
+      link: https://www.facebook.com/DjPohy
+    - text: One More Tune
+      link: https://rinse.fr/artists/one-more-tune/
 ---
 ![](/img/pohy-3-small.jpg)
 
