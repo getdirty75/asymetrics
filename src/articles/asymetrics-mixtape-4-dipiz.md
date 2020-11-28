@@ -18,7 +18,7 @@ date: 2020-11-28T03:03:00.814Z
 
 Direct Link: **[Soundcloud](https://soundcloud.com/the-asymetrics/the-asymetrics-mixtape-4-dipiz) / [Youtube](https://www.youtube.com/watch?v=ULA_jKLveb4&t=2358s)**
 
-### This 4th edition of our mixtape series welcomes a 100% vinyl mix by Dipiz ([Broc Records](https://brocrecordz.bandcamp.com/music)), tribute to [Janko Nilovic](https://en.wikipedia.org/wiki/Janko_Nilovi%C4%87).
+### This 4th edition of our mixtape series showcases a 100% vinyl mix by Dipiz ([Broc Records](https://brocrecordz.bandcamp.com/music)), tribute to [Janko Nilovic](https://en.wikipedia.org/wiki/Janko_Nilovi%C4%87).
 
 Recorded live , exclusively for The Asymetrics, this serious digger session focuses on [the legendary Montenegrin pianist](https://www.discogs.com/artist/166986-Janko-Nilovic) and his latest band [the Soul Surfers](https://soulsurfersubiq.bandcamp.com/).
 
