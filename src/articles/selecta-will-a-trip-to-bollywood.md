@@ -29,16 +29,14 @@ Direct Links: [Soundcloud](https://soundcloud.com/the-asymetrics/selecta-will-a-
 
 <br>
 
-
-
 #### **Selecta Will** ([Chinese Man Records](https://www.chinesemanrecords.com/)) graced us with this insanely good selection of over 4 hours of Bollywood soundtracks and other Indian goodies, recorded live at le Couz'In (Marseilles, France) in May 2019 !
 
 Will, a serious music digger, has been confined away from his turntables and (massive) record collection for some time, so instead of recording an Asymetrics mixtape, he shared this little treasure with us, for our greatest listening pleasure...
 
-Recorded at Marseilles' notorious [Le Couz'In](https://www.tripadvisor.com/Restaurant_Review-g187253-d10820754-Reviews-Le_Couz_In-Marseille_Bouches_du_Rhone_Provence_Alpes_Cote_d_Azur.html) restaurant during a special Indian themed evening, the set consisted exclusively of records dug-up by Will over a few trips to India, and features Bollywood legends such as **[Asha Bhosle](https://en.wikipedia.org/wiki/Asha_Bhosle)** (discussed in [THIS](https://theasymetrics.com/blog/malong%E2%80%99s-monthly-round-up-%E2%80%93-first-round/) Asymetrics article), **[Lata Mangeshkar](https://en.wikipedia.org/wiki/Lata_Mangeshkar)**, **[Kishore Kumar](https://www.youtube.com/watch?v=dqoY6ku0cRA)**, **[Rahul Dev Burman](https://www.discogs.com/artist/621180-R-D-Burman)**, **[Mohammed Rafi](https://www.discogs.com/artist/386904-Mohammed-Rafi)** and much much more!
+Recorded at Marseilles' notorious [Le Couz'In](https://www.tripadvisor.com/Restaurant_Review-g187253-d10820754-Reviews-Le_Couz_In-Marseille_Bouches_du_Rhone_Provence_Alpes_Cote_d_Azur.html) restaurant during a special Indian themed evening, the set consisted exclusively of records dug-up by Will during a trip to India, and features Bollywood legends such as **[Asha Bhosle](https://en.wikipedia.org/wiki/Asha_Bhosle)** (discussed in [THIS](https://theasymetrics.com/blog/malong%E2%80%99s-monthly-round-up-%E2%80%93-first-round/) Asymetrics article), **[Lata Mangeshkar](https://en.wikipedia.org/wiki/Lata_Mangeshkar)**, **[Kishore Kumar](https://www.youtube.com/watch?v=dqoY6ku0cRA)**, **[Rahul Dev Burman](https://www.discogs.com/artist/621180-R-D-Burman)**, **[Mohammed Rafi](https://www.discogs.com/artist/386904-Mohammed-Rafi)** and much much more!
 
 <br>
 
-#### You can also follow Will's wicked and eclectic selections on Chinese Man's "Tracks of the Day" Youtube playlist:
+#### You can also follow Will's wicked and eclectic selections on Chinese Man Records "Tracks Of The Day" Youtube playlist:
 
 <iframe width="560" height="380" src="https://www.youtube-nocookie.com/embed/videoseries?list=PLcCzTgdDMFw38ePRO4R6PYS6wQr9mOVSO" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen referrerpolicy="origin"></iframe>
