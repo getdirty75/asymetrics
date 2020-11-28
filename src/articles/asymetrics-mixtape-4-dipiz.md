@@ -13,6 +13,18 @@ tags:
   - "#Vinyl"
   - "#Mixtape"
 date: 2020-11-28T03:03:00.814Z
+outsideLinks:
+  outsideLinksList:
+    - text: Janko Nilovic
+      link: https://www.jankonilovic.com/
+    - text: Broc Recordz
+      link: https://brocrecordz.bandcamp.com/music
+    - text: The Soul Surfers
+      link: https://soulsurfersubiq.bandcamp.com/
+    - text: the Asymetrics Channel
+      link: https://www.youtube.com/watch?v=ULA_jKLveb4&t=2358s
+    - text: "The Asymetrics Mixtape #2: Gazonade"
+      link: https://theasymetrics.com/blog/asymetrics-mixtape-2-gazonade/
 ---
 ![](/img/theasymetrics_maze_of_sound_small.jpg)
 
