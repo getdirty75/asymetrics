@@ -30,7 +30,7 @@ outsideLinks:
 
 Direct Link: **[Soundcloud](https://soundcloud.com/the-asymetrics/the-asymetrics-mixtape-4-dipiz) / [Youtube](https://www.youtube.com/watch?v=ULA_jKLveb4&t=2358s)**
 
-### This 4th edition of our mixtape series showcases a 100% vinyl mix by Dipiz ([Broc Records](https://brocrecordz.bandcamp.com/music)), tribute to [Janko Nilovic](https://en.wikipedia.org/wiki/Janko_Nilovi%C4%87).
+### This 4th edition of our mixtape series showcases a 100% vinyl mix by Dipiz ([Broc Records](https://brocrecordz.bandcamp.com/music)), tribute to [Janko Nilovic](https://en.wikipedia.org/wiki/Janko_Nilovi%C4%87) and his latest release: [Maze of Sounds](https://brocrecordz.bandcamp.com/album/maze-of-sounds).
 
 Recorded live , exclusively for The Asymetrics, this serious digger session focuses on [the legendary Montenegrin pianist](https://www.discogs.com/artist/166986-Janko-Nilovic) and his friends [the Soul Surfers](https://soulsurfersubiq.bandcamp.com/).
 
@@ -59,6 +59,8 @@ Nearing 80, Janko recently rekindled his soulful-self and has been composing lot
 ### Dipiz:
 
 ![](/img/theasymetrics_dipiz_janco.jpeg)
+
+<br>
 
 Old-school crate-digger and Hip-Hop producer **Dipiz** has been spearheading the [Broc Recordz](https://brocrecordz.bandcamp.com/music) label for 15 years. After over a decade of work on beat alchemy with rappers like [Mikill Miers](https://brocrecordz.bandcamp.com/album/mykill-miers-stressed-out) or [Shabaam sahdeeq](https://brocrecordz.bandcamp.com/track/international-moves-janko-nilovic-feat-shabaam-sahdeeq-mykill-miers), he recently decided to dedicate most of his time to producing Janko's latest shizzle, including psychedelic wonder and fresh-of-the-press album **[Maze of Sounds](https://brocrecordz.bandcamp.com/album/maze-of-sounds);** and re-issuing some of his rare, [top top imprints from the 60's ](https://brocrecordz.bandcamp.com/album/the-definitive-ju-ju-records-collection-1968-1969)- Word of warning friends: this stuff comes hot like lava and serious addictive potential!
 
