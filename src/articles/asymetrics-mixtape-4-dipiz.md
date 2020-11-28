@@ -30,7 +30,7 @@ outsideLinks:
 
 Direct Link: **[Soundcloud](https://soundcloud.com/the-asymetrics/the-asymetrics-mixtape-4-dipiz) / [Youtube](https://www.youtube.com/watch?v=ULA_jKLveb4&t=2358s)**
 
-### This 4th edition of our mixtape series showcases a 100% vinyl mix by Dipiz ([Broc Records](https://brocrecordz.bandcamp.com/music)), tribute to [Janko Nilovic](https://en.wikipedia.org/wiki/Janko_Nilovi%C4%87) and his latest release: [Maze of Sounds](https://brocrecordz.bandcamp.com/album/maze-of-sounds).
+### This 4th edition of our mixtape series showcases a 100% vinyl mix by Dipiz ([Broc Recordz](https://brocrecordz.bandcamp.com/music)), tribute to [Janko Nilovic](https://en.wikipedia.org/wiki/Janko_Nilovi%C4%87) and his latest release: [Maze of Sounds](https://brocrecordz.bandcamp.com/album/maze-of-sounds).
 
 Recorded live , exclusively for The Asymetrics, this serious digger session focuses on [the legendary Montenegrin pianist](https://www.discogs.com/artist/166986-Janko-Nilovic) and his friends [the Soul Surfers](https://soulsurfersubiq.bandcamp.com/).
 
@@ -53,8 +53,6 @@ With over 50 years of musical activism, Janko can be labeled as a veteran! Born 
 Although he has released over 30 albums through the years, influenced by whatever his moods or encounters brought him to, from Classical to Jazz, Bossa, Rock, and of course Funk and Soul, he has remained somewhat of a well kept secret among die-hard rare groove amateurs and samples' diggers! His tunes have been sampled by the likes of [Dr Dre](https://en.wikipedia.org/wiki/Compton_(album)) and [Jay Z](https://en.wikipedia.org/wiki/D.O.A._(Death_of_Auto-Tune)), to name but a few of the most famous...
 
 Nearing 80, Janko recently rekindled his soulful-self and has been composing lots of bombtracks with the [Soul Surfers](https://soulsurfersubiq.bandcamp.com/), an incredible band from Nizhni Novgorod, Russia, responsible for [many a rare funk 45'](http://www.ubiquityrecords.com/artists/The-Soul-Surfers.html) in breaks' collectors' spheres!
-
-
 
 ### Dipiz:
 
