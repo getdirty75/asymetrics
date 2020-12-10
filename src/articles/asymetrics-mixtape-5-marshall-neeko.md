@@ -20,7 +20,7 @@ date: 2020-12-10T19:40:45.911Z
 ---
 ![](/img/mix-cover-art-small.jpg)
 
-Direct Links: [Soundcloud](https://soundcloud.com/the-asymetrics/asymetrics-mixtape-5-marshall-neeko-productions-megamix) / [Youtube](https://www.youtube.com/watch?v=BiA78SvGt74)
+Direct Link: [Soundcloud](https://soundcloud.com/the-asymetrics/asymetrics-mixtape-5-marshall-neeko-productions-megamix)
 
 ### 100% Marshall Neeko Productions & Remixes!
 
@@ -51,5 +51,7 @@ In 2006 he sets up his first record label : « VI Connection Records » & releas
 In 2020 he creates a YouTube Channel **« [Reggae Nineties](https://www.youtube.com/channel/UCl_hsFoWsnZDWQy4nM0oMRg) »** dedicated, exclusively to reggae music from the golden nineties era, & early 2000’s 
 
 The perfect cure for all those who suffer from 90s nostalgia :)
+
+![](/img/idlers-corner.jpg)
 
 ### Find out more about Marshall Neeko on [FB](https://www.facebook.com/marshallneeko1) / [](https://marshallneeko.bandcamp.com/)[Bandcamp](https://marshallneeko.bandcamp.com/) / [Soundcloud](https://soundcloud.com/marshall-neeko) / [Youtube](https://www.youtube.com/channel/UCiV3viTmUB85iO3pxdIOZZQ)
