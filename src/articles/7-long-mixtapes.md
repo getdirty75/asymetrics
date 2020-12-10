@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
 title: 7 Long Mixtapes!
-teaser: 7 Bad Mixtapes Vol 4 ! December 2020 "Very Long Mixes Special "
+teaser: 7 Bad Mixtapes Vol 4 ! December 2020 "Very Long Mixes" Special
 featuredimage: /img/reel_to_reel_tape_clip_d.d.teoli_jrdanielteolijr-cc-by-sa-4.0-licenses-by-sa-4.0.jpg
 author: Lord Sandwich
 categories: mixtapes
@@ -32,13 +32,13 @@ outsideLinks:
 ---
 ![](/img/theasymetrics_d.d.teoli_jrdanielteolijr-cc-by-sa-4.0.jpg "©Daniel Teoli jr -CC BY-SA 4.0")
 
-### 4th edition of our monthly mixtapes selection.
+### 4th edition of our monthly mixtapes selection:
 
 Many promo mixes are floating around the interwebz, and most of them only last 20 to 45 minutes, the 30 minutes mix seeming to be in fashion…
 
 But some dj’s like to keep it long & deadly !
 
-For balance, or for the sake of asymetrical contradiction, here is a selection of 7 sets, from 2 to 5 hours each :)
+For balance, or for the sake of asymetrical contradiction, here is a selection of 7 sets, from 2 to 5 hours each...
 
 ### Put Your Headphones On & Chill :)
 
