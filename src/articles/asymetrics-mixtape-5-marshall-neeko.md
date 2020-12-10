@@ -40,7 +40,7 @@ Hotter than a volcano eruption…Turn up the amplifier & play this one !
 
 ### Marshall Neeko:
 
-Representing Lyon, France, Marshall Neeko is a veteran reggae music producer, founder & owner of « Idlers Corner Records ». *Idlers Corner Discogs : [https://www.discogs.com/fr/​label/937240-Idlers-Corner-​Records](https://www.discogs.com/fr/label/937240-Idlers-Corner-Records)*
+Representing Lyon, France, Marshall Neeko is a veteran reggae music producer, founder & owner of **« [Idlers Corner Records](https://www.discogs.com/fr/label/937240-Idlers-Corner-Records) »**.
 
 By the end of the 90’s he gets involved in his local radio station hosting the “Rise Up Reggae Show” until 2006.
 
@@ -48,8 +48,8 @@ In 2006 he sets up his first record label : « VI Connection Records » & releas
 
 2013 sees the start of a second imprint : « Idlers Corner », he produces most of the music & features artists such as : Lisa Dainjah, Burro Banton, Yami Bolo, Tony Rebel, Luciano, Isha Bel & many more…
 
-In 2020 he creates a YouTube Channel « Reggae Nineties » dedicated, exclusively to reggae music from the golden nineties era, & early 2000’s :
-
-[https://www.youtube.com/​channel/UCl_​hsFoWsnZDWQy4nM0oMRg](https://www.youtube.com/channel/UCl_hsFoWsnZDWQy4nM0oMRg)
+In 2020 he creates a YouTube Channel **« [Reggae Nineties](https://www.youtube.com/channel/UCl_hsFoWsnZDWQy4nM0oMRg) »** dedicated, exclusively to reggae music from the golden nineties era, & early 2000’s 
 
 The perfect cure for all those who suffer from 90s nostalgia :)
+
+### Find out more about Marshall Neeko on [FB](https://www.facebook.com/marshallneeko1) / [](https://marshallneeko.bandcamp.com/)[Bandcamp](https://marshallneeko.bandcamp.com/) / [Soundcloud](https://soundcloud.com/marshall-neeko) / [Youtube](https://www.youtube.com/channel/UCiV3viTmUB85iO3pxdIOZZQ)
