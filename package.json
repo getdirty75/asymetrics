@@ -49,13 +49,21 @@
   "main": "n/a",
   "scripts": {
     "clean": "gatsby clean",
-    "start": "npm run develop",
-    "build": "npm run clean && gatsby build",
-    "develop": "npm run clean && gatsby develop",
     "format": "prettier --trailing-comma es5 --no-semi --single-quote --write \"{gatsby-*.js,src/**/*.js}\"",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+
+    "develop": "gatsby develop",
+    "start": "run-p start:**",
+    "start:app": "npm run develop",
+    "start:lambda": "netlify-lambda serve src/functions",
+    "build": "gatsby build && netlify-lambda build src/functions",
+    "build:app": "gatsby build",
+    "build:lambda": "netlify-lambda build src/functions"
   },
   "devDependencies": {
+    "http-proxy-middleware": "^1.0.6",
+    "netlify-lambda": "^2.0.1",
+    "npm-run-all": "^4.1.5",
     "prettier": "^2.0.5"
   }
 }
