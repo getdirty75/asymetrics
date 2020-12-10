@@ -20,13 +20,13 @@ date: 2020-12-10T19:40:45.911Z
 ---
 ![](/img/mix-cover-art-small.jpg)
 
-Direct Links: [Soundcloud](https://soundcloud.com/the-asymetrics/asymetrics-mixtape-5-marshall-neeko-productions-megamix) / Youtube
+Direct Links: [Soundcloud](https://soundcloud.com/the-asymetrics/asymetrics-mixtape-5-marshall-neeko-productions-megamix) / [Youtube](https://www.youtube.com/watch?v=BiA78SvGt74)
 
 ### 100% Marshall Neeko Productions & Remixes!
 
 1 hour of crucial reggae scorchers, mixed by Marshall Neeko in a fine juggling style, featuring artists such as like **Koffee, Beres Hammond, Marcia Griffiths, Mykal Roze** & many more !
 
-Recorded in Lyon, France specially for The Asymetrics, the third installment of our mixtape series showcases strictly exclusive material…
+Recorded in Lyon, France specially for The Asymetrics, the fifth installment of our mixtape series showcases strictly exclusive material…
 
 Featuring personal productions & classic remixes, from the 90’s jamaican new roots tunes revisited in a crucial Marshal Neeko fashion to the newest & maddest dancehall hits, including killer digital instrumentals, this one called megamix & it ain’t no tricks… strictly wicked music !
 
