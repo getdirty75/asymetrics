@@ -17,6 +17,18 @@ tags:
   - "#megamix"
   - "#asymetricstapes"
 date: 2020-12-10T19:40:45.911Z
+outsideLinks:
+  outsideLinksList:
+    - text: Marshall Neeko Bandcamp
+      link: https://marshallneeko.bandcamp.com/
+    - text: Marshall Neeko Channel
+      link: https://www.youtube.com/channel/UCiV3viTmUB85iO3pxdIOZZQ
+    - text: Idlers Corner
+      link: https://www.discogs.com/fr/label/937240-Idlers-Corner-Records
+    - text: "Asymetrics Mixtape #3: Fatta"
+      link: https://theasymetrics.com/blog/asymetrics-mixtape-3-fatta/
+    - text: "Asymetrics Mixtape #1: Satta Don Dada"
+      link: https://theasymetrics.com/blog/asymetrics-mixtape-1-satta-don-dada/
 ---
 ![](/img/mix-cover-art-small.jpg)
 
