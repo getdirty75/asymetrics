@@ -8,6 +8,27 @@ export default class Christmas extends React.Component {
       .then(response => response.json())
       .then(console.log)
   };
+  submitForm = async (event) => {
+    event.preventDefault();
+
+    try{
+      const response = await fetch("/.netlify/functions/christmas", {
+        method: "POST",
+        body: JSON.stringify({email: 'benoit.raynaud95@gmail.com', subject: 'download for free'}),
+      });
+      if (!response.ok) {
+        console.log('not 200 response');
+        console.log(response);
+        return;
+      }
+      console.log('All Ok');
+      console.log(response);
+
+    } catch(error){
+      console.log('error');
+      console.log(error)
+    }
+  }
   render() {
     return (
       <section className="section">
@@ -17,13 +38,13 @@ export default class Christmas extends React.Component {
             <p>
               Want a gift ?
             </p>
-            <h2>How to</h2>
+            <h2>How to ?</h2>
             <h3>give your email adress</h3>
 
             <h3>click</h3>
             <button
               className="button is-black"
-              onClick={this.handleSubmit}
+              onClick={this.submitForm}
             >
               here
             </button>
