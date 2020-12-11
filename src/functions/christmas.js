@@ -23,7 +23,7 @@ exports.handler =  async (event, context, callback) => {
 //     }
 // }
   const msg = {
-      from: "edaAsymetrics@gmail.com",
+      from: "daAsymetrics@gmail.com",
       to: email,
       template_id:"d-49441dac9d0d4cfb8a02c556649dc4c5",
       dynamicTemplateData: {
