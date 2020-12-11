@@ -45,16 +45,15 @@ export default class ChristmasPage extends React.Component {
       <>
         <div className="container content">
           <div className="tile is-12">
-            <article className="tile is-child box">
+            <article className="tile is-child box christmas_title">
               <div className="christmas_songName">
                     <h3 className="christmas_tai">Taiwan Mc</h3>
                     <h3>&nbsp; & &nbsp;</h3>
-                    <h3 className="christmas_davojah">Davojah x Omni Trio</h3>
+                    <h3 className="christmas_tai">Davojah x Omni Trio</h3>
                     <h3>&nbsp; & &nbsp;</h3>
-                    <h3 className="christmas_foul">Foul Play</h3>
-                    <h3>&nbsp; -- &nbsp;</h3>
-                    <h3>Let The Snares Bun (Skwig Mashup)</h3>
+                    <h3 className="christmas_tai">Foul Play</h3>
                   </div>
+                  <h3 className="christmas_davojah">Let The Snares Bun (Skwig Mashup)</h3>
             </article>
           </div>
         </div>
@@ -66,7 +65,7 @@ export default class ChristmasPage extends React.Component {
             <div className="tile is-vertical is-8">
               <div className="tile">
                 <div className="tile is-parent is-vertical">
-                  <article className="tile is-child box">
+                  <article className="christmas_cloud tile is-child box">
                   <iframe width="100%" height="166" scrolling="no" allow="autoplay"
                     src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/945169297&color=%23551a8b&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true">
                   </iframe>
@@ -77,7 +76,7 @@ export default class ChristmasPage extends React.Component {
 
             <div className="tile is-parent">
               <article className="tile is-child box">
-                <div className="content">
+                <div className="content christmas_free">
 
                     <h1>Free Download</h1>
                     <p>Enter your e-mail & get the track !</p>

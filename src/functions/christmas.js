@@ -1,7 +1,4 @@
 
-import fs from 'fs';
-import MP3_GIFT from '../audio/Bun.mp3'
-
 const sgMail = require('@sendgrid/mail')
 const { SENDGRID_API_KEY } = process.env
 
@@ -10,18 +7,6 @@ exports.handler =  async (event, context, callback) => {
   const { email } = payload
   sgMail.setApiKey(SENDGRID_API_KEY)
 
-
-//   function previewFile(files) {
-//     const file = files[0];
-//     const reader = new FileReader();
-//     file.end = file.size;
-//     reader.onload = function () {
-//         alert(reader.result);
-//     };
-//     if (file) {
-//         reader.readAsDataURL(file);
-//     }
-// }
   const msg = {
       from: "daAsymetrics@gmail.com",
       to: email,
