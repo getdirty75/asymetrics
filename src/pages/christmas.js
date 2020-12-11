@@ -67,12 +67,7 @@ export default class ChristmasPage extends React.Component {
               <div className="tile">
                 <div className="tile is-parent is-vertical">
                   <article className="tile is-child box">
-                  {/* <img className="christmas_img" src={LetTheSnaresBun} /> */}
-                  <iframe
-                    width="100%"
-                    height="166"
-                    scrolling="no"
-                    allow="autoplay"
+                  <iframe width="100%" height="166" scrolling="no" allow="autoplay"
                     src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/945169297&color=%23551a8b&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true">
                   </iframe>
                   </article>
@@ -88,21 +83,21 @@ export default class ChristmasPage extends React.Component {
                     <p>Enter your e-mail & get the track !</p>
 
                     <div>{this.state.error}</div>
-                    <form onSubmit={this.submitForm}>
+                    <form onSubmit={this.submitForm} className="christmas_form">
                       <input
-                        className="input is-rounded"
+                        className="input is-rounded christmas_input"
                         id="fromEmail"
                         name="fromEmail"
-                        placeholder="Your Email for mp3"
+                        placeholder="Your Email"
                         type="email"
                         value={this.state.message.fromEmail}
                         onChange={this.onChange}
                       />
                       <button
-                        className="button is-black"
+                        className="button is-black christmas_button"
                         type="submit"
                         disabled={this.state.submitting}
-                      >Download MP3</button>
+                      >Grab your copy</button>
                     </form>
 {/* 
                     <form onSubmit={this.submitForm}>
