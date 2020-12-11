@@ -1,6 +1,6 @@
 
 import React from 'react'
-import LetTheSnaresBun from '../img/LetTheSnaresBun.jpg'
+// import LetTheSnaresBun from '../img/LetTheSnaresBun.jpg'
 
 export default class ChristmasPage extends React.Component {
 
@@ -25,30 +25,19 @@ export default class ChristmasPage extends React.Component {
 
   submitForm = async (event) => {
     event.preventDefault();
-    console.log(event.target)
-    console.log(event.target.fromEmail.value)
-    console.log(event.target.fromEmail)
-
     try{
       const response = await fetch("/.netlify/functions/christmas", {
         method: "POST",
-        body: JSON.stringify({
-          body: 'Hi ! Thanks for downloading Taiwan Mc & Davojah x Omni Trio & Foul Play - Let The Snares Bun (Skwig Mashup). Enjoy :)',
-          email: event.target.fromEmail.value,
-          subject: 'The Asymetrics Free DL',
-        }),
+        body: JSON.stringify({ email: event.target.fromEmail.value }),
       });
       if (!response.ok) {
-        console.log('not 200 response');
-        console.log(response);
+        alert( 'not 200 response' + response );
         return;
       }
-      console.log('All Ok');
-      console.log(response);
+      alert( 'Thanks for downloading. Check your mail inbox' + response);
 
     } catch(error){
-      console.log('error');
-      console.log(error)
+      alert( 'Error somewhere' + error);
     }
   }
   render() {
@@ -78,7 +67,14 @@ export default class ChristmasPage extends React.Component {
               <div className="tile">
                 <div className="tile is-parent is-vertical">
                   <article className="tile is-child box">
-                  <img className="christmas_img" src={LetTheSnaresBun} />
+                  {/* <img className="christmas_img" src={LetTheSnaresBun} /> */}
+                  <iframe
+                    width="100%"
+                    height="166"
+                    scrolling="no"
+                    allow="autoplay"
+                    src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/945169297&color=%23551a8b&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true">
+                  </iframe>
                   </article>
                 </div>
               </div>
