@@ -31,9 +31,13 @@ outsideLinks:
 ---
 <iframe width="100%" height="380" src="https://www.youtube-nocookie.com/embed/CEnU2JPM2sA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen referrerpolicy="origin"></iframe>
 
-### Just as [Taiwan MC](https://theasymetrics.com/blog/special-request/) released a trippy music video for ["Let the Weed Bun"](https://www.youtube.com/watch?v=ONyrc0jHb3A), [](https://www.facebook.com/Skwig)**Skwig** sent us this bootleg he made a while back, messing around with some acapellas and jungle beats !
+### Asymetrics Free Download #1 !
+
+### Just as [Taiwan MC](https://theasymetrics.com/blog/special-request/) released a trippy music video for his song ["Let The Weed Bun"](https://www.youtube.com/watch?v=ONyrc0jHb3A), [](https://www.facebook.com/Skwig)**Skwig** sent us this bootleg he made a while back, messing around with some acapellas and jungle beats !
 
 He matched the classic 90s jungle Omni Trio & Foul Play track « Renegade Snares » with the herbal dancehall vibes of Taiwan Mc’s new release : « Let The Weed Bun » feat Davojah, and the result is weirdly addictive !
+
+You can download the track in .wav or mp3 below ! 
 
 ### *Free DL : Taiwan MC & Davojah X Omni Trio & Foul Play - Let the Snares Bun :*
 
