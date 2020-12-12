@@ -36,7 +36,7 @@ outsideLinks:
 
 He matched the classic 90s jungle Omni Trio & Foul Play track « Renegade Snares » with the herbal dancehall vibes of Taiwan Mc’s new release : « Let The Weed Bun » feat Davojah, and the result is weirdly addictive !
 
-### *Free DL : METTRE LE LIEN VERS LA PAGE « FREE DL sur THE ASYMETRICS BLOG »*
+### *Free DL : Taiwan MC & Davojah X Omni Trio & Foul PLay - Let the Snares Bun (METTRE LE LIEN VERS LA PAGE « FREE DL sur THE ASYMETRICS BLOG)*
 
 <br>
 
