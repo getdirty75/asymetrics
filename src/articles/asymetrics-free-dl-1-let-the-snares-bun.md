@@ -17,6 +17,18 @@ tags:
   - "#omnitrio"
   - "#mashup"
 date: 2020-12-12T03:06:01.192Z
+outsideLinks:
+  outsideLinksList:
+    - text: Taiwan MC - Special Request
+      link: https://theasymetrics.com/blog/special-request/
+    - text: Special Request Record
+      link: https://www.chinesemanrecords.com/shop-cmr/special-request-taiwan-mc/
+    - text: Taiwan MC's Channel
+      link: https://www.youtube.com/channel/UCeF72EQgvf1ql-dMmwfYTeA
+    - text: Skwig
+      link: https://www.facebook.com/Skwig
+    - text: Vernacular Records
+      link: https://www.facebook.com/vernacularparis/
 ---
 <iframe width="100%" height="380" src="https://www.youtube-nocookie.com/embed/CEnU2JPM2sA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen referrerpolicy="origin"></iframe>
 
