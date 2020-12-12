@@ -35,7 +35,7 @@ outsideLinks:
 
 ### Just as [Taiwan MC](https://theasymetrics.com/blog/special-request/) released a trippy music video for his song ["Let The Weed Bun"](https://www.youtube.com/watch?v=ONyrc0jHb3A), [](https://www.facebook.com/Skwig)**Skwig** sent us this bootleg he made a while back, messing around with some acapellas and jungle beats !
 
-He matched the classic 90s jungle Omni Trio & Foul Play track « Renegade Snares » with the herbal dancehall vibes of Taiwan Mc’s new release : « Let The Weed Bun » feat Davojah, and the result is weirdly addictive !
+He matched the classic 90s jungle Omni Trio & Foul Play track « Renegade Snares VIP Mix » with the herbal dancehall vibes of Taiwan Mc’s new release : « Let The Weed Bun » feat Davojah, and the result is weirdly addictive !
 
 You can download the track in .wav or mp3 below ! 
 
