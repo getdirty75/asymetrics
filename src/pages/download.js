@@ -6,6 +6,7 @@ const Basic = () => (
   <div>
     <Formik
       initialValues={{ email: '' }}
+      isInitialValid={false}
       validate={ (values) => {
         const errors = {};
         if (!values.email) {
@@ -50,7 +51,7 @@ const Basic = () => (
           <button
             className="button is-black christmas_button"
             type="submit"
-            disabled={!isValid || (Object.keys(touched).length === 0 && touched.constructor === Object)}
+            disabled={!isValid}
           >
             Grab your copy
           </button>
