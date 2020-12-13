@@ -39,9 +39,7 @@ He matched the classic 90s jungle Omni Trio & Foul Play track « Renegade Snares
 
 You can download the track in .wav or mp3 below ! 
 
-### *Free DL : Taiwan MC & Davojah X Omni Trio & Foul Play - Let the Snares Bun :*
-
-### *( LIEN VERS LA PAGE "FREE DL" sur THE ASYMETRICS BLOG)*
+### *[Free DL : Taiwan MC & Davojah X Omni Trio & Foul Play - Let the Snares Bun](https://theasymetrics.com/download/)*
 
 <br>
 
