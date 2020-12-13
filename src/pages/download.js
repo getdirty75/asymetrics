@@ -24,13 +24,13 @@ const Basic = () => (
             body: JSON.stringify({ email: values.email }),
           });
           if (!response.ok) {
-            alert( 'not 200 response' + response );
+            alert( 'A security has blocked the request. Change your browser');
             return;
           }
-          alert( 'Thanks for downloading. Check your mail inbox' + response);
+          alert( 'Thanks for downloading. Check your mail inbox');
 
         } catch(error) {
-          alert( 'Error somewhere' + error);
+          alert( 'An Error occured');
         }
         setSubmitting(false);
       }}
