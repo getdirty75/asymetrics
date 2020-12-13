@@ -1,8 +1,7 @@
 ---
 templateKey: blog-post
-title: "Asymetrics Free DL #1: Let the Snares Bun"
-teaser: "Badbwoy Bootleg: Taiwan Mc & Davojah & Omni Trio - Let The Snares Bun
-  (Skwig Mashup)"
+title: "Asymetrics Free DL #1: Skwig - Let The Snares Bun"
+teaser: Taiwan Mc & Davojah x Omni Trio & Foul Play - Let The Snares Bun (Skwig Mashup)
 featuredimage: /img/main-visual.jpg
 author: Asymetric
 categories: news
@@ -32,23 +31,35 @@ outsideLinks:
 ---
 <iframe width="100%" height="380" src="https://www.youtube-nocookie.com/embed/CEnU2JPM2sA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen referrerpolicy="origin"></iframe>
 
-### Just as [Taiwan MC](https://theasymetrics.com/blog/special-request/) released his official video for ["Let the Weed Bun"](https://www.youtube.com/watch?v=ONyrc0jHb3A), [](https://www.facebook.com/Skwig)**Skwig** just sent us this bootleg he made a while back, messing around with some accapellas and jungle beats !
+### Asymetrics Free Download #1 !
 
-He matched the classic 90s jungle Omni Trio & Foul Play track « Renegade Snares » with the herbal dancehall vibes of Taiwan Mc’s new release : « Let The Weed Bun » feat Davojah, and the result is weirdly addictive !
+### Just as [Taiwan MC](https://theasymetrics.com/blog/special-request/) released a trippy music video for his song ["Let The Weed Bun"](https://www.youtube.com/watch?v=ONyrc0jHb3A), [](https://www.facebook.com/Skwig)**Skwig** sent us this bootleg he made a while back, messing around with some acapellas and jungle beats !
 
-### *Free DL : Taiwan MC & Davojah X Omni Trio & Foul PLay - Let the Snares Bun (METTRE LE LIEN VERS LA PAGE « FREE DL sur THE ASYMETRICS BLOG)*
+He matched the classic 90s jungle Omni Trio & Foul Play track « Renegade Snares VIP Mix » with the herbal dancehall vibes of Taiwan Mc’s new release : « Let The Weed Bun » feat Davojah, and the result is weirdly addictive !
+
+You can download the track in .wav or mp3 below ! 
+
+### *[Free DL : Taiwan MC & Davojah X Omni Trio & Foul Play - Let the Snares Bun](https://theasymetrics.com/download/)*
 
 <br>
 
-And while you're here, don't miss the band new video for this already classic anthem from the Sticky Tai Tai, featuring Davojah:
+ Taiwan MC ft Davojah "Let The Weed Bun" :
 
 <iframe width="100%" height="380" src="https://www.youtube-nocookie.com/embed/ONyrc0jHb3A" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen referrerpolicy="origin"></iframe>
 
+<br>
+
+<br>
+
+Omni Trio & Foul Play "Renegade Snares" : 
+
+<iframe width="100%" height="380" src="https://www.youtube-nocookie.com/embed/xDvrQVG040g" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen referrerpolicy="origin"></iframe>
+
 ### *A word about Skwig :*
 
-“Hailing from the Parisian bass music undergound, classically-trained musician and accomplished sound engineer, **Skwig** is what you may call a jack of all trades.
+“Hailing from the Parisian bass music undergound, classically-trained musician, DJ, and accomplished sound engineer, **Skwig** is what you may call a jack of all trades.
 
-![](/img/skwig.jpg)
+![](/img/129913408_966463553880454_3257371498311918056_n-2.jpg)
 
 <br>
 
@@ -56,6 +67,4 @@ Within his solo project with releases on [Egregore Collective](https://egregorec
 
 Skwig is also found tweaking knobs within [Vernacular Orchestra](https://www.facebook.com/vernacularparis/), a live electronics act which has been smashing Parisian clubs since 2013 before evolving into Vernacular Records, a collective project and label pushing the envelope of modern Rave, Techno and Electro.
 
-From behind a studio desk, a DJ setup or tweaking synth and sampler knobs, Skwig weaves a musical fabric which is only getting wider and more detailed as time passes by, and intends to perfect his craft for the rest of his life.
-
-### Find out more about Skwig on [Bandcamp](https://egregorecollective.bandcamp.com/album/egr005ep-skwig-kindred-ep) / [Facebook](https://www.facebook.com/Skwig)
+### More about Skwig on [Bandcamp](https://egregorecollective.bandcamp.com/album/egr005ep-skwig-kindred-ep) / [Facebook](https://www.facebook.com/Skwig)
