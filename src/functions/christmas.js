@@ -8,7 +8,7 @@ exports.handler =  async (event, context, callback) => {
   sgMail.setApiKey(SENDGRID_API_KEY)
 
   const msg = {
-      from: "daAsymetrics@gmail.com",
+      from: "support@theasymetrics.com",
       to: email,
       template_id:"d-49441dac9d0d4cfb8a02c556649dc4c5",
       dynamicTemplateData: {
