@@ -29,7 +29,7 @@ class BlogRoll extends React.Component {
                 <div className="image is-5by4">
                   <img className="blogRoll__img"
                     alt={post.frontmatter.title}
-                    src={post.frontmatter.featuredimage.childImageSharp.fluid.src}
+                    src={post.frontmatter.featuredimage && post.frontmatter.featuredimage.childImageSharp.fluid.src}
                   />
                 </div>
               </Link>
