@@ -15,6 +15,18 @@ tags:
   - "#Mixtape"
   - "#Asymetricstapes"
 date: 2020-12-18T02:12:32.692Z
+outsideLinks:
+  outsideLinksList:
+    - text: Trim
+      link: https://www.facebook.com/TRIM-258689774183736/
+    - text: Trim's Mixes
+      link: https://soundcloud.com/trim
+    - text: Star Wars Crew
+      link: http://www.starwarscrew.com/
+    - text: "Asymetrics Mixtape #4: Dipiz"
+      link: https://theasymetrics.com/blog/asymetrics-mixtape-4-dipiz/
+    - text: 7 Bad Mixtapes
+      link: https://theasymetrics.com/blog/7-bad-mixtapes/
 ---
 ![](/img/theasymetrics_trim_cover.jpg)
 
