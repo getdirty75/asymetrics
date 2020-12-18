@@ -2,7 +2,7 @@
 templateKey: blog-post
 title: "Asymetrics Mixtape #6: Trim"
 teaser: "Exclusively for The Asymetrics, Trim goes back to his original hip hop
-  roots & foundations with this 100% vinyl mixtape : Back 2 Basics…"
+  roots & foundations with this quality mixtape : Back 2 Basics…"
 featuredimage: /img/theasymetrics_trim_cover.jpg
 author: Asymetric
 categories: mixtapes
@@ -13,7 +13,8 @@ tags:
   - "#Soul"
   - "#Vinyl"
   - "#Mixtape"
-  - "#Asymetricstapes"
+  - "#AsymetricsTapes"
+  - "#TheAsymetricsMixtape"
 date: 2020-12-18T02:12:32.692Z
 outsideLinks:
   outsideLinksList:
@@ -30,9 +31,9 @@ outsideLinks:
 ---
 ![](/img/theasymetrics_trim_cover.jpg)
 
-Diret links: [Soundcloud](https://soundcloud.com/the-asymetrics/asymetrics-mixtape-6-trim-back-2-basics) / [Mixcloud ](https://www.mixcloud.com/The_Asymetrics/asymetrics-mixtape-6-trim/)/ [Youtube](https://www.youtube.com/watch?v=J57Mg2HAJ24)
+Direct links: [Soundcloud](https://soundcloud.com/the-asymetrics/asymetrics-mixtape-6-trim-back-2-basics) / [Mixcloud ](https://www.mixcloud.com/The_Asymetrics/asymetrics-mixtape-6-trim/)/ [Youtube](https://www.youtube.com/watch?v=J57Mg2HAJ24)
 
-### A very special set for this 6th edition of the Asymetrics mixtapes with [TRIM](https://www.facebook.com/TRIM-258689774183736/), transmiting all the way from Berlin with an old-school Hip-Hop, Jazz & Funk vinyl mix, Back 2 Basics !
+### A very special set for this 6th edition of the Asymetrics Mixtape : [TRIM](https://www.facebook.com/TRIM-258689774183736/), transmiting all the way from Berlin with a dope Hip-Hop, Jazz & Funk mix : Back 2 Basics !
 
 <br>
 
