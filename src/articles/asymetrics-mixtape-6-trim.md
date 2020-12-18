@@ -18,6 +18,8 @@ date: 2020-12-18T02:12:32.692Z
 ---
 ![](/img/theasymetrics_trim_cover.jpg)
 
+Diret links: [Soundcloud](https://soundcloud.com/the-asymetrics/asymetrics-mixtape-6-trim-back-2-basics) / [Mixcloud ](https://www.mixcloud.com/The_Asymetrics/asymetrics-mixtape-6-trim/)/ Youtube
+
 ### A very special set for this 6th edition of the Asymetrics mixtapes with [TRIM](https://www.facebook.com/TRIM-258689774183736/), transmiting all the way from Berlin with an old-school vinyl mix, Back 2 Basics !
 
 <br>
@@ -75,8 +77,6 @@ date: 2020-12-18T02:12:32.692Z
 Born in Paris in the late 70’s, Trim goes to live in Berlin at age 9 & falls in to the 90’s hip-hop culture…
 
 ![](/img/theasymetrics_trim_pic.jpg)
-
-
 
 <br>
 
