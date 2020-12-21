@@ -46,7 +46,7 @@ These were used on the 1980's black market as a cheap technique to reproduce tap
 
 Ominous in the 1980's, these counterfeit black & white covered tapes have all but faded away. This is a series introducing this lost piracy!
 
-And, cherry on top, as an asymmetrical music digger himself, Thomas selected the following EXCEPTIONAL mixtape from Guangzhou born DJ Edi to get you in the mood - featuring mad 80s Cantopop covers of Jimmy Cliff, Chaka Khan, Lou Reed, or even Madonna among many...
+And, cherry on top, as an asymmetrical music digger himself, Thomas selected the following exceptional mixtape from Guangzhou's DJ Edi to get you in the mood - featuring mad funky 80s Cantopop covers of Jimmy Cliff, Chaka Khan, Lou Reed, or even Madonna among many...
 
 <iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/951465112&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/the-asymetrics" title="The Asymetrics" target="_blank" style="color: #cccccc; text-decoration: none;">The Asymetrics</a> · <a href="https://soundcloud.com/the-asymetrics/dj-edi-ft-kidgod-tao-street-super-hits-vol-1" title="DJ Edi Ft KidGod - Tao Street Super Hits Vol. 1" target="_blank" style="color: #cccccc; text-decoration: none;">DJ Edi Ft KidGod - Tao Street Super Hits Vol. 1</a></div>
 
