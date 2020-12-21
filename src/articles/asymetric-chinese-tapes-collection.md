@@ -20,6 +20,10 @@ outsideLinks:
   outsideLinksList:
     - text: Beijing Silvermine
       link: https://www.beijingsilvermine.com/
+    - text: Beijing Silvermine on Insta
+      link: https://www.instagram.com/beijing_silvermine/?hl=en
+    - text: Thomas Sauvin
+      link: https://www.instagram.com/thomas_sauvin/?hl=en
 ---
 ![](/img/ts-k7-mafia-positive-10.jpg "©Thomas Sauvin")
 
