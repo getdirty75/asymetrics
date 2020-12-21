@@ -32,9 +32,17 @@ The project's [Instagram account](https://www.instagram.com/beijing_silvermine/?
 
 Having spent years digging around the weirdest corners of China's online markets, he recently put his hands on a series of [paper negatives](https://en.wikipedia.org/wiki/Paper_negative).
 
+![](/img/ts-k7-mafia-negative-15.jpg)
+
+<br>
+
 These were used on the 1980's black market as a cheap technique to reproduce tape covers.  No enlarger or any other technology was needed, just paper, chemicals and a lamp!
 
  The first step was to make a contact print from the original cover, resulting in these horizontally flipped inverted paper negatives. These were then used to make plenty of contact prints resulting in black and white reproduction of the original cover.
+
+![](/img/ts-k7-mafia-positive-15.jpg)
+
+<br>
 
 Ominous in the 1980's, these counterfeit black & white covered tapes have all but faded away. This is a series introducing this lost piracy!
 
@@ -44,7 +52,7 @@ And, cherry on top, as an asymmetrical music digger himself, Thomas selected the
 
 <br>
 
-#### Just hit play, scroll down, and take a trip 40 years back !
+#### Just hit play, headphones on, and take a trip 40 years back !
 
 <br>
 
