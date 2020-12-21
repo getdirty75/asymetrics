@@ -16,6 +16,10 @@ tags:
   - "#Collection"
   - "#ThomasSauvin"
 date: 2020-12-21T02:33:36.029Z
+outsideLinks:
+  outsideLinksList:
+    - text: Beijing Silvermine
+      link: https://www.beijingsilvermine.com/
 ---
 ![](/img/ts-k7-mafia-positive-10.jpg "©Thomas Sauvin")
 
