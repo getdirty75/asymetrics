@@ -31,7 +31,7 @@ outsideLinks:
 ---
 ![](/img/oonops-drops-for-the-asymetrics.jpg)
 
-### This 7th edition presents an exclusive mix by [Brooklyn Radio](http://brooklynradio.com/oonops/) legend [Oonops](http://oonops.de/), a little journey to and fro between Dub, Jazz, and Beats, including lots of brand new and exclusive Worldwide music:
+### This 7th edition presents an exclusive mix by [Brooklyn Radio](http://brooklynradio.com/oonops/) resident dj : [Oonops](http://oonops.de/), a little journey to and fro between dub, jazz, and beats, including lots of brand new and exclusive worldwide music:
 
 <iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/952853563&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/the-asymetrics" title="The Asymetrics" target="_blank" style="color: #cccccc; text-decoration: none;">The Asymetrics</a> · <a href="https://soundcloud.com/the-asymetrics/asymetrics-mixtape-7-oonops-asymetrical-drops" title="Asymetrics Mixtape #7: Oonops - Asymetrical Drops" target="_blank" style="color: #cccccc; text-decoration: none;">Asymetrics Mixtape #7: Oonops - Asymetrical Drops</a></div>
 
@@ -50,8 +50,6 @@ outsideLinks:
 **11** Bluestaeb & S. Fidelity - Feelm Intermission\
 **12** Oiro - Teelukissa\
 **13** Yukihiro Yakahashi - Saravah
-
-
 
 ### Oonops
 
