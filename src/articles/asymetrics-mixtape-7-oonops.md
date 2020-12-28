@@ -31,9 +31,11 @@ outsideLinks:
 ---
 ![](/img/oonops-drops-for-the-asymetrics.jpg)
 
+Direct Links: [Soundcloud](https://soundcloud.com/the-asymetrics/asymetrics-mixtape-7-oonops-asymetrical-drops) / [Mixcloud](https://www.mixcloud.com/The_Asymetrics/asymetrics-mixtape-7/) / [Youtube](https://www.youtube.com/watch?v=AVjj2pmAayo)
+
 ### This 7th edition presents an exclusive mix by [Brooklyn Radio](http://brooklynradio.com/oonops/) resident dj : [Oonops](http://oonops.de/), a little journey to and fro between dub, jazz, and beats, including lots of brand new and exclusive worldwide music:
 
-<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/952853563&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/the-asymetrics" title="The Asymetrics" target="_blank" style="color: #cccccc; text-decoration: none;">The Asymetrics</a> · <a href="https://soundcloud.com/the-asymetrics/asymetrics-mixtape-7-oonops-asymetrical-drops" title="Asymetrics Mixtape #7: Oonops - Asymetrical Drops" target="_blank" style="color: #cccccc; text-decoration: none;">Asymetrics Mixtape #7: Oonops - Asymetrical Drops</a></div>
+<iframe width="100%" height="500" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/952853563&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/the-asymetrics" title="The Asymetrics" target="_blank" style="color: #cccccc; text-decoration: none;">The Asymetrics</a> · <a href="https://soundcloud.com/the-asymetrics/asymetrics-mixtape-7-oonops-asymetrical-drops" title="Asymetrics Mixtape #7: Oonops - Asymetrical Drops" target="_blank" style="color: #cccccc; text-decoration: none;">Asymetrics Mixtape #7: Oonops - Asymetrical Drops</a></div>
 
 ### Tracklist:
 
@@ -57,7 +59,7 @@ outsideLinks:
 
 <br>
 
-Legendary juggler of all styles, playing vinyl only and with a passion for 45s, Oonops broadcasts his talent straight from his Brooklyn Radio show "[Oonops Drops"](http://brooklynradio.com/oonops-drops/). He is also a regular staple with mighty [Agogo records](https://www.agogo-records.com/), where his releases regularly set the bar high. Forthcoming [**Portishead Shop** by Clockwerk & Birdmoves](https://djoonops.bandcamp.com/album/various-artists-oonops-drops-ruff-cuts) is one good example which you can hear in this killer Asymetrics mixtape!
+Juggler of all styles, playing vinyl only and with a passion for 45s, Oonops broadcasts his talent straight from his Brooklyn Radio show "[Oonops Drops"](http://brooklynradio.com/oonops-drops/). He is also a regular staple with mighty [Agogo records](https://www.agogo-records.com/), where his releases regularly set the bar high. Forthcoming [**Portishead Shop** by Clockwerk & Birdmoves](https://djoonops.bandcamp.com/album/various-artists-oonops-drops-ruff-cuts) is one good example which you can hear in this killer Asymetrics mixtape!
 
 Oonops has played with **Nightmares on Wax, Coldcut**, and **the Beatnuts** to name but a few... Watch this space!
 
