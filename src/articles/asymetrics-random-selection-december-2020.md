@@ -16,6 +16,18 @@ tags:
   - "#Coupédecalé"
   - "#top9"
 date: 2020-12-29T02:31:37.707Z
+outsideLinks:
+  outsideLinksList:
+    - text: The Asymetrics Channel
+      link: https://www.youtube.com/channel/UCjm0hKdlJVNA5X3U3KEhEow
+    - text: 7 Long Mixtapes !
+      link: https://theasymetrics.com/blog/7-long-mixtapes/
+    - text: "The Asymetrics Mixtape #7: Oonops"
+      link: https://theasymetrics.com/blog/asymetrics-mixtape-7-oonops/
+    - text: "The Asymetrics Mixtape #6: Trim"
+      link: https://theasymetrics.com/blog/asymetrics-mixtape-6-trim/
+    - text: "Asymetrics Free Download #1"
+      link: https://theasymetrics.com/blog/asymetrics-free-dl-1-let-the-snares-bun/
 ---
 ![](/img/asymetrics-team-force-dec-2020.jpg)
 
@@ -27,7 +39,7 @@ Direct Link: [The Asymetrics Channel](https://www.youtube.com/playlist?list=PLZt
 
 <br>
 
-<br>
+
 
 #### Harlem Underground Band - Smokin Cheeba Cheeba
 
@@ -96,3 +108,13 @@ Direct Link: [The Asymetrics Channel](https://www.youtube.com/playlist?list=PLZt
 #### Guess What - Al Khawarizmi
 
 <iframe width="100%" height="315" src="https://www.youtube-nocookie.com/embed/oRMC95Mwdhg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen referrerpolicy="origin"></iframe>
+
+<br>
+
+<br>
+
+### Dig it?
+
+### Check the full playlist below, & subscribe to The Asymetrics YouTube Channel!
+
+<iframe width="100%" height="380" src="https://www.youtube-nocookie.com/embed/videoseries?list=PLZtgNolXlRSSU9wGUroTgURHYtRGpccEq" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen referrerpolicy="origin"></iframe>
