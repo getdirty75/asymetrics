@@ -29,7 +29,7 @@ outsideLinks:
     - text: "Asymetrics Free Download #1"
       link: https://theasymetrics.com/blog/asymetrics-free-dl-1-let-the-snares-bun/
 ---
-![](/img/asymetrics-team-force-dec-2020.jpg)
+![](/img/asymetrics-team-force-dec-2020-small.jpg)
 
 <br>
 
@@ -89,7 +89,7 @@ Direct Link: [The Asymetrics Channel](https://www.youtube.com/playlist?list=PLZt
 
 <br>
 
-#### Azelia Banks Feat Lazy Jay - 212
+#### Azealia Banks Feat Lazy Jay - 212
 
 <iframe width="100%" height="380" src="https://www.youtube-nocookie.com/embed/i3Jv9fNPjgk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen referrerpolicy="origin"></iframe>
 
