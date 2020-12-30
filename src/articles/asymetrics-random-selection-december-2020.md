@@ -35,11 +35,9 @@ outsideLinks:
 
 Direct Link: [The Asymetrics Channel](https://www.youtube.com/playlist?list=PLZtgNolXlRSSU9wGUroTgURHYtRGpccEq)
 
-### The full Asymetrical team carefully selected their December 2020 Top 9 tunes - Check it !
+### Every month, The full Asymetrical team carefully select the tunes that made them groove for the previous weeks - a patchwork of new and old, always brilliant - Check it !
 
 <br>
-
-
 
 #### Harlem Underground Band - Smokin Cheeba Cheeba
 
