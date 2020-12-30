@@ -2,7 +2,7 @@
 templateKey: blog-post
 title: "Asymetrics Mixtape #7: Oonops"
 teaser: Legendary Hannover DJ Oonops delivers his Asymetrical Drops!
-featuredimage: /img/oonops-drops-for-the-asymetrics.jpg
+featuredimage: /img/oonops-mix-cover-art.jpg
 author: Asymetric
 categories: mixtapes
 tags:
