@@ -14,6 +14,14 @@ tags:
   - "#Bass"
   - "#asymetricsmixtapes"
 date: 2021-01-02T02:22:13.063Z
+outsideLinks:
+  outsideLinksList:
+    - text: Miss Champús
+      link: https://www.facebook.com/misschampus/
+    - text: Miss Champús on Instagram
+      link: https://www.instagram.com/misschampus/
+    - text: Miss Champús Mixes
+      link: https://soundcloud.com/misschampus
 ---
 ![](/img/mis-champu¦üs_paloquemao_2_gambasutra_003.jpg)
 
