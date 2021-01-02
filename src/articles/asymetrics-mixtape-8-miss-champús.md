@@ -33,7 +33,7 @@ outsideLinks:
 
 Direct Links: [Soundcloud](https://soundcloud.com/the-asymetrics/asymetrics-mixtape-8-miss-champus-gold-jam-selection) / [Mixcloud](https://www.mixcloud.com/The_Asymetrics/asymetrics-mixtape-8/) / [Youtube](https://www.youtube.com/watch?v=FIl8aVcmCRo)
 
-### The 8th edition of the Asymetrics mixtapes is an exclusive fire selection by Colombian [Miss Champús](https://www.facebook.com/misschampus/), blending a fresh variety of Latin & African styles with a baddass Dancehall twist!
+### The 8th edition of the Asymetrics mixtapes is an exclusive fire selection by Colombian Dj [Miss Champús](https://www.facebook.com/misschampus/), blending a fresh variety of Latin & African styles with a baddass Dancehall twist!
 
 <br>
 
