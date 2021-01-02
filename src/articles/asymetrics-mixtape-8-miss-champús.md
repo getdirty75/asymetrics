@@ -22,6 +22,10 @@ outsideLinks:
       link: https://www.instagram.com/misschampus/
     - text: Miss Champús Mixes
       link: https://soundcloud.com/misschampus
+    - text: "Asymetrics Mixtape #7 (Oonops)"
+      link: https://theasymetrics.com/blog/asymetrics-mixtape-7-oonops/
+    - text: "Asymetrics Mixtape #6 (Trim)"
+      link: https://theasymetrics.com/blog/asymetrics-mixtape-6-trim/
 ---
 ![](/img/mis-champu¦üs_paloquemao_2_gambasutra_003.jpg)
 
