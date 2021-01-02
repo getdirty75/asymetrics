@@ -89,7 +89,7 @@ Direct Links: [Soundcloud](https://soundcloud.com/the-asymetrics/asymetrics-mixt
 
 <br>
 
-[Miss Champús](https://www.instagram.com/misschampus/), whose name is inspired by Colombian everyday fruit beverage "[chanpús](https://es.wikipedia.org/wiki/Champ%C3%BAs)",  is a DJ/Producer born in Cali, Colombia and based in Bogotá.  
+**[Miss Champús](https://www.instagram.com/misschampus/)**, whose name is inspired by Colombian everyday fruit beverage "[chanpús](https://es.wikipedia.org/wiki/Champ%C3%BAs)",  is a DJ/Producer born in **Cali**, **Colombia** and based in **Bogota**.  
 
 Her musical style is a blend of different genres and sounds originating in the Colombian pacific region, combined with wider Colombian inspirations, and many others that represent Mother Africa and its history in the World, like Salsa, Champeta, Dancehall, Soukous, Moombahton and African Beats...
 
