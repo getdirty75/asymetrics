@@ -42,7 +42,7 @@ outsideLinks:
 
 Direct Links to full Mixtape: [Soundcloud](https://soundcloud.com/the-asymetrics/malongs-round-up-5) / [Mixcloud](https://www.mixcloud.com/The_Asymetrics/round-up-5/)
 
-## Let's start 2021 on a great note shall we? This 5th Round-Up will take you from Brazil to Korea, via Morocco, Turkey, and everything in between, with tunes past, present, and future that only have one aim: to make your ass shake!
+## Let's start 2021 on a great note shall we? This 5th Round-Up will take you from Brazil to Korea, via Morocco, Turkey, and everything in between, with tunes past, present, and future ...
 
 ## Featured tracks are:
 
@@ -308,7 +308,7 @@ Closing this Round-Up with sweet vibrations from Spanish rising group **[Çantam
 
 ## ***This wraps it up, hope you got recharged !***
 
-##  ***Want the full shebang? Listen to the mixtape:***
+## ***Want the full shebang? Listen to the mixtape:***
 
 <iframe width="100%" height="500" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/963319255&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/the-asymetrics" title="The Asymetrics" target="_blank" style="color: #cccccc; text-decoration: none;">The Asymetrics</a> · <a href="https://soundcloud.com/the-asymetrics/malongs-round-up-5" title="Malong&#x27;s Round-Up #5" target="_blank" style="color: #cccccc; text-decoration: none;">Malong&#x27;s Round-Up #5</a></div>
 
