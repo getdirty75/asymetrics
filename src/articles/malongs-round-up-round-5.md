@@ -42,7 +42,7 @@ outsideLinks:
 
 Direct Links to full Mixtape: [Soundcloud](https://soundcloud.com/the-asymetrics/malongs-round-up-5) / [Mixcloud](https://www.mixcloud.com/The_Asymetrics/round-up-5/)
 
-## Let's start 2021 on a fucking great note shall we? This 5th Round-Up will take you from Brazil to Korea, via Morocco, Turkey, and everything in between, with tunes past, present, and future that only have one aim: to make your ass shake!
+## Let's start 2021 on a great note shall we? This 5th Round-Up will take you from Brazil to Korea, via Morocco, Turkey, and everything in between, with tunes past, present, and future ...
 
 ## Featured tracks are:
 
@@ -54,17 +54,17 @@ Direct Links to full Mixtape: [Soundcloud](https://soundcloud.com/the-asymetrics
 
 ![](/img/pepe-sanchez.jpg)
 
-#### <br>
+<br>
 
 #### Intro!
 
-Long kept secret among serious diggers, this bombtune was originally released in 1976 on the album [Regresion](https://www.discogs.com/Pepe-Sanchez-Y-Su-Rock-Band-Regresion/master/1016660), [re-issued](https://www.discogs.com/Pepe-Sanchez-Y-Su-Rock-Band-Regresi%C3%B3n/release/8662582) a few years ago by the always-cutting-edge Spanish label [Pharaway Sounds](https://guerssen.com/sello.php?label=1433), and recently featured on mighty [Mr Bongo](https://www.mrbongo.com/)’s [latest record club edition](https://www.discogs.com/Various-Mr-Bongo-Record-Club-Volume-Four/master/1845470).
+Long kept secret among serious diggers, this bombtune was originally released in 1976 on the album **[Regresion](https://www.discogs.com/Pepe-Sanchez-Y-Su-Rock-Band-Regresion/master/1016660)**, [re-issued](https://www.discogs.com/Pepe-Sanchez-Y-Su-Rock-Band-Regresi%C3%B3n/release/8662582) a few years ago by the always-cutting-edge Spanish label **[Pharaway Sounds](https://guerssen.com/sello.php?label=1433)**, and recently featured on mighty [Mr Bongo](https://www.mrbongo.com/)’s [latest record club edition](https://www.discogs.com/Various-Mr-Bongo-Record-Club-Volume-Four/master/1845470).
 
 A highly sought-after session drummer in the 1970s, Sanchez conceived the whole album after being commissioned for what was meant to be a modern take on Flamenco and other Spanish Folklore. The result is a wonder of psychedelic jazz-rock with a flamenco and funk twist, full of insane drum breaks (samplers tip!).
 
-Pepe Sanchez went on to become one the most famous drummers in Spain, and has played with legends like Paco de Lucia or Enrique Iglesias, among many…
+**Pepe Sanchez** went on to become one the most famous drummers in Spain, and has played with legends like **Paco de Lucia** or **Enrique Iglesias**, among many…
 
-Asides from Sentimiento, the Pharaway re-edit contains the must-listens [Paisajes](https://www.youtube.com/watch?v=e9VeP_cDe2Q&feature=emb_logo), a totally tripped-out flamenco-ish jazz-funk mashup, and the ass-shaking disco-funk [Love Me](https://www.youtube.com/watch?v=vV3BIUePM70&feature=emb_logo) (originally released as a single only).
+Asides from **Sentimiento**, the Pharaway re-edit contains the must-listens **[Paisajes](https://www.youtube.com/watch?v=e9VeP_cDe2Q&feature=emb_logo)**, a totally tripped-out flamenco-ish jazz-funk mashup, and the ass-shaking disco-funk **[Love Me](https://www.youtube.com/watch?v=vV3BIUePM70&feature=emb_logo)** (originally released as a single only).
 
 <br>
 
@@ -76,9 +76,9 @@ Asides from Sentimiento, the Pharaway re-edit contains the must-listens [Paisaje
 
 A top breakdancer from the UK, [Ill Boogs](http://www.breakinbread.org/profile/ill-boogs.php) also dabbles with music production, always seeking beats that he can break to!
 
-He teamed up with the [Shelley Mack Band](https://shelleymackband.bandcamp.com/), a Brighton outlet also focusing on B-Boys friendly cuts to produce a [killer 45](https://djdsk.bandcamp.com/album/ill-boogs-shelley-mack-band) with [DNA Breaks](https://djdsk.bandcamp.com/music), a great label specialized in breaks, hip-hop, and scratch tools, brainchild of Asymetrics’ friend [DJ DSK](https://www.djdsk.com/).
+He teamed up with the **[Shelley Mack Band](https://shelleymackband.bandcamp.com/)**, a Brighton outlet also focusing on B-Boys friendly cuts to produce a [killer 45](https://djdsk.bandcamp.com/album/ill-boogs-shelley-mack-band) with **[DNA Breaks](https://djdsk.bandcamp.com/music)**, a great label specialized in breaks, hip-hop, and scratch tools, brainchild of Asymetrics’ friend **[DJ DSK](https://www.djdsk.com/)**.
 
-DJ DSK is a crazy scratch master living between the UK and China, whom I will write about more at length in the near future! All you need to know for now, is that he has the habit of scratching wherever he goes, **see for yourself:**
+**DJ DSK** is a crazy scratch master living between the UK and China, whom I will write about more at length in the near future! All you need to know for now, is that he has the habit of scratching wherever he goes, **see for yourself:**
 
 <iframe width="100%" height="380" src="https://www.youtube-nocookie.com/embed/sQYiwZHQm38" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen referrerpolicy="origin"></iframe>
 
@@ -98,13 +98,13 @@ DJ DSK is a crazy scratch master living between the UK and China, whom I will wr
 
 Moving to Brazil on this one. Oh well, rather Paris de Janeiro!
 
-Courtesy of Born Bad Record’s [Tchi-Tchic](https://shop.bornbadrecords.net/album/tchic-tchic-french-bossa-nova-1963-1974), a fascinating compilation of French Bossa from the 1960s and 70s, you can now hear this mad hit by Clarinha, also known as [Claire Chevalier](https://www.discogs.com/artist/1157632-Claire-Chevalier), or Claire Ferullo.
+Courtesy of **Born Bad** Record’s **[Tchi-Tchic](https://shop.bornbadrecords.net/album/tchic-tchic-french-bossa-nova-1963-1974)**, a fascinating compilation of French Bossa from the 1960s and 70s, you can now hear this mad hit by **Clarinha**, also known as [Claire Chevalier](https://www.discogs.com/artist/1157632-Claire-Chevalier), or Claire Ferullo.
 
-The super cheeky Bossa song sees Clarinha asking [Iemenja](https://en.wikipedia.org/wiki/Yem%E1%BB%8Dja), the Yoruba Goddess of water, also assimilated in Brazil to Immaculate Conception, for a very special tip: since she conceived without sinning, could she teach her to sin without conceiving? Revolutionary stuff in those times!
+The super cheeky Bossa song sees Clarinha asking **[Iemenja](https://en.wikipedia.org/wiki/Yem%E1%BB%8Dja)**, the Yoruba Goddess of water, also assimilated in Brazil to Immaculate Conception, for a very special tip: since she conceived without sinning, could she teach her to sin without conceiving? Revolutionary stuff in those times!
 
 The song came out as a 45 single back in 1970 and is a hard to find digger’s unicorn!
 
-If you’re in the mood for some more of that vibe, don’t miss the [Iemenja special session](https://www.youtube.com/watch?v=aT9H4K4kG84) recorded for Le Mellotron by [Epic Vinyls from Brazil](https://soundcloud.com/epic-vinyls-from-brazil).
+If you’re in the mood for some more of that vibe, don’t miss the [Iemenja special session](https://www.youtube.com/watch?v=aT9H4K4kG84) recorded for **Le Mellotron** by **[Epic Vinyls from Brazil](https://soundcloud.com/epic-vinyls-from-brazil)**.
 
 <br>
 
@@ -116,7 +116,7 @@ If you’re in the mood for some more of that vibe, don’t miss the [Iemenja sp
 
 <br>
 
-Oldies but goodies from the excellent Sao Paulo label [Funk Na Caixa](https://funknacaixa.bandcamp.com/), which specializes in Baile Funk and Rasterinha. This one is an extract from their 2014 [Rasterinha Vol 2.](https://funknacaixa.bandcamp.com/album/rasterinha-vol-2) compilation, and sees dj Kin heavily sampling the Cuica from massive Brazilian classic [Carolina Carol Bela](https://www.youtube.com/watch?v=3BnCet7xb6w) by Jorge Bem & Toquinho, which is the basis for Marky & XRS’ phenomenal Drum&Bass hit [LK featuring Stamina MC](https://www.youtube.com/watch?v=Xu9TuPhQWy4). Also sampled here is the beautiful Carolina by [Seu Jorge](https://en.wikipedia.org/wiki/Seu_Jorge), so I thought it was a good occasion to share this dazzling live take:
+Oldies but goodies from the excellent Sao Paulo label **[Funk Na Caixa](https://funknacaixa.bandcamp.com/)**, which specializes in Baile Funk and Rasterinha. This one is an extract from their 2014 [Rasterinha Vol 2.](https://funknacaixa.bandcamp.com/album/rasterinha-vol-2) compilation, and sees dj Kin heavily sampling the Cuica from massive Brazilian classic [Carolina Carol Bela](https://www.youtube.com/watch?v=3BnCet7xb6w) by **Jorge Bem & Toquinho**, which is the basis for **Marky & XRS**’ phenomenal Drum&Bass hit **[LK featuring Stamina MC](https://www.youtube.com/watch?v=Xu9TuPhQWy4)**. Also sampled here is the beautiful Carolina by **[Seu Jorge](https://en.wikipedia.org/wiki/Seu_Jorge)**, so I thought it was a good occasion to share this dazzling live take:
 
 <iframe width="100%" height="380" src="https://www.youtube-nocookie.com/embed/VwBIVWX8YtQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen referrerpolicy="origin"></iframe>
 
@@ -134,9 +134,9 @@ Oldies but goodies from the excellent Sao Paulo label [Funk Na Caixa](https://fu
 
 <br>
 
-Extracted from [Kiko Dinucci’s](https://pt.wikipedia.org/wiki/Kiko_Dinucci) widely acclaimed album [Rastilho](https://kikodinucci.bandcamp.com/album/rastilho), this is one of the best tunes I’ve heard in 2020!
+Extracted from **[Kiko Dinucci’s](https://pt.wikipedia.org/wiki/Kiko_Dinucci)** widely acclaimed album **[Rastilho](https://kikodinucci.bandcamp.com/album/rastilho)**, this is one of the **best tunes I’ve heard in 2020**!
 
-Accompanied by famous Brazilian rapper [Rodrigo Ogi](https://www.youtube.com/channel/UCD9g6o4oyy0_h9jyj_xuuGQ), the prodigal guitarist created a magnetic song about a dangerous encounter with the devil, where Brazilian folk vibes are galvanized by Dinucci’s percussive guitar play and hypnotic back-up chorus.
+Accompanied by famous Brazilian rapper **[Rodrigo Ogi](https://www.youtube.com/channel/UCD9g6o4oyy0_h9jyj_xuuGQ)**, the prodigal guitarist created a magnetic song about a dangerous encounter with the devil, where Brazilian folk vibes are galvanized by Dinucci’s percussive guitar play and hypnotic back-up chorus.
 
 The whole album is a must, check-out the below short doc about its making, straight up analog tape recording style:
 
@@ -156,9 +156,9 @@ The whole album is a must, check-out the below short doc about its making, strai
 
 <br>
 
-One of Gilles Peterson’s pet projects, [Sonzeira](https://gillespetersonpresentssonzeira.bandcamp.com/) was created when he set up his studio in Rio in 2014 and invited an all-star Brazilian cast, with Seu Jorge (him again!) or [Marcos Valle](https://en.wikipedia.org/wiki/Marcos_Valle) among many other legends.
+One of Gilles Peterson’s pet projects, [Sonzeira](https://gillespetersonpresentssonzeira.bandcamp.com/) was created when he set up his studio in Rio in 2014 and invited an all-star Brazilian cast, with **Seu Jorge** (him again!) or **[Marcos Valle](https://en.wikipedia.org/wiki/Marcos_Valle)** among many other legends.
 
-Samba de Piramide stems from the project’s last EP, [Tam Tam Tam Reimagined](https://gillespetersonpresentssonzeira.bandcamp.com/album/tam-tam-tam-reimagined), where Peterson had fun recreating one of his favorite records from the 1950s with a contemporary London bass vibe. He was accompanied by none other than [Rob Gallagher](https://www.discogs.com/artist/33967-Rob-Gallagher) (aka Earl Zinger); Will Horrocks of Hyperdub *protégé* [LV](https://www.discogs.com/artist/879705-LV-2) fame, and super UK drummer [Moses Boyd](https://en.wikipedia.org/wiki/Moses_Boyd). Check it!
+**Samba de Piramide** stems from the project’s last EP, [T**am Tam Tam Reimagined**](https://gillespetersonpresentssonzeira.bandcamp.com/album/tam-tam-tam-reimagined), where Peterson had fun recreating one of his favorite records from the 1950s with a contemporary London bass vibe. He was accompanied by none other than **[Rob Gallagher](https://www.discogs.com/artist/33967-Rob-Gallagher)** (aka Earl Zinger); Will Horrocks of Hyperdub *protégé* **[LV](https://www.discogs.com/artist/879705-LV-2)** fame, and super UK drummer **[Moses Boyd](https://en.wikipedia.org/wiki/Moses_Boyd)**. Check it!
 
 <br>
 
@@ -172,9 +172,9 @@ Samba de Piramide stems from the project’s last EP, [Tam Tam Tam Reimagined](h
 
 Anatolian dirty Electro-Rock with fuzzy synths? Say no more, this is my kinda jam to headbang to in front of my laptop, headphones way too loud…
 
-**Lalalar** are up & coming, and their short but impressive [discography](https://lalalar.bandcamp.com/music) so far consists of 3 insane 45s released with the hyper versatile Swiss outlet [Bongo Joe](https://lesdisquesbongojoe.bandcamp.com/), responsible among other groundbreaking things for a series of contemporary Turkish artists releases, such as psych-rock maverick [Altin Gün](https://altingunband.bandcamp.com/), or sweet-like-honey voice [Derya Yildirim](https://deryayildirimandgrupsimsek.bandcamp.com/album/kar-ya-ar).
+**Lalalar** are up & coming, and their short but impressive [discography](https://lalalar.bandcamp.com/music) so far consists of 3 insane 45s released with the hyper versatile Swiss outlet **[Bongo Joe](https://lesdisquesbongojoe.bandcamp.com/)**, responsible among other groundbreaking things for a series of contemporary Turkish artists releases, such as psych-rock maverick **[Altin Gün](https://altingunband.bandcamp.com/)**, or sweet-like-honey voice **[Derya Yildirim](https://deryayildirimandgrupsimsek.bandcamp.com/album/kar-ya-ar)**.
 
-Watch Lalalar blasting the crowd with punk energy in the clip below for another mad tune (Hata Benim Göbek), recorded live at Istanbul’s infamous [Babylon](https://ra.co/clubs/112939):
+Watch **Lalalar** blasting the crowd with punk energy in the clip below for another mad tune (*Hata Benim Göbek*), recorded live at Istanbul’s infamous [Babylon](https://ra.co/clubs/112939):
 
 <iframe width="100%" height="380" src="https://www.youtube-nocookie.com/embed/idPXILELGt8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen referrerpolicy="origin"></iframe>
 
@@ -192,9 +192,9 @@ Watch Lalalar blasting the crowd with punk energy in the clip below for another 
 
 <br>
 
-Inter-galactic Boogie from the Brussels/Agadir duo [Mameen 3](https://soundcloud.com/mameen3), again on the ever-cool [Disques Bongo Joe](https://lesdisquesbongojoe.bandcamp.com/) imprint.
+Inter-galactic Boogie from the Brussels/Agadir duo **[Mameen 3](https://soundcloud.com/mameen3)**, again on the ever-cool [Disques Bongo Joe](https://lesdisquesbongojoe.bandcamp.com/) imprint.
 
-Mameen 3 is the result of the encounter between Belgian veteran [DJ soFa](https://www.facebook.com/DeejaysoFa) and musical prodigy [Cheb Runner](https://www.chebrunner.com/) – a marriage made in Space!
+Mameen 3 is the result of the encounter between Belgian veteran **[DJ soFa](https://www.facebook.com/DeejaysoFa)** and musical prodigy **[Cheb Runner](https://www.chebrunner.com/)** – a marriage made in Space!
 
 <br>
 
@@ -208,9 +208,9 @@ Mameen 3 is the result of the encounter between Belgian veteran [DJ soFa](https:
 
 <br>
 
-BKCLX, also spelled [Black Classical](https://colectivofuturo.com/bkclx-x-s1212-colectivo-futurecast-050/), is the moniker of a very serious record collector from Manchester, notorious among diggers for his badass jazz collection. His Crazy long **Astrosonics Doctrine Spiritual Jazz** mixes ([Part 1](https://archive.org/details/BlackClassicalSpiritualJazz19552012) is 12h long, and [Part 2](https://archive.org/details/Astrosonics-Doctrine-Spiritual-Jazz-Volume-2) 18h !) are dreamy, and his regular [NTS radio shows](https://www.nts.live/shows/black-classical-history-of-spiritual-jazz) are a must for a proper trip into Spiritual Jazz.
+**BKCLX**, also spelled **[Black Classical](https://colectivofuturo.com/bkclx-x-s1212-colectivo-futurecast-050/)**, is the moniker of a very serious record collector from Manchester, notorious among diggers for his badass jazz collection. His Crazy long **Astrosonics Doctrine Spiritual Jazz** mixes ([Part 1](https://archive.org/details/BlackClassicalSpiritualJazz19552012) is 12h long, and [Part 2](https://archive.org/details/Astrosonics-Doctrine-Spiritual-Jazz-Volume-2) 18h !) are dreamy, and his regular [NTS radio shows](https://www.nts.live/shows/black-classical-history-of-spiritual-jazz) are a must for a proper trip into Spiritual Jazz.
 
-Sister’s Brew was extracted from a recent compilation titled [Door to the Cosmos](https://onthecornerrecords.bandcamp.com/album/door-to-the-cosmos-24-track-compilation), curated by the excellent [On the Corner](https://onthecornerrecords.bandcamp.com/music) label – highly recommended!
+Sister’s Brew was extracted from a recent compilation titled **[Door to the Cosmos](https://onthecornerrecords.bandcamp.com/album/door-to-the-cosmos-24-track-compilation)**, curated by the excellent **[On the Corner](https://onthecornerrecords.bandcamp.com/music)** label – highly recommended!
 
 I picked this track for its stand-out groove, somewhere between Dub, Afrobeat, and 90’s Trip Hop.
 
@@ -230,11 +230,11 @@ Although quite discrete online and production-wise, you can hear BKCLX’s full 
 
 <br>
 
-Fire future Bass music by Korean Brooklynite [Yaeji](https://en.wikipedia.org/wiki/Yaeji).
+Fire future Bass music by Korean Brooklynite **[Yaeji](https://en.wikipedia.org/wiki/Yaeji)**.
 
-I picked this tune for its darker vibe but the whole [What We Drew](https://kraejiyaeji.bandcamp.com/album/what-we-drew-extended-edition) album, released in April last year, is a bomb!
+I picked this tune for its darker vibe but the whole **[What We Drew](https://kraejiyaeji.bandcamp.com/album/what-we-drew-extended-edition)** album, released in April last year, is a bomb!
 
-A step further from her earlier productions, which were rather on a chill Hip-Hop /House vibe, this latest album is difficult to label. It’s like, cute pop meets UK Bass, Jungle and Techno, sung in English and Korean, with some Nintendo vibes thrown around – just check it for yourself, tracks like [In Place](https://kraejiyaeji.bandcamp.com/track/in-place-1) or [Money Can’t buy](https://kraejiyaeji.bandcamp.com/track/money-cant-buy-1) are amazing pieces that set the bar real high…
+A step further from her earlier productions, which were rather on a chill Hip-Hop /House vibe, this latest album is difficult to label. It’s like, cute pop meets UK Bass, Jungle and Techno, sung in English and Korean, with some Nintendo vibes thrown around – just check it for yourself, tracks like **[In Place](https://kraejiyaeji.bandcamp.com/track/in-place-1)** or **[Money Can’t buy](https://kraejiyaeji.bandcamp.com/track/money-cant-buy-1)** are amazing pieces that set the bar real high…
 
 If , like me, you can’t get enough, check Yaeji’s insane Boiler Room session recorded from her sofa:
 
@@ -254,11 +254,11 @@ If , like me, you can’t get enough, check Yaeji’s insane Boiler Room session
 
 <br>
 
-Rapper, Activist, Poet, multi-talent from South Central L.A., [Def Sound](https://www.instagram.com/def.sound/) is clearly very influenced by Saul Williams, but also absorbs all sorts of contemporary (or timeless) sounds in a beautiful album titled [Huem-N](https://defsound.bandcamp.com/album/huem-n).
+Rapper, Activist, Poet, multi-talent from South Central L.A., **[Def Sound](https://www.instagram.com/def.sound/)** is clearly very influenced by Saul Williams, but also absorbs all sorts of contemporary (or timeless) sounds in a beautiful album titled **[Huem-N](https://defsound.bandcamp.com/album/huem-n)**.
 
-Perhaps **my favorite track of 2020**, I got absorbed into Black Symposium by the Jungle Jazz vibe it oozes (remember late 90’s Bill Laswell, or Erik Truffaz – yeah that sound!). Then I got fully captivated by Def Sound and Bay Davis’ deep poetry and crucial reflection on being Black in the US in 2020 – a masterpiece!
+Perhaps **my favorite track of 2020**, I got absorbed into **Black Symposium** by the Jungle Jazz vibe it oozes (remember late 90’s Bill Laswell, or Erik Truffaz – yeah that sound!). Then I got fully captivated by Def Sound and Bay Davis’ deep poetry and crucial reflection on being Black in the US in 2020 – a masterpiece!
 
-Follow [Def Jam’s Channel](https://www.youtube.com/channel/UCU8rpHSKO3ZCbnew5zCeYDw) to see more of his super creative work, and check-out the below video for his tune ***Struck!***, filmed with friends during lockdown and full of good vibes.
+Follow [Def Sound’s Channel](https://www.youtube.com/channel/UCU8rpHSKO3ZCbnew5zCeYDw) to see more of his super creative work, and check-out the below video for his tune ***Struck!***, filmed with friends during lockdown and full of good vibes.
 
 I hope to hear more of Def Sound in the near future, this is super promising stuff – watch this space!
 
@@ -278,13 +278,13 @@ I hope to hear more of Def Sound in the near future, this is super promising stu
 
 [](https://www.instagram.com/almadelaselva/)<br>
 
-[Alma](https://www.instagram.com/almadelaselva/) is [Santiago Morales](https://www.instagram.com/santiagom27/), member of the Bogota based collective [Sello Indio](https://www.youtube.com/channel/UCrGoqO8rDnZyz_lEVj8p4Gg), specializing in Hip-Hop andBeats – listen to their [great compilations](https://selloindio.bandcamp.com/music) for an exploration into the Colombian scene.
+**[Alma](https://www.instagram.com/almadelaselva/)** is **[Santiago Morales](https://www.instagram.com/santiagom27/),** member of the Bogota based collective **[Sello Indio](https://www.youtube.com/channel/UCrGoqO8rDnZyz_lEVj8p4Gg)**, specializing in Hip-Hop and Beats – listen to their [great compilations](https://selloindio.bandcamp.com/music) for an exploration into the Colombian scene.
 
-Tierra is part of an LP called [De la Selva](https://almadelaselva66.bandcamp.com/album/de-la-selva), a very chilled patchwork of beats and samples inspired by Colombian grooves and Indigenous instruments.
+**Tierra** is part of an LP called **[De la Selva](https://almadelaselva66.bandcamp.com/album/de-la-selva)**, a very chilled patchwork of beats and samples inspired by Colombian grooves and Indigenous instruments.
 
-Also worth checking out is the album’s artwork creator, artistSergio Alferez aka [Saga Uno](https://www.instagram.com/sagauno/), who is behind a [recent music video for Stephanie Santiago](https://www.youtube.com/watch?v=QPqfjSCI03k&feature=youtu.be) (over one of Alma’s beats).
+Also worth checking out is the album’s artwork creator, artist Sergio Alferez aka **[Saga Uno](https://www.instagram.com/sagauno/)**, who is behind a [recent music video for **Stephanie Santiago**](https://www.youtube.com/watch?v=QPqfjSCI03k&feature=youtu.be) (over one of Alma’s beats).
 
-The LP’s main title ***“Alma”*** also came with a gorgeous video by[ Mateo Ramirez](https://www.instagram.com/mateorm54/):
+The LP’s main title ***“Alma”*** also came with a gorgeous video by[ **Mateo Ramirez**](https://www.instagram.com/mateorm54/):
 
 <iframe width="100%" height="380" src="https://www.youtube-nocookie.com/embed/MIa4lNhPaa8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
@@ -302,11 +302,13 @@ The LP’s main title ***“Alma”*** also came with a gorgeous video by[ Mateo
 
 <br>
 
-Closing this Round-Up with sweet vibrations from Spanish rising group [Çantamarta](https://www.instagram.com/santamarta._/?hl=en), whose first hit [Lluvia](https://www.youtube.com/watch?v=CNZfwav1FTE) was so good it got picked by Global Bass star [Daniel Haaksman](https://danielhaaksmanofficial.bandcamp.com/music) for a dancefloor spin! No blabla, just listen...
+Closing this Round-Up with sweet vibrations from Spanish rising group **[Çantamarta](https://www.instagram.com/santamarta._/?hl=en)**, whose first hit **[Lluvia](https://www.youtube.com/watch?v=CNZfwav1FTE)** was so good it got picked by Global Bass star **[Daniel Haaksman](https://danielhaaksmanofficial.bandcamp.com/music)** for a dancefloor spin! No blabla, just listen...
 
 <br>
 
-## ***This wraps it up, trust you got recharged - Want the full shebang? Listen to the mixtape:***
+## ***This wraps it up, hope you got recharged !***
+
+## ***Want the full shebang? Listen to the mixtape:***
 
 <iframe width="100%" height="500" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/963319255&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/the-asymetrics" title="The Asymetrics" target="_blank" style="color: #cccccc; text-decoration: none;">The Asymetrics</a> · <a href="https://soundcloud.com/the-asymetrics/malongs-round-up-5" title="Malong&#x27;s Round-Up #5" target="_blank" style="color: #cccccc; text-decoration: none;">Malong&#x27;s Round-Up #5</a></div>
 
