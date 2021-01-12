@@ -204,6 +204,10 @@ Although quite discrete online and production-wise, you can hear BKCLX’s full 
 
 <iframe src="https://player.vimeo.com/video/120203742" width="100%" height="380" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
+<br>
+
+<br>
+
 #### **Yaeji – The Th1ng**
 
 <iframe style="border: 0; width: 100%; height: 42px;" src="https://bandcamp.com/EmbeddedPlayer/album=3179775898/size=small/bgcol=ffffff/linkcol=0687f5/track=572746361/transparent=true/" seamless><a href="https://kraejiyaeji.bandcamp.com/album/what-we-drew-extended-edition">WHAT WE DREW 우리가 그려왔던 (Extended Edition) by Yaeji</a></iframe>
@@ -276,7 +280,7 @@ The LP’s main title ***“Alma”*** also came with a gorgeous video by[ Mateo
 
 <br>
 
-**Çantamarta & Daniel Haaksman - Lluvia**
+#### **Çantamarta & Daniel Haaksman - Lluvia**
 
 <iframe style="border: 0; width: 100%; height: 42px;" src="https://bandcamp.com/EmbeddedPlayer/album=1063877843/size=small/bgcol=ffffff/linkcol=0687f5/track=4086367549/transparent=true/" seamless><a href="https://danielhaaksmanofficial.bandcamp.com/album/lluvia-2">Lluvia by Daniel Haaksman, Çantamarta</a></iframe>
 
