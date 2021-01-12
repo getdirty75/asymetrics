@@ -42,6 +42,8 @@ Direct Links to full Mixtape: [Soundcloud](https://soundcloud.com/the-asymetrics
 
 ![](/img/pepe-sanchez.jpg)
 
+#### <br>
+
 #### Intro!
 
 Long kept secret among serious diggers, this bombtune was originally released in 1976 on the album [Regresion](https://www.discogs.com/Pepe-Sanchez-Y-Su-Rock-Band-Regresion/master/1016660), [re-issued](https://www.discogs.com/Pepe-Sanchez-Y-Su-Rock-Band-Regresi%C3%B3n/release/8662582) a few years ago by the always-cutting-edge Spanish label [Pharaway Sounds](https://guerssen.com/sello.php?label=1433), and recently featured on mighty [Mr Bongo](https://www.mrbongo.com/)’s [latest record club edition](https://www.discogs.com/Various-Mr-Bongo-Record-Club-Volume-Four/master/1845470).
@@ -288,4 +290,12 @@ The LP’s main title ***“Alma”*** also came with a gorgeous video by[ Mateo
 
 <br>
 
-Closing this Round-Up with sweet vibrations from Spanish rising group [Çantamarta](https://www.instagram.com/santamarta._/?hl=en), whose first hit [Lluvia](https://www.youtube.com/watch?v=CNZfwav1FTE) was so good it got picked by Global Bass star [Daniel Haaksman](https://danielhaaksmanofficial.bandcamp.com/music)! No blabla, just listen !
+Closing this Round-Up with sweet vibrations from Spanish rising group [Çantamarta](https://www.instagram.com/santamarta._/?hl=en), whose first hit [Lluvia](https://www.youtube.com/watch?v=CNZfwav1FTE) was so good it got picked by Global Bass star [Daniel Haaksman](https://danielhaaksmanofficial.bandcamp.com/music) for a dancefloor spin! No blabla, just listen...
+
+<br>
+
+## ***This wraps it up, trust you got recharged - Want the full shebang? Listen to the mixtape:***
+
+<iframe width="100%" height="500" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/963319255&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/the-asymetrics" title="The Asymetrics" target="_blank" style="color: #cccccc; text-decoration: none;">The Asymetrics</a> · <a href="https://soundcloud.com/the-asymetrics/malongs-round-up-5" title="Malong&#x27;s Round-Up #5" target="_blank" style="color: #cccccc; text-decoration: none;">Malong&#x27;s Round-Up #5</a></div>
+
+## ***Stay safe & keep digging!***
