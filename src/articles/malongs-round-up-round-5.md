@@ -30,13 +30,13 @@ date: 2021-01-12T02:11:38.077Z
 
 Direct Links to full Mixtape: [Soundcloud](https://soundcloud.com/the-asymetrics/malongs-round-up-5) / [Mixcloud](https://www.mixcloud.com/The_Asymetrics/round-up-5/)
 
-## Let's start 2021 on a fucking great note shall we? This 5th Round-Up will take you from Brazil to Korea, via Morocco, Turkey, and everything in between, with tunes past, present, and future that only have one purpose: to make your ass shake!
+## Let's start 2021 on a fucking great note shall we? This 5th Round-Up will take you from Brazil to Korea, via Morocco, Turkey, and everything in between, with tunes past, present, and future that only have one aim: to make your ass shake!
 
-## Featured tracks are: 
+## Featured tracks are:
 
 <br>
 
-#### **Pepe Sanchez y Su Rock Band – Sentimiento**
+**Pepe Sanchez y Su Rock Band – Sentimiento**
 
 <iframe style="border: 0; width: 100%; height: 42px;" src="https://bandcamp.com/EmbeddedPlayer/album=1354777608/size=small/bgcol=ffffff/linkcol=0687f5/track=3849310832/transparent=true/" seamless><a href="https://mrbongo.bandcamp.com/album/mr-bongo-record-club-4">Mr Bongo Record Club 4 by Pepe Sanchez</a></iframe>
 
@@ -204,9 +204,6 @@ Although quite discrete online and production-wise, you can hear BKCLX’s full 
 
 <iframe src="https://player.vimeo.com/video/120203742" width="100%" height="380" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
-
-
-
 #### **Yaeji – The Th1ng**
 
 <iframe style="border: 0; width: 100%; height: 42px;" src="https://bandcamp.com/EmbeddedPlayer/album=3179775898/size=small/bgcol=ffffff/linkcol=0687f5/track=572746361/transparent=true/" seamless><a href="https://kraejiyaeji.bandcamp.com/album/what-we-drew-extended-edition">WHAT WE DREW 우리가 그려왔던 (Extended Edition) by Yaeji</a></iframe>
@@ -283,6 +280,8 @@ The LP’s main title ***“Alma”*** also came with a gorgeous video by[ Mateo
 
 <iframe style="border: 0; width: 100%; height: 42px;" src="https://bandcamp.com/EmbeddedPlayer/album=1063877843/size=small/bgcol=ffffff/linkcol=0687f5/track=4086367549/transparent=true/" seamless><a href="https://danielhaaksmanofficial.bandcamp.com/album/lluvia-2">Lluvia by Daniel Haaksman, Çantamarta</a></iframe>
 
+![](/img/cantamarta.jpg)
 
+<br>
 
 Closing this Round-Up with sweet vibrations from Spanish rising group [Çantamarta](https://www.instagram.com/santamarta._/?hl=en), whose first hit [Lluvia](https://www.youtube.com/watch?v=CNZfwav1FTE) was so good it got picked by Global Bass star [Daniel Haaksman](https://danielhaaksmanofficial.bandcamp.com/music)! No blabla, just listen !
