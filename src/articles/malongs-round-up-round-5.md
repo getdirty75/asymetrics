@@ -23,6 +23,18 @@ tags:
   - "#Morocco"
   - "#Colombia"
 date: 2021-01-12T02:11:38.077Z
+outsideLinks:
+  outsideLinksList:
+    - text: The Round-up Videos playlist
+      link: https://www.youtube.com/playlist?list=PLZtgNolXlRSRmC3zZSi2iXAE-4OaIkVj2
+    - text: "Malong's Round-Up #4"
+      link: https://theasymetrics.com/blog/malongs-round-up-round-4/
+    - link: https://theasymetrics.com/blog/malongs-round-up-round-3/
+      text: "Malong's Round-Up #3"
+    - link: https://theasymetrics.com/blog/malongs-round-up-2nd-mixtape/
+      text: "Malong's Round-Up #2"
+    - text: Asymetrics Random Selections (Dec 2020)
+      link: https://theasymetrics.com/blog/asymetrics-random-selection-december-2020/
 ---
 ![](/img/cover.jpg "©Lord Sandwich")
 
