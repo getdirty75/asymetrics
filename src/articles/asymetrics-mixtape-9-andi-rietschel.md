@@ -17,6 +17,16 @@ tags:
   - "#Bass"
   - "#Asymetricstapes"
 date: 2021-01-16T02:05:04.073Z
+outsideLinks:
+  outsideLinksList:
+    - text: Andi from the Leipzig Tribe of Peace
+      link: https://andirietschel.wordpress.com/
+    - text: Andi on Soundcloud
+      link: https://soundcloud.com/andi-rietschel
+    - text: "Asymetrics Mixtape #8: Miss Champús"
+      link: https://theasymetrics.com/blog/asymetrics-mixtape-8-miss-champ%C3%BAs/
+    - text: "Malong Round-Up #5"
+      link: https://theasymetrics.com/blog/malongs-round-up-round-5/
 ---
 ![](/img/cover_art.jpg)
 
@@ -83,4 +93,4 @@ His dj sets are compose of beats from the Middle East, Cumbia, Afrohouse, SouthA
 
 
 
-### Find Out more about Andi on [His Website](www.andirietschel.de) / [Soundcloud](www.soundcloud.com/andi-rietschel)
+### Find Out more about Andi on [His Website](https://andirietschel.wordpress.com/) / [Soundcloud](https://soundcloud.com/andi-rietschel)
