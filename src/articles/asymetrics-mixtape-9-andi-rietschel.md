@@ -30,8 +30,6 @@ outsideLinks:
 ---
 ![](/img/cover_art.jpg)
 
-
-
 <br>
 
 Direct Links: [Soundcloud ](https://soundcloud.com/the-asymetrics/asymetrics-mixtape-9-andi-rietschel-tribe-of-beats?in=the-asymetrics/sets/the-asymetrics-mixtapes)/ [Youtube](https://www.youtube.com/watch?v=17uab_zhPT8)
@@ -44,13 +42,11 @@ Direct Links: [Soundcloud ](https://soundcloud.com/the-asymetrics/asymetrics-mix
 
 ### Tracklist:
 
-
-
 **01 Balraj Singh Samrai & Pandit G., Gavsborg & Farah Ahmad Khan & Shanique Marie & Tunde Adekoya & Vikaash** - I Should Have Hugged You Tighter When We Last Met (Oh What a Joy)\
 02 **James Stewart feat. Ayuune Sule** - Where Are You Going? (SMBD People Dub)\
 03 **Vibronics feat. Professa Natti** - R.A.S.T.A.F.A.R.I.\
 04 **Taiwan MC ft. Jamalski** - Life Ain’t Easy\
-05 **Amparanoia** - Mi Genetica\
+05 **Inna de yard** - Let The Water Run Dry feat. Ken Boothe (Barrio Katz edit)\
 06 **Zentrip Muzik ft. Karen Christine** - Aguita (Yemanjo remix)\
 07 **Afrosideral** - A Mi Me Llamo El Tambor\
 08 **Ameme ft. Don Bello Ni** - Patchido - One Tribe NYC\
@@ -63,7 +59,7 @@ Direct Links: [Soundcloud ](https://soundcloud.com/the-asymetrics/asymetrics-mix
 15 **Airto Moreira** - Aluê (dj Chap edit)\
 16 **Azhot** – Inlandsis
 
-17 **Kumpania Algazarra** - Let's Go - Dr Rre & Sam Rabam remix
+17 **Kumpania Algazarra** - Let's Go - Dr Fre & Sam Rabam remix
 
 18 **Gülden Karaböcek** - Adaletin Bu Mu Dünya (Martyn Zij remix)\
 19 **Malkia Band, Lion Waceke, Foozak & Dylan s** - Ukaa\
@@ -94,7 +90,5 @@ I thought of the friends I usually dance with, thought of the people who usually
 **Andi** is a peace activist & dreamer, dj and storyteller… from Leipzig, Germany. He is the organizer of the Peace Dance Festival, where he blends different styles - tribal beats from all over the world - no borders...
 
 His dj sets are compose of beats from the Middle East, Cumbia, Afrohouse, SouthAmerican Organic Electro, Tribal Drum&Bass, Trance, Reggae and Dub, Gypsy, Bhangra and so much more...
-
-
 
 ### Find Out more about Andi on [His Website](https://andirietschel.wordpress.com/) / [Soundcloud](https://soundcloud.com/andi-rietschel)
