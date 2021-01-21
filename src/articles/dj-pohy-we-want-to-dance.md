@@ -29,13 +29,27 @@ outsideLinks:
 
 Direct Links: [](https://soundcloud.com/the-asymetrics/asymetrics-mixtape-9-andi-rietschel-tribe-of-beats?in=the-asymetrics/sets/the-asymetrics-mixtapes)[Soundcloud](https://soundcloud.com/the-asymetrics/dj-pohy-we-want-to-dance-best-of-2020-db) / [Youtube](https://www.youtube.com/watch?v=R07c0j7HrZI)
 
-### Exclusive Mix recorded by DJ Pohy for The Asymetrics, reviewing the best of this past year's Drum & Bass tunes & some more - a proper cure for these dark, locked-in, winter days !
+### Exclusive Mix recorded by DJ Pohy for The Asymetrics, reviewing the best of this past year's Drum & Bass tunes (61 Tracks !) - a proper cure for these dark, locked-in, winter days !
 
 ### Put your headphones on and go crazy !
+
+
+
+
 
 <br>
 
 <iframe width="100%" height="600" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/969643048&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/the-asymetrics" title="The Asymetrics" target="_blank" style="color: #cccccc; text-decoration: none;">The Asymetrics</a> · <a href="https://soundcloud.com/the-asymetrics/dj-pohy-we-want-to-dance-best-of-2020-db" title="DJ Pohy - We Want to Dance ! (Best of 2020 D&amp;B)" target="_blank" style="color: #cccccc; text-decoration: none;">DJ Pohy - We Want to Dance ! (Best of 2020 D&amp;B)</a></div>
+
+
+
+<br>
+
+Our mate Dj Pohy from the cold North of France went in for this 2 hour long dark junglist ride...
+
+Fierce selections, tuff breaks, ravey vocals, ragga chops...the whole thing just makes you want to go back in the clubs & bust some moves ! 
+
+We Want To Dance ! 
 
 ### Tracklist
 
