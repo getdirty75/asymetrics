@@ -10,14 +10,26 @@ tags:
   - "#Jungle"
   - "#D&B"
 date: 2021-01-16T02:05:04.073Z
+outsideLinks:
+  outsideLinksList:
+    - text: Dj Pohy
+      link: https://www.facebook.com/DjPohy
+    - text: Pohy's Asymetrics Charts
+      link: https://youtu.be/AUY2MChRnQY?list=PLZtgNolXlRSRNkQl5aYExapQBP3fqn0hv
+    - link: https://rinse.fr/artists/one-more-tune/
+      text: One More Tune
+    - text: Safe Travel
+      link: https://www.radiocampusparis.org/emission/safe-travel/
+    - text: Malong's Backtracking Selecta (Jungle)
+      link: https://theasymetrics.com/blog/malong%E2%80%99s-backtracking-selecta/
 ---
 ![](/img/theasymetrics_djpohy_we_want_to_dance.png)
 
 <br>
 
-Direct Links: [](https://soundcloud.com/the-asymetrics/asymetrics-mixtape-9-andi-rietschel-tribe-of-beats?in=the-asymetrics/sets/the-asymetrics-mixtapes)[Soundcloud](https://soundcloud.com/the-asymetrics/dj-pohy-we-want-to-dance-best-of-2020-db) / Youtube
+Direct Links: [](https://soundcloud.com/the-asymetrics/asymetrics-mixtape-9-andi-rietschel-tribe-of-beats?in=the-asymetrics/sets/the-asymetrics-mixtapes)[Soundcloud](https://soundcloud.com/the-asymetrics/dj-pohy-we-want-to-dance-best-of-2020-db) / [Youtube](https://www.youtube.com/watch?v=R07c0j7HrZI)
 
-### Exclusive selection by DJ Pohy, containing the best of this past year's Drum & Bass tunes - a cure for these dark, locked-in, winter days !
+### Exclusive selection by DJ Pohy, containing the best of this past year's Drum & Bass tunes & some more - a proper cure for these dark, locked-in, winter days !
 
 ### Put your headphones on and go crazy !
 
