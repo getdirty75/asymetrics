@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
 title: DJ Pohy - We Want to Dance !
-teaser: DJ Pohy presents... We Want to Dance ! (Best of 2020 D&B)
+teaser: DJ Pohy presents... We Want to Dance ! (Best of 2020 Drum & Bass)
 featuredimage: /img/theasymetrics_djpohy_we_want_to_dance.png
 author: Asymetric
 categories: mixtapes
