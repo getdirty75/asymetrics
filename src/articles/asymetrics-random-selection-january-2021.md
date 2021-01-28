@@ -15,7 +15,22 @@ tags:
   - "#Disco"
   - "#Dub"
   - "#Jazz"
+  - "#Greece"
+  - "#Brazil"
+  - "#Mozambique"
 date: 2021-01-28T02:59:25.004Z
+outsideLinks:
+  outsideLinksList:
+    - link: https://www.youtube.com/channel/UCjm0hKdlJVNA5X3U3KEhEow
+      text: The Asymetrics Channel
+    - text: "Asymetrics Mixtape #9: Andi Rietschel"
+      link: https://theasymetrics.com/blog/asymetrics-mixtape-9-andi-rietschel/
+    - text: "Malong's Round-Up #5"
+      link: https://theasymetrics.com/blog/malongs-round-up-round-5/
+    - text: 7 Legendary Mixtapes
+      link: https://theasymetrics.com/blog/7-legendary-mixtapes
+    - text: "Asymetrics Mixtape #8: Miss Champús"
+      link: https://theasymetrics.com/blog/asymetrics-mixtape-8-miss-champ%C3%BAs/
 ---
 ![](/img/asymetrics-team-force-january-2021.jpg)
 
@@ -94,3 +109,15 @@ Direct Link: [The Asymetrics Channel](https://www.youtube.com/playlist?list=PLZt
 #### **Art Ensemble of Chicago - Theme de Yoyo**
 
 <iframe width="100%" height="315" src="https://www.youtube-nocookie.com/embed/PppJOrnVtkg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen referrerpolicy="origin"></iframe>
+
+<br>
+
+<br>
+
+<br>
+
+### Dig it?
+
+### Check the full playlist below, & subscribe to The Asymetrics YouTube Channel!
+
+<iframe width="100%" height="380" src="https://www.youtube-nocookie.com/embed/videoseries?list=PLZtgNolXlRSSU9wGUroTgURHYtRGpccEq" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen referrerpolicy="origin"></iframe>
