@@ -1,8 +1,8 @@
 ---
 templateKey: blog-post
 title: Asymetrics Random Selection - January 2021
-teaser: A few tunes, new & old, for you & yours, dug-up from all corners of the
-  interwebz & brought to you by the Asymetrics Team Force !
+teaser: Every month, 9 tunes new & old, for you & yours, dug-up from all corners
+  of the interwebz & brought to you by the Asymetrics Team Force !
 featuredimage: /img/asymetrics-team-force-january-2021.jpg
 author: Asymetric
 categories: mixtapes
