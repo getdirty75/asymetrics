@@ -13,6 +13,14 @@ tags:
   - "#Mixtape"
   - "#Asymetricstapes"
 date: 2021-01-29T03:25:20.404Z
+outsideLinks:
+  outsideLinksList:
+    - text: Earl's Sound
+      link: https://soundcloud.com/earlgateshead
+    - text: Earl's Discography
+      link: https://www.discogs.com/artist/189964-Earl-Gateshead?type=Credits&filter_anv=0
+    - text: Trojan Sound System
+      link: https://trojanrecords.com/trojan-sound-system/
 ---
 ![](/img/theasymetrics_earl_gateshead.jpg)
 
@@ -28,9 +36,7 @@ Direct Links: [Soundcloud](https://soundcloud.com/the-asymetrics/asymetrics-mixt
 
 *Here is **« Hopeful Village »,** 1 hour of true musical love by one of Great Britain’s finest selectors : the legendary [Earl Gateshead](https://trojanrecords.com/earl-gateshead/) !*
 
-*When we wrote to Earl last year to request a mix we didn’t know if he would think much of our humble website…*
-
-*To our surprise he said OK, and a few weeks later he dropped this amazing selection of original jamaican records in our inbox !*
+*When we wrote to Earl last year to request a mix we didn’t know if he would think much of our humble website… To our surprise he said OK, and a few weeks later he dropped this amazing selection of original jamaican records in our inbox !*
 
 *After a moment of happy dance due to receiving material from a worldwide renowned veteran selector, we listened to the audio file & had to do more happy dancing because it was pure fire coming out of the speakers !*
 
