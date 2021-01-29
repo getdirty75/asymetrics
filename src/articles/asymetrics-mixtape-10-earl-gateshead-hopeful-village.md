@@ -44,11 +44,11 @@ Direct Links: [Soundcloud](https://soundcloud.com/the-asymetrics/asymetrics-mixt
 
 *Here is **« Hopeful Village »,** 1 hour of true musical love by one of Great Britain’s finest selectors : the legendary [Earl Gateshead](https://trojanrecords.com/earl-gateshead/) !*
 
-*When we wrote to Earl last year to request a mix we didn’t know if he would think much of our humble website… To our surprise he said OK, and a few weeks later he dropped this amazing selection of original jamaican records in our inbox !*
+*When we wrote to Earl last year to request a mix we didn’t know if he would think much of our humble website… To our surprise he said OK, and a few weeks later he dropped this amazing selection of original Jamaican records in our inbox !*
 
 *After a moment of happy dance due to receiving material from a worldwide renowned veteran selector, we listened to the audio file & had to do more happy dancing because it was pure fire coming out of the speakers !*
 
-*Earl is a serious selector, no doubt, he even shared a few words of wisdom on the mic in between those wicked tunes, talking about the importance of asymmetry & the people who don’t fit in mainstream society!*
+*Earl is a serious selector, no doubt, and he even shared a few words of wisdom on the mic in between those wicked tunes, talking about the importance of asymmetry & people who don’t fit in mainstream society!*
 
 ### ***Yeah Yeah !***
 
@@ -100,6 +100,8 @@ Direct Links: [Soundcloud](https://soundcloud.com/the-asymetrics/asymetrics-mixt
 
 ![](/img/theasymetrics_earl_gateshead_live.jpg)
 
+<br>
+
 **Earl Gateshead** begins his musical journey in the late 70’s, playing reggae records between punk bands in Brixton…
 
 Earl spreads a positive message of love, inspired by Jamaica’s golden era of roots music…
@@ -128,6 +130,6 @@ He produces podcasts & goes out doing interviews of many UK artists on his socia
 
 World renowned graffiti artist **Banksy** asks Earl to D.J at the first three exhibitions of his work. Earl Gateshead is the only dj Banksy has worked with up to date !
 
-With such a distinguished career and fantastic attitude, Earl has become a figurehead in the UK Reggae scene, and has played in many important clubs, festivals & events through out the world…
+With such a distinguished career and fantastic attitude, Earl has become a figurehead in the UK Reggae scene, and has played in many important clubs, festivals & events throughout the world…
 
 ### **Find Out more about Earl: [Facebook](https://www.facebook.com/EarlGateshead/) / [Soundcloud](https://soundcloud.com/earlgateshead) / [IG](https://www.instagram.com/earlgateshead/?hl=en)**
