@@ -82,7 +82,7 @@ Here is **« Hopeful Village »,** 1 hour of true musical love by one of Great B
 
 ***Willie Williams - Get Ready***
 
-***Reach Out - Phil Pratt***
+***Phil Pratt - Reach Out***  
 
 ***Dennis & Lionel - Rebel Woman***
 
