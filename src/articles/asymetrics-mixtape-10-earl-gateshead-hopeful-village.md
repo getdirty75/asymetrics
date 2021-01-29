@@ -18,9 +18,7 @@ date: 2021-01-29T03:25:20.404Z
 
 <br>
 
-Direct Links:
-
-
+Direct Links: [Soundcloud](https://soundcloud.com/the-asymetrics/asymetrics-mixtape-10-earl-gateshead-hopeful-village) / [Youtube](https://www.youtube.com/watch?v=Ow-9R1g-jV8)
 
 ### ***Earl Gateshead Presents… Hopeful Village***
 
@@ -36,13 +34,11 @@ Direct Links:
 
 *After a moment of happy dance due to receiving material from a worldwide renowned veteran selector, we listened to the audio file & had to do more happy dancing because it was pure fire coming out of the speakers !*
 
-*Earl is a serious selector, no doubt, he even shared a few words of wisdom on the mic in between those wicked tunes, talking about the importance of asymmetry & the people who don’t fit in the mainstream society!*
+*Earl is a serious selector, no doubt, he even shared a few words of wisdom on the mic in between those wicked tunes, talking about the importance of asymmetry & the people who don’t fit in mainstream society!*
 
 ### ***Yeah Yeah !***
 
-
-
-
+<iframe width="100%" height="600" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/974911783&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/the-asymetrics" title="The Asymetrics" target="_blank" style="color: #cccccc; text-decoration: none;">The Asymetrics</a> · <a href="https://soundcloud.com/the-asymetrics/asymetrics-mixtape-10-earl-gateshead-hopeful-village" title="Asymetrics Mixtape #10: Earl Gateshead - Hopeful Village" target="_blank" style="color: #cccccc; text-decoration: none;">Asymetrics Mixtape #10: Earl Gateshead - Hopeful Village</a></div>
 
 ### **Tracklist:**
 
