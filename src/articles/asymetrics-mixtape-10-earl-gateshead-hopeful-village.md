@@ -21,6 +21,14 @@ outsideLinks:
       link: https://www.discogs.com/artist/189964-Earl-Gateshead?type=Credits&filter_anv=0
     - text: Trojan Sound System
       link: https://trojanrecords.com/trojan-sound-system/
+    - text: "Taiwan MC: Special Request"
+      link: https://theasymetrics.com/blog/special-request/
+    - text: "Asymetrics Mixtape #5: Marshall Neeko"
+      link: https://theasymetrics.com/blog/asymetrics-mixtape-5-marshall-neeko/
+    - text: "Asymetrics Mixtape #3: Fatta"
+      link: https://theasymetrics.com/blog/asymetrics-mixtape-3-fatta/
+    - text: "Asymetrics Mixtape #1: Satta Don Dada"
+      link: https://theasymetrics.com/blog/asymetrics-mixtape-1-satta-don-dada/
 ---
 ![](/img/theasymetrics_earl_gateshead.jpg)
 
