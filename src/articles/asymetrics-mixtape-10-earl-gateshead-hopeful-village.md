@@ -1,8 +1,8 @@
 ---
 templateKey: blog-post
 title: "Asymetrics Mixtape #10: Earl Gateshead - Hopeful Village"
-teaser: Steady Rocking' As I Would Tell You ! Exclusively for the Asymetrics,
-  Earl Gateshead selects pure fire, 100% original press Vinyls!
+teaser: Steady Rocking' As I Would Tell You ! Earl Gateshead selects pure fire
+  for The Asymetrics...100% original vinyl !
 featuredimage: /img/earl-gateshead-asymetrics-cover-art.jpg
 author: Asymetric
 categories: mixtapes
@@ -36,19 +36,17 @@ outsideLinks:
 
 Direct Links: [Soundcloud](https://soundcloud.com/the-asymetrics/asymetrics-mixtape-10-earl-gateshead-hopeful-village) / [Youtube](https://www.youtube.com/watch?v=Ow-9R1g-jV8)
 
-### ***Earl Gateshead Presents… Hopeful Village***
+### **Earl Gateshead Presents… Hopeful Village**
 
-*To say we need more love in this world is quite an understatement these days !*
+To say we need more love in this world is quite an understatement these days...In this regard, we are trying to do our best by sharing some good vibes with you...
 
-*In this regard, we are trying to do our best by sharing some good vibes with you...*
-
-*Here is **« Hopeful Village »,** 1 hour of true musical love by one of Great Britain’s finest selectors : the legendary [Earl Gateshead](https://trojanrecords.com/earl-gateshead/) !*
+Here is **« Hopeful Village »,** 1 hour of true musical love by one of Great Britain’s finest selectors : the legendary [Earl Gateshead](https://trojanrecords.com/earl-gateshead/) !
 
 *When we wrote to Earl last year to request a mix we didn’t know if he would think much of our humble website… To our surprise he said OK, and a few weeks later he dropped this amazing selection of original Jamaican records in our inbox !*
 
 *After a moment of happy dance due to receiving material from a worldwide renowned veteran selector, we listened to the audio file & had to do more happy dancing because it was pure fire coming out of the speakers !*
 
-*Earl is a serious selector, no doubt, and he even shared a few words of wisdom on the mic in between those wicked tunes, talking about the importance of asymmetry & people who don’t fit in mainstream society!*
+*Earl is a serious selector, no doubt, and he even shared a few words of wisdom on the mic in between those wicked tunes, talking about the importance of asymmetry & people who don’t fit in mainstream society...*
 
 ### ***Yeah Yeah !***
 
@@ -84,7 +82,7 @@ Direct Links: [Soundcloud](https://soundcloud.com/the-asymetrics/asymetrics-mixt
 
 ***Willie Williams - Get Ready***
 
-***Reach Out - Phil Pratt***
+***Phil Pratt - Reach Out***  
 
 ***Dennis & Lionel - Rebel Woman***
 
