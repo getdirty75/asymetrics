@@ -5,6 +5,7 @@
   "author": "asymetric trooper",
   "dependencies": {
     "@sendgrid/mail": "^7.4.0",
+    "@stripe/stripe-js": "^1.11.0",
     "bulma": "^0.8.0",
     "embla-carousel": "^4.1.2",
     "formik": "^2.2.6",
@@ -25,6 +26,7 @@
     "gatsby-remark-images": "^3.2.6",
     "gatsby-remark-relative-images": "^0.3.0",
     "gatsby-source-filesystem": "^2.2.5",
+    "gatsby-source-stripe": "^3.1.1",
     "gatsby-transformer-remark": "^2.7.5",
     "gatsby-transformer-sharp": "^2.4.7",
     "lodash": "^4.17.15",
