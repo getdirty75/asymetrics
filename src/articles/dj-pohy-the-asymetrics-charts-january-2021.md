@@ -2,7 +2,7 @@
 templateKey: blog-post
 title: DJ Pohy - The Asymetrics Charts (January 2021)
 teaser: Every month, DJ Pohy (Rinse France) shares his top 9 selection.
-  Rinse.It.Out.Propah !
+  Sometimes with the help of his badass cat... Rinse.It.Out.Propah !
 featuredimage: /img/pohy-jan-21.jpg
 author: Asymetric
 categories: mixtapes
@@ -12,6 +12,14 @@ tags:
   - "#House"
   - "#Playlist"
 date: 2021-02-03T02:14:28.777Z
+outsideLinks:
+  outsideLinksList:
+    - link: https://www.youtube.com/channel/UCjm0hKdlJVNA5X3U3KEhEow
+      text: Asymetrics Channel
+    - text: DJ Pohy
+      link: https://www.facebook.com/DjPohy
+    - text: One More Tune
+      link: https://rinse.fr/artists/one-more-tune/
 ---
 ![](/img/pohy-jan-21.jpg)
 
