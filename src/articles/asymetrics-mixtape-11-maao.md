@@ -85,3 +85,5 @@ He peacefully navigates his lawyer life and recently moved to Casablanca (Morocc
 He hunts and curates ethnic, downtempo, deep house, organic and melodic sounds. 
 
 His ambition is to deliver musical gems to a large audience. His storytelling passion is endless...
+
+### Find out more about Maao: [Facebook](https://www.facebook.com/mrmaao) / [Soundcloud](https://soundcloud.com/maaotze) / [Mixcloud](https://www.mixcloud.com/marc-charpentier/) / [Youtube](https://www.youtube.com/user/elmarcosinho)
