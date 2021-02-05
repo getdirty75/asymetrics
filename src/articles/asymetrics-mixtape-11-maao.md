@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
 title: "Asymetrics Mixtape #11: Maao"
-teaser: Slow motion groove specialist Dj Maao brings the all the way from
+teaser: Slow motion groove specialist Dj Maao brings the heat all the way from
   Casablanca, with a stylish eclectic Downtempo mix.
 featuredimage: /img/maao-cover-art.jpg
 author: Asymetric
@@ -34,7 +34,7 @@ outsideLinks:
 
 Direct Link: [Soundcloud](https://soundcloud.com/the-asymetrics/asymetrics-mixtape-11-maao-a-lockdown-loophole)
 
-### 11th edtition of the Asymetrics Mixtapes: a gorgeous, deep mix by Casablanca based [DJ Maao](https://www.facebook.com/mrmaao).
+### 11th edition of the Asymetrics Mixtapes: a gorgeous, deep mix by Casablanca based [DJ Maao](https://www.facebook.com/mrmaao).
 
 Dubbed-out deep-House, Arabic Lounge, Downtempo & Dub collide in this selection, specially crafted to escape the lockdown vibe... Just listen and chill !
 
