@@ -21,6 +21,12 @@ outsideLinks:
       link: https://www.facebook.com/mrmaao
     - text: Mao Mixes
       link: https://soundcloud.com/maaotze
+    - text: "Asymetrics Mixtape #7: Oonops"
+      link: https://theasymetrics.com/blog/asymetrics-mixtape-7-oonops/
+    - text: "Asymetrics Mixtape #9: Andi"
+      link: https://theasymetrics.com/blog/asymetrics-mixtape-9-andi-rietschel/
+    - text: "Asymetrics Mixtape #2: Gazonade"
+      link: https://theasymetrics.com/blog/asymetrics-mixtape-2-gazonade/
 ---
 ![](/img/maao-cover-art.jpg)
 
