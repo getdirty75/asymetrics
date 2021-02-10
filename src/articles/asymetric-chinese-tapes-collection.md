@@ -82,6 +82,8 @@ And, cherry on top, as an asymmetrical music digger himself, Thomas selected the
 
 <br>
 
+<br>
+
 ![](/img/k7-diptyques-02.jpg "©Thomas Sauvin")
 
 <br>
@@ -89,6 +91,8 @@ And, cherry on top, as an asymmetrical music digger himself, Thomas selected the
 ![](/img/dyptique-2-neg.jpg)
 
 ![](/img/dyptique-2-pos.jpg)
+
+<br>
 
 <br>
 
@@ -106,6 +110,8 @@ And, cherry on top, as an asymmetrical music digger himself, Thomas selected the
 
 <br>
 
+<br>
+
 ![](/img/k7-diptyques-04.jpg "©Thomas Sauvin")
 
 <br>
@@ -113,6 +119,8 @@ And, cherry on top, as an asymmetrical music digger himself, Thomas selected the
 ![](/img/dyptique-4-neg.jpg)
 
 ![](/img/dyptique-4-pos.jpg)
+
+<br>
 
 <br>
 
@@ -130,6 +138,8 @@ And, cherry on top, as an asymmetrical music digger himself, Thomas selected the
 
 <br>
 
+<br>
+
 ![](/img/k7-diptyques-06.jpg "©Thomas Sauvin")
 
 <br>
@@ -137,6 +147,8 @@ And, cherry on top, as an asymmetrical music digger himself, Thomas selected the
 ![](/img/dyptique-6-neg.jpg)
 
 ![](/img/dyptique-6-pos.jpg)
+
+<br>
 
 <br>
 
@@ -154,6 +166,8 @@ And, cherry on top, as an asymmetrical music digger himself, Thomas selected the
 
 <br>
 
+<br>
+
 ![](/img/k7-diptyques-08.jpg "©Thomas Sauvin")
 
 <br>
@@ -161,6 +175,8 @@ And, cherry on top, as an asymmetrical music digger himself, Thomas selected the
 ![](/img/dyptique-8-neg.jpg)
 
 ![](/img/dyptique-8-pos.jpg)
+
+<br>
 
 <br>
 
@@ -178,6 +194,8 @@ And, cherry on top, as an asymmetrical music digger himself, Thomas selected the
 
 <br>
 
+<br>
+
 ![](/img/k7-diptyques-10.jpg "©Thomas Sauvin")
 
 <br>
@@ -185,6 +203,8 @@ And, cherry on top, as an asymmetrical music digger himself, Thomas selected the
 ![](/img/dyptique-10-neg.jpg)
 
 ![](/img/dyptique-10-pos.jpg)
+
+<br>
 
 <br>
 
@@ -202,6 +222,8 @@ And, cherry on top, as an asymmetrical music digger himself, Thomas selected the
 
 <br>
 
+<br>
+
 ![](/img/k7-diptyques-12.jpg "©Thomas Sauvin")
 
 <br>
@@ -209,3 +231,23 @@ And, cherry on top, as an asymmetrical music digger himself, Thomas selected the
 ![](/img/dyptique-12-neg.jpg)
 
 ![](/img/dyptique-12-pos.jpg)
+
+<br>
+
+<br>
+
+<br>
+
+![](/img/k7-diptyques-13.jpg)
+
+<br>
+
+![](/img/dyptique-13-neg.jpg)
+
+![](/img/dyptique-13-pos.jpg)
+
+<br>
+
+<br>
+
+### Trust you enjoyed the journey - follow Thomas Sauvin for much much more treasures, publications & forthcoming exhibitions: [Website](https://www.beijingsilvermine.com/) / [Instagram 1](https://www.instagram.com/thomas_sauvin/?hl=en) / [](https://www.instagram.com/beijing_silvermine/?hl=en)[Instagram 2](https://www.instagram.com/beijing_silvermine/?hl=en)
