@@ -3,7 +3,7 @@ templateKey: blog-post
 title: Asymetric tapes from Beijing Silvermine
 teaser: Exclusive photoseries of 1980's counterfeit Chinese tapes covers,
   courtesy of Thomas Sauvin & the Beijing Silvermine project.
-featuredimage: /img/ts-k7-mafia-negative-10.jpg
+featuredimage: /img/dyptique-12-neg.jpg
 author: Malong
 categories: photography
 tags:
@@ -24,7 +24,7 @@ outsideLinks:
     - text: Thomas Sauvin
       link: https://www.instagram.com/thomas_sauvin/?hl=en
 ---
-![](/img/ts-k7-mafia-positive-10.jpg "©Thomas Sauvin")
+![](/img/dyptique-12-pos.jpg "©Thomas Sauvin")
 
 ### Photography collector, editor, curator, and serious sinophile [Thomas Sauvin](https://www.instagram.com/thomas_sauvin/?hl=en) shares an exclusive new treasure trove with the Asymetrics!
 
@@ -42,7 +42,7 @@ The project's [Instagram account](https://www.instagram.com/beijing_silvermine/?
 
 Having spent years digging around the weirdest corners of China's online markets, he recently put his hands on a series of [paper negatives](https://en.wikipedia.org/wiki/Paper_negative).
 
-![](/img/ts-k7-mafia-negative-15.jpg)
+![](/img/dyptique-13-neg.jpg)
 
 <br>
 
@@ -50,7 +50,7 @@ These were used on the 1980's black market as a cheap technique to reproduce tap
 
  The first step was to make a contact print from the original cover, resulting in these horizontally flipped inverted paper negatives. These were then used to make plenty of contact prints resulting in black and white reproduction of the original cover.
 
-![](/img/ts-k7-mafia-positive-15.jpg)
+![](/img/dyptique-13-pos.jpg)
 
 <br>
 
