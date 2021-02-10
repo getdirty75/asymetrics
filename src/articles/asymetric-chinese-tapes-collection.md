@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
 title: Asymetric tapes from Beijing Silvermine
-teaser: Exclusive photoseries of 1980's counterfeit Chinese tapes covers,
+teaser: Exclusive photoseries of 1980's counterfeit Chinese tape covers,
   courtesy of Thomas Sauvin & the Beijing Silvermine project.
 featuredimage: /img/dyptique-12-neg.jpg
 author: Malong
@@ -38,7 +38,7 @@ The project's [Instagram account](https://www.instagram.com/beijing_silvermine/?
 
 <br>
 
-#### When we reached out to Thomas asking if he had anything in mind that could fit our Asymetric vibe, he immediatly thought of this new collection he just started building, fitting our cassette tape fetish!
+#### When we reached out to Thomas asking if he had anything in mind that could fit our Asymetric vibe, he immediately thought of this new collection he just started building, fitting our cassette tape fetish!
 
 Having spent years digging around the weirdest corners of China's online markets, he recently put his hands on a series of [paper negatives](https://en.wikipedia.org/wiki/Paper_negative).
 
@@ -56,7 +56,7 @@ These were used on the 1980's black market as a cheap technique to reproduce tap
 
 Ominous in the 1980's, these counterfeit black & white covered tapes have all but faded away. This is a series introducing this lost piracy!
 
-And, cherry on top, as an asymmetrical music digger himself, Thomas selected the following exceptional mixtape from Guangzhou's [DJ Edi](https://www.facebook.com/DJ-EDI-100248264663657/) featuring rapper [KidGod](https://www.youtube.com/watch?v=ZWZkO0KVOJU) to get you in the mood - featuring mad funky 80s Cantopop covers of Jimmy Cliff, Chaka Khan, Lou Reed, or even Madonna among many...
+And, cherry on top, as an asymmetrical music digger himself, Thomas selected the following exceptional **[mixtape](https://soundcloud.com/the-asymetrics/dj-edi-ft-kidgod-tao-street-super-hits-vol-1)** from Guangzhou's **[DJ Edi](https://www.facebook.com/DJ-EDI-100248264663657/)** featuring rapper **[KidGod](https://www.youtube.com/watch?v=ZWZkO0KVOJU)** to get you in the mood - featuring mad funky 80s Cantopop covers of Jimmy Cliff, Chaka Khan, Lou Reed, or even Madonna, among many...
 
 <br>
 
