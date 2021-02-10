@@ -56,7 +56,7 @@ These were used on the 1980's black market as a cheap technique to reproduce tap
 
 Ominous in the 1980's, these counterfeit black & white covered tapes have all but faded away. This is a series introducing this lost piracy!
 
-And, cherry on top, as an asymmetrical music digger himself, Thomas selected the following exceptional mixtape from Guangzhou's DJ Edi to get you in the mood - featuring mad funky 80s Cantopop covers of Jimmy Cliff, Chaka Khan, Lou Reed, or even Madonna among many...
+And, cherry on top, as an asymmetrical music digger himself, Thomas selected the following exceptional mixtape from Guangzhou's [DJ Edi](https://www.facebook.com/DJ-EDI-100248264663657/) featuring rapper [KidGod](https://www.youtube.com/watch?v=ZWZkO0KVOJU) to get you in the mood - featuring mad funky 80s Cantopop covers of Jimmy Cliff, Chaka Khan, Lou Reed, or even Madonna among many...
 
 <br>
 
