@@ -3,7 +3,7 @@ templateKey: blog-post
 title: Asymetric tapes from Beijing Silvermine
 teaser: Exclusive photoseries of 1980's counterfeit Chinese tape covers,
   courtesy of Thomas Sauvin & the Beijing Silvermine project.
-featuredimage: /img/dyptique-12-neg.jpg
+featuredimage: /img/theasymetrics_thomas_sauvin-dyptique-12-neg.jpg
 author: Malong
 categories: photography
 tags:
@@ -24,7 +24,7 @@ outsideLinks:
     - text: Thomas Sauvin
       link: https://www.instagram.com/thomas_sauvin/?hl=en
 ---
-![](/img/dyptique-12-pos.jpg "©Thomas Sauvin")
+![](/img/theasymetrics_thomas_sauvin-dyptique-12-pos.jpg "©Thomas Sauvin")
 
 ### Photography collector, editor, curator, and serious sinophile [Thomas Sauvin](https://www.instagram.com/thomas_sauvin/?hl=en) shares an exclusive new treasure trove with the Asymetrics!
 
@@ -42,7 +42,7 @@ The project's [Instagram account](https://www.instagram.com/beijing_silvermine/?
 
 Having spent years digging around the weirdest corners of China's online markets, he recently put his hands on a series of [paper negatives](https://en.wikipedia.org/wiki/Paper_negative).
 
-![](/img/dyptique-13-neg.jpg)
+![](/img/theasymetrics_thomas_sauvin-dyptique-13-neg.jpg)
 
 <br>
 
@@ -50,7 +50,7 @@ These were used on the 1980's black market as a cheap technique to reproduce tap
 
  The first step was to make a contact print from the original cover, resulting in these horizontally flipped inverted paper negatives. These were then used to make plenty of contact prints resulting in black and white reproduction of the original cover.
 
-![](/img/dyptique-13-pos.jpg)
+![](/img/theasymetrics_thomas_sauvin-dyptique-13-pos.jpg)
 
 <br>
 
@@ -74,9 +74,9 @@ And, cherry on top, as an asymmetrical music digger himself, Thomas selected the
 
 <br>
 
-![](/img/dyptique-1-neg.jpg)
+![](/img/theasymetrics_thomas_sauvin-dyptique-1-neg.jpg)
 
-![](/img/dyptique-1-pos.jpg)
+![](/img/theasymetrics_thomas_sauvin-dyptique-1-pos.jpg)
 
 <br>
 
@@ -88,9 +88,9 @@ And, cherry on top, as an asymmetrical music digger himself, Thomas selected the
 
 <br>
 
-![](/img/dyptique-2-neg.jpg)
+![](/img/theasymetrics_thomas_sauvin-dyptique-2-neg.jpg)
 
-![](/img/dyptique-2-pos.jpg)
+![](/img/theasymetrics_thomas_sauvin-dyptique-2-pos.jpg)
 
 <br>
 
@@ -102,9 +102,9 @@ And, cherry on top, as an asymmetrical music digger himself, Thomas selected the
 
 <br>
 
-![](/img/dyptique-3-neg.jpg)
+![](/img/theasymetrics_thomas_sauvin-dyptique-3-neg.jpg)
 
-![](/img/dyptique-3-pos.jpg)
+![](/img/theasymetrics_thomas_sauvin-dyptique-3-pos.jpg)
 
 <br>
 
@@ -116,9 +116,9 @@ And, cherry on top, as an asymmetrical music digger himself, Thomas selected the
 
 <br>
 
-![](/img/dyptique-4-neg.jpg)
+![](/img/theasymetrics_thomas_sauvin-dyptique-4-neg.jpg)
 
-![](/img/dyptique-4-pos.jpg)
+![](/img/theasymetrics_thomas_sauvin-dyptique-4-pos.jpg)
 
 <br>
 
@@ -130,9 +130,9 @@ And, cherry on top, as an asymmetrical music digger himself, Thomas selected the
 
 <br>
 
-![](/img/dyptique-5-neg.jpg)
+![](/img/theasymetrics_thomas_sauvin-dyptique-5-neg.jpg)
 
-![](/img/dyptique-5-pos.jpg)
+![](/img/theasymetrics_thomas_sauvin-dyptique-5-pos.jpg)
 
 <br>
 
@@ -144,9 +144,9 @@ And, cherry on top, as an asymmetrical music digger himself, Thomas selected the
 
 <br>
 
-![](/img/dyptique-6-neg.jpg)
+![](/img/theasymetrics_thomas_sauvin-dyptique-6-neg.jpg)
 
-![](/img/dyptique-6-pos.jpg)
+![](/img/theasymetrics_thomas_sauvin-dyptique-6-pos.jpg)
 
 <br>
 
@@ -158,9 +158,9 @@ And, cherry on top, as an asymmetrical music digger himself, Thomas selected the
 
 <br>
 
-![](/img/dyptique-7-neg.jpg)
+![](/img/theasymetrics_thomas_sauvin-dyptique-7-neg.jpg)
 
-![](/img/dyptique-7-pos.jpg)
+![](/img/theasymetrics_thomas_sauvin-dyptique-7-pos.jpg)
 
 <br>
 
@@ -172,9 +172,9 @@ And, cherry on top, as an asymmetrical music digger himself, Thomas selected the
 
 <br>
 
-![](/img/dyptique-8-neg.jpg)
+![](/img/theasymetrics_thomas_sauvin-dyptique-8-neg.jpg)
 
-![](/img/dyptique-8-pos.jpg)
+![](/img/theasymetrics_thomas_sauvin-dyptique-8-pos.jpg)
 
 <br>
 
@@ -186,9 +186,9 @@ And, cherry on top, as an asymmetrical music digger himself, Thomas selected the
 
 <br>
 
-![](/img/dyptique-9-neg.jpg)
+![](/img/theasymetrics_thomas_sauvin-dyptique-9-neg.jpg)
 
-![](/img/dyptique-9-pos.jpg)
+![](/img/theasymetrics_thomas_sauvin-dyptique-9-pos.jpg)
 
 <br>
 
@@ -200,9 +200,9 @@ And, cherry on top, as an asymmetrical music digger himself, Thomas selected the
 
 <br>
 
-![](/img/dyptique-10-neg.jpg)
+![](/img/theasymetrics_thomas_sauvin-dyptique-10-neg.jpg)
 
-![](/img/dyptique-10-pos.jpg)
+![](/img/theasymetrics_thomas_sauvin-dyptique-10-pos.jpg)
 
 <br>
 
@@ -214,23 +214,9 @@ And, cherry on top, as an asymmetrical music digger himself, Thomas selected the
 
 <br>
 
-![](/img/dyptique-11-neg.jpg)
+![](/img/theasymetrics_thomas_sauvin-dyptique-11-neg.jpg)
 
-![](/img/dyptique-11-pos.jpg)
-
-<br>
-
-<br>
-
-<br>
-
-![](/img/k7-diptyques-12.jpg "©Thomas Sauvin")
-
-<br>
-
-![](/img/dyptique-12-neg.jpg)
-
-![](/img/dyptique-12-pos.jpg)
+![](/img/theasymetrics_thomas_sauvin-dyptique-11-pos.jpg)
 
 <br>
 
@@ -238,13 +224,27 @@ And, cherry on top, as an asymmetrical music digger himself, Thomas selected the
 
 <br>
 
-![](/img/k7-diptyques-13.jpg)
+![](/img/theasymetrics_thomas_sauvin-diptyques-12.jpg "©Thomas Sauvin")
 
 <br>
 
-![](/img/dyptique-13-neg.jpg)
+![](/img/theasymetrics_thomas_sauvin-dyptique-12-neg.jpg)
 
-![](/img/dyptique-13-pos.jpg)
+![](/img/theasymetrics_thomas_sauvin-dyptique-12-pos.jpg)
+
+<br>
+
+<br>
+
+<br>
+
+![](/img/theasymetrics_thomas_sauvin-diptyques-13.jpg)
+
+<br>
+
+![](/img/theasymetrics_thomas_sauvin-dyptique-13-neg.jpg)
+
+![](/img/theasymetrics_thomas_sauvin-dyptique-13-pos.jpg)
 
 <br>
 
