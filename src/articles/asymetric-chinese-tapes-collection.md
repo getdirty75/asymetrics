@@ -70,27 +70,13 @@ And, cherry on top, as an asymmetrical music digger himself, Thomas selected the
 
 <br>
 
-![](/img/k7-diptyques-01.jpg "©Thomas Sauvin")
+![](/img/theasymetrics_thomas_sauvin-diptyques-01.jpg "©Thomas Sauvin")
 
 <br>
 
-![](/img/theasymetrics_thomas_sauvin-dyptique-1-neg.jpg)
+![](/img/theasymetrics_thomas_sauvin-dyptique-1-neg.jpg "©Thomas Sauvin")
 
-![](/img/theasymetrics_thomas_sauvin-dyptique-1-pos.jpg)
-
-<br>
-
-<br>
-
-<br>
-
-![](/img/k7-diptyques-02.jpg "©Thomas Sauvin")
-
-<br>
-
-![](/img/theasymetrics_thomas_sauvin-dyptique-2-neg.jpg)
-
-![](/img/theasymetrics_thomas_sauvin-dyptique-2-pos.jpg)
+![©Thomas Sauvin](/img/theasymetrics_thomas_sauvin-dyptique-1-pos.jpg)
 
 <br>
 
@@ -98,27 +84,13 @@ And, cherry on top, as an asymmetrical music digger himself, Thomas selected the
 
 <br>
 
-![](/img/k7-diptyques-03.jpg "©Thomas Sauvin")
+![](/img/theasymetrics_thomas_sauvin-diptyques-02.jpg "©Thomas Sauvin")
 
 <br>
 
-![](/img/theasymetrics_thomas_sauvin-dyptique-3-neg.jpg)
+![](/img/theasymetrics_thomas_sauvin-dyptique-2-neg.jpg "©Thomas Sauvin")
 
-![](/img/theasymetrics_thomas_sauvin-dyptique-3-pos.jpg)
-
-<br>
-
-<br>
-
-<br>
-
-![](/img/k7-diptyques-04.jpg "©Thomas Sauvin")
-
-<br>
-
-![](/img/theasymetrics_thomas_sauvin-dyptique-4-neg.jpg)
-
-![](/img/theasymetrics_thomas_sauvin-dyptique-4-pos.jpg)
+![](/img/theasymetrics_thomas_sauvin-dyptique-2-pos.jpg "©Thomas Sauvin")
 
 <br>
 
@@ -126,27 +98,13 @@ And, cherry on top, as an asymmetrical music digger himself, Thomas selected the
 
 <br>
 
-![](/img/k7-diptyques-05.jpg "©Thomas Sauvin")
+![](/img/theasymetrics_thomas_sauvin-diptyques-03.jpg "©Thomas Sauvin")
 
 <br>
 
-![](/img/theasymetrics_thomas_sauvin-dyptique-5-neg.jpg)
+![](/img/theasymetrics_thomas_sauvin-dyptique-3-neg.jpg "©Thomas Sauvin")
 
-![](/img/theasymetrics_thomas_sauvin-dyptique-5-pos.jpg)
-
-<br>
-
-<br>
-
-<br>
-
-![](/img/k7-diptyques-06.jpg "©Thomas Sauvin")
-
-<br>
-
-![](/img/theasymetrics_thomas_sauvin-dyptique-6-neg.jpg)
-
-![](/img/theasymetrics_thomas_sauvin-dyptique-6-pos.jpg)
+![](/img/theasymetrics_thomas_sauvin-dyptique-3-pos.jpg "©Thomas Sauvin")
 
 <br>
 
@@ -154,27 +112,13 @@ And, cherry on top, as an asymmetrical music digger himself, Thomas selected the
 
 <br>
 
-![](/img/k7-diptyques-07.jpg "©Thomas Sauvin")
+![](/img/theasymetrics_thomas_sauvin-diptyques-04.jpg "©Thomas Sauvin")
 
 <br>
 
-![](/img/theasymetrics_thomas_sauvin-dyptique-7-neg.jpg)
+![](/img/theasymetrics_thomas_sauvin-dyptique-4-neg.jpg "©Thomas Sauvin")
 
-![](/img/theasymetrics_thomas_sauvin-dyptique-7-pos.jpg)
-
-<br>
-
-<br>
-
-<br>
-
-![](/img/k7-diptyques-08.jpg "©Thomas Sauvin")
-
-<br>
-
-![](/img/theasymetrics_thomas_sauvin-dyptique-8-neg.jpg)
-
-![](/img/theasymetrics_thomas_sauvin-dyptique-8-pos.jpg)
+![](/img/theasymetrics_thomas_sauvin-dyptique-4-pos.jpg "©Thomas Sauvin")
 
 <br>
 
@@ -182,27 +126,13 @@ And, cherry on top, as an asymmetrical music digger himself, Thomas selected the
 
 <br>
 
-![](/img/k7-diptyques-09.jpg "©Thomas Sauvin")
+![](/img/theasymetrics_thomas_sauvin-diptyques-05.jpg "©Thomas Sauvin")
 
 <br>
 
-![](/img/theasymetrics_thomas_sauvin-dyptique-9-neg.jpg)
+![](/img/theasymetrics_thomas_sauvin-dyptique-5-neg.jpg "©Thomas Sauvin")
 
-![](/img/theasymetrics_thomas_sauvin-dyptique-9-pos.jpg)
-
-<br>
-
-<br>
-
-<br>
-
-![](/img/k7-diptyques-10.jpg "©Thomas Sauvin")
-
-<br>
-
-![](/img/theasymetrics_thomas_sauvin-dyptique-10-neg.jpg)
-
-![](/img/theasymetrics_thomas_sauvin-dyptique-10-pos.jpg)
+![](/img/theasymetrics_thomas_sauvin-dyptique-5-pos.jpg "©Thomas Sauvin")
 
 <br>
 
@@ -210,13 +140,83 @@ And, cherry on top, as an asymmetrical music digger himself, Thomas selected the
 
 <br>
 
-![](/img/k7-diptyques-11.jpg "©Thomas Sauvin")
+![](/img/theasymetrics_thomas_sauvin-diptyques-06.jpg "©Thomas Sauvin")
 
 <br>
 
-![](/img/theasymetrics_thomas_sauvin-dyptique-11-neg.jpg)
+![](/img/theasymetrics_thomas_sauvin-dyptique-6-neg.jpg "©Thomas Sauvin")
 
-![](/img/theasymetrics_thomas_sauvin-dyptique-11-pos.jpg)
+![](/img/theasymetrics_thomas_sauvin-dyptique-6-pos.jpg "©Thomas Sauvin")
+
+<br>
+
+<br>
+
+<br>
+
+![](/img/theasymetrics_thomas_sauvin-diptyques-07.jpg "©Thomas Sauvin")
+
+<br>
+
+![](/img/theasymetrics_thomas_sauvin-dyptique-7-neg.jpg "©Thomas Sauvin")
+
+![](/img/theasymetrics_thomas_sauvin-dyptique-7-pos.jpg "©Thomas Sauvin")
+
+<br>
+
+<br>
+
+<br>
+
+![](/img/theasymetrics_thomas_sauvin-diptyques-08.jpg "©Thomas Sauvin")
+
+<br>
+
+![](/img/theasymetrics_thomas_sauvin-dyptique-8-neg.jpg "©Thomas Sauvin")
+
+![](/img/theasymetrics_thomas_sauvin-dyptique-8-pos.jpg "©Thomas Sauvin")
+
+<br>
+
+<br>
+
+<br>
+
+![](/img/theasymetrics_thomas_sauvin-diptyques-09.jpg "©Thomas Sauvin")
+
+<br>
+
+![](/img/theasymetrics_thomas_sauvin-dyptique-9-neg.jpg "©Thomas Sauvin")
+
+![](/img/theasymetrics_thomas_sauvin-dyptique-9-pos.jpg "©Thomas Sauvin")
+
+<br>
+
+<br>
+
+<br>
+
+![](/img/theasymetrics_thomas_sauvin-diptyques-10.jpg "©Thomas Sauvin")
+
+<br>
+
+![](/img/theasymetrics_thomas_sauvin-dyptique-10-neg.jpg "©Thomas Sauvin")
+
+![](/img/theasymetrics_thomas_sauvin-dyptique-10-pos.jpg "©Thomas Sauvin")
+
+<br>
+
+<br>
+
+<br>
+
+![](/img/theasymetrics_thomas_sauvin-diptyques-11.jpg "©Thomas Sauvin")
+
+<br>
+
+![](/img/theasymetrics_thomas_sauvin-dyptique-11-neg.jpg "©Thomas Sauvin")
+
+![](/img/theasymetrics_thomas_sauvin-dyptique-11-pos.jpg "©Thomas Sauvin")
 
 <br>
 
@@ -228,23 +228,23 @@ And, cherry on top, as an asymmetrical music digger himself, Thomas selected the
 
 <br>
 
-![](/img/theasymetrics_thomas_sauvin-dyptique-12-neg.jpg)
+![](/img/theasymetrics_thomas_sauvin-dyptique-12-neg.jpg "©Thomas Sauvin")
 
-![](/img/theasymetrics_thomas_sauvin-dyptique-12-pos.jpg)
-
-<br>
+![](/img/theasymetrics_thomas_sauvin-dyptique-12-pos.jpg "©Thomas Sauvin")
 
 <br>
 
 <br>
 
-![](/img/theasymetrics_thomas_sauvin-diptyques-13.jpg)
+<br>
+
+![](/img/theasymetrics_thomas_sauvin-diptyques-13.jpg "©Thomas Sauvin")
 
 <br>
 
-![](/img/theasymetrics_thomas_sauvin-dyptique-13-neg.jpg)
+![](/img/theasymetrics_thomas_sauvin-dyptique-13-neg.jpg "©Thomas Sauvin")
 
-![](/img/theasymetrics_thomas_sauvin-dyptique-13-pos.jpg)
+![](/img/theasymetrics_thomas_sauvin-dyptique-13-pos.jpg "©Thomas Sauvin")
 
 <br>
 
