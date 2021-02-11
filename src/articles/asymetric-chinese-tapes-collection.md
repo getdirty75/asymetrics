@@ -42,7 +42,7 @@ The project's [Instagram account](https://www.instagram.com/beijing_silvermine/?
 
 Having spent years digging around the weirdest corners of China's online markets, he recently put his hands on a series of [paper negatives](https://en.wikipedia.org/wiki/Paper_negative).
 
-![](/img/theasymetrics_thomas_sauvin-dyptique-13-neg.jpg)
+![](/img/theasymetrics_thomas_sauvin-dyptique-13-neg.jpg "©Thomas Sauvin")
 
 <br>
 
@@ -50,7 +50,7 @@ These were used on the 1980's black market as a cheap technique to reproduce tap
 
  The first step was to make a contact print from the original cover, resulting in these horizontally flipped inverted paper negatives. These were then used to make plenty of contact prints resulting in black and white reproduction of the original cover.
 
-![](/img/theasymetrics_thomas_sauvin-dyptique-13-pos.jpg)
+![](/img/theasymetrics_thomas_sauvin-dyptique-13-pos.jpg "©Thomas Sauvin")
 
 <br>
 
