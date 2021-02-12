@@ -20,8 +20,16 @@ tags:
 date: 2021-02-12T01:45:16.548Z
 outsideLinks:
   outsideLinksList:
+    - text: Mr riddler
+      link: https://web.facebook.com/riddler.nigma.3
+    - text: Mr Riddler on Insta
+      link: https://www.instagram.com/riddlernigma25/
     - text: Groove Architect
       link: https://web.facebook.com/GROOVEARCHITECT/
+    - text: "Asymetrics Mixtape #7: Oonops"
+      link: https://theasymetrics.com/blog/asymetrics-mixtape-7-oonops/
+    - text: "Asymetrics Mixtape #6: Trim"
+      link: https://theasymetrics.com/blog/asymetrics-mixtape-6-trim/
 ---
 ![](/img/theasymetrics_mr-riddler-hands-cc-lucille-pradier_big-.jpg "©Lucille Pradier")
 
