@@ -16,6 +16,7 @@ tags:
   - "#45s"
   - "#turntablism"
   - "#mixtape"
+  - "#digger"
 date: 2021-02-12T01:45:16.548Z
 outsideLinks:
   outsideLinksList:
@@ -26,17 +27,11 @@ outsideLinks:
 
 *©Lucille Pradier*
 
-
-
-Direct Links: [Soundcloud ](https://soundcloud.com/the-asymetrics/asymetrics-mixtape-12-mr-riddler-le-chaudron-magique)/ Youtube
-
-
+Direct Links: [Soundcloud ](https://soundcloud.com/the-asymetrics/asymetrics-mixtape-12-mr-riddler-le-chaudron-magique)/ [Youtube](https://www.youtube.com/watch?v=Pt0ZZInE6Wk)
 
 ### A very special 12th edition of the Asymetrics Mixtape series with no other than Geneva's own turntables maestro [Mr Riddler](https://web.facebook.com/riddler.nigma.3) !
 
 <iframe width="100%" height="500" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/983876356&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/the-asymetrics" title="The Asymetrics" target="_blank" style="color: #cccccc; text-decoration: none;">The Asymetrics</a> · <a href="https://soundcloud.com/the-asymetrics/asymetrics-mixtape-12-mr-riddler-le-chaudron-magique" title="Asymetrics Mixtape #12: Mr Riddler - Le Chaudron Magique" target="_blank" style="color: #cccccc; text-decoration: none;">Asymetrics Mixtape #12: Mr Riddler - Le Chaudron Magique</a></div>
-
-
 
 ### Mr Riddler
 
