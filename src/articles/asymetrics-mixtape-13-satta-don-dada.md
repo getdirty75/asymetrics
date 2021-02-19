@@ -14,6 +14,18 @@ tags:
   - "#Tape"
   - "#Asymetricstapes"
 date: 2021-02-19T03:59:45.746Z
+outsideLinks:
+  outsideLinksList:
+    - text: Isometric Mag
+      link: https://www.facebook.com/isometricmag
+    - text: "Asymetrics Mixtape #1: Satta Don Dada"
+      link: https://theasymetrics.com/blog/asymetrics-mixtape-1-satta-don-dada/
+    - text: "Asymetrics Mixtape #10: Earl Gateshead"
+      link: https://theasymetrics.com/blog/asymetrics-mixtape-10-earl-gateshead-hopeful-village/
+    - text: "Asymetrics Mixtape #3: Fatta"
+      link: https://theasymetrics.com/blog/asymetrics-mixtape-3-fatta/
+    - text: Satta Don Dada
+      link: https://www.facebook.com/SattaDonDada/
 ---
 ![](/img/theasymetrics_satta.jpg)
 
