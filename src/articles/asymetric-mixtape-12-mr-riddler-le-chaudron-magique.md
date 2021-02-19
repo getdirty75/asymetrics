@@ -1,6 +1,6 @@
 ---
 templateKey: blog-post
-title: "Asymetric Mixtape #12: Mr Riddler - Le Chaudron Magique"
+title: "Asymetrics Mixtape #12: Mr Riddler - Le Chaudron Magique"
 teaser: |-
   Mr Riddler  presents... Le Chaudron Magique.
 
