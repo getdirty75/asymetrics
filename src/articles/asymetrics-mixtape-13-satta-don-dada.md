@@ -15,6 +15,8 @@ tags:
   - "#Asymetricstapes"
 date: 2021-02-19T03:59:45.746Z
 ---
+![](/img/theasymetrics_satta.jpg)
+
 <br>
 
 Direct Links: [Soundcloud](https://soundcloud.com/the-asymetrics/asymetrics-mixtape-13-satta-don-dada-the-return-of-the-super-don) / [](https://www.mixcloud.com/The_Asymetrics/asymetrics-mixtape-1/)[Youtube](https://www.youtube.com/watch?v=IiSYAeRww3o)
@@ -33,51 +35,35 @@ Recorded from vinyl to tape for that extra old-school texture, this one is for t
 
 02 **John Holt** - Ghetto Queen
 
-
 03 **Ranking Dread** - Style Lily
-
 
 04 **Gregory Isaacs** - Soon Forward
 
-
 05 **Bongo Les & Bunny** - Book of Rules (Version 2)
-
 
 06 **Bongo Herman** - African Breakfast
 
-
 07 **Jah Stitch** - Natty Dread in Demand
-
 
 08 **Jackie Mittoo** - Tribute to Count Ossie 
 
-
 09 **Dean Frazer** - Blue Moon
-
 
 10 **Lynn Tait** - island Time
 
-
 11 **Jimmy Riley** - My Conversation
-
 
 12 **Jigsy King** - Mood To Kill A Sound
 
-
 13 **Sister Nancy** - Bam Bam 
-
 
 14 **King Jammy** - Punanny Riddim
 
-
 15 **Risto Benji** - Gimme De Money
-
 
 16 **Fire House Crew** - WorldJam Riddim
 
-
 17 **Anthony Red Rose** - Now Thing Riddim
-
 
 18 **Pan Head** - Punny Printer
 
