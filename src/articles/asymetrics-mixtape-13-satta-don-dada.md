@@ -61,7 +61,7 @@ Recorded from vinyl to tape for that extra old-school texture, this one is for t
 
 09 **Dean Frazer** - Blue Moon
 
-10 **Lynn Tait** - island Time
+10 **Lynn Tait** - Island Time
 
 11 **Jimmy Riley** - My Conversation
 
