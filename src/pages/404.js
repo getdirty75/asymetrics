@@ -12,7 +12,7 @@ const NotFoundPage = () => {
               color='darkorchid'
               type="underline"
             >
-              <h2 className="errorPage__text1">Revolutionary is our baseline.</h2>
+              <h2 className="errorPage__text1">Sorry !.</h2>
             </RoughNotation>
             <RoughNotation
               type='bracket'
@@ -21,7 +21,7 @@ const NotFoundPage = () => {
               brackets={['left', 'right']}
               strokeWidth={3}
             >
-              <p className="errorPage__text2">Different is our first step.</p>
+              <p className="errorPage__text2">Error </p>
             </RoughNotation>
             <RoughNotation
               type='highlight'
@@ -29,14 +29,14 @@ const NotFoundPage = () => {
               iterations={1}
               multiline={true}
             >
-              <p className="errorPage__text3">And radical means we’re just getting started.</p>
+              <p className="errorPage__text3">404</p>
             </RoughNotation>
             <RoughNotation
               type='strike-through'
               color='blueviolet'
               padding={10}
             >
-              <h4 className="errorPage__text4">We are asymetrics.</h4>
+              <h4 className="errorPage__text4">Page not found</h4>
             </RoughNotation>
           </RoughNotationGroup>
         </div>

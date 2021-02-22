@@ -66,6 +66,7 @@ a
   font-weight: 800 !important
   padding-top: 7px
   font-size: 24px !important
+  word-break: keep-all !important
 
 .blurb_desc
   margin-top: 5px
@@ -77,9 +78,13 @@ a
 
 .blurb_img
   border-radius: 0.2rem
+  display: unset !important
   height: 70%
-  width: 100%
+  width: 25% !important
   object-fit: cover
+
+.blurb_box
+  display: flex
 
 
 //
@@ -190,7 +195,6 @@ a
   font-size: 24px
 footer.footer
   padding: 3rem 0rem 0rem
-
 
 //
 //   BLOGPAGE move in /pages/blog-post
@@ -358,6 +362,24 @@ footer.footer
 
 
 //
+//   M A R K E T
+//
+.market__img
+  border-radius: 0.2rem
+  height: 70%
+  width: auto
+  object-fit: contain
+
+.market__sub
+  display: flex
+  flex-direction: column
+  color: $color-black
+  text-align: center
+  margin: 0.5em
+
+
+
+//
 //   B L O G   R O L L S
 //
 .blogRoll
@@ -409,6 +431,7 @@ footer.footer
   font-size: 16px !important
 
 .blogRoll__teaser
+  color: $color-black
   margin-top: 0.6rem
   font: 100% $font-regular !important
   font-size: 16px !important
