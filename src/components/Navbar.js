@@ -4,7 +4,6 @@ import insta from '../img/social/instagram.svg'
 import soundcloud from '../img/social/soundcloud.svg'
 import fb from '../img/social/facebook.svg'
 import tube from '../img/social/youtube.svg'
-// import logo from '../img/logo.png'
 import { RoughNotation } from "react-rough-notation"
 
 const Navbar = class extends React.Component {
@@ -36,7 +35,6 @@ const Navbar = class extends React.Component {
         <div className="container">
           <div className="navbar-brand is-flex-touch">
             <Link to="/" className="navbar-item is-flex-touch" title="Logo">
-              {/* <div><img className="blurb_img logoed" src={logo} /></div> */}
               <div className="container">
                 <RoughNotation
                   animationDelay={5000}
@@ -49,8 +47,8 @@ const Navbar = class extends React.Component {
                 </RoughNotation>
                 <p className="home__desc">Always odd never aligned...</p>
               </div>
-
             </Link>
+
             <div
               className={`navbar-burger burger ${this.state.navBarActiveClass}`}
               data-target="navMenu"
@@ -63,34 +61,12 @@ const Navbar = class extends React.Component {
               <span />
             </div>
           </div>
-          <div
-            id="navMenu"
-            className={`navbar-menu ${this.state.navBarActiveClass}`}
-          >
-            <div className="navbar-start has-text-centered">
-            {/*<Link className="navbar-item navbar__itemStyle" to="/magazine/">categories</Link>
-
-              <Link className="navbar-item navbar__itemStyle" to="/news">news</Link>
-              <Link className="navbar-item navbar__itemStyle" to="/mixtapes">mixtapes</Link>
-              <Link className="navbar-item navbar__itemStyle" to="/knowledge">knowledge</Link>
-              <Link className="navbar-item navbar__itemStyle" to="/artworks">artworks</Link>
-              <Link className="navbar-item navbar__itemStyle" to="/stories">stories</Link>
-              <Link className="navbar-item navbar__itemStyle" to="/reports">reports</Link>
-
-              <Link className="navbar-item navbar__itemStyle" to="/radio">radio</Link>
-              <Link className="navbar-item navbar__itemStyle" to="/shop/">shop</Link>
-              <Link className="navbar-item navbar__itemStyle" to="/contact/">contact</Link>
-
-              <Link className="navbar-item navbar__itemStyle" to="/restricted/">restricted</Link>
-              <Link className="navbar-item navbar__itemStyle" to="/error/">error</Link>
-              <Link className="navbar-item navbar__itemStyle" to="/band/">band</Link> */}
-            </div>
+          <div id="navMenu" className={`navbar-menu ${this.state.navBarActiveClass}`}>
+            <div className="navbar-start has-text-centered"></div>
             <div className="navbar-end has-text-centered">
-            {/* <Link className="navbar-item navbar__itemStyle" to="/radio">Radio</Link> */}
-            <Link className="navbar-item navbar__itemStyle" to="/market">market</Link>
-            <Link className="navbar-item navbar__itemStyle" to="/blog/categories/news">news</Link>
-            <Link className="navbar-item navbar__itemStyle" to="/blog/categories/mixtapes">mixtapes</Link>
-            <Link className="navbar-item navbar__itemStyle" to="/blog/categories/knowledge">knowledge</Link>
+              <Link className="navbar-item navbar__itemStyle" to="/blog/categories/news">news</Link>
+              <Link className="navbar-item navbar__itemStyle" to="/market">market</Link>
+              <Link className="navbar-item navbar__itemStyle" to="/blog/categories/mixtapes">mixtapes</Link>
             <a
                 className="navbar-item"
                 href="https://soundcloud.com/the-asymetrics"
