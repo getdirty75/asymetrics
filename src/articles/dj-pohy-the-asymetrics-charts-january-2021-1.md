@@ -11,6 +11,14 @@ tags:
   - D&B
   - "#Playlist"
 date: 2021-02-25T14:53:38.556Z
+outsideLinks:
+  outsideLinksList:
+    - link: https://www.youtube.com/channel/UCjm0hKdlJVNA5X3U3KEhEow
+      text: Asymetrics Channel
+    - text: DJ Pohy
+      link: https://www.facebook.com/DjPohy
+    - text: One More Tune
+      link: https://rinse.fr/artists/one-more-tune/
 ---
 ![](/img/theasymetrics_djpohy_feb21.jpg)
 
@@ -18,7 +26,7 @@ Direct Link to Playlist: [The Asymetrics Channel](https://www.youtube.com/playli
 
 ### Every month, our Bass Music specialist DJ Pohy shares his favorite picks with us.
 
-### This month, he picked his current Drum & Bass favorites - watch the ride !
+### This month, he selected his current Drum & Bass favorites - watch the ride !
 
 Hailing from Lille, France, and currently based in Paris, [Pohy](www.facebook.com/DjPohy) has been operating on the Drum&Bass and Dubstep scenes for over a decade.
 
@@ -36,49 +44,49 @@ If you dig this selection and want to hear more, follow Pohy on [Mixcloud](www.m
 
 <br>
 
-### BRK & Bacon - Blue Birds \[Hyperactivity Music] 
+### BRK & Bacon - Blue Birds \[Hyperactivity Music]
 
 <iframe width="100%" height="380" src="https://www.youtube-nocookie.com/embed/UcSnGGaJYo8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen referrerpolicy="origin"></iframe>
 
 <br>
 
-### D Minds - Cashman \[Souped Up] 
+### D Minds - Cashman \[Souped Up]
 
 <iframe width="100%" height="380" src="https://www.youtube-nocookie.com/embed/zcp9cuf2T4Q" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen referrerpolicy="origin"></iframe>
 
 <br>
 
-### JSelect - Free \[Nuusic] 
+### JSelect - Free \[Nuusic]
 
 <iframe width="100%" height="315" src="https://www.youtube-nocookie.com/embed/b1XfZ49_bk8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen referrerpolicy="origin"></iframe>
 
 <br>
 
-### Gest - Inertia \[Shogun Audio] 
+### Gest - Inertia \[Shogun Audio]
 
 <iframe width="100%" height="380" src="https://www.youtube-nocookie.com/embed/JHrsDcTdL60" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen referrerpolicy="origin"></iframe>
 
 <br>
 
-### Jam Thieves - Dexter \[Onyx Recordings] 
+### Jam Thieves - Dexter \[Onyx Recordings]
 
 <iframe width="100%" height="315" src="https://www.youtube-nocookie.com/embed/u7YoiOmxRRc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen referrerpolicy="origin"></iframe>
 
 <br>
 
-### Dj Dextrous ft Erin Lordan - Lovable (Benny L & Shimon Remix) \[Audioporn] 
+### Dj Dextrous ft Erin Lordan - Lovable (Benny L & Shimon Remix) \[Audioporn]
 
 <iframe width="100%" height="380" src="https://www.youtube-nocookie.com/embed/UjivxN_gKFQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen referrerpolicy="origin"></iframe>
 
 <br>
 
-### Kuantum - Sunfunk \[Hyperactivity Music] 
+### Kuantum - Sunfunk \[Hyperactivity Music]
 
 <iframe width="100%" height="315" src="https://www.youtube-nocookie.com/embed/VapabbTf-ks" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen referrerpolicy="origin"></iframe>
 
 <br>
 
-### Jaxx - Be Strong \[Murky Digital] 
+### Jaxx - Be Strong \[Murky Digital]
 
 <iframe width="100%" height="315" src="https://www.youtube-nocookie.com/embed/I7weGT7ctB4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen referrerpolicy="origin"></iframe>
 
