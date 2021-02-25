@@ -1,6 +1,6 @@
 ---
 templateKey: blog-post
-title: DJ Pohy - The Asymetrics Charts (January 2021)
+title: DJ Pohy - The Asymetrics Charts (February 2021)
 teaser: Every month, DJ Pohy (Rinse France) shares his top 9 selection. Braaaap !
 featuredimage: /img/theasymetrics_djpohy_feb21.jpg
 author: Asymetric
