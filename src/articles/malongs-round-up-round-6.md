@@ -24,6 +24,14 @@ tags:
   - "#Malong"
   - "#Mixtape"
 date: 2021-02-27T05:23:07.357Z
+outsideLinks:
+  outsideLinksList:
+    - link: https://www.youtube.com/playlist?list=PLZtgNolXlRSRmC3zZSi2iXAE-4OaIkVj2
+      text: The Round-up Videos playlist
+    - text: "Malong's Round-Up #5"
+      link: https://theasymetrics.com/blog/malongs-round-up-round-5/
+    - text: "Asymetrics Mixtape #7: Oonops"
+      link: https://theasymetrics.com/blog/asymetrics-mixtape-7-oonops/
 ---
 ![](/img/theasymetrics_lordsandwich_roundup6.jpg)
 
