@@ -14,6 +14,14 @@ tags:
   - "#Vinyl"
   - "#45s"
 date: 2021-03-05T02:53:47.523Z
+outsideLinks:
+  outsideLinksList:
+    - text: Selecta Will - a Trip to Bollywood
+      link: https://theasymetrics.com/blog/selecta-will-a-trip-to-bollywood/
+    - text: Asymetrics Random Selections (Nov 2020)
+      link: https://theasymetrics.com/blog/asymetrics-random-selection-november-2020/
+    - text: "Asymetrics Mixtape #9: Andi from the Leipzig Tribe of Peace"
+      link: https://theasymetrics.com/blog/asymetrics-mixtape-9-andi-rietschel/
 ---
 ![](/img/kamuran-akkor.jpg)
 
@@ -48,3 +56,5 @@ Like everything digging, the classics arrived first, **Erkin Koray, Baris Manco*
 <br>
 
 In Chiko's words: ***"There is something in this very singular music, no doubt what I call the "blues" allaturca, this tendency to play on the sensitive, melodies often plaintive (the lyrics go with it most of the time, talking about Distance, exile, lost love, torn lives ...) and rhythms we are not used to hearing. Add a psych touch, good kitsch effects, and you get a formidable cocktail"***.
+
+### More Turkish gems from Chiko's collection soon on the Asymetrics... Stay Tuned !
