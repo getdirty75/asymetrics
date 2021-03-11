@@ -2,7 +2,7 @@
 templateKey: blog-post
 title: "Asymetrics Mixtape #14: Matteo Fava"
 teaser: |-
-  Matteo Fava presents... Pirate Soul. 
+  Matteo Fava presents... Pirate Soul.
   An exclusive selection of rare vinyls from the 1960's to 80's Caribbean !
 featuredimage: /img/theasymetrics_matteo_fava_mix-cover-art.png
 author: Asymetric
@@ -40,7 +40,7 @@ outsideLinks:
 
 Direct Links: [Soundcloud](https://soundcloud.com/the-asymetrics/asymetrics-mixtape-14-matteo-fava-pirate-soul) / [Youtube](https://www.youtube.com/watch?v=xyp9lcaDrCY)
 
-#### 14th edition of the Asymetrics Mixtapes: 
+#### 14th edition of the Asymetrics Mixtapes:
 
 ### An exclusive, killer selection of original rare records from 1960s to 1980s Caribbean - courtesy of professional digger & film-maker [Matteo Fava](https://www.instagram.com/selectordread_/) !
 
@@ -52,7 +52,7 @@ Direct Links: [Soundcloud](https://soundcloud.com/the-asymetrics/asymetrics-mixt
 
 #### Tracklist:
 
-\- **Yoruba Singers** - *Ojinga's own* 
+\- **Yoruba Singers** - *Ojinga's own*
 
 \- **Gaylords Of Dominica** - I*'ve Got You*
 
@@ -62,7 +62,7 @@ Direct Links: [Soundcloud](https://soundcloud.com/the-asymetrics/asymetrics-mixt
 
 \- **Black Truth Rhythm Band** - *Ifetayo*
 
-\- **Harold Sylvester** - *75% Calypso* 
+\- **Harold Sylvester** - *75% Calypso*
 
 \- **Keith Prescott** - *Disco Fever*
 
@@ -72,27 +72,27 @@ Direct Links: [Soundcloud](https://soundcloud.com/the-asymetrics/asymetrics-mixt
 
 \- **Sippy** - *From Creation*
 
-\- **Coleen Grant** – *Latin Parang* 
+\- **Coleen Grant** – *Latin Parang*
 
 \- **Joe Tempo Caesar** - *Soca Mosa*
 
 \- **Roaring Lion** - *Trinidad Carnival*
 
-\- **Nap Hepburn** - *Hawaai Baby* 
+\- **Nap Hepburn** - *Hawaai Baby*
 
 \- **Gaylords Power Union** – *Dream Of Africa (A Damoo Ziamba)*
 
 \- **Gaylords Power Union** - *I'm Going Home*
 
-\- **The Solid Senders** - *Starvation* 
+\- **The Solid Senders** - *Starvation*
 
-\- **Four Friends** - *Pretensive People* 
+\- **Four Friends** - *Pretensive People*
 
 \- **Jester Stanisclause** - *Big Man In This Town*
 
-\- **Rex Harley** - *Dread In PRA* 
+\- **Rex Harley** - *Dread In PRA*
 
-\- **Atlantico** - *Dread As I Am* 
+\- **Atlantico** - *Dread As I Am*
 
 \- **Gaylords** - *I Man Suffering*
 
@@ -100,11 +100,11 @@ Direct Links: [Soundcloud](https://soundcloud.com/the-asymetrics/asymetrics-mixt
 
 \- **Versatile** - *Destruction*
 
-\- **The Hia Cees** - *Man Free Now* 
+\- **The Hia Cees** - *Man Free Now*
 
 \- **Sid Jones & The Troubadours** - *Faith*
 
-\- **Richard Stoute** - *Goodbye Now My Bajan Girl* 
+\- **Richard Stoute** - *Goodbye Now My Bajan Girl*
 
 *<br>*
 
@@ -114,15 +114,15 @@ Direct Links: [Soundcloud](https://soundcloud.com/the-asymetrics/asymetrics-mixt
 
 <br>
 
-[Matteo Fava](https://www.facebook.com/matteo.fava.79) began his musical career playing  Reggae music in Bars and small parties in Rome, Italy. 
+[Matteo Fava](https://www.facebook.com/matteo.fava.79) began his musical career playing Reggae music in Bars and small parties in Rome, Italy.
 
-With his crew '***Mash Up Babylon***' he organized  events and took active part in the Roman nightlife, mixing the sound of Reggae and  Jungle music from the UK. Many major international artists were  booked for 'Mash Up Babylon' parties including **Youthman Promotion** and  **Congo Natty**. 
+With his crew '***Mash Up Babylon***' he organized events and took active part in the Roman nightlife, mixing the sound of Reggae and Jungle music from the UK. Many major international artists were booked for 'Mash Up Babylon' parties including **Youthman Promotion** and **Congo Natty**.
 
-In 2012 Matteo moved to Amsterdam where he focused on building his  career as a Reggae Dj, spinning records in central bars such as  **HillStreet Blues** and underground parties at the historical club  **Paradiso**. 
+In 2012 Matteo moved to Amsterdam where he focused on building his career as a Reggae Dj, spinning records in central bars such as **HillStreet Blues** and underground parties at the historical club **Paradiso**.
 
-In 2014 Matteo started working at **[Vintage Voudou](https://vintagevoudou.com/)** tropical record  store, a must visit place for all tropical music diggers and DJs.  Thanks to his experience at the store and frequent  shows at [Red Light Radio](https://www.mixcloud.com/redlightradio/), Matteo got fascinated by Caribbean,  African and Latin music and gradually began to include it in his sets. 
+In 2014 Matteo started working at **[Vintage Voudou](https://vintagevoudou.com/)** tropical record store, a must visit place for all tropical music diggers and DJs. Thanks to his experience at the store and frequent shows at [Red Light Radio](https://www.mixcloud.com/redlightradio/), Matteo got fascinated by Caribbean, African and Latin music and gradually began to include it in his sets.
 
- Since 2019, Matteo has been working on his own as a [rare record dealer](https://www.discogs.com/seller/selectordread/profile).  He travels around the world to find great music from the past decades and enjoys collecting stories from old time DJs and learning more about  1950s to the 90s music. He builds up his selections  around Caribbean music, Funk and Reggae music.
+Since 2019, Matteo has been working on his own as a [rare record dealer](https://www.discogs.com/seller/selectordread/profile). He travels around the world to find great music from the past decades and enjoys collecting stories from old time DJs and learning more about 1950s to the 90s music. He builds up his selections around Caribbean music, Funk and Reggae music.
 
 When he's not busy traveling around West Indian islands or spinning ultra rare tunes, Matteo [also directs movies](https://www.festivalnikon.fr/en/video/2020/870) - watch this space !
 
