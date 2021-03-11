@@ -21,6 +21,18 @@ tags:
   - "#45s"
   - "#asymetricstapes"
 date: 2021-03-05T02:53:47.523Z
+outsideLinks:
+  outsideLinksList:
+    - text: Matteo Fava (Instagram)
+      link: https://www.instagram.com/selectordread_/
+    - text: Matteo Fava (FB)
+      link: https://www.facebook.com/matteo.fava.79
+    - text: Matteo's records (discogs)
+      link: https://www.discogs.com/seller/selectordread/profile
+    - text: "Aymetrics Mixtape #10: Earl Gateshead"
+      link: https://theasymetrics.com/blog/asymetrics-mixtape-10-earl-gateshead-hopeful-village/
+    - text: "Asymetrics Mixtape #3: Fatta"
+      link: https://theasymetrics.com/blog/asymetrics-mixtape-3-fatta/
 ---
 ![](/img/theasymetrics_piratesoul_cover.jpg)
 
@@ -30,7 +42,7 @@ Direct Links: [Soundcloud](https://soundcloud.com/the-asymetrics/asymetrics-mixt
 
 #### 14th edition of the Asymetrics Mixtapes: 
 
-#### An exclusive, killer selection of original rare records from 1960s to 1980s Caribbean - courtesy of professional digger [Matteo Fava](https://www.instagram.com/selectordread_/) !
+#### An exclusive, killer selection of original rare records from 1960s to 1980s Caribbean - courtesy of professional digger & film-maker [Matteo Fava](https://www.instagram.com/selectordread_/) !
 
 <br>
 
@@ -111,5 +123,7 @@ In 2012 Matteo moved to Amsterdam where he focused on building his  career as 
 In 2014 Matteo started working at **[Vintage Voudou](https://vintagevoudou.com/)** tropical record  store, a must visit place for all tropical music diggers and DJs.  Thanks to his experience at the store and frequent  shows at [Red Light Radio](https://www.mixcloud.com/redlightradio/), Matteo got fascinated by Caribbean,  African and Latin music and gradually began to include it in his sets. 
 
  Since 2019, Matteo has been working on his own as a [rare record dealer](https://www.discogs.com/seller/selectordread/profile).  He travels around the world to find great music from the past decades and enjoys collecting stories from old time DJs and learning more about  1950s to the 90s music. He builds up his selections  around Caribbean music, Funk and Reggae music.
+
+When he's not busy traveling around West Indian islands or spinning ultra rare tunes, Matteo [also directs movies](https://www.festivalnikon.fr/en/video/2020/870) - watch this space !
 
 ### Find out more about Matteo on [FB](https://www.facebook.com/matteo.fava.79) / [Instagram](https://www.instagram.com/selectordread_/) / [Discogs](https://www.discogs.com/seller/selectordread/profile)
