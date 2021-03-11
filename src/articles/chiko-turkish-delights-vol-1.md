@@ -35,6 +35,56 @@ Direct Links: [Soundcloud](https://soundcloud.com/the-asymetrics/chiko-turkish-d
 
 <iframe width="100%" height="500" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/998929681&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/the-asymetrics" title="The Asymetrics" target="_blank" style="color: #cccccc; text-decoration: none;">The Asymetrics</a> · <a href="https://soundcloud.com/the-asymetrics/chiko-turkish-delights-vol-1" title="Chiko - Turkish Delights Vol 1." target="_blank" style="color: #cccccc; text-decoration: none;">Chiko - Turkish Delights Vol 1.</a></div>
 
+### Tracklist
+
+***. Leo Clarens & Son Orchestre - Cha Cha Cha au Harem (1958)***
+
+***. Hayko - Sude Sude (1970)***
+
+***. Nese Karaböcek - Koca Dünya (1972)***
+
+***. Erkin Koray - Goca Dünya (1972)***
+
+***. Baris Manco - Ay Osman (1971)***
+
+***. Ersen - Sor Kendine (1972)***
+
+***. Hakki Yucel - Belki Güzeldir Güller (1975)***
+
+***. Selda - Yuh Yuh (1977)***
+
+***. Belkis Ünlüses - Lambaya Püf De (1973)***
+
+***. Yavuz Taner - Güzel Kizlar (1977)***
+
+***. Sakir Öner Günhan - Çiçekler Ekiliyor (1975)***
+
+***. Zafer Dilek -Yaşadım Mı Öldüm Mü! (1975)***
+
+***. Baris Manco & Kurtalan Ekspres -Gülme Ha Gülme (1974)***
+
+***.Aşık Emrah / Benim Gibi Garip Dünya***
+
+***. Timur Selçuk Orkestrası - Panayır Günü (1972-73)***
+
+***. İskender Doğan - Mahizer (1975)***
+
+***.Tülay Özer - Ikimiz Bir Findaniz (1975)***
+
+***.Erkin Koray - Seni Her Gördüğümde (1969)***
+
+***.Gülden Karaböcek - Şu Sazıma Bir Düzen Ver (1974)***
+
+***. Gülcan Göktürk - Ne Zaman (1976)***
+
+***. Esmeray -Soruyor musun (1975)***
+
+***. Ayla Algan - N’idem (1972)***
+
+***. Kourosh - Dar Enteha (197?)***
+
+***. Gülden Karaböcek - Nem Kaldi (1974)***
+
 ### Chiko
 
 After discovering the great classics of Turkish music from the 70s, Chiko fell in love with the country and its culture, it then became logical for him to dig this musical scene mixing traditional and rock influence, which were a global breakthrough at the time. 
