@@ -102,12 +102,14 @@ Direct Links: [Soundcloud](https://soundcloud.com/the-asymetrics/asymetrics-mixt
 
 <br>
 
-Matteo Fava began his musical career playing  Reggae music in Bars and small parties in Rome, Italy. 
+[Matteo Fava](https://www.facebook.com/matteo.fava.79) began his musical career playing  Reggae music in Bars and small parties in Rome, Italy. 
 
-With his crew 'Mash Up Babylon' he organized  events and took active part in the Roman nightlife, mixing the sound of Reggae and  Jungle music from the UK. Many major international artists were  booked for 'Mash Up Babylon' parties including Youthman Promotion and  Congo Natty. 
+With his crew '***Mash Up Babylon***' he organized  events and took active part in the Roman nightlife, mixing the sound of Reggae and  Jungle music from the UK. Many major international artists were  booked for 'Mash Up Babylon' parties including **Youthman Promotion** and  **Congo Natty**. 
 
-In 2012 Matteo moved to Amsterdam where he focused on building his  career as a Reggae Dj, spinning records in central bars such as  HillStreet Blues and underground parties at the historical club  Paradiso. 
+In 2012 Matteo moved to Amsterdam where he focused on building his  career as a Reggae Dj, spinning records in central bars such as  **HillStreet Blues** and underground parties at the historical club  **Paradiso**. 
 
-In 2014 Matteo started working at Vintage Voudou tropical record  store, a must visit place for all tropical music diggers and DJs. Thanks to his experience at the store and frequent  shows at Red Light Radio, Matteo got fascinated by Caribbean,  African and Latin music and gradually began to include it in his sets. 
+In 2014 Matteo started working at **[Vintage Voudou](https://vintagevoudou.com/)** tropical record  store, a must visit place for all tropical music diggers and DJs.  Thanks to his experience at the store and frequent  shows at [Red Light Radio](https://www.mixcloud.com/redlightradio/), Matteo got fascinated by Caribbean,  African and Latin music and gradually began to include it in his sets. 
 
- Since 2019, Matteo has been working on his own as a rare record dealer.  He travels around the world to find great music from the past decades and enjoys collecting stories from old time DJs and learning more about  1950s to the 90s music. He builds up his selections  around Caribbean music, Funk and Reggae music.
+ Since 2019, Matteo has been working on his own as a [rare record dealer](https://www.discogs.com/seller/selectordread/profile).  He travels around the world to find great music from the past decades and enjoys collecting stories from old time DJs and learning more about  1950s to the 90s music. He builds up his selections  around Caribbean music, Funk and Reggae music.
+
+### Find out more about Matteo on [FB](https://www.facebook.com/matteo.fava.79) / [Instagram](https://www.instagram.com/selectordread_/) / [Discogs](https://www.discogs.com/seller/selectordread/profile)
