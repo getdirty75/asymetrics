@@ -3,7 +3,7 @@ templateKey: blog-post
 title: "Asymetrics Mixtape #14: Matteo Fava"
 teaser: |-
   Matteo Fava presents... Pirate Soul. 
-  An exclusive selection of rare  Caribbean vinyls from the 1960's to 80's !
+  An exclusive selection of rare Caribbean vinyls from the 1960's to 80's !
 featuredimage: /img/theasymetrics_matteo_fava_mix-cover-art.png
 author: Asymetric
 categories: mixtapes
