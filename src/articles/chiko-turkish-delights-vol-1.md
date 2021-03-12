@@ -37,53 +37,53 @@ Direct Links: [Soundcloud](https://soundcloud.com/the-asymetrics/chiko-turkish-d
 
 ### Tracklist
 
-***. Leo Clarens & Son Orchestre - Cha Cha Cha au Harem (1958)***
+***.* Leo Clarens & Son Orchestre *\- Cha Cha Cha au Harem (1958)***
 
-***. Hayko - Sude Sude (1970)***
+***.* Hayko *\- Sude Sude (1970)***
 
-***. Nese Karaböcek - Koca Dünya (1972)***
+***.* Nese Karaböcek *\- Koca Dünya (1972)***
 
-***. Erkin Koray - Goca Dünya (1972)***
+***.* Erkin Koray *\- Goca Dünya (1972)***
 
-***. Baris Manco - Ay Osman (1971)***
+***.* Baris Manco *\- Ay Osman (1971)***
 
-***. Ersen - Sor Kendine (1972)***
+***.* Ersen *\- Sor Kendine (1972)***
 
-***. Hakki Yucel - Belki Güzeldir Güller (1975)***
+***.* Hakki Yucel *\- Belki Güzeldir Güller (1975)***
 
-***. Selda - Yuh Yuh (1977)***
+***.* Selda *\- Yuh Yuh (1977)***
 
-***. Belkis Ünlüses - Lambaya Püf De (1973)***
+***.* Belkis Ünlüses *\- Lambaya Püf De (1973)***
 
-***. Yavuz Taner - Güzel Kizlar (1977)***
+***.* Yavuz Taner *\- Güzel Kizlar (1977)***
 
-***. Sakir Öner Günhan - Çiçekler Ekiliyor (1975)***
+***.* Sakir Öner Günhan *\- Çiçekler Ekiliyor (1975)***
 
-***. Zafer Dilek -Yaşadım Mı Öldüm Mü! (1975)***
+***.* Zafer Dilek *\- Yaşadım Mı Öldüm Mü! (1975)***
 
-***. Baris Manco & Kurtalan Ekspres -Gülme Ha Gülme (1974)***
+***.* Baris Manco & Kurtalan Ekspres *\-Gülme Ha Gülme (1974)***
 
-***.Aşık Emrah / Benim Gibi Garip Dünya***
+***.* Aşık Emrah */ Benim Gibi Garip Dünya***
 
-***. Timur Selçuk Orkestrası - Panayır Günü (1972-73)***
+***.* Timur Selçuk Orkestrası *\- Panayır Günü (1972-73)***
 
-***. İskender Doğan - Mahizer (1975)***
+***.* İskender Doğan *\- Mahizer (1975)***
 
-***.Tülay Özer - Ikimiz Bir Findaniz (1975)***
+***.* Tülay Özer *\- Ikimiz Bir Findaniz (1975)***
 
-***.Erkin Koray - Seni Her Gördüğümde (1969)***
+***.* Erkin Koray *\- Seni Her Gördüğümde (1969)***
 
-***.Gülden Karaböcek - Şu Sazıma Bir Düzen Ver (1974)***
+***.*Gülden Karaböcek *\- Şu Sazıma Bir Düzen Ver (1974)***
 
-***. Gülcan Göktürk - Ne Zaman (1976)***
+***.* Gülcan Göktürk *\- Ne Zaman (1976)***
 
-***. Esmeray -Soruyor musun (1975)***
+***.* Esmeray *\- Soruyor musun (1975)***
 
-***. Ayla Algan - N’idem (1972)***
+***.* Ayla Algan *\- N’idem (1972)***
 
-***. Kourosh - Dar Enteha (197?)***
+***.* Kourosh *\- Dar Enteha (197?)***
 
-***. Gülden Karaböcek - Nem Kaldi (1974)***
+***.* Gülden Karaböcek *\- Nem Kaldi (1974)***
 
 ### Chiko
 
