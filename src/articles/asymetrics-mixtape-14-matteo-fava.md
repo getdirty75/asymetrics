@@ -3,7 +3,7 @@ templateKey: blog-post
 title: "Asymetrics Mixtape #14: Matteo Fava"
 teaser: |-
   Matteo Fava presents... Pirate Soul. 
-  An exclusive selection of rare vinyls from the 1960's to 80's Caribbean !
+  An exclusive selection of rare  Caribbean vinyls from the 1960's to 80's !
 featuredimage: /img/theasymetrics_matteo_fava_mix-cover-art.png
 author: Asymetric
 categories: mixtapes
@@ -40,9 +40,9 @@ outsideLinks:
 
 Direct Links: [Soundcloud](https://soundcloud.com/the-asymetrics/asymetrics-mixtape-14-matteo-fava-pirate-soul) / [Youtube](https://www.youtube.com/watch?v=xyp9lcaDrCY)
 
-#### 14th edition of the Asymetrics Mixtapes: 
+#### 14th edition of the Asymetrics Mixtapes:
 
-### An exclusive, killer selection of original rare records from 1960s to 1980s Caribbean - courtesy of professional digger & film-maker [Matteo Fava](https://www.instagram.com/selectordread_/) !
+### An exclusive, killer selection of original rare Caribbean records from the 1960s to 1980s  - courtesy of professional digger & film-maker [Matteo Fava](https://www.instagram.com/selectordread_/) !
 
 <br>
 
