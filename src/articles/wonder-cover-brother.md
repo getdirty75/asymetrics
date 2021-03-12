@@ -24,7 +24,7 @@ outsideLinks:
 
  <div class="column">
 
-Brainchild of a Mexico DF based Canadian, [Elsewhere Sonido](https://www.facebook.com/ElsewhereSonido/) is a 7" records only venture, rocking crowds as distant as La Havana and Tokyo.
+Brainchild of a Mexico DF based Canadian cat, [Elsewhere Sonido](https://www.facebook.com/ElsewhereSonido/) is a 7" records only venture, rocking crowds as distant as La Havana and Tokyo.
 
 Their selections span everywhere from rare cumbia to obscure Pop covers in Spanish, with a consistent funky twist, and in this particular occasion focus exclusively on hommages to the great Stevie, from unexpected places such as Finland, Japan or Czechia (among a great deal of other places)!
 
