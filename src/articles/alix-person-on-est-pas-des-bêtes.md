@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
 title: Alix Person - On Est Pas Des Bêtes...
-teaser: A selection of Paintings, Watercolors & Stencils by Alix Person for The
+teaser: A selection of paintings, watercolors & stencils by Alix Person for The
   Asymetrics...
 featuredimage: /img/fat-emile-alix-person_theasymetrics.jpg
 author: Lord Sandwich
@@ -18,4 +18,27 @@ outsideLinks:
     - text: More Alix Person
       link: https://fulltukantheband.wixsite.com/alixperson
 ---
-ta daronne
+
+
+
+
+![](/img/tete-jaune-or-alix-person.jpg "Tu leur diras que le projet c’est: Une Ligne, Des Pastels, Du Papier  Kraft, Du Vieux Bois Bien mangé,  Des Pneus Troués, Des Clous Rouillés,  Des Tapis qui puent la pisse de Chat  ou qui sentent bon la Lessive,  Des Feuilles De Calque, Des Punaises  de Base, Quelques Os De Bétin Et un  peu d’Or, parce que quand même On est  pas des Bêtes........................")
+
+**Alix Person**
+
+24.11.1985
+
+Montpellier
+
+Using curved and continuous lines, Alix creates pastel toned lively pieces
+where frames and subjects feed each other.
+
+The artist mixes different recycled elements : cardboard, leather, wood, hair, scrap...to create unique paintings.
+
+These are mainly portraits of men or women, anonymous or not, met in daily life…
+
+
+
+![](/img/oxmo-mama-lova-alix-person.jpg "Tu leur diras que le projet c’est: Une Ligne, Des Pastels, Du Papier  Kraft, Du Vieux Bois Bien mangé,  Des Pneus Troués, Des Clous Rouillés,  Des Tapis qui puent la pisse de Chat  ou qui sentent bon la Lessive,  Des Feuilles De Calque, Des Punaises  de Base, Quelques Os De Bétin Et un  peu d’Or, parce que quand même On est  pas des Bêtes........................")
+
+*Oxmo Mama Lova*
