@@ -1,10 +1,9 @@
 import React from 'react'
 import PropTypes from 'prop-types'
-import { Link, graphql, StaticQuery } from 'gatsby'
-import { CATEGORIES } from '../translation/enum'
+import { graphql, StaticQuery } from 'gatsby'
 // import PreviewCompatibleImage from './PreviewCompatibleImage'
 
-class BlogRoll extends React.Component {
+class ProductRoll extends React.Component {
 
   render() {
     const { data } = this.props
@@ -22,31 +21,35 @@ class BlogRoll extends React.Component {
           is-one-quarter-fullhd"
         >
 
-        {posts && posts.map(({ node: post }) => (
+        {posts.map(({ node: post }) => (
           <div className="is-parent column is-4 blogRoll__item" key={post.id}>
             <article>
-              <Link to={`/blog/${post.fields.slug}`}>
+              <a href={post.frontmatter.action} target='_blank'>
                 <div className="image is-5by4">
-                  <img className="blogRoll__img"
+                  <img className="market__img"
                     alt={post.frontmatter.title}
                     src={post.frontmatter.featuredimage && post.frontmatter.featuredimage.childImageSharp.fluid.src}
                   />
                 </div>
-              </Link>
-              <div className="blogRoll__sub">
-                <Link to={`/blog/${post.fields.slug}`}>
+              </a>
+              <div className="market__sub">
+                <a href={post.frontmatter.action} target='_blank'>
                   <p className="blogRoll__itemTitle">{post.frontmatter.title}</p>
-                </Link>
-                <p className="blogRoll__teaser">{post.frontmatter.teaser}</p>
+                  <p className="blogRoll__teaser">{post.frontmatter.description}</p>
+                  <p className="blogRoll__teaser">{post.frontmatter.reference}</p>
+                </a>
+
                 <div className="blogRoll__tagsBox">
-                  <Link className="blogRoll__categories" to={`/blog/categories/${post.frontmatter.categories}`}>
+                  {/* <Link className="blogRoll__categories" to={`/blog/categories/${post.frontmatter.categories}`}>
                     {CATEGORIES.some((cat) => cat.value === post.frontmatter.categories)
                       ? CATEGORIES.filter((cat) => cat.value === post.frontmatter.categories)[0].label
                       : post.frontmatter.categories
                     }
-                  </Link>
+                  </Link> */}
                 </div>
-                <p className="blogRoll__author">{post.frontmatter.author}</p>
+                <a href={post.frontmatter.action} target='_blank'>
+                  <p className="blogRoll__categories">{post.frontmatter.creator}</p>
+                </a>
               </div>
             </article>
           </div>
@@ -57,7 +60,7 @@ class BlogRoll extends React.Component {
   }
 }
 
-BlogRoll.propTypes = {
+ProductRoll.propTypes = {
   data: PropTypes.shape({
     allMarkdownRemark: PropTypes.shape({
       edges: PropTypes.array,
@@ -68,9 +71,9 @@ BlogRoll.propTypes = {
 export default () => (
   <StaticQuery
     query={graphql`
-      query BlogRollQuery {
+      query ProductRollQuery {
         allMarkdownRemark(
-          filter: { frontmatter: { templateKey: { eq: "blog-post" } } }
+          filter: { frontmatter: { templateKey: { eq: "product-post" } } }
           sort: { order: DESC, fields: [frontmatter___date] }
         ) {
           edges {
@@ -81,13 +84,15 @@ export default () => (
                 slug
               }
               frontmatter {
-                author
-                categories
-                teaser
+                action
+                creator
+                description
+                overprint
+                price
+                reference
                 title
                 templateKey
                 date(formatString: "MMMM DD, YYYY")
-                featuredpost
                 featuredimage {
                   childImageSharp {
                     fluid(maxWidth: 500, quality: 100) {
@@ -101,6 +106,6 @@ export default () => (
         }
       }
     `}
-    render={(data, count) => <BlogRoll data={data} count={count} />}
+    render={(data, count) => <ProductRoll data={data} count={count} />}
   />
 )
