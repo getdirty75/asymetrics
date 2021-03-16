@@ -43,4 +43,27 @@ collections:
           widget: "object",
           fields: [{label: "liens", name: "outsideLinksList", widget: "list", fields: [{label: "texte", name: "text", widget: "string"}, {label: "lien", name: "link", widget: "string"}]}]
         }
+  - name: "market"
+    label: "Market"
+    folder: "src/products"
+    create: true
+    slug: "{{slug}}"
+    fields:
+      - {label: "Template Key", name: "templateKey", widget: "hidden", default: "product-post"}
+      - {label: "Nom", name: "title", widget: "string"}
+      - {label: "Description", name: "description", widget: "text"}
+      - {label: "Reference", name: "reference", widget: "text"}
+      - {label: "Createur / Vendeur", name: "creator", widget: "text"}
+      - {label: "Action -> lien", name: "action", widget: "text"}
+      - {label: "Prix", name: "price", widget: "number"}
+      - {label: "Image", name: "featuredimage", widget: image}
+      - {label: "Overprint", name: "overprint", widget: "text"}
+      - {label: "Compteur -> Nombre de produit en stock", name: "count", widget: "text"}
+      - {
+          label: "RELATED",
+          name: "outsideLinks",
+          required: false,
+          widget: "object",
+          fields: [{label: "liens", name: "outsideLinksList", widget: "list", fields: [{label: "texte", name: "text", widget: "string"}, {label: "lien", name: "link", widget: "string"}]}]
+        }
 
