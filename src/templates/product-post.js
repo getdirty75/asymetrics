@@ -99,7 +99,6 @@ window.addEventListener("load", function(){
             </article>
           </div>
         </div>
-
       </div>
     </div>
   )
