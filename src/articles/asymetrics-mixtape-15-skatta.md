@@ -64,7 +64,7 @@ Direct Link: [Soundcloud](https://soundcloud.com/the-asymetrics/asymetrics-mixta
 
 12 **Max Romeo & Skinnyman** - One Spliff
 
-13 **Rootz Manuva** - Witness the Fitness
+13 **Roots Manuva** - Witness the Fitness
 
 14 **Ocean Wisdom** - Tom & Jerry
 
@@ -84,8 +84,6 @@ Direct Link: [Soundcloud](https://soundcloud.com/the-asymetrics/asymetrics-mixta
 
 22 **Dizzee Rascal** - Be Incredible
 
-
-
 ### **Skatta**
 
 ![](/img/theasymetrics_skatta_live.jpeg)
@@ -98,7 +96,7 @@ The emcee (real name Nathan Hunter) has already achieved more than most at his a
 
 In 2016, Skatta was requested as a [guest on **BBC 1xtra**](https://www.youtube.com/watch?v=lb62R504AU4&t=135s), and host Sian Anderson's described him as *"one of my favourites to ever do it"*, describing his voice as "*captivating*".
 
-SInce then, Skatta has released an [impressive number of EPs](https://skattacoventry.bandcamp.com/music), has featured regularly on[ Pyro radio](https://www.youtube.com/watch?v=N195nkNzDro), and appeared in too many music videos to list ! His first LP, **[Hardships](https://www.youtube.com/watch?v=ZwjV-e4nQ2s)**, dropped in July 2020, and features the already classic **[King Kong](https://www.youtube.com/watch?v=stHE1UBhM-A),** and the below clipped killer choon **Homage** featuring hispartner in crime [Kriptik](https://www.youtube.com/channel/UC8HrmsNqwfWx4JIiAjO3ySg):
+SInce then, Skatta has released an [impressive number of EPs](https://skattacoventry.bandcamp.com/music), has featured regularly on[ Pyro radio](https://www.youtube.com/watch?v=N195nkNzDro), and appeared in too many music videos to list ! His first LP, **[Hardships](https://www.youtube.com/watch?v=ZwjV-e4nQ2s)**, dropped in July 2020, and features the already classic **[King Kong](https://www.youtube.com/watch?v=stHE1UBhM-A),** and the below clipped killer choon **Homage** featuring his partner in crime [Kriptik](https://www.youtube.com/channel/UC8HrmsNqwfWx4JIiAjO3ySg):
 
 <iframe width="100%" height="380" src="https://www.youtube-nocookie.com/embed/BczvsA0Msm8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
