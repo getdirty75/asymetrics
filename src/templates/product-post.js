@@ -5,14 +5,20 @@ import { graphql } from 'gatsby'
 import { HTMLContent } from '../components/Content'
 
 export const ProductPostTemplate = ({
+  action,
+  creator,
   description,
   featuredimage,
+  overprint,
+  price,
   reference,
   title,
   helmet,
 }) => {
 
-  console.log(featuredimage)
+  console.log('PROPS')
+  console.log(creator)
+  console.log(price)
 
   return(
     <div className="container section">
@@ -43,35 +49,37 @@ export const ProductPostTemplate = ({
           </div>
           <div className="tile is-parent">
             <article className="tile is-child box">
+              <p className="subtitle">{title}</p>
               <p className="subtitle">{description}</p>
               <div className="content">
+                <p className="subtitle">{reference}</p>
+                <p className="subtitle">{price}</p>
+                <p className="subtitle">{creator}</p>
+
 
               </div>
             </article>
           </div>
         </div>
-        <div className="tile is-parent">
-          <article className="tile is-child box">
-            <div className="content">
-              <p className="subtitle">Knowledge / Wisdom / Rhythm</p>
-              <div className="content"></div>
-            </div>
-          </article>
-        </div>
-      </div>
-      <div className="tile is-12">
+        <div className="tile is-parent is-4">
         <article className="tile is-child box">
-          <p className="subtitle">Artworks / Pictures / Design</p>
-          {/* <div class="content">
-          </div> */}
+          <figure className="image is-2by3">
+            <img src={featuredimage} />
+          </figure>
         </article>
+        </div>
       </div>
     </div>
   )
 }
 
 ProductPostTemplate.propTypes = {
+  action:  PropTypes.string,
   description: PropTypes.string,
+  featuredimage: PropTypes.string,
+  overprint: PropTypes.string,
+  creator: PropTypes.string,
+  price: PropTypes.string,
   reference: PropTypes.string,
   contentComponent: PropTypes.func,
   title: PropTypes.string,
@@ -120,7 +128,11 @@ export const pageQuery = graphql`
       id
       html
       frontmatter {
+        action
+        creator
         description
+        overprint
+        price
         reference
         date(formatString: "MMMM DD, YYYY")
         title

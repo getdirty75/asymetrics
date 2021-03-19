@@ -6,7 +6,7 @@ import { useRecursiveTimeout } from "./useRecursiveTimeout";
 
 import { useEmblaCarousel } from 'embla-carousel/react'
 
-const HighLight = (props) => {
+const ProductHighlight = (props) => {
   const { data } = props
   const { edges: posts } = data.allMarkdownRemark
 
@@ -76,7 +76,7 @@ const HighLight = (props) => {
           </div>
         </div>
       </div>
-      <div className="embla">
+      {/* <div className="embla">
         <div className="embla__viewport" ref={mainViewportRef}>
           <div className="embla__container">
             {posts && posts.map( ({ node: post }, index) => (
@@ -105,7 +105,7 @@ const HighLight = (props) => {
                     <p className="embla__author">{post.frontmatter.author} - {post.frontmatter.date}</p>
                   </div>
                   <img
-                    className="embla__slide__img prevent_steal"
+                    className="embla__slide__img"
                     src={post.frontmatter.featuredimage && post.frontmatter.featuredimage.childImageSharp.fluid.src}
                     alt={post.frontmatter.featuredimage && post.frontmatter.featuredimage.childImageSharp.fluid.src}
                   />
@@ -114,12 +114,12 @@ const HighLight = (props) => {
             ))}
           </div>
         </div>
-      </div>
+      </div> */}
     </>
   )
 }
 
-HighLight.propTypes = {
+ProductHighlight.propTypes = {
   data: PropTypes.shape({
     allMarkdownRemark: PropTypes.shape({
       edges: PropTypes.array,
@@ -130,7 +130,7 @@ HighLight.propTypes = {
 export default () => (
   <StaticQuery
     query={graphql`
-      query HighLightQuery {
+      query ProductHighlightQuery {
         allMarkdownRemark(
           filter: { frontmatter: { templateKey: { eq: "product-post" } } }
           sort: { order: DESC, fields: [frontmatter___date] }
@@ -164,7 +164,7 @@ export default () => (
         }
       }
     `}
-    render={(data, count) => <HighLight data={data} count={count} />}
+    render={(data, count) => <ProductHighlight data={data} count={count} />}
   />
 )
 
@@ -175,7 +175,7 @@ const Thumb = ({ selected, onClick, imgSrc }) => (
       className="embla__slide__inner embla__slide__inner--thumb"
       type="button"
     >
-      <img className="embla__slide__thumbnail prevent_steal" src={imgSrc} alt={imgSrc} />
+      <img className="embla__slide__thumbnail" src={imgSrc} alt={imgSrc} />
     </button>
   </div>
 );
