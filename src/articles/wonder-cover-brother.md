@@ -29,3 +29,5 @@ Brainchild of a Mexico DF based Canadian, [Elsewhere Sonido](https://www.faceboo
 Their selections span everywhere from rare cumbia to obscure Pop covers in Spanish, with a consistent funky twist, and in this particular occasion focus exclusively on hommages to the great Stevie, from unexpected places such as Finland, Japan or Czechia (among a great deal of other places)!
 
 Check out Elswhere Sonido on [Mixcloud](https://www.mixcloud.com/elsewheresonido/), or Gilles Peterson's [Worldwide FM](https://worldwidefm.net/show/window-seat/)
+
+</div>
