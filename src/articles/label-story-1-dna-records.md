@@ -102,7 +102,7 @@ I met DSK in Kunming in 2004. He had been there for quite some time already, aft
 
 <br>
 
-Escaping the UK’s grey weather in the mid 1990’s, the savvy breakdancer and DJ simply moved his passion around, tagging along groundbreaking hip-hop movements in Thailand, Vietnam or Cambodia (where he incidentally ended up featuring on the[soundtrack](https://www.imdb.com/title/tt3241906/fullcredits/?ref_=tt_ov_st_sm) of one of the country’s prominent directors).
+Escaping the UK’s grey weather in the mid 1990’s, the savvy breakdancer and DJ simply moved his passion around, tagging along groundbreaking hip-hop movements in Thailand, Vietnam or Cambodia (where he incidentally ended up featuring on the [soundtrack](https://www.imdb.com/title/tt3241906/fullcredits/?ref_=tt_ov_st_sm) of one of the country’s prominent movie directors).
 
 <iframe width="100%" height="380" src="https://www.youtube-nocookie.com/embed/E6QKcON59ew" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen referrerpolicy="origin"></iframe>
 
@@ -112,7 +112,7 @@ Escaping the UK’s grey weather in the mid 1990’s, the savvy breakdancer and 
 
 DSK eventually landed in China’s Yunnan province, fell in love with the incredible culture and fascinating landscapes, got married, and decided this was where he would promote Hip-Hop culture !
 
-Nearly 20 years ago, this was not an easy task: while Hip-Hop is [now huge in China](https://www.shaketowin.net/rap-china/), in the early years of the 21st century there was only [a few ultra underground crews](https://radiichina.com/the-history-of-rap-in-china-part-1-early-roots-and-iron-mics-1993-2009/) in cities like Beijing, Shanghai, or Guangzhou (the latter having an incredibly rich graffiti scene), and virtually no scene in Kunming (except for a few crazy cats, but I’ll keep thos stories for another Asymetrics article)…
+Nearly 20 years ago, this was not an easy task: while Hip-Hop is [now huge in China](https://www.shaketowin.net/rap-china/), in the early years of the 21st century there was only [a few ultra underground crews](https://radiichina.com/the-history-of-rap-in-china-part-1-early-roots-and-iron-mics-1993-2009/) in cities like Beijing, Shanghai, or Guangzhou (the latter having an incredibly rich graffiti scene), and virtually no scene in Kunming (except for a few crazy cats, but I’ll keep those stories for another Asymetrics article)…
 
 <iframe width="100%" height="380" src="https://www.youtube-nocookie.com/embed/D6k3GgXGb4c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen referrerpolicy="origin"></iframe>
 
@@ -130,7 +130,7 @@ Eventually getting involved with the [Battle of the Year](https://www.battleofth
 
 <br>
 
-After a further decade coordinating Kunming’s top underground venues, Nick isnow back in the UK and more active than ever with his label – the Asymetrics are stoked to feature this gorgeous first Reggae release, and we can’t wait for DNA’s next releases !
+After a further decade coordinating Kunming’s top underground venues, Nick is now back in the UK and more active than ever with his label – the Asymetrics are stoked to feature this gorgeous first Reggae gem, and we can’t wait for DNA’s next releases !
 
 ### Find out More about DNA Records: [Website](https://djdsk3000.bigcartel.com/) / [Bandcamp](https://djdsk.bandcamp.com/music) / [Discogs](https://www.discogs.com/label/1925924-DNA-Records-19)
 
