@@ -16,7 +16,7 @@ date: 2021-03-23T11:03:22.235Z
 ---
 ![100%Sandwich](/img/screenshot_20210322_101952.jpg "100%Sandwich")
 
-<br>
+
 
 **Sandwich 001**
 
@@ -24,13 +24,11 @@ date: 2021-03-23T11:03:22.235Z
 
 Reggae, Rub A Dub, Digital
 
-<br> <br>
+<br> 
+
+<iframe width="100%" height="246" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/1230961051&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/the-asymetrics" title="The Asymetrics" target="_blank" style="color: #cccccc; text-decoration: none;">The Asymetrics</a> · <a href="https://soundcloud.com/the-asymetrics/sets/sandwich-selections" title="Sandwich Selections" target="_blank" style="color: #cccccc; text-decoration: none;">Sandwich Selections</a></div>
 
 
-
-LIEN EMBEDED SOUNDCLOUD / YT
-
-![](/img/130925574_1801283293355394_8678818459584039020_n.jpg)
 
 <br>
 
