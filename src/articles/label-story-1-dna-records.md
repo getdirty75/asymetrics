@@ -54,13 +54,21 @@ Having had his hands in the process of getting ***Bulang Beauty*** mastered and 
 
 **Now, for the backstory**: after a few successful releases of scratch tools with friends [Dinked records,](https://www.discogs.com/label/900548-Dinked) riding the [portablism](https://www.reloop.com/portablism) wave, DSK logically launched his own imprint in 2018.
 
-Thought as a vehicle to push mad scratch 45s and dancefloor-aimed dj edits (such as the Sausage Fingaz series, pictured below), DNA quickly became a platform to also release original material from DSK’s huge network of musicians, dj’s and breakdancers.
+<iframe width="100%" height="380" src="https://www.youtube-nocookie.com/embed/WYFgIh2JNnM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen referrerpolicy="origin"></iframe>
+
+<br>
+
+<br>
+
+Thought as a vehicle to push mad scratch 45s and dancefloor-aimed dj edits (such as the [Sausage Fingaz ](https://www.discogs.com/artist/6138851-DJ-Sausage-Fingaz)series), DNA quickly became a platform to also release original material from DSK’s huge network of musicians, dj’s and breakdancers.
+
+<br>
 
 ![](/img/theasymetrics_dna_records.jpg)
 
 <br>
 
-All of these records come in super limited editions, and the scratch tools and edits are notorious collectors’ items among the 45s DJ community – but what particularly tickle me are the original releases: from legendary UK breakdancer Ill Boogs’ [Seven Five](https://djdsk.bandcamp.com/track/seven-five), or the Shelley Mack Band’s [Ancient Artefacts](https://djdsk.bandcamp.com/track/ancient-artefacts), to Robert Torres’ [Falcon Claw](https://djdsk.bandcamp.com/album/falcon-claw-vs-kunming-bros), this is serious Funk for the heads !
+All of these records are super limited editions, and the scratch tools and edits are notorious collectors’ items among the 45s DJ community – but what particularly tickle me are the original releases: from legendary UK breakdancer Ill Boogs’ [Seven Five](https://djdsk.bandcamp.com/track/seven-five), or the Shelley Mack Band’s [Ancient Artefacts](https://djdsk.bandcamp.com/track/ancient-artefacts), to Robert Torres’ [Falcon Claw](https://djdsk.bandcamp.com/album/falcon-claw-vs-kunming-bros), this is serious Funk for the heads !
 
 <br>
 
@@ -70,7 +78,7 @@ All of these records come in super limited editions, and the scratch tools and e
 
 <br>
 
-***Falcon Claw*** comes with a story too! Composed by Robert Torres as a soundtrack for a Kung-Fu movie back in the 1970s, it never got picked up and remained on a sole demo cassette tape, recorded with weird disturbances from a neighbor’s CB radio.
+***Falcon Claw*** comes with a story too! Composed by [Robert Torres](https://www.45live.net/magazine/article/robert-torres-falcon-claw-dj-dsk) as a soundtrack for a Kung-Fu movie back in the 1970s, it never got picked up and remained on a sole demo cassette tape, recorded with weird disturbances from a neighbor’s CB radio.
 
 Torres would regularly play it to his son Kris, describing it as his personal theme song. When Torres passed away, Kris, who had grown to become a notorious figure and [cultural guide in Kunming](https://www.gokunming.com/en/blog/), played the tape to DSK, who immediately caught the tune’s distinctive groove and decided to release it to the World !
 
