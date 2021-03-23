@@ -31,9 +31,9 @@ outsideLinks:
 ---
 ![100%Sandwich](/img/screenshot_20210322_101952.jpg "100%Sandwich")
 
+Direct links: [Soundcloud](https://soundcloud.com/the-asymetrics/lord-sandwich-sandwich-001) / [Youtube](https://www.youtube.com/watch?v=tW7TQY2lzPY)
 
-
-**Sandwich 001**
+### **Sandwich 001**
 
 12" Vinyl Selection
 
@@ -42,8 +42,6 @@ Reggae, Rub A Dub, Digital
 <br> 
 
 <iframe width="100%" height="246" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/1230961051&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/the-asymetrics" title="The Asymetrics" target="_blank" style="color: #cccccc; text-decoration: none;">The Asymetrics</a> · <a href="https://soundcloud.com/the-asymetrics/sets/sandwich-selections" title="Sandwich Selections" target="_blank" style="color: #cccccc; text-decoration: none;">Sandwich Selections</a></div>
-
-
 
 <br>
 
