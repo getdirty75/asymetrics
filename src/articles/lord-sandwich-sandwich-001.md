@@ -52,9 +52,9 @@ Reggae, Rub A Dub, Digital
 
 09 King Kong - Trouble Again
 
+<br>
 
-
-![](/img/190510_marianne_girardet_kanaga-2-.jpg)
+![](/img/asymetrics-logo-.png)
 
 <br> <br>
 
