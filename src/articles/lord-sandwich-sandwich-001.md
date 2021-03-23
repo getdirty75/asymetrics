@@ -17,8 +17,6 @@ outsideLinks:
   outsideLinksList:
     - link: https://theasymetrics.com/blog/asymetrics-mixtape-10-earl-gateshead-hopeful-village/
       text: "Asymetrics Mixtape #10 - Earl Gateshead"
-    - text: "Asymetrcis Mixtape #3 - Fatta"
-      link: https://theasymetrics.com/blog/asymetrics-mixtape-3-fatta/
     - text: "Asymetrics Mixtape #13 - Satta Don Dada (the Return)"
       link: https://theasymetrics.com/blog/asymetrics-mixtape-13-satta-don-dada/
     - text: "Asymetrics Mixtape #5 - Marshall Neeko"
