@@ -1,10 +1,7 @@
 ---
 templateKey: blog-post
-title: Lord Sandwich - Sandwich 001
-teaser: |-
-  12" Records Selection !
-  31 Minutes Of Rub A Dub !
-  100% Vinyl !
+title: Lord Sandwich - 12" Rub A Dub Sandwich !
+teaser: " Rub A Dub & Digital Selection...100% Vinyl !"
 featuredimage: /img/screenshot_20210322_101952.jpg
 author: Lord Sandwich
 categories: mixtapes
