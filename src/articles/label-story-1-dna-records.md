@@ -22,11 +22,11 @@ date: 2021-03-23T04:06:11.777Z
 
 ### There’s a lot to unpack with DNA Records...
 
-... a young yet super active imprint based in the UK and China, ran by a unique kind of DJ, [DSK](https://djdsk3000.bigcartel.com/bio), who spends his time between Southampton and Kunming, Yunnan, and has dedicated most of his adult life pushing the boundaries of Hip-Hop, from graffiti to breakdance, and Djing…
+... a young yet super active imprint based in the UK and China, ran by a unique kind of DJ, [DSK](https://djdsk3000.bigcartel.com/bio), who spends his time between Southampton and **Kunming, [Yunnan](https://en.wikipedia.org/wiki/Yunnan)**, and has dedicated most of his adult life pushing the boundaries of Hip-Hop, from graffiti to Breakdance, and Djing…
 
 Now, before we dive into DJ DSK’s impressive backstory and DNA Breaks’ mad b-boy battles and scratch oriented [45s catalog](https://djdsk.bandcamp.com/music), let’s take a look at their latest release:
 
-#### **Puman - Bulang Beauty**
+#### **Puman - Bulang Beauty (DNA Dub Edit)**
 
 <iframe width="100%" height="380" src="https://www.youtube-nocookie.com/embed/0DRph2aUpLc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen referrerpolicy="origin"></iframe>
 
@@ -120,7 +120,7 @@ Nearly 20 years ago, this was not an easy task: while Hip-Hop is [now huge in Ch
 
 <br>
 
-So, to keep the story short: **DSK** slept rough a bunch of times to go scratch in the most remote places – I still remember the time he got me a booking in Inner Mongolia, proudly telling me how the venue got me a hotel room, while when he went there he had to spend the night after the gig in a public bath -; he taught scratching to clueless kids in obscure “dj schools”, played insanely good shows to audiences who only wanted to hear Britney Spears, got in many fights and arguments, but of course rocked hundreds of dancefloors, and it all paid off !
+So, to keep the story short: **DSK** slept rough a bunch of times to go scratch in the most remote places – I still remember the time he got me a booking in Inner Mongolia, proudly telling me how the venue got me a hotel room, while when he went there he had to spend the night after the gig in a public bath -; he taught scratching to clueless kids in obscure “dj schools”, played insanely good shows to audiences who only wanted to hear Britney Spears, got in many fights and arguments, but of course mainly rocked hundreds of dancefloors, and it all paid off !
 
 Eventually getting involved with the [Battle of the Year](https://www.battleoftheyear.net/)’s Korean and Chinese editions – he served as official dj for many a B-Boy competition, and helped Chinese crews get on the map.
 
