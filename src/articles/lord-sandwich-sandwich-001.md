@@ -1,7 +1,10 @@
 ---
 templateKey: blog-post
 title: Lord Sandwich - Sandwich 001
-teaser: "31 minutes of rub a dub "
+teaser: |-
+  12" Records Selection !
+  31 Minutes Of Rub A Dub !
+  100% Vinyl !
 featuredimage: /img/screenshot_20210322_101952.jpg
 author: Lord Sandwich
 categories: mixtapes
@@ -13,31 +16,21 @@ date: 2021-03-23T11:03:22.235Z
 ---
 ![100%Sandwich](/img/screenshot_20210322_101952.jpg "100%Sandwich")
 
-
-
 <br> <br>
 
 **Sandwich 001**
 
-
-
 12" Vinyl Selection
-
-
 
 Reggae, Rub A Dub, Digital
 
+<br> <br>
 
+![](/img/130925574_1801283293355394_8678818459584039020_n.jpg)
 
 <br> <br>
 
-
-
-
-
 **Tracklist :**
-
-
 
 01 Little John - Gambling
 
@@ -57,7 +50,9 @@ Reggae, Rub A Dub, Digital
 
 09 King Kong - Trouble Again
 
+<br> <br>
 
+![](/img/190510_marianne_girardet_kanaga-2-.jpg)
 
 <br> <br>
 
