@@ -126,4 +126,4 @@ After a further decade coordinating Kunming’s top underground venues, Nick isn
 
 ### Find out More about DNA Records: [Website](https://djdsk3000.bigcartel.com/) / [Bandcamp](https://djdsk.bandcamp.com/music) / [Discogs](https://www.discogs.com/label/1925924-DNA-Records-19)
 
-### DJ DSK:[Soundcloud](https://soundcloud.com/djdsk) / [Youtube](https://www.youtube.com/c/djdsk/featured) / [Discogs](https://www.discogs.com/artist/162811-DJ-DSK)
+### DJ DSK: [Soundcloud](https://soundcloud.com/djdsk) / [Youtube](https://www.youtube.com/c/djdsk/featured) / [Discogs](https://www.discogs.com/artist/162811-DJ-DSK)
