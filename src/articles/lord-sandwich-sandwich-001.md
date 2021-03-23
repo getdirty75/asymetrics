@@ -13,6 +13,12 @@ tags:
   - "#Mixtape"
   - "#Rub A Dub"
 date: 2021-03-23T11:03:22.235Z
+insideLinks:
+  - ""
+outsideLinks:
+  outsideLinksList:
+    - link: https://theasymetrics.com/blog/asymetrics-mixtape-10-earl-gateshead-hopeful-village/
+      text: "Asymetrics Mixtape #10"
 ---
 ![100%Sandwich](/img/screenshot_20210322_101952.jpg "100%Sandwich")
 
