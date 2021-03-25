@@ -32,6 +32,8 @@ outsideLinks:
 ---
 ![](/img/theasymetrics_dna_records_main.jpg " © Allias (https://www.facebook.com/Allias-284041658314968)")
 
+*© [Allias](https://www.facebook.com/Allias-284041658314968)*
+
 ### There’s a lot to unpack with DNA Records...
 
 ... a young yet super active imprint based in the UK and China, ran by a unique kind of DJ, [DSK](https://djdsk3000.bigcartel.com/bio), who spends his time between Southampton and **Kunming, [Yunnan](https://en.wikipedia.org/wiki/Yunnan)**, and has dedicated most of his adult life pushing the boundaries of Hip-Hop, from graffiti to dance and Djing…
@@ -154,7 +156,7 @@ After a further decade coordinating Kunming’s top underground venues, Nick is 
 
 <br>
 
-#### *The Asymetrics are stoked to feature this gorgeous first Reggae release, and we can’t wait for what's next with DNA !*
+#### *The Asymetrics are stoked to feature this gem of a first Reggae release, and we can’t wait for what's next with DNA !*
 
 ### Find out More about DNA Records: [Website](https://djdsk3000.bigcartel.com/) / [Bandcamp](https://djdsk.bandcamp.com/music) / [Discogs](https://www.discogs.com/label/1925924-DNA-Records-19)
 
