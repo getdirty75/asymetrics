@@ -15,12 +15,10 @@ tags:
   - "#Vinyl"
   - "#45s"
   - "#HipHop"
-  - "#Breakdance"
+  - "#B-Boying"
 date: 2021-03-23T04:06:11.777Z
 ---
 ![](/img/theasymetrics_dna_records_main.jpg " © Allias (https://www.facebook.com/Allias-284041658314968)")
-
-
 
 ### There’s a lot to unpack with DNA Records...
 
@@ -128,7 +126,7 @@ Around that time, DJ DSK has also worked for Akai, Alesiss and Numark to show an
 
 So, to keep the story short: **DSK** slept rough a bunch of times to go scratch in the most remote places – I still remember the time he got me a booking in Inner Mongolia, proudly telling me how the venue got me a hotel room, while when he went there he had to spend the night after the gig in a public bath -; he taught scratching to beginner kids in obscure “dj schools”, played insanely good shows to audiences who only wanted to hear Britney Spears, got in many fights and arguments, but of course mainly rocked hundreds of dancefloors, and it all paid off !
 
-Eventually getting involved with the [Battle of the Year](https://www.battleoftheyear.net/)’s Chinese and Asian editions – he served as official dj for many a B-Boy competition, like BOTY, Freestyle Sessions, or UK B-Boy Champs, and helped Chinese crews get their visas and chaperoned to some of their first World battles in Europe.
+Eventually getting involved with the [Battle of the Year](https://www.battleoftheyear.net/)’s Chinese and Asian editions – he served as official dj for many a B-Boy competition, like **BOTY**, **Freestyle Sessions**, or **UK B-Boy Champs**, and helped Chinese crews get their visas and chaperoned them to some of their first World battles in Europe.
 
 <iframe width="100%" height="380" src="https://www.youtube-nocookie.com/embed/6a619xo56IU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen referrerpolicy="origin"></iframe>
 
@@ -136,7 +134,15 @@ Eventually getting involved with the [Battle of the Year](https://www.battleofth
 
 <br>
 
-After a further decade coordinating Kunming’s top underground venues, Nick is now back in the UK and more active than ever with his label – the Asymetrics are stoked to feature this gorgeous first Reggae gem, and we can’t wait for DNA’s next releases !
+After a further decade coordinating Kunming’s top underground venues, Nick is currently back in the UK and more active than ever with his label, as well as regularly dropping bomb tracks on other labels:
+
+<iframe width="100%" height="380" src="https://www.youtube-nocookie.com/embed/fHfETwa6q28" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen referrerpolicy="origin"></iframe>
+
+<br>
+
+<br>
+
+#### *The Asymetrics are stoked to feature this gorgeous first Reggae release, and we can’t wait for what's next with DNA !*
 
 ### Find out More about DNA Records: [Website](https://djdsk3000.bigcartel.com/) / [Bandcamp](https://djdsk.bandcamp.com/music) / [Discogs](https://www.discogs.com/label/1925924-DNA-Records-19)
 
