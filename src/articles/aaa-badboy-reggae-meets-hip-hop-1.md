@@ -2,7 +2,7 @@
 templateKey: blog-post
 title: AAA Badboy - Reggae Meets Hip-Hop
 teaser: Launching our Spotify page in fine style with a badass playlist from AAA
-  Badboy, aka Kaptin Barrett.
+  Badboy !
 featuredimage: /img/theasymetrics_aaabadboy_cover.jpg
 author: Asymetric
 categories: mixtapes
@@ -21,13 +21,13 @@ date: 2021-03-25T03:23:18.155Z
 
 *Ever since I first heard Asher D & Daddy Freddy's 'Raggamuffin Hip-hop Album' in the late 80s, I've loved the fusion of the two and I feel that it's a sound that never gets old to me so I've put together a bunch off my favourites from the 90s right through to now, including lots of artists I've booked at Boomtown over the years and many I'm grateful to call friends. I hope you enjoy it as much as I enjoyed making it.*
 
-*\- Kaptin Barrett*
+*\- AAA Badboy*
 
 *<br>*
 
 <iframe src="https://open.spotify.com/embed/playlist/6rHW23BaddZT6TIlz1sFjx" width="100%" height="590" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 
-### AAA Badboy / Kaptin Barrett
+### AAA Badboy 
 
 ![](/img/theasymetrics_aaabadboy_portrait.jpg)
 
@@ -38,3 +38,11 @@ Head of Music at Boomtown Festival, international DJ and all round uplifting sou
 Starting off as a record store manager in the late 1990's, he launched a first DJ residency called Higher Learning at the Toucan Club, and went on perform with a band called Potato Skinz, DJ around the World and a regular at  BBC Radio 1, BBC 1Xtra and BBC Radio Wales.
 
 He has been involved in the Boomtown adventure since 2013, now the UK's biggest independant festival.
+
+### Find out more on AAA Badboy's [website](https://www.kaptinbarrett.com/) / [Twitter](https://twitter.com/KaptinisDead/) / [Instagram](https://www.instagram.com/aaabadboy/)
+
+... and if your drug of choice is not Spotify, you can also catch this great playlist on Youtube !
+
+<iframe width="100%" height="380" src="https://www.youtube.com/embed/playlist?list=PLZtgNolXlRSSFGE3MF1SWSmIoOBAqUeK0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+### Stay fresh & keep digging !
