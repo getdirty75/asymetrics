@@ -12,6 +12,16 @@ tags:
   - "#HipHop"
   - "#Playlist"
 date: 2021-03-25T03:23:18.155Z
+outsideLinks:
+  outsideLinksList:
+    - text: The Asymetrics' Spotify
+      link: https://open.spotify.com/user/l4j7h7m54m3042w0l1yifk031?si=yanpO-wOSqSSoWgpvfccDg
+    - text: THe Asymetrics Channel (Youtube)
+      link: https://www.youtube.com/channel/UCjm0hKdlJVNA5X3U3KEhEow
+    - text: AAA Badboy
+      link: https://twitter.com/KaptinisDead/
+    - text: Kaptin Barrett
+      link: https://www.kaptinbarrett.com/
 ---
 ![](/img/theasymetrics_aaabadboy_cover.jpg)
 
@@ -33,9 +43,9 @@ date: 2021-03-25T03:23:18.155Z
 
 <br>
 
-Head of Music at Boomtown Festival, international DJ and all round uplifting sounds purveyor, [AAA Badboy](https://twitter.com/KaptinisDead/) has been busy for over 20 years as curator, DJ, radio presenter and rapper amongst many other things.
+Head of Music at **Boomtown** Festival, international DJ and all round uplifting sounds purveyor, [AAA Badboy](https://twitter.com/KaptinisDead/) has been busy for over 20 years as curator, DJ, radio presenter and rapper amongst many other things.
 
-Starting off as a record store manager in the late 1990's, he launched a first DJ residency called Higher Learning at the Toucan Club, and went on perform with a band called Potato Skinz, DJ around the World and a regular at  BBC Radio 1, BBC 1Xtra and BBC Radio Wales.
+Starting off as a record store manager in the late 1990's, he launched a first DJ residency called Higher Learning at Cardiff's Toucan Club, and went on perform with seminal group **Potato Skinz**, DJ around the World, and a get regular feats at BBC Radio 1, BBC 1Xtra and BBC Radio Wales.
 
 He has been involved in the Boomtown adventure since 2013, now the UK's biggest independant festival.
 
