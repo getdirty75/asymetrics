@@ -32,13 +32,27 @@ exports.createPages = ({ actions, graphql }) => {
 
     const posts = result.data.allMarkdownRemark.edges
     _.each(posts, (post, index) => {
-      const articleId = post.node.id
+      const itemId = post.node.id
+
+      createPage({
+        path: `/product${post.node.fields.slug}`,
+        component: path.resolve(
+          `src/templates/${String(post.node.frontmatter.templateKey)}.js`),
+        context: {
+          id: itemId,
+          next: index === 0 ? null : posts[index - 1].node,
+          previous: index === posts.length - 1 ? null : posts[index + 1].node,
+          slug: post.node.fields.slug,
+        },
+      })
+
+
       createPage({
         categories: post.node.frontmatter.categories,
         component: path.resolve(
           `src/templates/${String(post.node.frontmatter.templateKey)}.js`),
         context: {
-          id: articleId,
+          id: itemId,
           next: index === 0 ? null : posts[index - 1].node,
           postPath: `/blog${post.node.fields.slug}`,
           previous: index === posts.length - 1 ? null : posts[index + 1].node,
