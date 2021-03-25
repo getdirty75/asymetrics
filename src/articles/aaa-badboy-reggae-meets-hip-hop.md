@@ -1,9 +1,10 @@
 ---
 templateKey: blog-post
 title: AAA Badboy - Reggae Meets Hip-Hop
-teaser: The Asymetrics on Spotify ! We are launching our new account in fine
-  style with a badass Reggae meets Hip-Hop playlist, courtesy from AAA Badboy,
-  aka Kaptin Barrett !
+teaser: >-
+  The Asymetrics are now on Spotify ! 
+
+  We are launching our new account in fine style with an exclusive "Reggae meets Hip-Hop" playlist, courtesy from AAA Badboy, aka Kaptin Barrett !
 featuredimage: /img/theasymetrics_aaabadboy_cover.jpg
 author: Asymetric
 categories: mixtapes
