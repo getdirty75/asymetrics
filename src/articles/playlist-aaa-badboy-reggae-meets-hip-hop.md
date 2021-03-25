@@ -3,7 +3,7 @@ templateKey: blog-post
 title: "Playlist: AAA Badboy - Reggae Meets Hip-Hop"
 teaser: The Asymetrics are now on Spotify ! We are launching our new account in
   fine style with an exclusive "Reggae meets Hip-Hop" playlist, courtesy of AAA
-  Badboy !
+  Badboy.
 featuredimage: /img/theasymetrics_aaabadboy_cover.jpg
 author: Asymetric
 categories: mixtapes
