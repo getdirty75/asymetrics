@@ -17,6 +17,18 @@ tags:
   - "#HipHop"
   - "#B-Boying"
 date: 2021-03-23T04:06:11.777Z
+outsideLinks:
+  outsideLinksList:
+    - text: DJ DSK / DNA Records online store
+      link: https://djdsk3000.bigcartel.com/
+    - text: DNA on Bandcamp
+      link: https://djdsk.bandcamp.com/music
+    - text: DJ DSK's Channel
+      link: https://www.youtube.com/channel/UCYm22kLXGnFjofq5X1i_Rng/featured
+    - text: Puman on Spotify
+      link: https://open.spotify.com/artist/1V6gBBt9SmuJobwq0VhMqc
+    - text: Sea of Wood
+      link: https://www.qobuz.com/gb-en/label/sea-of-wood/download-streaming-albums/999966
 ---
 ![](/img/theasymetrics_dna_records_main.jpg " © Allias (https://www.facebook.com/Allias-284041658314968)")
 
