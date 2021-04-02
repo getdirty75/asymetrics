@@ -28,6 +28,8 @@ outsideLinks:
 ---
 ![](/img/aioli-credit-lindependant.fr.jpg "©Lindependant.fr")
 
+Direct links:[ Soundcloud](https://soundcloud.com/the-asymetrics/asymetrics-mixtape-16-select-aioli) / Youtube
+
 ### Proper dancefloor business for this 16th edition, with a killer vinyl mix by Catalan champion DJ [Sélect Aïoli](https://www.facebook.com/selectaioli)
 
 Southern France's favorite mobile DJ graces us with a selection of fire Reggae, Dub, Dancehall and Hip-Hop - Put on your dancing shoes !
@@ -35,8 +37,6 @@ Southern France's favorite mobile DJ graces us with a selection of fire Reggae, 
 <br>
 
 <iframe width="100%" height="600" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1018525105&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/the-asymetrics" title="The Asymetrics" target="_blank" style="color: #cccccc; text-decoration: none;">The Asymetrics</a> · <a href="https://soundcloud.com/the-asymetrics/asymetrics-mixtape-16-select-aioli" title="Asymetrics Mixtape #16: Sélect Aïoli - Sticky Aïoli" target="_blank" style="color: #cccccc; text-decoration: none;">Asymetrics Mixtape #16: Sélect Aïoli - Sticky Aïoli</a></div>
-
-
 
 ### Tracklist
 
