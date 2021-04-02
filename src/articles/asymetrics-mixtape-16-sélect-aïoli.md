@@ -28,7 +28,7 @@ outsideLinks:
 ---
 ![](/img/aioli-credit-lindependant.fr.jpg "©Lindependant.fr")
 
-Direct links:[ Soundcloud](https://soundcloud.com/the-asymetrics/asymetrics-mixtape-16-select-aioli) / Youtube
+Direct links:[  Soundcloud](https://soundcloud.com/the-asymetrics/asymetrics-mixtape-16-select-aioli) / [Youtube](https://www.youtube.com/watch?v=m4iHnF2C6HM)
 
 ### Proper dancefloor business for this 16th edition, with a killer vinyl mix by Catalan champion DJ [Sélect Aïoli](https://www.facebook.com/selectaioli)
 
@@ -94,12 +94,12 @@ Southern France's favorite mobile DJ graces us with a selection of fire Reggae, 
 
 ### Sélect Aïoli
 
-<iframe width="560" height="380" src="https://www.youtube-nocookie.com/embed/vimPwcL9_5k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="100%" height="380" src="https://www.youtube-nocookie.com/embed/vimPwcL9_5k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <br>
 
 <br>
 
-A selector of independant music of all kinds, from Reggae to Funk, Soul, Hip-Hop, African or Latin grooves, [Aïoli ](https://www.youtube.com/watch?v=LTWF09Slv6Y)was inspired by Jamaican Sound-system culture and created the [2CV soundsystem](https://www.facebook.com/Les-2-CV-Sound-System-1532824026972406/): Equiped with an authentic vintage Citroen ride of the legendary [2CV](https://en.wikipedia.org/wiki/Citro%C3%ABn_2CV) make, he travels the South of France to spread his good vibes from festivals to village markets, always playing vinyl only, and always rocking the crowd !
+A selector of independant music of all kinds, from Reggae to Funk, Soul, Hip-Hop, African or Latin grooves, [Aïoli ](https://www.youtube.com/watch?v=LTWF09Slv6Y)was inspired by Jamaican Sound-system culture and created the [2CV soundsystem](https://www.facebook.com/Les-2-CV-Sound-System-1532824026972406/): Equiped with an authentic vintage Citroen ride of the legendary [2CV](https://en.wikipedia.org/wiki/Citro%C3%ABn_2CV) make, with a badass sound and full of tunes, he travels the South of France to spread his good vibes from festivals to village markets, always playing vinyl only, and always rocking the crowd !
 
 ### Find out more about Sélect Aïoli on [Facebook](https://www.facebook.com/selectaioli) / [Instagram ](https://www.instagram.com/selectaioli/?hl=en)/ [Mixcloud](https://www.mixcloud.com/s%C3%A9lect-a%C3%AFoli/stream/)
