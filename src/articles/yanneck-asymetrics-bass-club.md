@@ -26,13 +26,11 @@ outsideLinks:
 
 Direct Links: [Beatport](https://www.beatport.com/chart/asymetrics-yanneck-selection/669828) / [Youtube](https://youtube.com/playlist?list=PLZtgNolXlRSRRe02XjDe1n5Kz4sV6Y03a)
 
-### Special monthly DJ charts by [Yanneck](https://www.facebook.com/yanneckmusic), carefuly selecting a wide array of beats to rock your dancefloors !
+### Exclusive monthly DJ charts by [Yanneck](https://www.facebook.com/yanneckmusic), carefuly selecting for The Asymetrics a wide array of beats to rock the dancefloors worldwide ! 
 
-Berlin-based French producer Yanneck has released a variety of bass music tracks over the last 15 years, with appearances on labels like Chinese Man Records, Chateau Bruyant, Alouette Street Records, and Fogata Sound. As a DJ, he has performed with artists such as Noisia, Foreign Beggars, Black Sun Empire, DJ Marky, DJ Vadim, Maztek and MC Inja.
+Berlin-based French producer Yanneck has released a variety of bass music tracks and remixes over the last 15 years, with appearances on labels like Chinese Man Records, Chateau Bruyant, Alouette Street Records, and Fogata Sound. As a DJ, he has performed with artists such as Noisia, Foreign Beggars, Black Sun Empire, DJ Marky, DJ Vadim, Maztek and MC Inja...
 
-
-
-### Check out Yanneck's top picks on Beatport: 
+### Check out Yanneck's top picks on Beatport:
 
 #### <https://www.beatport.com/chart/asymetrics-yanneck-selection/669828>
 
@@ -42,4 +40,4 @@ Or get into it on our Youtube Channel:
 
 <br>
 
-### Stay Hydrated & keep digging !
+### Stay Hydrated & Keep Digging !
