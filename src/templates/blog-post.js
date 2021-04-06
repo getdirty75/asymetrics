@@ -26,6 +26,12 @@ export const BlogPostTemplate = ({
           links[i].target = '_blank';
         }
       }
+    let images = document.getElementsByTagName('img');
+    console.log("===========")
+    console.log(images)
+    for (var y=0, l=images.length; y < l; y++) {
+      images[y].className = " prevent_steal";
+    }
   }
 
     return (

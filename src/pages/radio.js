@@ -27,7 +27,7 @@ class RadioPage extends React.Component {
                   <article>
                     <Link to={post.fields.slug}>
                       <div className="image is-5by4">
-                        <img className="blogRoll__img"
+                        <img className="blogRoll__img prevent_steal"
                           alt={post.frontmatter.title}
                           src={post.frontmatter.featuredimage.childImageSharp.fluid.src}
                         />

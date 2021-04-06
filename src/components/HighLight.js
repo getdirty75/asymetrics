@@ -105,7 +105,7 @@ const HighLight = (props) => {
                     <p className="embla__author">{post.frontmatter.author} - {post.frontmatter.date}</p>
                   </div>
                   <img
-                    className="embla__slide__img"
+                    className="embla__slide__img prevent_steal"
                     src={post.frontmatter.featuredimage && post.frontmatter.featuredimage.childImageSharp.fluid.src}
                     alt={post.frontmatter.featuredimage && post.frontmatter.featuredimage.childImageSharp.fluid.src}
                   />
@@ -175,7 +175,7 @@ const Thumb = ({ selected, onClick, imgSrc }) => (
       className="embla__slide__inner embla__slide__inner--thumb"
       type="button"
     >
-      <img className="embla__slide__thumbnail" src={imgSrc} alt={imgSrc} />
+      <img className="embla__slide__thumbnail prevent_steal" src={imgSrc} alt={imgSrc} />
     </button>
   </div>
 );

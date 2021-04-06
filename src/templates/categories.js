@@ -7,9 +7,9 @@ import { CATEGORIES } from '../translation/enum'
 class CategoryRoute extends React.Component {
   render() {
     const posts = this.props.data.allMarkdownRemark.edges
-    const postLinks = posts.map((post) => (
+    const postLinks = posts.map((post, index) => (
 
-      <Link to={`/blog/${post.node.fields.slug}`}>
+      <Link key={index} to={`/blog/${post.node.fields.slug}`}>
         <div className="tile is-12 is-parent"  key={post.id}>
           <div className="tile is-child">
 
@@ -20,7 +20,7 @@ class CategoryRoute extends React.Component {
                   <figure className="image is-128x128 media-left antifigure">
                     <img
                       alt={post.node.frontmatter.title}
-                      className="horizontalRoll__img"
+                      className="horizontalRoll__img prevent_steal"
                       src={post.node.frontmatter.featuredimage.childImageSharp.fluid.src}
                     />
                   </figure>
@@ -115,7 +115,7 @@ export const categoryPageQuery = graphql`
       }
     }
     allMarkdownRemark(
-      limit: 20
+      limit: 1000
       sort: { fields: [frontmatter___date], order: DESC }
       filter: { frontmatter: { categories: { in: [$category] } } }
     ) {

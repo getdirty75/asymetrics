@@ -5,7 +5,7 @@ teaser: A selection of paintings, watercolors & stencils by Alix Person for The
   Asymetrics...
 featuredimage: /img/fat-emile-alix-person_theasymetrics.jpg
 author: Lord Sandwich
-categories: artworks
+categories: photography
 tags:
   - "#painting"
   - "#artwork"
@@ -148,3 +148,7 @@ https://www.instagram.com/alixperson
 
 
 ![](/img/photo-alix-person.jpg)
+
+**Alix Person is also a wicked beatmaker known as Alphant...**
+
+<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/754568719&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/alphant" title="Alphant" target="_blank" style="color: #cccccc; text-decoration: none;">Alphant</a> · <a href="https://soundcloud.com/alphant/1-alphant-ft-taiwan-mc-morning" title="Alphant Ft Taiwan MC - Morning Sun (Zaka Pulco Remix)" target="_blank" style="color: #cccccc; text-decoration: none;">Alphant Ft Taiwan MC - Morning Sun (Zaka Pulco Remix)</a></div>

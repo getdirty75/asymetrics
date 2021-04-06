@@ -7,10 +7,10 @@ title: "Les Drogues Rient "
 teaser: >-
   "Les drogueries, ces temples oubliés, derniers gardiens d'une époque où l'on
   peut acheter du gaz, de la cire, une planche à repasser et des chaussures dans
-  30 m2. Magique." 
+  30 m2. Magique."
 
   Words & Pictures by Yannick Sage
-categories: artworks
+categories: photography
 tags:
   - "#typography"
   - "#oldstores"

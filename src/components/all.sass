@@ -86,6 +86,8 @@ a
 .blurb_box
   display: flex
 
+.prevent_steal
+  pointer-events: none !important
 
 //
 //   CHRISTMAS
@@ -204,6 +206,7 @@ footer.footer
     max-height: 100% !important
     width: auto
     border-radius: 0.2rem
+    pointer-events: none !important
 
 .blogPost__text
   font: 100% $font-regular !important
@@ -400,6 +403,15 @@ footer.footer
   font-size: 24px !important
   margin-bottom: 0.2em !important
   margin-top: 0.2em
+
+.itemRoll__itemTitle
+  color: rgba(85, 26, 139, 1) !important
+  font-size: 24px !important
+  margin-bottom: 0.2em !important
+  margin-top: 0.2em
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
 
 .blogRoll__itemTitle2
   color: rgba(11, 92, 102, 1) !important

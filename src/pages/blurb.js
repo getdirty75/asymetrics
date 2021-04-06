@@ -22,7 +22,7 @@ const BlurbPage = () => {
               <article class="tile is-child box">
                 <div className='blurb_box'>
                   <div className="image">
-                    <img alt="malong" className="blurb_img" src={malong} />
+                    <img alt="malong prevent_steal" className="blurb_img" src={malong} />
                   </div>
                   <p class="subtitle blurb_name">Malong</p>
                 </div>
@@ -34,7 +34,7 @@ const BlurbPage = () => {
               <article class="tile is-child box">
                 <div className='blurb_box'>
                   <div className="image">
-                    <img alt="tai" className="blurb_img" src={tai} />
+                    <img alt="tai prevent_steal" className="blurb_img" src={tai} />
                   </div>
                   <p class="subtitle blurb_name">Lord Sandwich</p>
                 </div>
@@ -45,7 +45,7 @@ const BlurbPage = () => {
               <article class="tile is-child box">
               <div className='blurb_box'>
                 <div className="image">
-                  <img alt="ben" className="blurb_img" src={ben} />
+                  <img alt="ben prevent_steal" className="blurb_img" src={ben} />
                 </div>
                 <p class="subtitle blurb_name">Ben</p>
               </div>
