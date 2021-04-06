@@ -1,8 +1,8 @@
 ---
 templateKey: blog-post
 title: Chiko - Turkish Delights Vol 2.
-teaser: Second edition of Chiko's phenomenal 100% Vinyl selections of rare
-  Turkish tunes from the 1960's and 70's...
+teaser: Second edition of Chiko's phenomenal vinyl selections of rare Turkish
+  tunes from the 1960's and 70's...
 featuredimage: /img/tulay.jpg
 author: Asymetric
 categories: mixtapes
