@@ -33,6 +33,7 @@ export const ProductPostTemplate = ({
                 <p className="subtitle">Stories / Movies / Books</p>
                 <figure className="image is-4by3">
                   <img
+                    className="prevent_steal"
                     // src="https://bulma.io/images/placeholders/640x480.png"
                     src={featuredimage}
                   />

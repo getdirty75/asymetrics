@@ -2,6 +2,7 @@ import React from 'react'
 import { Link } from 'gatsby'
 import insta from '../img/social/instagram.svg'
 import soundcloud from '../img/social/soundcloud.svg'
+import spotify from '../img/social/spotify.svg'
 import fb from '../img/social/facebook.svg'
 import tube from '../img/social/youtube.svg'
 import { RoughNotation } from "react-rough-notation"
@@ -67,6 +68,7 @@ const Navbar = class extends React.Component {
               <Link className="navbar-item navbar__itemStyle" to="/blog/categories/news">news</Link>
               <Link className="navbar-item navbar__itemStyle" to="/market">market</Link>
               <Link className="navbar-item navbar__itemStyle" to="/blog/categories/mixtapes">mixtapes</Link>
+              <Link className="navbar-item navbar__itemStyle" to="/blog/categories/photography">visuals</Link>
             <a
                 className="navbar-item"
                 href="https://soundcloud.com/the-asymetrics"
@@ -107,7 +109,17 @@ const Navbar = class extends React.Component {
                   <img src={tube} alt="YouTube" />
                 </span>
               </a>
-              <Link className="navbar-item navbar__itemStyle" to="/blurb">x</Link>
+              <a
+                className="navbar-item"
+                href="https://open.spotify.com/user/l4j7h7m54m3042w0l1yifk031"
+                target="_blank"
+                rel="noopener noreferrer"
+              >
+                <span className="icon">
+                  <img src={spotify} alt="Spotify" />
+                </span>
+              </a>
+              {/* <Link className="navbar-item navbar__itemStyle" to="/blurb">x</Link> */}
             </div>
           </div>
         </div>

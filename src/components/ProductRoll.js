@@ -26,7 +26,7 @@ class ProductRoll extends React.Component {
             <article>
               <a href={post.frontmatter.action} target='_blank'>
                 <div className="image is-5by4">
-                  <img className="market__img"
+                  <img className="market__img prevent_steal"
                     alt={post.frontmatter.title}
                     src={post.frontmatter.featuredimage && post.frontmatter.featuredimage.childImageSharp.fluid.src}
                   />

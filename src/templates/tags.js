@@ -9,11 +9,11 @@ class TagRoute extends React.Component {
       <div className="is-parent column is-3 blogRoll__item" key={post.id}>
         <article>
           <Link to={`/blog/${post.node.fields.slug}`}>
-            <p className="blogRoll__itemTitle">{post.node.frontmatter.title}</p>
+            <p className="itemRoll__itemTitle">{post.node.frontmatter.title}</p>
           </Link>
           <Link to={`/blog/${post.node.fields.slug}`}>
             <div className="image is-5by4">
-              <img className="blogRoll__img"
+              <img className="blogRoll__img prevent_steal"
                 alt={post.node.frontmatter.title}
                 src={post.node.frontmatter.featuredimage.childImageSharp.fluid.src}
               />
@@ -63,7 +63,7 @@ export const tagPageQuery = graphql`
       }
     }
     allMarkdownRemark(
-      limit: 4
+      limit: 1000
       sort: { fields: [frontmatter___date], order: DESC }
       filter: { frontmatter: { tags: { in: [$tag] } } }
     ) {
