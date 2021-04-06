@@ -12,13 +12,19 @@ tags:
   - "#watercolor"
   - "#stencil"
   - "#alixperson"
-date: 2021-03-15T12:23:46.085Z
+date: 2021-04-06T12:23:46.085Z
 outsideLinks:
   outsideLinksList:
     - text: Instagram
       link: https://www.instagram.com/alixperson/
     - text: "Facebook "
       link: https://www.facebook.com/alixperson
+    - text: Bandcamp
+      link: https://alphant.bandcamp.com/
+    - text: Soundcloud
+      link: https://soundcloud.com/alphant
+    - text: YouTube Music
+      link: https://www.youtube.com/channel/UCurYYH5stuRLCzU83JZ5T4w
     - text: More Alix Person
       link: https://fulltukantheband.wixsite.com/alixperson
 ---
@@ -132,6 +138,8 @@ where frames and subjects feed each other.
 The artist mixes different recycled elements : cardboard, leather, wood, hair, scrap...to create unique paintings.
 
 These are mainly portraits of men or women, anonymous or not, met in daily life...
+
+https://www.etsy.com/fr/shop/fatbobstore
 
 ![](/img/fat-bob-linogravure-alix-person.jpg)
 

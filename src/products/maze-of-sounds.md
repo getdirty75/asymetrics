@@ -2,7 +2,7 @@
 templateKey: product-post
 title: Maze Of Sounds
 description: By Janko Nilovic & The Soul Surfers
-reference: none
+reference:
 creator: Broc Recordz
 action: https://brocrecordz.bandcamp.com/album/maze-of-sounds
 price: 22
