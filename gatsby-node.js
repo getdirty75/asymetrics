@@ -35,7 +35,7 @@ exports.createPages = ({ actions, graphql }) => {
       const itemId = post.node.id
 
       createPage({
-        path: `/product${post.node.fields.slug}`,
+        path: `/market/product${post.node.fields.slug}`,
         component: path.resolve(
           `src/templates/${String(post.node.frontmatter.templateKey)}.js`),
         context: {

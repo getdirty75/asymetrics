@@ -24,7 +24,7 @@ class ProductRoll extends React.Component {
         {posts.map(({ node: post }) => (
           <div className="is-parent column is-4 blogRoll__item" key={post.id}>
             <article>
-              <a href={post.frontmatter.action} target='_blank'>
+              <a href={post.frontmatter.action} rel="noreferrer" target='_blank'>
                 <div className="image is-5by4">
                   <img className="market__img prevent_steal"
                     alt={post.frontmatter.title}
@@ -33,7 +33,7 @@ class ProductRoll extends React.Component {
                 </div>
               </a>
               <div className="market__sub">
-                <a href={post.frontmatter.action} target='_blank'>
+                <a href={post.frontmatter.action} rel="noreferrer" target='_blank'>
                   <p className="blogRoll__itemTitle">{post.frontmatter.title}</p>
                   <p className="blogRoll__teaser">{post.frontmatter.description}</p>
                   <p className="blogRoll__teaser">{post.frontmatter.reference}</p>
@@ -47,7 +47,7 @@ class ProductRoll extends React.Component {
                     }
                   </Link> */}
                 </div>
-                <a href={post.frontmatter.action} target='_blank'>
+                <a href={post.frontmatter.action} rel="noreferrer" target='_blank'>
                   <p className="blogRoll__categories">{post.frontmatter.creator}</p>
                 </a>
               </div>

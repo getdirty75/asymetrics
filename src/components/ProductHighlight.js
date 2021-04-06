@@ -1,7 +1,6 @@
 import React, { useCallback, useEffect, useState } from 'react'
 import PropTypes from 'prop-types'
-import { Link, graphql, StaticQuery } from 'gatsby'
-import { CATEGORIES } from '../translation/enum'
+import { graphql, StaticQuery } from 'gatsby'
 import { useRecursiveTimeout } from "./useRecursiveTimeout";
 
 import { useEmblaCarousel } from 'embla-carousel/react'

@@ -16,58 +16,90 @@ export const ProductPostTemplate = ({
   helmet,
 }) => {
 
-  console.log('PROPS')
-  console.log(creator)
-  console.log(price)
+  // CREDITS TO https://www.cssscript.com/image-zoom-pan-hover-detail-view/
+var addZoom = function (target) {
+  // (A) FETCH CONTAINER + IMAGE
+  var container = document.getElementById(target),
+      imgsrc = container.currentStyle || window.getComputedStyle(container, false),
+      imgsrc = imgsrc.backgroundImage.slice(4, -1).replace(/"/g, ""),
+      img = new Image();
+
+  // (B) LOAD IMAGE + ATTACH ZOOM
+  img.src = imgsrc;
+  img.onload = function () {
+    var imgWidth = img.naturalWidth,
+        imgHeight = img.naturalHeight,
+        ratio = imgHeight / imgWidth,
+        percentage = ratio * 100 + '%';
+
+    // (C) ZOOM ON MOUSE MOVE
+    container.onmousemove = function (e) {
+      var boxWidth = container.clientWidth,
+          rect = e.target.getBoundingClientRect(),
+          xPos = e.clientX - rect.left,
+          yPos = e.clientY - rect.top,
+          xPercent = xPos / (boxWidth / 100) + "%",
+          yPercent = yPos / ((boxWidth * ratio) / 100) + "%";
+
+      Object.assign(container.style, {
+        backgroundPosition: xPercent + ' ' + yPercent,
+        backgroundSize: imgWidth + 'px'
+      });
+    };
+
+    // (D) RESET ON MOUSE LEAVE
+    container.onmouseleave = function (e) {
+      Object.assign(container.style, {
+        backgroundPosition: 'center',
+        backgroundSize: 'cover'
+      });
+    };
+  }
+};
+
+window.addEventListener("load", function(){
+  addZoom("zoom-img");
+});
+
 
   return(
+
     <div className="container section">
       {helmet || ''}
       <div className="tile is-ancestor">
-        <div className="tile is-vertical is-8">
-          <div className="tile">
-            <div className="tile is-parent is-vertical">
-              <article className="tile is-child box">
-                <p className="subtitle">{title}</p>
-              </article>
-              <article className="tile is-child box">
-                <p className="subtitle">{reference}</p>
-              </article>
-            </div>
-            <div className="tile is-parent">
-              <article className="tile is-child box">
-                <p className="subtitle">Stories / Movies / Books</p>
-                <figure className="image is-4by3">
-                  <img
-                    className="prevent_steal"
-                    // src="https://bulma.io/images/placeholders/640x480.png"
-                    src={featuredimage}
-                  />
-                </figure>
-              </article>
-            </div>
-          </div>
+
+        <div className="tile is-parent is-6">
+        <div id="zoom-img" style={{
+          width: '400px',
+          height: '500px',
+          background: `url(${featuredimage})`,
+          backgroundPosition: 'center',
+          backgroundSize: 'cover'
+        }}/>
+          {/* <article className="tile is-child box">
+            <figure className="image is-square">
+              <img src={featuredimage} />
+            </figure>
+          </article> */}
+        </div>
+
+        <div className="tile is-vertical is-6">
           <div className="tile is-parent">
             <article className="tile is-child box">
-              <p className="subtitle">{title}</p>
-              <p className="subtitle">{description}</p>
-              <div className="content">
-                <p className="subtitle">{reference}</p>
-                <p className="subtitle">{price}</p>
-                <p className="subtitle">{creator}</p>
+              <h4 className="product__creator">{creator}</h4>
+              <h1 className="product__title">{title}</h1>
+              <p className="product__price">{price} €</p>
+              <button className="button is-warning product__button">Buy</button>
 
 
+              <div className="product__content">
+                <p>{reference}</p>
+                <p>{description}</p>
               </div>
             </article>
           </div>
         </div>
-        <div className="tile is-parent is-4">
-        <article className="tile is-child box">
-          <figure className="image is-2by3">
-            <img src={featuredimage} />
-          </figure>
-        </article>
-        </div>
+
       </div>
     </div>
   )
@@ -79,7 +111,7 @@ ProductPostTemplate.propTypes = {
   featuredimage: PropTypes.string,
   overprint: PropTypes.string,
   creator: PropTypes.string,
-  price: PropTypes.string,
+  price: PropTypes.number,
   reference: PropTypes.string,
   contentComponent: PropTypes.func,
   title: PropTypes.string,
@@ -92,9 +124,13 @@ const ProductPost = ({ data }) => {
 
   return (
     <ProductPostTemplate
+      action={post.frontmatter.action}
+      creator={post.frontmatter.creator}
       description={post.frontmatter.description}
+      overprint={post.frontmatter.overprint}
+      price={post.frontmatter.price}
       reference={post.frontmatter.reference}
-      date={post.frontmatter.date}
+      title={post.frontmatter.title}
       contentComponent={HTMLContent}
       featuredimage={post.frontmatter.featuredimage.childImageSharp.fluid.src}
       helmet={
@@ -134,7 +170,6 @@ export const pageQuery = graphql`
         overprint
         price
         reference
-        date(formatString: "MMMM DD, YYYY")
         title
         featuredimage {
           childImageSharp {
