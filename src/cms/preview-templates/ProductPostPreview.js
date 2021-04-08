@@ -1,22 +1,20 @@
 import React from 'react'
 import PropTypes from 'prop-types'
-import { BlogPostTemplate } from '../../templates/blog-post'
+import { ProductPostTemplate } from '../../templates/product-post'
 
-const ProductPostPreview = ({ entry, widgetFor }) => {
-  const tags = entry.getIn(['data', 'tags'])
+const ProductPostPreview = ({ entry }) => {
+
   return (
     <div>
       <p>Product page - asymetrics</p>
-      <BlogPostTemplate
-        author={entry.getIn(['data', 'author'])}
-        categories={entry.getIn(['data', 'categories'])}
-        content={widgetFor('body')}
-        // date={entry.getIn(['data', 'date(formatString: "MMMM DD, YYYY")'])}
-        insideLinks={entry.getIn(['data', 'insideLinks'])}
-        outsideLinks={entry.getIn(['data', 'outsideLinks'])}
-        outsideLinksList={entry.getIn(['data', 'outsideLinks'])}
-        tags={tags && tags.toJS()}
-        teaser={entry.getIn(['data', 'teaser'])}
+      <ProductPostTemplate
+        action={entry.getIn(['data', 'action'])}
+        creator={entry.getIn(['data', 'creator'])}
+        description={entry.getIn(['data', 'description'])}
+        featuredimage={entry.getIn(['data', 'featuredimage'])}
+        overprint={entry.getIn(['data', 'overprint'])}
+        price={entry.getIn(['data', 'price'])}
+        reference={entry.getIn(['data', 'reference'])}
         title={entry.getIn(['data', 'title'])}
       />
     </div>
@@ -27,7 +25,6 @@ ProductPostPreview.propTypes = {
   entry: PropTypes.shape({
     getIn: PropTypes.func,
   }),
-  widgetFor: PropTypes.func,
 }
 
 export default ProductPostPreview

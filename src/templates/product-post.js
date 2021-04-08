@@ -68,19 +68,14 @@ window.addEventListener("load", function(){
       {helmet || ''}
       <div className="tile is-ancestor">
 
-        <div className="tile is-parent is-6">
-        <div id="zoom-img" style={{
-          width: '400px',
-          height: '500px',
-          background: `url(${featuredimage})`,
-          backgroundPosition: 'center',
-          backgroundSize: 'cover'
-        }}/>
-          {/* <article className="tile is-child box">
-            <figure className="image is-square">
-              <img src={featuredimage} />
-            </figure>
-          </article> */}
+        <div className="tile is-parent is-6 product__imaging">
+          <div id="zoom-img" style={{
+            width: '400px',
+            height: '500px',
+            background: `url(${featuredimage})`,
+            backgroundPosition: 'center',
+            backgroundSize: 'cover'
+          }}/>
         </div>
 
         <div className="tile is-vertical is-6">
@@ -89,9 +84,9 @@ window.addEventListener("load", function(){
               <h4 className="product__creator">{creator}</h4>
               <h1 className="product__title">{title}</h1>
               <p className="product__price">{price} €</p>
-              <button className="button is-warning product__button">Buy</button>
-
-
+              <a href={action} target="_blank">
+                <button className="button is-warning product__button">Buy</button>
+              </a>
               <div className="product__content">
                 <p>{reference}</p>
                 <p>{description}</p>
