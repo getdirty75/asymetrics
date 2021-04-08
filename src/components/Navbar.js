@@ -13,8 +13,10 @@ class Navbar extends React.Component {
     this.state = {
       active: false,
       navBarActiveClass: '',
-      isMarket: false
+      isMarket: false,
+      selectedItem: ''
     }
+    this.setSelectedItem = this.setSelectedItem.bind(this);
   }
 
 
@@ -32,7 +34,13 @@ class Navbar extends React.Component {
     this.setState({ isMarket: choice });
   }
 
+  setSelectedItem = (choice) => {
+    this.setState({ selectedItem: choice });
+  }
+
+
   render() {
+    console.log(this.state.selectedItem);
 
     return (
       <nav
@@ -42,7 +50,15 @@ class Navbar extends React.Component {
       >
         <div className="container">
           <div className="navbar-brand is-flex-touch">
-            <Link to="/" onClick={() => this.setIsMarket(false)} className="navbar-item is-flex-touch" title="Logo">
+            <Link
+              to="/"
+              onClick={() => {
+                this.setIsMarket(false);
+                this.setSelectedItem('');
+              }}
+              className="navbar-item is-flex-touch"
+              title="Logo"
+            >
               <div className="container">
               {this.state.isMarket
                 ? (
@@ -70,7 +86,6 @@ class Navbar extends React.Component {
                 <p className="home__desc">Always odd never aligned...</p>
               </div>
             </Link>
-
             <div
               className={`navbar-burger burger ${this.state.navBarActiveClass}`}
               data-target="navMenu"
@@ -86,10 +101,57 @@ class Navbar extends React.Component {
           <div id="navMenu" className={`navbar-menu ${this.state.navBarActiveClass}`}>
             <div className="navbar-start has-text-centered"></div>
             <div className="navbar-end has-text-centered">
-              <Link className="navbar-item navbar__itemStyle" onClick={() => this.setIsMarket(false)} to="/blog/categories/news">news</Link>
-              <Link className="navbar-item navbar__itemStyle" onClick={() => this.setIsMarket(true)} to="/market">market</Link>
-              <Link className="navbar-item navbar__itemStyle" onClick={() => this.setIsMarket(false)} to="/blog/categories/mixtapes">mixtapes</Link>
-              <Link className="navbar-item navbar__itemStyle" onClick={() => this.setIsMarket(false)} to="/blog/categories/photography">visuals</Link>
+              <Link
+                className={this.state.selectedItem === 'news'
+                  ? "navbar__itemStyleSelected"
+                  : "navbar__itemStyle"
+                }
+                onClick={() => {
+                  this.setIsMarket(false);
+                  this.setSelectedItem('news');
+                }}
+                to="/blog/categories/news">
+                  news
+              </Link>
+              <Link
+                className={this.state.selectedItem === 'market'
+                  ? "navbar__itemStyleSelected"
+                  : "navbar__itemStyle"
+                }
+                onClick={() => {
+                  this.setIsMarket(true);
+                  this.setSelectedItem('market');
+                }}
+                  to="/market"
+                >
+                  market
+                </Link>
+              <Link
+                className={this.state.selectedItem === 'mixtapes'
+                  ? "navbar__itemStyleSelected"
+                  : "navbar__itemStyle"
+                }
+                onClick={() => {
+                  this.setIsMarket(false);
+                  this.setSelectedItem('mixtapes');
+                }}
+                to="/blog/categories/mixtapes"
+              >
+                mixtapes
+              </Link>
+              <Link
+                className={this.state.selectedItem === 'visuals'
+                  ? "navbar__itemStyleSelected"
+                  : "navbar__itemStyle"
+                }
+                onClick={() => {
+                  this.setIsMarket(false);
+                  this.setSelectedItem('visuals');
+                }}
+                to="/blog/categories/photography"
+              >
+                visuals
+              </Link>
             <a
                 className="navbar-item"
                 href="https://soundcloud.com/the-asymetrics"
