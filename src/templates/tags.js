@@ -8,10 +8,10 @@ class TagRoute extends React.Component {
     const postLinks = posts.map((post) => (
       <div className="is-parent column is-3 blogRoll__item" key={post.id}>
         <article>
-          <Link to={`/blog/${post.node.fields.slug}`}>
+          <Link to={`/blog${post.node.fields.slug}`}>
             <p className="itemRoll__itemTitle">{post.node.frontmatter.title}</p>
           </Link>
-          <Link to={`/blog/${post.node.fields.slug}`}>
+          <Link to={`/blog${post.node.fields.slug}`}>
             <div className="image is-5by4">
               <img className="blogRoll__img prevent_steal"
                 alt={post.node.frontmatter.title}
@@ -19,7 +19,7 @@ class TagRoute extends React.Component {
               />
             </div>
           </Link>
-          <Link to={`/blog/${post.node.fields.slug}`}>
+          <Link to={`/blog${post.node.fields.slug}`}>
             <div className="blogRoll__sub">
               <p className="blogRoll__tags">{post.node.frontmatter.teaser}</p>
               <p className="blogRoll__tags">{post.node.frontmatter.author}</p>
