@@ -86,16 +86,10 @@ class Navbar extends React.Component {
           <div id="navMenu" className={`navbar-menu ${this.state.navBarActiveClass}`}>
             <div className="navbar-start has-text-centered"></div>
             <div className="navbar-end has-text-centered">
-<<<<<<< HEAD
               <Link className="navbar-item navbar__itemStyle" onClick={() => this.setIsMarket(false)} to="/blog/categories/news">news</Link>
               <Link className="navbar-item navbar__itemStyle" onClick={() => this.setIsMarket(true)} to="/market">market</Link>
               <Link className="navbar-item navbar__itemStyle" onClick={() => this.setIsMarket(false)} to="/blog/categories/mixtapes">mixtapes</Link>
               <Link className="navbar-item navbar__itemStyle" onClick={() => this.setIsMarket(false)} to="/blog/categories/photography">visuals</Link>
-=======
-              <Link className="navbar-item navbar__itemStyle" onClick={() => this.setIsMarket(false)}to="/blog/categories/news">news</Link>
-              <Link className="navbar-item navbar__itemStyle" onClick={() => this.setIsMarket(true)} to="/market">market</Link>
-              <Link className="navbar-item navbar__itemStyle" onClick={() => this.setIsMarket(false)}to="/blog/categories/mixtapes">mixtapes</Link>
->>>>>>> feat: markettt
             <a
                 className="navbar-item"
                 href="https://soundcloud.com/the-asymetrics"
@@ -136,7 +130,6 @@ class Navbar extends React.Component {
                   <img src={tube} alt="YouTube" />
                 </span>
               </a>
-<<<<<<< HEAD
               <a
                 className="navbar-item"
                 href="https://open.spotify.com/user/l4j7h7m54m3042w0l1yifk031"
@@ -148,9 +141,6 @@ class Navbar extends React.Component {
                 </span>
               </a>
               {/* <Link className="navbar-item navbar__itemStyle" to="/blurb">x</Link> */}
-=======
-              <Link className="navbar-item navbar__itemStyle" onClick={() => this.setIsMarket(false)} to="/blurb">x</Link>
->>>>>>> feat: markettt
             </div>
           </div>
         </div>
