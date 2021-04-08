@@ -25,7 +25,7 @@ class BlogRoll extends React.Component {
         {posts && posts.map(({ node: post }) => (
           <div className="is-parent column is-4 blogRoll__item" key={post.id}>
             <article>
-              <Link to={`/blog/${post.fields.slug}`}>
+              <Link to={`/blog${post.fields.slug}`}>
                 <div className="image is-5by4">
                   <img className="blogRoll__img prevent_steal"
                     alt={post.frontmatter.title}
@@ -34,7 +34,7 @@ class BlogRoll extends React.Component {
                 </div>
               </Link>
               <div className="blogRoll__sub">
-                <Link to={`/blog/${post.fields.slug}`}>
+                <Link to={`/blog${post.fields.slug}`}>
                   <p className="blogRoll__itemTitle">{post.frontmatter.title}</p>
                 </Link>
                 <p className="blogRoll__teaser">{post.frontmatter.teaser}</p>
