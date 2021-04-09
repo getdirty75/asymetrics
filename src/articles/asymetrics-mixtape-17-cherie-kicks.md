@@ -58,7 +58,7 @@ Direct links: [Soundcloud](https://soundcloud.com/the-asymetrics/asymetrics-mixt
 
 <br>
 
-[Cherie Kicks](https://www.instagram.com/cheriekicks) is a franco-russian DJ based in Paris, France.
+[Cherie Kicks](https://www.instagram.com/cheriekicks) is a Franco-Russian DJ based in Paris, France.
 
 Influenced by many different music genres variying from 90’s Hip-Hop to the sounds of Detroit Techno or D&B, she started mixing records in the mid 2000’s.
 
