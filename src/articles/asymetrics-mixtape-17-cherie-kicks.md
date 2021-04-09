@@ -13,12 +13,20 @@ tags:
   - "#Bass"
   - "#Asymetricstapes"
 date: 2021-04-09T21:11:33.847Z
+outsideLinks:
+  outsideLinksList:
+    - text: "DJ Pohy: We Want to Dance !"
+      link: https://theasymetrics.com/blog/dj-pohy-we-want-to-dance/
+    - text: Asymetrics Bass club by Yanneck
+      link: https://theasymetrics.com/blog/yanneck-asymetrics-bass-club/
+    - text: Asymetrics charts by DJ Pohy
+      link: https://theasymetrics.com/blog/dj-pohy-the-asymetrics-charts-january-2021-1/
 ---
 ![](/img/theasymetrics_cherie_kicks_main.jpg)
 
 Direct links: [Soundcloud](https://soundcloud.com/the-asymetrics/asymetrics-mixtape-17-cherie-kicks-back-to-the-club) / [Youtube](https://www.youtube.com/watch?v=JYiSpu6Meys)
 
-### A much needed energetic set from Paris based **[Cherie Kicks](https://soundcloud.com/cherie-kicks)**, blending sweet dancefloor vibes with dirty basslines... 
+### A much needed energetic set from Paris based **[Cherie Kicks](https://soundcloud.com/cherie-kicks)**, blending sweet dancefloor vibes with dirty basslines...
 
 ### Crank-up your soundsystem and bounce to this !
 
@@ -27,33 +35,19 @@ Direct links: [Soundcloud](https://soundcloud.com/the-asymetrics/asymetrics-mixt
 ### Tracklist
 
 1. **CamelPhat, Elderbrook** - Cola
-
 2. **Sabb** - One of us feat. Forrest (Dennis Ferrer remix)
-
 3. **Ten Walls** - Mongol
-
 4. **Stan Ritch** - World gate
-
 5. **Insulate** - Envision (Ame remix)
-
 6. **Luciano feat. JAW** - 7 directions
-
 7. **Nils Frahm** - Peter (The drifter edit)
-
 8. **Mistakes are ok** - Forgiven (Edward remix)
-
 9. **Mano le Tough** - Energy flow (Dj Koze Remix)
-
 10. **Jimpster** - Last days of summer
-
 11. **Buku** - Janky
-
 12. **Future feat. T.I** - Magic (Starkey remix)
-
 13. **Noisses** - Run your mouth
-
 14. **Baauer** - Harlem Shake
-
 15. **Jon Convex** - Radar
 
 <br>
@@ -71,3 +65,5 @@ Influenced by many different music genres variying from 90’s Hip-Hop to the so
 Her sets progress between House, Nu-Disco & Techno…with a touch of Bass Music.
 
 When she is not rocking the turntables, Cherie Kicks is also a professional make-up artist !
+
+### Find out more about Cherie Kicks on [Instagram](https://www.instagram.com/cheriekicks) / [Soundcloud](https://soundcloud.com/cherie-kicks)
