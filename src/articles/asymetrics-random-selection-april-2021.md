@@ -39,7 +39,7 @@ Direct Link: [The Asymetrics Channel](https://www.youtube.com/playlist?list=PLZt
 
 #### Phyllis Dillon (Judy Mowatt) - In The Ghetto
 
-<iframe width="100%" height="315" src="https://www.youtube-nocookie.com/embed/2SyNqCDZ2Yc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen referrerpolicy="origin"></iframe>
+<iframe width="100%" height="315" src="https://www.youtube-nocookie.com/embed/cjhH400Ocs8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen referrerpolicy="origin"></iframe>
 
 <br>
 
@@ -115,6 +115,4 @@ Direct Link: [The Asymetrics Channel](https://www.youtube.com/playlist?list=PLZt
 
 ### Check the full playlist on The Asymetrics Channel:
 
-### [https://www.youtube.com/theasymetrics](https://www.youtube.com/c/theasymetrics)
-
-Don't forget to subscribe !
+<iframe width="100%" height="380" src="https://www.youtube-nocookie.com/embed/playlist?list=PLZtgNolXlRSSU9wGUroTgURHYtRGpccEq" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen referrerpolicy="origin"></iframe>
