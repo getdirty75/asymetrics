@@ -32,7 +32,7 @@ outsideLinks:
     - text: "Asymetrics Mixtape #8: Miss Champús"
       link: https://theasymetrics.com/blog/asymetrics-mixtape-8-miss-champ%C3%BAs/
 ---
-![](/img/asymetrics-team-force-january-2021.jpg)
+
 
 <br>
 
@@ -120,4 +120,4 @@ Direct Link: [The Asymetrics Channel](https://www.youtube.com/playlist?list=PLZt
 
 ### Check the full playlist below, & subscribe to The Asymetrics YouTube Channel!
 
-<iframe width="100%" height="380" src="https://www.youtube-nocookie.com/embed/videoseries?list=PLZtgNolXlRSSU9wGUroTgURHYtRGpccEq" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen referrerpolicy="origin"></iframe>
+<iframe width="100%" height="380" src="https://www.youtube-nocookie.com/embed/playlist?list=PLZtgNolXlRSSU9wGUroTgURHYtRGpccEq" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen referrerpolicy="origin"></iframe>
