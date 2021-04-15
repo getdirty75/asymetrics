@@ -16,6 +16,16 @@ tags:
   - "#Disco"
   - "#Grime"
 date: 2021-04-15T04:27:55.348Z
+outsideLinks:
+  outsideLinksList:
+    - text: The Asymetrics Channel
+      link: https://www.youtube.com/c/theasymetrics
+    - text: AAA Badboy - Reggae meets Hip-Hop playlist
+      link: https://theasymetrics.com/blog/playlist-aaa-badboy-reggae-meets-hip-hop/
+    - text: DJ Pohy's Asymetrics charts
+      link: https://www.youtube.com/playlist?list=PLZtgNolXlRSRNkQl5aYExapQBP3fqn0hv
+    - text: "Yanneck: Asymetrics Bass Club"
+      link: https://www.youtube.com/playlist?list=PLZtgNolXlRSRRe02XjDe1n5Kz4sV6Y03a
 ---
 ![](/img/theasymetrics_teamforce_april21.jpg)
 
