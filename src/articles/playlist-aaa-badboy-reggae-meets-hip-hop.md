@@ -56,6 +56,6 @@ He has been involved in the Boomtown adventure since 2013, now the UK's biggest 
 
 ... and if your drug of choice is not Spotify, you can also catch this great playlist on Youtube !
 
-<iframe width="100%" height="380" src="https://www.youtube.com/embed/playlist?list=PLZtgNolXlRSSFGE3MF1SWSmIoOBAqUeK0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe width="100%" height="380" src="https://www.youtube.com/embed/playlist?list=PLZtgNolXlRSSFGE3MF1SWSmIoOBAqUeK0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen referrerpolicy="origin"></iframe>
 
 ### **Stay fresh & keep digging !**
