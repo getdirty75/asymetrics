@@ -44,43 +44,43 @@ If you dig this selection and want to hear more, follow Pohy on [Mixcloud](www.m
 
 <br>
 
-### Juzlo : Drumplay \[Project Allout] 
+### Juzlo : Drumplay \[Project Allout]
 
 <iframe width="100%" height="315" src="https://www.youtube-nocookie.com/embed/ioi1MWJz6S4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen referrerpolicy="origin"></iframe>
 
 <br>
 
-### Tenshu : Boi \[Wang] 
+### Tenshu : Boi \[Wang]
 
 <iframe width="100%" height="315" src="https://www.youtube-nocookie.com/embed/NgBRbDY3RoE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen referrerpolicy="origin"></iframe>
 
 <br>
 
-### Moody & Chris Barnes : Keep On Pushing \[Rewind] 
+### Moody & Chris Barnes : Keep On Pushing \[Rewind]
 
 <iframe width="100%" height="315" src="https://www.youtube-nocookie.com/embed/KJKJfHoRxW0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen referrerpolicy="origin"></iframe>
 
 <br>
 
-### Pinder : Old Spice \[Instinct UK] 
+### Pinder : Old Spice \[Instinct UK]
 
 <iframe width="100%" height="315" src="https://www.youtube-nocookie.com/embed/Emfzq4lV73s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen referrerpolicy="origin"></iframe>
 
 <br>
 
-### MPH : Useless \[Night Bass] 
+### MPH : Useless \[Night Bass]
 
 <iframe width="100%" height="315" src="https://www.youtube-nocookie.com/embed/7R-hONliwEo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen referrerpolicy="origin"></iframe>
 
 <br>
 
-### Harry Tremlett : Chicago (Nubass Remix) \[Primitive UK] 
+### Harry Tremlett : Chicago (Nubass Remix) \[Primitive UK]
 
 <iframe width="100%" height="315" src="https://www.youtube-nocookie.com/embed/aAdx5GJNNO8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen referrerpolicy="origin"></iframe>
 
 <br>
 
-### Len Lewis : Tik Tok \[Banoffee Pies] 
+### Len Lewis : Tik Tok \[Banoffee Pies]
 
 <iframe width="100%" height="315" src="https://www.youtube-nocookie.com/embed/IekzDyOhX-A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen referrerpolicy="origin"></iframe>
 
@@ -96,4 +96,4 @@ If you dig this selection and want to hear more, follow Pohy on [Mixcloud](www.m
 
 ### Full Playlist on The Asymetrics Channel:
 
-<iframe width="100%" height="400" src="https://www.youtube-nocookie.com/embed/videoseries?list=PLZtgNolXlRSRNkQl5aYExapQBP3fqn0hv" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen referrerpolicy="origin"></iframe>
+<iframe width="100%" height="400" src="https://www.youtube-nocookie.com/embed/playlist?list=PLZtgNolXlRSRNkQl5aYExapQBP3fqn0hv" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen referrerpolicy="origin"></iframe>

@@ -96,4 +96,4 @@ If you dig this selection and want to hear more, follow Pohy on [Mixcloud](www.m
 
 ### Full Playlist on The Asymetrics Channel:
 
-<iframe width="100%" height="400" src="https://www.youtube-nocookie.com/embed/videoseries?list=PLZtgNolXlRSRNkQl5aYExapQBP3fqn0hv" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen referrerpolicy="origin"></iframe>
+<iframe width="100%" height="400" src="https://www.youtube-nocookie.com/embed/playlist?list=PLZtgNolXlRSRNkQl5aYExapQBP3fqn0hv" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen referrerpolicy="origin"></iframe>
