@@ -2,7 +2,7 @@
 templateKey: blog-post
 title: Malong - Outernational Charanga selection
 teaser: A vinyl selection of Afro-Cuban beats from less expected places like
-  Congo, Haiti, or Guadeloupe among many !
+  Congo, Haiti, or Guadeloupe, among many !
 featuredimage: /img/outernational-charanga-cover.jpg
 author: Malong
 categories: mixtapes
