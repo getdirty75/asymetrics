@@ -19,6 +19,18 @@ tags:
   - "#Guadeloupe"
   - "#Martinique"
 date: 2021-04-17T01:36:03.426Z
+outsideLinks:
+  outsideLinksList:
+    - text: "Back across the Ocean: Africa Goes Latin ! (Playlist)"
+      link: https://www.youtube.com/playlist?list=PLZtgNolXlRSSYSXzkOXa2t-C0lC3XlCE2
+    - text: Bailando Asymetrico (Playlist)
+      link: https://www.youtube.com/playlist?list=PLZtgNolXlRSRexNmVSx8hAQoAbRkQyvOT
+    - text: Zouk, Kadans, & Caribbean Beats (Playlist)
+      link: https://www.youtube.com/playlist?list=PLZtgNolXlRSTvB8NyfO16DiKgKWgk8zc2
+    - text: "Lord Sandwich: Last Week Sandwich selection"
+      link: https://soundcloud.com/the-asymetrics/lord-sandwich-last-week-sandwich
+    - text: "Asymetrics Mixtape #14 (Matteo Fava)"
+      link: https://theasymetrics.com/blog/asymetrics-mixtape-14-matteo-fava/
 ---
 ![](/img/1941366_602751769809456_1274356228_o.jpg "©Malong - Havana, Cuba, 2014")
 
