@@ -20,7 +20,7 @@ tags:
   - "#Martinique"
 date: 2021-04-17T01:36:03.426Z
 ---
-![](/img/outernational-charanga-cover.jpg)
+![](/img/1941366_602751769809456_1274356228_o.jpg "©Malong - Havana, Cuba, 2014")
 
 <br>
 
