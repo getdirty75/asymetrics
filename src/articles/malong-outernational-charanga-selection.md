@@ -79,3 +79,7 @@ Echoes of Charanga, Pachanga, Guaguanco, Mambo, Rumba & much more... The radianc
 11 - **Ibo Combo** – Mateau 
 
 (Haiti – 1972)
+
+### If you're feeling the vibes and want more, check-out the ["Africa Goes Latin"](https://www.youtube.com/playlist?list=PLZtgNolXlRSSYSXzkOXa2t-C0lC3XlCE2) playlist on the Asymetrics Channel:
+
+<iframe width="100%" height="380" src="https://www.youtube.com/embed/playlist?list=PLZtgNolXlRSSYSXzkOXa2t-C0lC3XlCE2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen referrerpolicy="origin"></iframe>
