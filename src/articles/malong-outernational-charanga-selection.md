@@ -26,9 +26,9 @@ date: 2021-04-17T01:36:03.426Z
 
 Direct links: [Soundcloud](https://soundcloud.com/the-asymetrics/malong-outernational-charanga) / [Youtube](https://www.youtube.com/watch?v=gVUA3BV5BY8)
 
-### A quick vinyl selection of Cuban music influence throughout the African diaspora in the 1960's to 80's...
+### A vinyl selection of Cuban influenced tunes from the African diaspora in the 1960's to 80's...
 
-Echoes of Charanga, Pachanga, Guaguanco, Mambo, Rumba, Salsa & much more... from less expected places like Congo, Haiti, or Guadeloupe among many !
+Echoes of Charanga, Pachanga, Guaguanco, Mambo, Rumba & much more... The radiance of Cuban music throughout Africa and the Caribbean left an incredible mosaic of sounds that still resonates today. This is a combo of some of my favorite tunes to dance to !
 
 ### Put your headphones on and get sweaty...
 
@@ -50,7 +50,7 @@ Echoes of Charanga, Pachanga, Guaguanco, Mambo, Rumba, Salsa & much more... from
 
 4 - **Eddie Palmieri** – Mi Mambo Conga 
 
-(USA – 1966)
+(Puerto Rico / USA – 1966)
 
 5 - **Ry-Co Jazz** – La Juventud 
 
