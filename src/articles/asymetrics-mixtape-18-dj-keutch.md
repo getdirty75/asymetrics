@@ -13,6 +13,16 @@ tags:
   - "#UKGarage"
   - "#Asymetricstapes"
 date: 2021-04-21T02:54:43.817Z
+outsideLinks:
+  outsideLinksList:
+    - text: DJ Keutch
+      link: https://mixcloud.com/deejayKeutch
+    - text: Dj Keutch Asymetrics D&B vinyl Set
+      link: https://theasymetrics.com/admin/#/collections/blog/entries/asymetrics-videotape-1-dj-keutch-d-b-vinyl-set
+    - text: "DJ Pohy: We Want to Dance !"
+      link: https://theasymetrics.com/blog/dj-pohy-we-want-to-dance/
+    - text: "Yanneck: Asymetrics Bass Club"
+      link: https://theasymetrics.com/blog/yanneck-asymetrics-bass-club/
 ---
 ![](/img/theasymetrics_keutch_1.jpeg)
 
