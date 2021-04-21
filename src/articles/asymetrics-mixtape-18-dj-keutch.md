@@ -18,7 +18,7 @@ outsideLinks:
     - text: DJ Keutch
       link: https://mixcloud.com/deejayKeutch
     - text: Dj Keutch Asymetrics D&B vinyl Set
-      link: https://theasymetrics.com/admin/#/collections/blog/entries/asymetrics-videotape-1-dj-keutch-d-b-vinyl-set
+      link: https://theasymetrics.com/blog/asymetrics-videotape-1-dj-keutch-d-b-vinyl-set/
     - text: "DJ Pohy: We Want to Dance !"
       link: https://theasymetrics.com/blog/dj-pohy-we-want-to-dance/
     - text: "Yanneck: Asymetrics Bass Club"
