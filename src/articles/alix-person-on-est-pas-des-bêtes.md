@@ -61,7 +61,7 @@ His signature style is visible through the importance given to colors and the ch
 
 *\-----------------*
 
-![](/img/nina-76-x-43-cm.jpg)
+![](/img/nina-76-x-43-cm.png)
 
 *Nina 76x43cm Alix Person*
 
