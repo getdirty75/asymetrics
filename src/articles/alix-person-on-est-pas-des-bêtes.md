@@ -33,86 +33,84 @@ outsideLinks:
 
 **Alix Person**
 
-24.11.1985
+During lockdown Alix was forced to go through his ancient collections and belongings...
 
-Montpellier
+He rediscovered old boxes of forgotten paintings.
 
-Using curved and continuous lines, Alix creates pastel toned lively pieces
-where frames and subjects feed each other.
+And just like that a small series of watercolors came to life.
 
-The artist mixes different recycled elements : cardboard, leather, wood, hair, scrap...to create unique paintings.
+Alix is fascinated by the unpredictable dimension and the fluidity of watercolor, that stays very much in tune with the curves of his drawings...
 
-These are mainly portraits of men or women, anonymous or not, met in daily life...
+His signature style is visible through the importance given to colors and the choice of thematics reproduced in his works...
 
 ![](/img/oxmo-mama-lova-alix-person.jpg "Tu leur diras que le projet c’est: Une Ligne, Des Pastels, Du Papier  Kraft, Du Vieux Bois Bien mangé,  Des Pneus Troués, Des Clous Rouillés,  Des Tapis qui puent la pisse de Chat  ou qui sentent bon la Lessive,  Des Feuilles De Calque, Des Punaises  de Base, Quelques Os De Bétin Et un  peu d’Or, parce que quand même On est  pas des Bêtes........................")
 
-*Oxmo Mama Lova*
+*Oxmo Mama Lova  55x62cm Alix Person*
 
 *\-----------------*
 
 ![](/img/sly-50-x-30-cm_ier6243.png "Tu leur diras que le projet c’est: Une Ligne, Des Pastels, Du Papier  Kraft, Du Vieux Bois Bien mangé,  Des Pneus Troués, Des Clous Rouillés,  Des Tapis qui puent la pisse de Chat  ou qui sentent bon la Lessive,  Des Feuilles De Calque, Des Punaises  de Base, Quelques Os De Bétin Et un  peu d’Or, parce que quand même On est  pas des Bêtes........................")
 
-*Sly*
+*Sly 50x30cm Alix Person*
 
 *\-----------------*
 
 ![](/img/monkey-crane.png)
 
-*Monkey Crane*
+*Monkey Crane 69x100cm Alix Person*
 
 *\-----------------*
 
+![](/img/nina-76-x-43-cm.jpg)
 
-
-
-
+*Nina 76x43cm Alix Person*
 
 
 ![](/img/simone-20-x-30-cm.png "Tu leur diras que le projet c’est: Une Ligne, Des Pastels, Du Papier  Kraft, Du Vieux Bois Bien mangé,  Des Pneus Troués, Des Clous Rouillés,  Des Tapis qui puent la pisse de Chat  ou qui sentent bon la Lessive,  Des Feuilles De Calque, Des Punaises  de Base, Quelques Os De Bétin Et un  peu d’Or, parce que quand même On est  pas des Bêtes........................")
 
-*Simone*
+*Simone 20x30cm Alix Person*
 
 *\-----------------*
 
 ![](/img/body-building-33-x50-cm.png "**Alix Person**  24.11.1985  Montpellier  Using curved and continuous lines, Alix creates pastel toned lively pieces where frames and subjects feed each other.  The artist mixes different recycled elements : cardboard, leather, wood, hair, scrap...to create unique paintings.  These are mainly portraits of men or women, anonymous or not, met in daily life…")
 
-*Body Building*
+*Body Building 33x50cm Alix Person*
 
 *\-----------------*
 
 ![](/img/monk-69-x-100-cm.png "Tu leur diras que le projet c’est: Une Ligne, Des Pastels, Du Papier  Kraft, Du Vieux Bois Bien mangé,  Des Pneus Troués, Des Clous Rouillés,  Des Tapis qui puent la pisse de Chat  ou qui sentent bon la Lessive,  Des Feuilles De Calque, Des Punaises  de Base, Quelques Os De Bétin Et un  peu d’Or, parce que quand même On est  pas des Bêtes........................")
 
-*Monk*
+*Monk 69x100cm Alix Person*
 
 *\-----------------*
 
 ![](/img/inca-40-x-59-cm-.png "Tu leur diras que le projet c’est: Une Ligne, Des Pastels, Du Papier  Kraft, Du Vieux Bois Bien mangé,  Des Pneus Troués, Des Clous Rouillés,  Des Tapis qui puent la pisse de Chat  ou qui sentent bon la Lessive,  Des Feuilles De Calque, Des Punaises  de Base, Quelques Os De Bétin Et un  peu d’Or, parce que quand même On est  pas des Bêtes........................")
 
-*Inca*
+*Inca 40x59cm Alix Person*
 
 *\-----------------*
 
 ![](/img/bogeyboy-54-x-76-cm.png)
 
-*Bogey Boy*
+*Bogey Boy 54x76cm Alix Person*
 
 *\-----------------*
 
 ![](/img/indian-necro-47-x87-cm.png "Tu leur diras que le projet c’est: Une Ligne, Des Pastels, Du Papier  Kraft, Du Vieux Bois Bien mangé,  Des Pneus Troués, Des Clous Rouillés,  Des Tapis qui puent la pisse de Chat  ou qui sentent bon la Lessive,  Des Feuilles De Calque, Des Punaises  de Base, Quelques Os De Bétin Et un  peu d’Or, parce que quand même On est  pas des Bêtes........................")
 
-*Indian Necro*
+*Indian Necro 47x87cm Alix Person*
 
 *\-----------------*
 
 ![](/img/leon-42-x-64-cm.png)
 
-*Leon*
+*Leon 42x64cm Alix Person*
 
 *\-----------------*
 
 ![](/img/hank-50-x72-cm.png)
 
-*Charles*
+*Charles 50x72cm Alix Person*
 
 *\-----------------*
 
