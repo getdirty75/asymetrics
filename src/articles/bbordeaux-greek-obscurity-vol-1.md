@@ -29,7 +29,6 @@ Direct links: [Soundcloud](https://soundcloud.com/the-asymetrics/bbordeaux-greek
 
 ### Tracklist
 
-
 **01) Μίμης Πλέσσας - Hully Gully No 7 (1965)**
 
 **02) Νίκος Αντωνίου -** Θα πάρω τ'άλλο τραίνο **(1969)**
@@ -67,3 +66,19 @@ Direct links: [Soundcloud](https://soundcloud.com/the-asymetrics/bbordeaux-greek
 ### Bbordeaux
 
 ![](/img/bbordeaux.jpg)
+
+<br>
+
+Hailing from Katerini in Northern Greece, [BBordeaux](https://soundcloud.com/sublimers) is a beatmaker producing sounds with a very distinctive feature: all tracks are crafted using rare recordings extracted from Greek vinyls from the 50s to the 80s. Every single melody, vocal, or drum hit are exclusively sampled from old Greek records and films.
+
+<br>
+
+<iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/424532817&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/sublimers" title="BBordeaux" target="_blank" style="color: #cccccc; text-decoration: none;">BBordeaux</a> · <a href="https://soundcloud.com/sublimers/sweet" title="Sweet" target="_blank" style="color: #cccccc; text-decoration: none;">Sweet</a></div>
+
+<br>
+
+His inspiration for this particular sound texture comes from his love of the black and white era of Greek Cinema that grew on him from a very young age. Then came the love for instrumental hip-hop and you can guess what happened !
+
+Cinema drove BBordeaux to run into the incredible soundscapes of **Mimis Plessas**, the mesmerizing voice of **Jenny Vanou** or the experiments of **Panos Kokkinos** and many more... For him, while Greeks always used a sort of sadness in their music making, artists from the 60's and 70s did it in a distinctive uplifting way !
+
+Borrowing LPs and 45s from friends and keeping a digital record out of everything, BBordeaux now stands on a vast collection of rare gems lost in obscurity....
