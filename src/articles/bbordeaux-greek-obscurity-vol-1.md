@@ -14,6 +14,16 @@ tags:
   - "#Funk"
   - "#Rock"
 date: 2021-04-23T02:17:47.058Z
+outsideLinks:
+  outsideLinksList:
+    - text: Bbordeaux
+      link: https://www.facebook.com/BBordeauxgr
+    - text: BBordeaux on Soundcloud
+      link: https://soundcloud.com/sublimers
+    - text: Chiko - Turkish Delights
+      link: https://theasymetrics.com/blog/chiko-turkish-delights-vol-1/
+    - text: Selecta Will's trip to Bollywood
+      link: https://theasymetrics.com/blog/selecta-will-a-trip-to-bollywood/
 ---
 ![](/img/bbordeaux-logo.png)
 
