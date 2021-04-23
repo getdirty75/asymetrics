@@ -2,7 +2,7 @@
 templateKey: blog-post
 title: BBordeaux - Greek Obscurity Vol 1.
 teaser: A unique selection of rare Greek tunes from the 1960's and 70's -
-  courtesy of top Thessaloniki-based beatmaker BBordeaux !
+  courtesy of Thessaloniki-based beatmaker BBordeaux !
 featuredimage: /img/greek-obsurity-cover-01-mimis-plessas.jpg
 author: Asymetrics
 categories: mixtapes
