@@ -92,3 +92,9 @@ His inspiration for this particular sound texture comes from his love of the bla
 Cinema drove BBordeaux to run into the incredible soundscapes of **Mimis Plessas**, the mesmerizing voice of **Jenny Vanou** or the experiments of **Panos Kokkinos** and many more... For him, while Greeks always used a sort of sadness in their music making, artists from the 60's and 70s did it in a distinctive uplifting way !
 
 Borrowing LPs and 45s from friends and keeping a digital record out of everything, BBordeaux now stands on a vast collection of rare gems lost in obscurity....
+
+### Find out more about BBordeaux on[ Soundcloud](https://soundcloud.com/sublimers) / [FB](https://www.facebook.com/BBordeauxgr) / [Spotify](https://open.spotify.com/artist/3xZPGCJD0CM3YidtMYuUwY?si=YJV-TwYFQxiDNfwc2f4oLg)
+
+<br>
+
+#### Stay tuned for Vol 2. coming soon !
