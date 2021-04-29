@@ -10,6 +10,14 @@ tags:
   - "#Drum&Bass"
   - "#Jungle"
 date: 2021-04-29T02:59:28.376Z
+outsideLinks:
+  outsideLinksList:
+    - link: https://www.youtube.com/channel/UCjm0hKdlJVNA5X3U3KEhEow
+      text: Asymetrics Channel
+    - text: DJ Pohy
+      link: https://www.facebook.com/DjPohy
+    - link: https://rinse.fr/artists/one-more-tune/
+      text: One More Tune
 ---
 ![](/img/pohy-april-2021.jpg)
 
@@ -102,3 +110,7 @@ If you dig this selection and want to hear more, follow Pohy on [Mixcloud](www.m
 <br>
 
 <br>
+
+### Full Playlist on The Asymetrics Channel:
+
+<iframe width="100%" height="400" src="https://www.youtube-nocookie.com/embed/playlist?list=PLZtgNolXlRSRNkQl5aYExapQBP3fqn0hv" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen referrerpolicy="origin"></iframe>
