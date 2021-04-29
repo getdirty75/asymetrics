@@ -13,6 +13,8 @@ date: 2021-04-29T02:59:28.376Z
 ---
 ![](/img/pohy-april-2021.jpg)
 
+<br>
+
 Direct Link to Playlist: [The Asymetrics Channel](https://www.youtube.com/playlist?list=PLZtgNolXlRSRNkQl5aYExapQBP3fqn0hv)
 
 ### Every month, our Bass Music specialist DJ Pohy shares his favorite picks with us.
@@ -29,45 +31,74 @@ If you dig this selection and want to hear more, follow Pohy on [Mixcloud](www.m
 
 <br>
 
-#### Bladerunner : Emotions \[Hi Resolution] 
+#### Bladerunner : Emotions \[Hi Resolution]
 
 <iframe width="100%" height="315" src="https://www.youtube-nocookie.com/embed/AbU6fYdNl7M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen referrerpolicy="origin"></iframe>
 
 <br>
 
-#### Bass Brothers & L-Side ft Mc Haribo : Locked \[Chronic Records] 
+<br>
+
+#### Bass Brothers & L-Side ft Mc Haribo : Locked \[Chronic Records]
 
 <iframe width="100%" height="380" src="https://www.youtube-nocookie.com/embed/w7xvnm8V8hA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen referrerpolicy="origin"></iframe>
 
 <br>
 
-#### Serum & Voltage : 8 Bit (Taxman Remix) \[Souped Up] 
+<br>
+
+#### Serum & Voltage : 8 Bit (Taxman Remix) \[Souped Up]
 
 <iframe width="100%" height="380" src="https://www.youtube-nocookie.com/embed/ys6qaNdOr3o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen referrerpolicy="origin"></iframe>
 
 <br>
 
-#### Shy FX & Breakage : Michael Knight \[Cult.ure] 
+<br>
+
+#### Shy FX & Breakage : Michael Knight \[Cult.ure]
 
 <iframe width="100%" height="315" src="https://www.youtube-nocookie.com/embed/5lKCJU5g3Rc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen referrerpolicy="origin"></iframe>
 
 <br>
 
-#### Selecta J-Man ft Suku : Couple Guiness \[Born On road] 
+<br>
+
+#### Selecta J-Man ft Suku : Couple Guiness \[Born On road]
 
 <iframe width="100%" height="315" src="https://www.youtube-nocookie.com/embed/vO3ukz_oDck" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen referrerpolicy="origin"></iframe>
 
 <br>
 
-#### Jam Thieves : Paranoïa \[Serial Killaz] 
+<br>
+
+#### Jam Thieves : Paranoïa \[Serial Killaz]
 
 <iframe width="100%" height="315" src="https://www.youtube-nocookie.com/embed/gxs-aTWuDzU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen referrerpolicy="origin"></iframe>
 
 <br>
 
-#### Potential Badboy ft Mc Fats & Yush : Girlz (L-Side Remix) \[Playaz] 
+<br>
+
+#### Potential Badboy ft Mc Fats & Yush : Girlz (L-Side Remix) \[Playaz]
 
 <iframe width="100%" height="380" src="https://www.youtube-nocookie.com/embed/ao2uZFxNROg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen referrerpolicy="origin"></iframe>
 
-* Gest : Huaxi \[Shogun Audio] https://www.youtube.com/watch?v=2t0U-5taYe0
-* Heist ft Diligent Fingers : Don't Need A Reason \[Liquid Lab] https://www.youtube.com/watch?v=jecKoMj5dII
+<br>
+
+<br>
+
+#### Gest : Huaxi \[Shogun Audio] 
+
+<iframe width="100%" height="315" src="https://www.youtube-nocookie.com/embed/2t0U-5taYe0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen referrerpolicy="origin"></iframe>
+
+<br>
+
+<br>
+
+#### Heist ft Diligent Fingers : Don't Need A Reason \[Liquid Lab] 
+
+<iframe width="100%" height="315" src="https://www.youtube-nocookie.com/embed/jecKoMj5dII" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreenreferrerpolicy="origin"></iframe>
+
+<br>
+
+<br>
