@@ -14,6 +14,18 @@ tags:
   - "#Vinyl"
   - "#Asymetricstapes"
 date: 2021-05-04T02:15:27.257Z
+outsideLinks:
+  outsideLinksList:
+    - text: AAA Badboy - Reggae Meets Hip-Hop
+      link: https://theasymetrics.com/blog/playlist-aaa-badboy-reggae-meets-hip-hop/
+    - text: Lord Sandwich - 12" Rub a Dub Sandwich
+      link: https://theasymetrics.com/blog/lord-sandwich-sandwich-001/
+    - text: "Asymetrics Mixtape #14 (Matteo Fava)"
+      link: https://theasymetrics.com/blog/asymetrics-mixtape-14-matteo-fava/
+    - text: "Asymetrics Mixtape #13 (Satta Don Dada)"
+      link: https://theasymetrics.com/blog/asymetrics-mixtape-13-satta-don-dada/
+    - text: "Asymetrics Mixtape #10 (Earl Gateshead)"
+      link: https://theasymetrics.com/blog/asymetrics-mixtape-10-earl-gateshead-hopeful-village/
 ---
 ![](/img/theasymetrics_jacky_michoo_1.jpg)
 
@@ -73,7 +85,7 @@ Direct Links: [Soundcloud](https://soundcloud.com/the-asymetrics/asymetrics-mixt
 
 <br>
 
-Jacky Michoo is a record collector from the french west coast, La Rochelle. First influenced by hip hop in the 90’s, he started by collecting US & French Rap. Then, he became a Reggae activist, playing vinyl from Jamaican R’nB to modern Nu-Roots and borrows his stage name from Jackie Mittoo, the funkiest of Jamaican keyboardists.
+Jacky Michoo is a record collector from the french west coast city of  **La Rochelle**. First influenced by hip hop in the 90’s, he started by collecting US & French Rap. Then, he became a Reggae activist, playing vinyl from Jamaican R’nB to modern Nu-Roots and borrows his stage name from Jackie Mittoo, the funkiest of Jamaican keyboardists.
 
 Quickly learning how to produce music to local hip hop group, he dug samples from New York hip hop classics and discovered that many reggae tracks also had an origin in Soul music. This mixtape showcases how the yardies were inspired by US music to make it their own.
 
