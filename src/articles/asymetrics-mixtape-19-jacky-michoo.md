@@ -85,8 +85,8 @@ Direct Links: [Soundcloud](https://soundcloud.com/the-asymetrics/asymetrics-mixt
 
 <br>
 
-Jacky Michoo is a record collector from the french west coast city of  **La Rochelle**. First influenced by hip hop in the 90’s, he started by collecting US & French Rap. Then, he became a Reggae activist, playing vinyl from Jamaican R’nB to modern Nu-Roots and borrows his stage name from Jackie Mittoo, the funkiest of Jamaican keyboardists.
+Jacky Michoo is a record collector from the french west coast city of  **La Rochelle**. First influenced by Hip Hop in the 90’s, he started by collecting US & French Rap. Then, he became a Reggae activist, playing vinyl from jamaican R’n'B to modern Nu-Roots and borrowed his stage name from Jackie Mittoo, the funkiest of Jamaican keyboardists.
 
-Quickly learning how to produce music to local hip hop group, he dug samples from New York hip hop classics and discovered that many reggae tracks also had an origin in Soul music. This mixtape showcases how the yardies were inspired by US music to make it their own.
+Quickly learning how to produce music for a local Hip Hop collective, he started digging samples from New York Rap classics and discovered that many Reggae tracks also had an origin in Soul music. This mixtape showcases how the jamaican musicians and producers were heavily inspired by US music and made it their own...
 
 ### Find our more about Jacky Michoo on [Instagram](https://www.instagram.com/jackymichoo/) / [Mixcloud](https://www.mixcloud.com/jackiemichou/) / [Soundcloud](https://soundcloud.com/jackie-michou)
