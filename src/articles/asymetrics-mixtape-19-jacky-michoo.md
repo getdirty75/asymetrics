@@ -27,7 +27,7 @@ outsideLinks:
     - text: "Asymetrics Mixtape #10 (Earl Gateshead)"
       link: https://theasymetrics.com/blog/asymetrics-mixtape-10-earl-gateshead-hopeful-village/
 ---
-![](/img/theasymetrics_jacky_michoo_1.jpg)
+![](/img/theasymetrics_jacky_michoo_2.jpg)
 
 <br>
 
@@ -81,7 +81,7 @@ Direct Links: [Soundcloud](https://soundcloud.com/the-asymetrics/asymetrics-mixt
 
 ### Jacky Michoo
 
-![](/img/theasymetrics_jacky_michoo_2.jpg)
+![](/img/theasymetrics_jacky_michoo_1.jpg)
 
 <br>
 
