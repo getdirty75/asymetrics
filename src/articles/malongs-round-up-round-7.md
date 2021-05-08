@@ -83,7 +83,7 @@ Can’t get enough of this ? Then catch the vibes with this music video from the
 
 Killer Reggae cover of the 1972 [O’Jays](https://en.wikipedia.org/wiki/The_O%27Jays) classic, courtesy of an obscure Belizean band: Known to old-school diggers thanks to their psyched-out version of [the Godfather’s Theme](https://www.youtube.com/watch?v=ZNOPwPPRsFs), the Professionals were active throughout the 1970’s and produced a number of memorable dancefloor anthems!
 
-Ephemeral label **Cult Cargo**had the smart idea to repress a few of these (and many more gems) on a compilation titled **[Belize City Boil-Up](https://cultcargo.bandcamp.com/album/cult-cargo-belize-city-boil-up).**Check it out…
+Ephemeral label **Cult Cargo** had the smart idea to repress a few of these (and many more gems) on a compilation titled **[Belize City Boil-Up](https://cultcargo.bandcamp.com/album/cult-cargo-belize-city-boil-up).** Check it out…
 
 And since we’re talking Back Stabbers, I thought it would be a good occasion to re-watch the O’Jays having fun:
 
@@ -105,7 +105,7 @@ And since we’re talking Back Stabbers, I thought it would be a good occasion t
 
 Just released and hot like lava, the Brooklyn combo’s first LP, [Neotropic Dream](https://nyctrust.bandcamp.com/album/neotropic-dream), is a very nice mash-up of Cumbia and Reggae – what more could we want ?
 
-Rocking Harmony features the up and coming [JonnyGo Figure](https://rootfire.net/artist-spotlight-johnnygo-figure/), who brings a cool 70’s scorcher vibe to the mix – Pure dancefloor fire !
+**Rocking Harmony** features the up and coming [JonnyGo Figure](https://rootfire.net/artist-spotlight-johnnygo-figure/), who brings a cool 70’s scorcher vibe to the mix – Pure dancefloor fire !
 
 <br>
 
@@ -153,7 +153,7 @@ And then of course, the track features **[La Perla](https://www.womex.com/virtua
 
 Superb vibrations from Chad ! Nuff said…
 
-The album **[Desert to Douala](https://pulondj.bandcamp.com/album/desert-to-douala)**is the result of NYC’s Nickodemus travel to N’djamena to meet a local collective of artists of many origins (Chad, Congo, Cameroon, Togo…), and it’s a pearl not to be missed- you’ve been tipped !
+The album **[Desert to Douala](https://pulondj.bandcamp.com/album/desert-to-douala)** is the result of NYC’s Nickodemus travel to N’djamena to meet a local collective of artists of many origins (Chad, Congo, Cameroon, Togo…), and it’s a pearl not to be missed - you’ve been tipped !
 
 <br>
 
@@ -239,9 +239,9 @@ His Super Yamba Band always hits the spot with funky Afrobeat, if you don’t kn
 
 Reggae aficionados will recognize **Clive Hunt**, a multi-instrumentalist, composer, and arranger behind [many massive yardie releases](https://www.discogs.com/artist/205797-Clive-Hunt?type=Credits&filter_anv=0), who worked with pretty much everyone that weighs on the Reggae scene (including Gregory Isaacs, Dennis Brown, or even Lee Perry).
 
-This surprising Boogie-Funk tune however shows a far lesser known side of his, and was part of a killer [1977 compilation](https://www.discogs.com/Various-Musicism-Swing-Me-Gentle/release/4768926), oddly titled ***Musicism – Swing me Gently*** on Jamaican label Aquarius, showcasing Funk, Disco, and Soul.
+This surprising Boogie-Funk tune however shows a far lesser known side of his, and was part of a killer [1977 compilation](https://www.discogs.com/Various-Musicism-Swing-Me-Gentle/release/4768926), oddly titled ***Musicism – Swing me Gently*** on Jamaican label **Aquarius**, showcasing Funk, Disco, and Soul.
 
-The original record is hard to find, but you can gather bits and pieces across the interwebs, and as for **Bermuda Triangle**, the chaps at [Favorite Recordings](https://www.favoriterec.com/) had the good idea to add it to their brilliant **[Caribbean Disco Boogie Sounds](https://favoriterecordings.bandcamp.com/album/caribbean-disco-boogie-sounds-1977-1982-selected-by-waxist)**compilation – highly recommended.
+The original record is hard to find, but you can gather bits and pieces across the interwebs, and as for **Bermuda Triangle**, the chaps at [Favorite Recordings](https://www.favoriterec.com/) had the good idea to add it to their brilliant **[Caribbean Disco Boogie Sounds](https://favoriterecordings.bandcamp.com/album/caribbean-disco-boogie-sounds-1977-1982-selected-by-waxist)** compilation – highly recommended.
 
 <br>
 
@@ -267,9 +267,9 @@ Diggers’ be diggin’: this wonderful track by a totally unknown Cameroonian a
 
 More disco-boogie madness from France, again courtesy of **Favorite Recordings** and their wicked [French Disco Boogie Sounds series](https://favoriterecordings.bandcamp.com/album/french-disco-boogie-sounds-vol-3-1977-1987-selected-by-charles-maurice).
 
-**Funky & Fire** was originally part of a [self-released LP](https://www.discogs.com/Janet-NDiaye-Lokamba-Aimey/release/3536943) by **Janet N’diaye**, which featured the legendary Cameroonian Makossa guitar player [Toto Guillaume](https://www.discogs.com/artist/1272023-Toto-Guillaume), among many other activists of the 1980’s Parisian Afro scene.Scorching hot stuff…
+**Funky & Fire** was originally part of a [self-released LP](https://www.discogs.com/Janet-NDiaye-Lokamba-Aimey/release/3536943) by **Janet N’diaye**, which featured the legendary Cameroonian Makossa guitar player [Toto Guillaume](https://www.discogs.com/artist/1272023-Toto-Guillaume), among other activists of the 1980’s Parisian Afro scene. Scorching hot stuff…
 
-If you dig Janet’s style, don’t miss the [freshly repressed](https://kalitarecords.bandcamp.com/album/makom-ma-bobe) **Makom Ma Bobe**, another massive Afrodisco hit:
+If you dig Janet’s style, don’t miss the [freshly repressed](https://kalitarecords.bandcamp.com/album/makom-ma-bobe) **Makom Ma Bobe**, another lethal Afrodisco hit:
 
 <iframe width="100%" height="315" src="https://www.youtube-nocookie.com/embed/qd4n10W2tmg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen referrerpolicy="origin"></iframe>
 
