@@ -255,10 +255,12 @@ More disco-boogie madness from France, again courtesy of **Favorite Recordings**
 
 **Funky & Fire** was originally part of a [self-released LP](https://www.discogs.com/Janet-NDiaye-Lokamba-Aimey/release/3536943) by **Janet N’diaye**, which featured the legendary Cameroonian Makossa guitar player [Toto Guillaume](https://www.discogs.com/artist/1272023-Toto-Guillaume), among many other activists of the 1980’s Parisian Afro scene.Scorching hot stuff…
 
-If you dig Janet’s style, don’t miss the [freshly repressed](https://kalitarecords.bandcamp.com/album/makom-ma-bobe) Makom Ma Bobe, another massive Afro-disco hit:
+If you dig Janet’s style, don’t miss the [freshly repressed](https://kalitarecords.bandcamp.com/album/makom-ma-bobe) **Makom Ma Bobe**, another massive Afrodisco hit:
 
 <iframe width="100%" height="315" src="https://www.youtube-nocookie.com/embed/qd4n10W2tmg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen referrerpolicy="origin"></iframe>
 
 ## ***This wraps it up for now, hope you got warmed-up !***
 
 ## ***Want the full experience? Listen to the mixtape:***
+
+<iframe width="100%" height="500" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1044249469&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/the-asymetrics" title="The Asymetrics" target="_blank" style="color: #cccccc; text-decoration: none;">The Asymetrics</a> · <a href="https://soundcloud.com/the-asymetrics/malongs-round-up-7" title="Malong&#x27;s Round-Up #7" target="_blank" style="color: #cccccc; text-decoration: none;">Malong&#x27;s Round-Up #7</a></div>
