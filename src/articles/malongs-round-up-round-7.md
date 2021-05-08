@@ -20,6 +20,18 @@ tags:
   - "#Mali"
   - "#Ghana"
 date: 2021-05-08T01:17:18.587Z
+outsideLinks:
+  outsideLinksList:
+    - text: The Round-up Videos playlist
+      link: https://www.youtube.com/playlist?list=PLZtgNolXlRSRmC3zZSi2iXAE-4OaIkVj2
+    - text: Asymetrics Random Selections
+      link: https://theasymetrics.com/blog/asymetrics-random-selection-april-2021/
+    - text: Malong - Outernational Charanga
+      link: https://theasymetrics.com/blog/malong-outernational-charanga-selection/
+    - text: "Malong's Round-Up #6"
+      link: https://theasymetrics.com/blog/malongs-round-up-round-6/
+    - text: "Malong's Round-Up #5"
+      link: https://theasymetrics.com/blog/malongs-round-up-round-5/
 ---
 ![](/img/theasymetrics_roundup7_cover.jpg "©Lord Sandwich")
 
@@ -27,7 +39,7 @@ date: 2021-05-08T01:17:18.587Z
 
 Direct Link to full Mixtape:*  [Soundcloud](https://soundcloud.com/the-asymetrics/malongs-round-up-7)*
 
-### Been a while eh ? Well this "almost" monthly affair is back on and we're taking you on a trip through contemporary Ghanaian beats via Colombia, Chad, Belize, Mali and more... Fasten you seat belts !
+### Been a while eh ? Well this "almost" monthly affair is back on and we're taking you on another trip through contemporary beats via Ghana, Colombia, Chad, Belize, Mali and more... Fasten you seat belts !
 
 <br>
 
