@@ -27,7 +27,7 @@ date: 2021-05-08T01:17:18.587Z
 
 Direct Link to full Mixtape:*  [Soundcloud](https://soundcloud.com/the-asymetrics/malongs-round-up-7)*
 
-### Been a while eh ? Well this "almost" monthly affair is back on and now we're taking you on a trip through contemporary Ghanaian beats via Colombia, Chad, Belize, Mali and more... Fasten you seat belts !
+### Been a while eh ? Well this "almost" monthly affair is back on and we're taking you on a trip through contemporary Ghanaian beats via Colombia, Chad, Belize, Mali and more... Fasten you seat belts !
 
 <br>
 
@@ -123,9 +123,19 @@ And then of course, the track features **[La Perla](https://www.womex.com/virtua
 
 <iframe width="100%" height="380" src="https://www.youtube-nocookie.com/embed/CTdFekjzn-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen referrerpolicy="origin"></iframe>
 
-**Pulo NDJ Ft FTP – Clandoman**
+<br>
+
+<br>
+
+<br>
+
+#### **Pulo NDJ Ft FTP – Clandoman**
 
 <iframe width="100%" height="380" src="https://www.youtube-nocookie.com/embed/NGsMBewsmqc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen referrerpolicy="origin"></iframe>
+
+<br>
+
+<br>
 
 Superb vibrations from Chad ! Nuff said…
 
