@@ -93,25 +93,39 @@ Just released and hot like lava, the Brooklyn combo’s first LP, [Neotropic Dre
 
 Rocking Harmony features the up and coming [JonnyGo Figure](https://rootfire.net/artist-spotlight-johnnygo-figure/), who brings a cool 70’s scorcher vibe to the mix – Pure dancefloor fire !
 
-**Extra Classic – Demon Hit**
+<br>
+
+<br>
+
+#### **Extra Classic – Demon Hit**
 
 <iframe style="border: 0; width: 100%; height: 42px;" src="https://bandcamp.com/EmbeddedPlayer/album=1022730991/size=small/bgcol=ffffff/linkcol=0687f5/track=2601987025/transparent=true/" seamless><a href="https://nyctrust.bandcamp.com/album/future-shock-volume-2">Future Shock - Volume 2 by Extra Classic</a></iframe>
 
+![](/img/theasymetrics_extra-classic.jpg)
+
+<br>
+
 San Francisco band [Extra Classic](https://extraclassic.bandcamp.com/music) dropped this bomb-ass psychedelic Dub/Pop mash-up way back in 2012; Forward thinking Big Apple based label [Names You Can Trust](https://nyctrust.bandcamp.com/music) (also behind the previous track, and listed in an [earlier Round-Up](https://theasymetrics.com/blog/malongs-round-up-round-3/), yup, I trust them…) had the hunch to re-master and re-release it on their wicked **Future Shock** series, for our greatest listening pleasure…
 
-**Krak in Dub Ft La Perla – Pedacito de Coco**
+<br>
+
+#### **Krak in Dub Ft La Perla – Pedacito de Coco**
 
 <iframe style="border: 0; width: 100%; height: 42px;" src="https://bandcamp.com/EmbeddedPlayer/album=435082339/size=small/bgcol=ffffff/linkcol=0687f5/track=2905295689/transparent=true/" seamless><a href="https://krakindub.bandcamp.com/album/catleya-bogota-sessions">Catleya (Bogota Sessions) by KRAK IN DUB</a></iframe>
 
-[Krak in Dub](https://www.krakindub.com/) is a Paris-based Argentine veteran of the Jungle/Drum&Bass scene, whom I had the pleasure to see behind the decks a number of times in my youth. In constant motion, he recently traveled to Bogota to record **[Catleya](https://krakindub.bandcamp.com/album/catleya-bogota-sessions)**, a fine homage to Colombian’s vibrant modern scene. The label behind this, [Galletas Calientes](https://galletascalientesrecords.bandcamp.com/), is a super cool Franco-Colombian affair that you should follow if you’re interested in the tropical scene.
+![](/img/theasymetrics_krak-in-dub.jpg)
+
+[](https://www.krakindub.com/)<br>
+
+**[Krak in Dub](https://www.krakindub.com/)** is a Paris-based Argentine veteran of the Jungle/Drum&Bass scene, whom I had the pleasure to see behind the decks a number of times in my youth. In constant motion, he recently traveled to Bogota to record **[Catleya](https://krakindub.bandcamp.com/album/catleya-bogota-sessions)**, a fine homage to Colombian’s vibrant modern scene. The label behind this, [Galletas Calientes](https://galletascalientesrecords.bandcamp.com/), is a super cool Franco-Colombian affair that you should follow if you’re interested in the tropical scene.
 
 And then of course, the track features **[La Perla](https://www.womex.com/virtual/la_perla)**, one of Colombia’s most exciting new band, a percussion-vocal trio reviving Colombia’s Caribbean folk who have been rocking the festivals around the World recently, and whom I plan to speak more about on the Asymetrics in the future… Just check out this wonderful live take of their already classic **[La Bruja](https://laperlabogota.bandcamp.com/track/bruja-2)**:
 
-<iframe width="100%" height="380" src="https://www.youtube-nocookie.com/embed/CTdFekjzn-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="100%" height="380" src="https://www.youtube-nocookie.com/embed/CTdFekjzn-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen referrerpolicy="origin"></iframe>
 
 **Pulo NDJ Ft FTP – Clandoman**
 
-<iframe width="100%" height="380" src="https://www.youtube-nocookie.com/embed/NGsMBewsmqc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="100%" height="380" src="https://www.youtube-nocookie.com/embed/NGsMBewsmqc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen referrerpolicy="origin"></iframe>
 
 Superb vibrations from Chad ! Nuff said…
 
@@ -127,7 +141,7 @@ I picked this one out of a beautiful compilation titled **[Be My Voice](https://
 
 And while we’re here, why not have a look at the tune’s original music video and catch some heat from Bogota:
 
-<iframe width="100%" height="380" src="https://www.youtube-nocookie.com/embed/MZXlgNMDK3E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="100%" height="380" src="https://www.youtube-nocookie.com/embed/MZXlgNMDK3E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen referrerpolicy="origin"></iframe>
 
 **Gaspa – Tamani**
 
@@ -139,7 +153,7 @@ Cutting-edge stuff straight outta Bamako, Mali.
 
 Speaking of Aunty Razor, I can’t help but share this great music video - fasten your seat belts:
 
-<iframe width="100%" height="380" src="https://www.youtube-nocookie.com/embed/QkXzqQq-ogQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="100%" height="380" src="https://www.youtube-nocookie.com/embed/QkXzqQq-ogQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen referrerpolicy="origin"></iframe>
 
 **Yeahman – Soupe Feu**
 
@@ -181,4 +195,4 @@ More disco-boogie madness from France, again courtesy of **Favorite Recordings**
 
 If you dig Janet’s style, don’t miss the [freshly repressed](https://kalitarecords.bandcamp.com/album/makom-ma-bobe) Makom Ma Bobe, another massive Afro-disco hit:
 
-<iframe width="100%" height="315" src="https://www.youtube-nocookie.com/embed/qd4n10W2tmg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="100%" height="315" src="https://www.youtube-nocookie.com/embed/qd4n10W2tmg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen referrerpolicy="origin"></iframe>
