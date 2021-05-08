@@ -247,7 +247,9 @@ Diggers’ be diggin’: this wonderful track by a totally unknown Cameroonian a
 
 <iframe style="border: 0; width: 100%; height: 42px;" src="https://bandcamp.com/EmbeddedPlayer/album=1118352715/size=small/bgcol=ffffff/linkcol=0687f5/track=2373885054/transparent=true/" seamless><a href="https://favoriterecordings.bandcamp.com/album/french-disco-boogie-sounds-vol-3-1977-1987-selected-by-charles-maurice">French Disco Boogie Sounds Vol.3 (1977-1987, selected by Charles Maurice) by Janet N&#39;diaye Lokamba</a></iframe>
 
+![](/img/janetndyaye.jpg)
 
+<br>
 
 More disco-boogie madness from France, again courtesy of **Favorite Recordings** and their wicked [French Disco Boogie Sounds series](https://favoriterecordings.bandcamp.com/album/french-disco-boogie-sounds-vol-3-1977-1987-selected-by-charles-maurice).
 
