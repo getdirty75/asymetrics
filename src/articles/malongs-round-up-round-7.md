@@ -141,9 +141,17 @@ Superb vibrations from Chad ! Nuff said…
 
 The album **[Desert to Douala](https://pulondj.bandcamp.com/album/desert-to-douala)**is the result of NYC’s Nickodemus travel to N’djamena to meet a local collective of artists of many origins (Chad, Congo, Cameroon, Togo…), and it’s a pearl not to be missed- you’ve been tipped !
 
-**Bomba Estereo – Fuego (Maga Bo Remix)**
+<br>
+
+#### **Bomba Estereo – Fuego (Maga Bo Remix)**
 
 <iframe style="border: 0; width: 100%; height: 42px;" src="https://bandcamp.com/EmbeddedPlayer/album=1763616281/size=small/bgcol=ffffff/linkcol=0687f5/track=2459103064/transparent=true/" seamless><a href="https://nyp-records.bandcamp.com/album/be-my-voice">Be My Voice by Bomba Estereo</a></iframe>
+
+![](/img/theasymetrics_be-my-voice.jpg)
+
+
+
+<br>
 
 Back to Colombia with this classic 2009 anthem by [Bomba Estéreo](https://en.wikipedia.org/wiki/Bomba_Est%C3%A9reo), finely remixed by Brazilian Dj [Maga Bo](https://magabo.bandcamp.com/).
 
@@ -153,11 +161,21 @@ And while we’re here, why not have a look at the tune’s original music video
 
 <iframe width="100%" height="380" src="https://www.youtube-nocookie.com/embed/MZXlgNMDK3E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen referrerpolicy="origin"></iframe>
 
-**Gaspa – Tamani**
+<br>
+
+<br>
+
+<br>
+
+#### **Gaspa – Tamani**
 
 <iframe style="border: 0; width: 100%; height: 42px;" src="https://bandcamp.com/EmbeddedPlayer/album=3671324056/size=small/bgcol=ffffff/linkcol=0687f5/track=1720571472/transparent=true/" seamless><a href="https://blancmanioclabel.bandcamp.com/album/gaspa-west-african-beats-2">Gaspa - West african beats by Gaspa</a></iframe>
 
-Cutting-edge stuff straight outta Bamako, Mali.
+![](/img/theasymetrics_gaspa.jpg)
+
+<br>
+
+Cutting-edge stuff straight outta **Bamako, Mali**.
 
 [Gaspa](https://www.instagram.com/gaspa_one_officiel6384/) is a [rising star](https://pan-african-music.com/pam-club-gaspa/) of the West African electronic music scene, blending Mandingue beats with Afro-House, Kwaito, and much more. He is also one of the speaheads of [Blanc Manioc](https://blancmanioclabel.bandcamp.com/music), a very interesting outlet to keep en eye on. Founded by Dom Peter, the drummer with French Dub super-band [High Tone](https://www.discogs.com/artist/106717-High-Tone), the label has a foot in Lyon and another in Bamako, and pushes a new school of talented producers such as [MC Waraba](https://blancmanioclabel.bandcamp.com/album/djoro-e-p-2) and [Aunty Razor](https://blancmanioclabel.bandcamp.com/album/kuku-corona).
 
@@ -165,39 +183,71 @@ Speaking of Aunty Razor, I can’t help but share this great music video - faste
 
 <iframe width="100%" height="380" src="https://www.youtube-nocookie.com/embed/QkXzqQq-ogQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen referrerpolicy="origin"></iframe>
 
-**Yeahman – Soupe Feu**
+<br>
+
+<br>
+
+<br>
+
+#### **Yeahman – Soupe Feu**
 
 <iframe style="border: 0; width: 100%; height: 42px;" src="https://bandcamp.com/EmbeddedPlayer/album=3017422709/size=small/bgcol=ffffff/linkcol=0687f5/track=3065167567/transparent=true/" seamless><a href="https://yeahman.bandcamp.com/album/ostriconi">Ostriconi by Yeahman</a></iframe>
 
-Interesting beats coming out of Toulouse, France: Soupe Feu is part of an LP, **[Ostriconi](https://yeahman.bandcamp.com/album/ostriconi)**, released by Jean Dasso AKA Yeahman, who played around his musical connections in Corsica, Senegal, Italy, and beyond – Deep & beautiful stuff….
+![](/img/theasymetrics_yeahman.jpg)
 
-**Kaleta & Super Yamba Band – Mr Diva**
+<br>
+
+Interesting beats coming out of **Toulouse**, France: Soupe Feu is part of an LP, **[Ostriconi](https://yeahman.bandcamp.com/album/ostriconi)**, released by **Jean Dasso** AKA Yeahman, who played around his musical connections in Corsica, Senegal, Italy, and beyond – Deep & beautiful stuff….
+
+<br>
+
+#### **Kaleta & Super Yamba Band – Mr Diva**
 
 <iframe style="border: 0; width: 100%; height: 42px;" src="https://bandcamp.com/EmbeddedPlayer/album=2239768372/size=small/bgcol=ffffff/linkcol=0687f5/transparent=true/" seamless><a href="https://kaletaandsuperyambaband.bandcamp.com/album/mr-diva">Mr. Diva by Kaleta &amp; Super Yamba Band</a></iframe>
+
+![](/img/theasymetrics_kaleta.jpg)
+
+<br>
 
 Based in New York, Benin-born Kaleta has been active since the 1970’s and has performed, among many more, with none other than Fela Kuti !
 
 His Super Yamba Band always hits the spot with funky Afrobeat, if you don’t know get to know !
 
-**Clive Hunt – Bermuda Triangle**
+<br>
+
+#### **Clive Hunt – Bermuda Triangle**
 
 <iframe style="border: 0; width: 100%; height: 42px;" src="https://bandcamp.com/EmbeddedPlayer/album=705474050/size=small/bgcol=ffffff/linkcol=0687f5/track=2411650786/transparent=true/" seamless><a href="https://favoriterecordings.bandcamp.com/album/caribbean-disco-boogie-sounds-1977-1982-selected-by-waxist">Caribbean Disco Boogie Sounds (1977-1982, selected by Waxist) by Musicism</a></iframe>
 
-Reggae aficionados will recognize Clive Hunt, a multi-instrumentalist, composer, and arranger behind [many massive yardie releases](https://www.discogs.com/artist/205797-Clive-Hunt?type=Credits&filter_anv=0), who worked with pretty much everyone that weighs on the Reggae scene (including Gregory Isaacs, Dennis Brown, or even Lee Perry).
+![](/img/theasymetrics_musicism.jpg)
+
+<br>
+
+Reggae aficionados will recognize **Clive Hunt**, a multi-instrumentalist, composer, and arranger behind [many massive yardie releases](https://www.discogs.com/artist/205797-Clive-Hunt?type=Credits&filter_anv=0), who worked with pretty much everyone that weighs on the Reggae scene (including Gregory Isaacs, Dennis Brown, or even Lee Perry).
 
 This surprising Boogie-Funk tune however shows a far lesser known side of his, and was part of a killer [1977 compilation](https://www.discogs.com/Various-Musicism-Swing-Me-Gentle/release/4768926), oddly titled ***Musicism – Swing me Gently*** on Jamaican label Aquarius, showcasing Funk, Disco, and Soul.
 
 The original record is hard to find, but you can gather bits and pieces across the interwebs, and as for **Bermuda Triangle**, the chaps at [Favorite Recordings](https://www.favoriterec.com/) had the good idea to add it to their brilliant **[Caribbean Disco Boogie Sounds](https://favoriterecordings.bandcamp.com/album/caribbean-disco-boogie-sounds-1977-1982-selected-by-waxist)**compilation – highly recommended.
 
-**Jean Adamo – Vas-y Mollo (Deviant Disco edit)**
+<br>
+
+#### **Jean Adamo – Vas-y Mollo (Deviant Disco edit)**
 
 <iframe style="border: 0; width: 100%; height: 42px;" src="https://bandcamp.com/EmbeddedPlayer/album=1370476171/size=small/bgcol=ffffff/linkcol=0687f5/track=4050791873/transparent=true/" seamless><a href="https://deviantdisco-music.bandcamp.com/album/various-artists-ddr001">Various Artists - DDR001 by Jean Adamo</a></iframe>
 
+![](/img/theasymetrics_deviant-disco.jpg)
+
+<br>
+
 Diggers’ be diggin’: this wonderful track by a totally unknown Cameroonian artist, who only released [two singles](https://www.discogs.com/artist/846579-Jean-Adamo) in France back in the 1970s, was recently unearthed by the [Deviant Disco](https://deviantdisco-music.bandcamp.com/music) crew, who specialize in seriously obscure grooves (always amazing mind you)! Rumour has it that the mighty [Manu Dibango](https://en.wikipedia.org/wiki/Manu_Dibango) was behind the tune’s arrangements but was not credited….
 
-**Janet N’diaye Lokamba – Funky & Fire**
+<br>
+
+#### **Janet N’diaye Lokamba – Funky & Fire**
 
 <iframe style="border: 0; width: 100%; height: 42px;" src="https://bandcamp.com/EmbeddedPlayer/album=1118352715/size=small/bgcol=ffffff/linkcol=0687f5/track=2373885054/transparent=true/" seamless><a href="https://favoriterecordings.bandcamp.com/album/french-disco-boogie-sounds-vol-3-1977-1987-selected-by-charles-maurice">French Disco Boogie Sounds Vol.3 (1977-1987, selected by Charles Maurice) by Janet N&#39;diaye Lokamba</a></iframe>
+
+
 
 More disco-boogie madness from France, again courtesy of **Favorite Recordings** and their wicked [French Disco Boogie Sounds series](https://favoriterecordings.bandcamp.com/album/french-disco-boogie-sounds-vol-3-1977-1987-selected-by-charles-maurice).
 
