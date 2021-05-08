@@ -206,3 +206,7 @@ More disco-boogie madness from France, again courtesy of **Favorite Recordings**
 If you dig Janet’s style, don’t miss the [freshly repressed](https://kalitarecords.bandcamp.com/album/makom-ma-bobe) Makom Ma Bobe, another massive Afro-disco hit:
 
 <iframe width="100%" height="315" src="https://www.youtube-nocookie.com/embed/qd4n10W2tmg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen referrerpolicy="origin"></iframe>
+
+## ***This wraps it up for now, hope you got warmed-up !***
+
+## ***Want the full experience? Listen to the mixtape:***
