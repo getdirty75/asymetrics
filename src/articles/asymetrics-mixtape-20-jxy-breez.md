@@ -32,7 +32,7 @@ outsideLinks:
 
 Direct links: **[Soundcloud](https://soundcloud.com/the-asymetrics/asymetrics-mixtape-20-jxy-breez-jazzymetrics)** / **[Youtube](https://www.youtube.com/watch?v=qHeLalV0PeQ)**
 
-### Jazzymetrics ! A deep contemporary soulful selection by Parisian digger [Jean-Benoit Ndoki](https://www.instagram.com/jxybreez/), aka [Jxy Breez](https://soundcloud.com/jxybreez), aka [Da Plug](https://iamdaplug.fr/) !
+### We're proud to present Jazzymetrics ! A deep, soulful selection by Parisian digger [Jean-Benoit Ndoki](https://www.instagram.com/jxybreez/), aka [Jxy Breez](https://soundcloud.com/jxybreez), aka [Da Plug](https://iamdaplug.fr/) !
 
 <br>
 
