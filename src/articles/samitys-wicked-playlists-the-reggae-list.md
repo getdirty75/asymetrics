@@ -35,7 +35,7 @@ Direct Link: [Spotify](https://open.spotify.com/playlist/4Orp6AeAr2iOE74ETSMFPg?
 
 ### About Samity
 
-Samity is a Sofia-based Dub/Reggae composer,producer and musician. Active for more than a decade, he has been one of the main forces establishing the Reggae scene & Sound System culture in Bulgaria. He is also the force behind the boss label **Rice & Peas Records** - check it !
+Samity is a Sofia-based Dub/Reggae composer,producer and musician. Active for more than a decade, he has been one of the spearheads in establishing the Reggae scene & Sound System culture in Bulgaria. He is also the force behind the boss label **Rice & Peas Records** - check it !
 
 [Rice & Peas Records](https://riceandpeasrecords.bandcamp.com/) <br>
 
