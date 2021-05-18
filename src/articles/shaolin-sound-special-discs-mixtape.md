@@ -23,7 +23,7 @@ date: 2021-05-18T03:36:27.052Z
 
 <br>
 
-Direct Links: [Soundcloud](https://soundcloud.com/the-asymetrics/the-asymetrics-present-shaolin-sound-special-disks-mix) / Youtube
+Direct Links: [Soundcloud](https://soundcloud.com/the-asymetrics/the-asymetrics-present-shaolin-sound-special-disks-mix) / [Youtube](https://www.youtube.com/watch?v=G_LpzjdwaOo)
 
 ### A very special delivery by the producer, selector, graphic designer, vinyl collector & sound system culture aficionado behind the **[Chief Rockas collective](https://soundcloud.com/chiefrockascollective) & [Just Is Records](https://soundcloud.com/justisrecords)**: Daniel Tuffs, aka **[Shaolin Sound](https://soundcloud.com/shaolin_sound)**, blessed us with a rocking selection of exclusives !
 
@@ -100,3 +100,5 @@ Daniel is a real hyperactive artist who's been involved on the Reggae scene (but
 **[Vision](https://www.youtube.com/watch?v=d9PENiakdMA)** is a new project focused on Daniel's love of **Boom Bap** style Hip Hop, producing beats from old and interesting Soul, Jazz, Soundtrack and anything with interesting sounds for sampling! An EP is coming soon with a young rapper out of Canada called [Kataem](https://soundcloud.com/kataem-oconnor).
 
 **The Grampians** is a band currently functioning as a studio and session band, making a lot of their own riddims, as well as recreating classics, with a couple of tracks out recently with Joe Yorke and Delton Screechie as polyvinyl releases. The Grampians record at drummer **Mikey Shaw**'s studio called **Dub Cavern,** equipped with a collection of brilliant original studio gear like the Roland Space Echo, Grampian Spring Reverb and tons of others to get that authentic 70s and 80s sound. Expect to hear a lot from them in the near future !
+
+### Find out More about Shaolin Sound on [Instagram](https://www.instagram.com/shaolin_sound/?hl=en) / [Youtube](https://www.youtube.com/channel/UCb_n9IVwUzFHxQ7RlnJH6kg) / [Soundcloud](https://soundcloud.com/shaolin_sound)
