@@ -16,6 +16,18 @@ tags:
   - "#Mixtape"
   - "#Shaolinsound"
 date: 2021-05-18T03:36:27.052Z
+outsideLinks:
+  outsideLinksList:
+    - text: Shaolin Sound
+      link: https://soundcloud.com/shaolin_sound
+    - text: Chief Rockas
+      link: https://www.facebook.com/chiefrockascollective/
+    - text: Just Is Records
+      link: https://www.facebook.com/justisrecords/
+    - text: Asymetrics Rub a Dub Sandwich
+      link: https://theasymetrics.com/blog/lord-sandwich-sandwich-001/
+    - text: "Asymetrics Mixtape #5: Marshall Neeko"
+      link: https://theasymetrics.com/blog/asymetrics-mixtape-5-marshall-neeko/
 ---
 ![](/img/theasymetrics_danieltuffs_reggaeart.jpg "©Daniel Tuffs")
 
