@@ -101,9 +101,11 @@ Daniel is a real hyperactive artist who's been involved on the Reggae scene (but
 
 **[Shaolin Sound](https://soundcloud.com/shaolin_sound)**  functions as a platform to share discoveries on vinyl from the 70s, 80s & 90s. Focusing on Roots, Rubadub & Digital. More recently releasing limited polyvinyls and soon full vinyl releases with great vocalist and producers, as well as self produced tracks. 
 
-[JUST-IS Records](https://soundcloud.com/justisrecords) & the [Chief Rockas](https://soundcloud.com/chiefrockascollective) collective are inspired by the modern sounds of Reggae. Fusing new sounds with classic elements of Roots, Rubadub & Digi. JUST-IS originally started as a series of events inDaniel's hometown, Norwich, in East of England. **Just-Is** eventually became a platform to release music. 
+[JUST-IS Records](https://soundcloud.com/justisrecords) & the [Chief Rockas](https://soundcloud.com/chiefrockascollective) collective are inspired by the modern sounds of Reggae. Fusing new sounds with classic elements of Roots, Rubadub & Digi. JUST-IS originally started as a series of events in Daniel's hometown, Norwich, in the eastern part of England. **Just-Is** eventually became a platform to release music. 
 
 **Chief Rockas** was created at the same time as the label with Tom Excell, a great producer. He is in the bands [Nubiyan Twist](https://www.nubiyantwist.co.uk/) & [Onipa](https://onipa.bandcamp.com/), and is soon launching his own label.
+
+
 
 ![](/img/theasymetrics_chiefrockas_logo.jpg)
 
