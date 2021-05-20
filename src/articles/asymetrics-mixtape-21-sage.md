@@ -14,6 +14,14 @@ tags:
   - "#Disco"
   - "#asymetricstapes"
 date: 2021-05-19T23:05:27.510Z
+outsideLinks:
+  outsideLinksList:
+    - text: Les Drogues Rient (photocollection by SAGE)
+      link: https://theasymetrics.com/blog/les-drogues-rient/
+    - text: SAGE's Mixes
+      link: https://soundcloud.com/lookoomusic
+    - text: SAGE's work
+      link: https://www.behance.net/user/?username=thefuckinsage
 ---
 ![](/img/14718753_10210836986710815_5941744416380870816_n.jpg)
 
