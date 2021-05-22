@@ -86,6 +86,8 @@ Very exciting stuff, so I wanted to hear straight from Elise and Hvar how it all
 
 Aside from the label, we have been putting on soundsystem parties in **Copenhagen** called ***Love Jamboree***. It gives us a chance to share our records, which is super fun. We try to reflect our influences, which is mainly the UK scene. We lived in Manchester and London before moving to Denmark. Of course, with the pandemic we didn’t manage to play much last year, but we’re looking forward to getting these back up and running.
 
+<br>
+
 ***How did you come across the album originally, and why did you decide to pick this one as the first release?***
 
 **H**: We’d known about Alonso’s music for some time after finding a copy in New York, but it was in really bad shape so we had to wait to find another, as the master tape was lost. Eventually we managed to track down a copy in better condition so we were able to start moving on that one.
@@ -94,15 +96,19 @@ We have a lot of records in our potential reissue pile and prior to this had bee
 
 We really want to do everything officially so it’s very important we are in touch with the copyright holders, which can take time and can be difficult when you’re not based in the country. It was quite easy to get in touch with Alonso’s family because his son is a well-known Jazz musician, so really the reason this record ended up being our first is more to do with logistics.
 
-![](/img/alonso.jpg "Alonso Wilson de Briano")
-
 *<br>*
 
 ***Can you tell us about the "Winsor style" that Alonso created? And about the Winsor Social Club of Panama?***
 
+![](/img/alonso.jpg "Alonso Wilson de Briano")
+
+<br>
+
 **\[Elise]**: *As far as we have been able to find out, the Winsor style is a phrase that came to be associated with Alonso’s music back in the 50s. We understand he was part of a social club called Winsor back in Panama and used to give a lot of performances through the club. We think it’s because of these performances people began associating Alonso’s unique sound with the Winsor style. His brother, who lived in Panama, actually opened up a bar called Club Winsor in honour of Alonso.* 
 
 *The photo of the sign on the front cover of the record is the place. We understand the brother was disappointed that Alonso moved to the US and always thought Alonso would have had a more successful career musically if he’d stayed in Panama.*
+
+*<br>*
 
 ***I gathered that Alonso's son*** [Santi de Briano](https://jazztimes.com/features/profiles/overdue-ovation-santi-debriano/) ***is a famous New-York based jazz bass-player, who performs sometimes at Panama City's notorious [Jazz festival](https://www.instagram.com/panamajazzfestival/?hl=en) - did he help you with the release?***
 
@@ -114,19 +120,21 @@ We really want to do everything officially so it’s very important we are in to
 
 **E**: Santi along with his brother **Chevalo** helped a lot with the release and were really delighted to hear that people all the way in Europe are still listening to their father’s work 60 years later. They shared a lot of memories of Alonso and singing his songs growing up, but unfortunately they didn’t know much about the period he was most musically active, as they hadn’t been born yet.
 
-We actually found it really difficult to find information about Alonso as most people that had worked with him on the record or had been close to him at that time had died. I came across an audio interview that Alonso did in the late 80s that is available at the Brooklyn Historical Society. It was amazing to hear Alonso’s voice and discover he had spoken about some of the songs on the record. 
+We actually found it really difficult to find information about Alonso as most people that had worked with him on the record or had been close to him at that time had died. I came across an audio interview that Alonso did in the late 80s that is available at the **Brooklyn Historical Society**. It was amazing to hear Alonso’s voice and discover he had spoken about some of the songs on the record. 
 
 And so a lot of the information in that interview informed the biographical information we were able to piece together on Alonso and the record. It was also great to be able to share it with his family who were not aware of it.
 
 ***Panamanian music from the 60s and 70s is really hot among die-hard record collectors - as diggers & djs yourselves, what's your take on this? I mean, the country, although magnificent and fascinating by many aspects, is relatively off the radar to the rest of the World - so what is it, in your opinion, that makes its music so sought-after?***
 
-**H**: There are several reasons we think. The first being there is so much unique music coming from this tiny country, especially from this period. It probably has a lot to do with Panama’s geography. Alonso himself said that it’s a country with a ‘foot in both sides’, meaning that because of its geographical position it’s got influences from both the Latin and English speaking worlds. There was also a lot of migration from the West-Indies during the construction of the canal - Alonso’s father also came from Jamaica to work as a carpenter - so this also had a big impact culturally. This melting pot of different cultures really created a fertile environment for creativity.*
+**H**: There are several reasons we think. The first being there is so much unique music coming from this tiny country, especially from this period. It probably has a lot to do with Panama’s geography. Alonso himself said that it’s a country with a ‘foot in both sides’, meaning that because of its geographical position it’s got influences from both the Latin and English speaking worlds. There was also a lot of migration from the West-Indies during the construction of the canal - **Alonso’s father also came from Jamaica to work as a carpenter** - so this also had a big impact culturally. This melting pot of different cultures really created a fertile environment for creativity.*
 
 The second is the 60s and 70s, at least for us, are the golden era of recordings, and so listening to records from this time is quite special. The records that were done well, particularly in the 60s, have a lot of charm and character, which is due mostly to the technical limitations at that time.
 
 However, as recording technology evolved the kind of warmth you hear in recordings sort of get lost. Of course, each musical period has its own sonic quirks, which people are always going to appreciate differently, but speaking for ourselves we just really love the dynamics of the 60s and 70s productions. So this could be another reason why music from this time, not only from Panama, but in general, is highly sought after.
 
 The final reason is there have been a number of great compilation reissues of 60s and 70s music from Panama on some bigger record labels so that will definitely have contributed to the music becoming more known.
+
+<br>
 
 ***On the same topic, what's your take on the resurfacing of such a rare record among collectors (asides from rarity)?***
 
@@ -137,6 +145,8 @@ We absolutely fell in love with Alonso’s record from the moment we heard it be
 Being good music or a good recording isn’t just about technique; it’s really about its ability to transport the listener somewhere. That’s when it gets really special. Of course it’s never going to be like being at a live concert, but some records can get you close and that’s what we love about this one in particular.
 
 We chose to reissue it because we thought there are people like us who would love this sound and so it felt like the right thing to do to give it a new lease of life and try to preserve it as best as we could.
+
+<br>
 
 ***Finally, with such a unique first release, we're excited to see what's next with Mokomizik, can you tell us what you're cooking for the future?***
 
