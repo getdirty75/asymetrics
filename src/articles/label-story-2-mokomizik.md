@@ -19,10 +19,16 @@ tags:
 date: 2021-05-22T02:41:36.645Z
 outsideLinks:
   outsideLinksList:
-    - text: Alsonso Wislon LP
+    - text: Asymetrics Panama Playlist
+      link: https://youtube.com/playlist?list=PLZtgNolXlRSR1O99y9KFfgC10JjYWyRQh
+    - text: Alsonso Wilson LP
       link: https://alonsowilsondebriano.bandcamp.com/album/fantastic-variety-in-the-music-of-panama-the-winsor-style-and-calypso-impressions
     - text: Mokomizik Mixtape
       link: https://soundcloud.com/the-asymetrics/the-asymetrics-present-mokomizik-dusty-latin-grooves
+    - text: Mokomizik Channel
+      link: https://www.youtube.com/c/DiscoRebel
+    - text: Malong - Outernational Charanga
+      link: https://theasymetrics.com/blog/malong-outernational-charanga-selection/
 ---
 ![](/img/inner-main-pic.jpg)
 
