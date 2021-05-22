@@ -20,11 +20,9 @@ date: 2021-05-22T02:41:36.645Z
 ---
 ![](/img/inner-main-pic.jpg)
 
-
-
 ### **Elise & Hvar, a duo of serious record diggers, have been operating as** [Mokomizik](https://www.facebook.com/mokomizik) **between London and Copenhagen for years.**
 
-Their first cut as a label, just released this month, is a great piece of Latin & Caribbean Music history hailing all the way from Panama: [Alonso Wilson de Briano & his Winsor Style](https://alonsowilsondebriano.bandcamp.com/album/fantastic-variety-in-the-music-of-panama-the-winsor-style-and-calypso-impressions).
+Their first cut as a label, just released this month, is a great piece of Latin & Caribbean Music history hailing all the way from **Panama**: [Alonso Wilson de Briano & his Winsor Style](https://alonsowilsondebriano.bandcamp.com/album/fantastic-variety-in-the-music-of-panama-the-winsor-style-and-calypso-impressions).
 
 #### To celebrate the event, we spoke to Mokomizik about the record’s story, and got a cool mixtape in the meantime !
 
@@ -42,8 +40,6 @@ Listen to Mokomizik’s Mixtape: SOUNDCLOUD
 
 ![](/img/lp-cover-bandcamp.jpg)
 
-
-
 <br>
 
 #### **[Buy / Listen](https://alonsowilsondebriano.bandcamp.com/album/fantastic-variety-in-the-music-of-panama-the-winsor-style-and-calypso-impressions)**
@@ -56,11 +52,7 @@ Sure, the dancehall of [Kafu Banton](https://en.wikipedia.org/wiki/Kafu_Banton) 
 
 **Let’s just say that the LP does not disappoint !** Privately produced and distributed by Alonso himself in 1961, it is a wonder of references to the many influences in Panama of the time, ranging from Mambo to Calypso through pure Afro-Cuban Son, Bolero & Jazz, sung in both English & Spanish.
 
-
-
-**Just listen to Never Never for example, a clever Calypso/Latin fusion:**
-
-
+**Just listen to "*Never Never"* for example, a clever Calypso / Latin fusion:**
 
 <iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=2700079607/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/track=1301516354/transparent=true/" seamless><a href="https://alonsowilsondebriano.bandcamp.com/album/fantastic-variety-in-the-music-of-panama-the-winsor-style-and-calypso-impressions">Fantastic Variety in the Music of Panama - The Winsor Style and Calypso Impressions by Alonso Wilson De Briano</a></iframe>
 
@@ -68,7 +60,7 @@ Sure, the dancehall of [Kafu Banton](https://en.wikipedia.org/wiki/Kafu_Banton) 
 
 <br>
 
-**Or Club Winsor, a tribute to a 1950’s/60’s social club that gave Alonso’s music its name, “el Estilito Winsor”:**
+**Or "*Club Winsor"*, a tribute to a 1950’s/60’s social club that gave Alonso’s music its name, “el Estilito Winsor”:**
 
 <iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=2700079607/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/track=305202266/transparent=true/" seamless><a href="https://alonsowilsondebriano.bandcamp.com/album/fantastic-variety-in-the-music-of-panama-the-winsor-style-and-calypso-impressions">Fantastic Variety in the Music of Panama - The Winsor Style and Calypso Impressions by Alonso Wilson De Briano</a></iframe>
 
@@ -76,13 +68,9 @@ Sure, the dancehall of [Kafu Banton](https://en.wikipedia.org/wiki/Kafu_Banton) 
 
 <br>
 
-These are just a few of this “only killers / no fillers” record, which had spent decades in obscurity (the few [OG copies](https://www.discogs.com/Alonso-Wilson-De-Briano-Fantastic-Variety-In-The-Music-Of-Panama-The-Winsor-Style-And-Calypso-Impres/release/15032737) traded on the collectors’ market in recent years were going for stratospheric prices) and is for the first time available again on vinyl, but also on digital – making it accessible to a whole new generation!
-
-
+These are just a few of this “only killers / no fillers” record, which had spent decades in obscurity (the few [OG copies](https://www.discogs.com/Alonso-Wilson-De-Briano-Fantastic-Variety-In-The-Music-Of-Panama-The-Winsor-Style-And-Calypso-Impres/release/15032737) traded on the collectors’ market in recent years were going for stratospheric prices), and is for the first time available again on vinyl, but also on digital – making it accessible to a whole new generation!
 
 Very exciting stuff, so I wanted to hear straight from Elise and Hvar how it all came to shape:
-
-
 
 ### **Interview**
 
@@ -92,29 +80,17 @@ Very exciting stuff, so I wanted to hear straight from Elise and Hvar how it all
 
 ***Hi guys! Although this is Mokomizik's first release as a label, you have been active for quite some time - could you tell us a bit about yourselves and your background?***
 
-
-
 **\[Hvar]**: Both of us have been collecting music for some years. I grew up in Iran just after the revolution when it became very strict and really quite difficult to find good music. It sounds a bit cliché now, but we would have to hide 45’s and cassette tapes and secretly trade them at school with friends. This later led to me buying and selling records in order to make a living while traveling. The search for impossible-to-find music just never really stopped.
 
-Elise travels a lot with her work and always tries to find time to go digging when she’s away so together we’ve got a really nice collection going now. Really this project was about taking all that knowledge we’ve amassed over the years to the next level.
+**Elise** travels a lot with her work and always tries to find time to go digging when she’s away so together we’ve got a really nice collection going now. Really this project was about taking all that knowledge we’ve amassed over the years to the next level.
 
-
-
-Aside from the label, we have been putting on soundsystem parties in Copenhagen called *Love Jamboree*. It gives us a chance to share our records, which is super fun. We try to reflect our influences, which is mainly the UK scene. We lived in Manchester and London before moving to Denmark. Of course, with the pandemic we didn’t manage to play much last year, but we’re looking forward to getting these back up and running.
-
-
+Aside from the label, we have been putting on soundsystem parties in **Copenhagen** called ***Love Jamboree***. It gives us a chance to share our records, which is super fun. We try to reflect our influences, which is mainly the UK scene. We lived in Manchester and London before moving to Denmark. Of course, with the pandemic we didn’t manage to play much last year, but we’re looking forward to getting these back up and running.
 
 ***How did you come across the album originally, and why did you decide to pick this one as the first release?***
 
-
-
 **H**: We’d known about Alonso’s music for some time after finding a copy in New York, but it was in really bad shape so we had to wait to find another, as the master tape was lost. Eventually we managed to track down a copy in better condition so we were able to start moving on that one.
 
-
-
 We have a lot of records in our potential reissue pile and prior to this had been working on several releases. We originally wanted to release a Calypso Jazz record from Trinidad as our first release, but we haven’t been able to secure the rights yet. There was also a story where we were in touch with an artist, but just literally days before another label had contacted them and they’d already agreed with them to do a reissue so we were beaten to it.
-
-
 
 We really want to do everything officially so it’s very important we are in touch with the copyright holders, which can take time and can be difficult when you’re not based in the country. It was quite easy to get in touch with Alonso’s family because his son is a well-known Jazz musician, so really the reason this record ended up being our first is more to do with logistics.
 
@@ -124,9 +100,9 @@ We really want to do everything officially so it’s very important we are in to
 
 ***Can you tell us about the "Winsor style" that Alonso created? And about the Winsor Social Club of Panama?***
 
+**\[Elise]**: *As far as we have been able to find out, the Winsor style is a phrase that came to be associated with Alonso’s music back in the 50s. We understand he was part of a social club called Winsor back in Panama and used to give a lot of performances through the club. We think it’s because of these performances people began associating Alonso’s unique sound with the Winsor style. His brother, who lived in Panama, actually opened up a bar called Club Winsor in honour of Alonso.* 
 
-
-**\[Elise]**: *As far as we have been able to find out, the Winsor style is a phrase that came to be associated with Alonso’s music back in the 50s. We understand he was part of a social club called Winsor back in Panama and used to give a lot of performances through the club. We think it’s because of these performances people began associating Alonso’s unique sound with the Winsor style. His brother, who lived in Panama, actually opened up a bar called Club Winsor in honour of Alonso. The photo of the sign on the front cover of the record is the place. We understand the brother was disappointed that Alonso moved to the US and always thought Alonso would have had a more successful career musically if he’d stayed in Panama.*
+*The photo of the sign on the front cover of the record is the place. We understand the brother was disappointed that Alonso moved to the US and always thought Alonso would have had a more successful career musically if he’d stayed in Panama.*
 
 ***I gathered that Alonso's son Santi de Briano is a famous New-York based jazz bass-player, who actually performed sometimes at Panama City's notorious Jazz festival - did he help you with the release?***
 
@@ -142,11 +118,9 @@ We actually found it really difficult to find information about Alonso as most p
 
 And so a lot of the information in that interview informed the biographical information we were able to piece together on Alonso and the record. It was also great to be able to share it with his family who were not aware of it.
 
-
-
 ***Panamanian music from the 60s and 70s is really hot among die-hard record collectors - as diggers & djs yourselves, what's your take on this? I mean, the country, although magnificent and fascinating by many aspects, is relatively off the radar to the rest of the World - so what is it, in your opinion, that makes its music so sought-after?***
 
-***H**: There are several reasons we think. The first being there is so much unique music coming from this tiny country, especially from this period. It probably has a lot to do with Panama’s geography. Alonso himself said that it’s a country with a ‘foot in both sides’, meaning that because of its geographical position it’s got influences from both the Latin and English speaking worlds. There was also a lot of migration from the West-Indies during the construction of the canal - Alonso’s father also came from Jamaica to work as a carpenter - so this also had a big impact culturally. This melting pot of different cultures really created a fertile environment for creativity.*
+**\*H**: There are several reasons we think. The first being there is so much unique music coming from this tiny country, especially from this period. It probably has a lot to do with Panama’s geography. Alonso himself said that it’s a country with a ‘foot in both sides’, meaning that because of its geographical position it’s got influences from both the Latin and English speaking worlds. There was also a lot of migration from the West-Indies during the construction of the canal - Alonso’s father also came from Jamaica to work as a carpenter - so this also had a big impact culturally. This melting pot of different cultures really created a fertile environment for creativity.*
 
 The second is the 60s and 70s, at least for us, are the golden era of recordings, and so listening to records from this time is quite special. The records that were done well, particularly in the 60s, have a lot of charm and character, which is due mostly to the technical limitations at that time.
 
@@ -168,21 +142,11 @@ We chose to reissue it because we thought there are people like us who would lov
 
 **H&E**: We are working on a couple of projects, but taking it slowly. We’re also waiting for the pandemic to be over so we can have some proper parties again!
 
-
-
 ### If you’re in Copenhagen, you can catch Mokomizik at their *[Love Jamboree](https://www.mixcloud.com/sohesten/s%C3%B8hesten-010-love-jamboree-mokomizik/)* events, and for now, don’t miss their beautiful mixtape for the Asymetrics:
-
-
 
 SOUNDLOUD EMBEDD
 
-
-
-
-
 ### Find out more about Mokomizik on:
-
-
 
 ### Buy Alonso Wilson de Briano’s reissue:
 
