@@ -17,6 +17,12 @@ tags:
   - "#Mixtape"
   - "#Interview"
 date: 2021-05-22T02:41:36.645Z
+outsideLinks:
+  outsideLinksList:
+    - text: Alsonso Wislon LP
+      link: https://alonsowilsondebriano.bandcamp.com/album/fantastic-variety-in-the-music-of-panama-the-winsor-style-and-calypso-impressions
+    - text: Mokomizik Mixtape
+      link: https://soundcloud.com/the-asymetrics/the-asymetrics-present-mokomizik-dusty-latin-grooves
 ---
 ![](/img/inner-main-pic.jpg)
 
@@ -174,7 +180,7 @@ We chose to reissue it because we thought there are people like us who would lov
 
 <br>
 
-### Find out more about Mokomizik on: [Instagram](https://www.instagram.com/mokomizik/?hl=en) / [Facebook](https://www.facebook.com/mokomizik) / [Soundcloud](https://soundcloud.com/mokomizik)
+### Find out more about Mokomizik on: [Instagram](https://www.instagram.com/mokomizik/?hl=en) / [Facebook](https://www.facebook.com/mokomizik) / [Soundcloud](https://soundcloud.com/mokomizik) / [Youtube](https://www.youtube.com/c/DiscoRebel)
 
 ### Buy Alonso Wilson de Briano’s LP: [Bandcamp](https://alonsowilsondebriano.bandcamp.com/album/fantastic-variety-in-the-music-of-panama-the-winsor-style-and-calypso-impressions)
 
