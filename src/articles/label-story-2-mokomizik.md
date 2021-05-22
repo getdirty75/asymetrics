@@ -156,9 +156,9 @@ We chose to reissue it because we thought there are people like us who would lov
 
 SOUNDLOUD EMBEDD
 
-### Find out more about Mokomizik on:
+### Find out more about Mokomizik on: [Instagram](https://www.instagram.com/mokomizik/?hl=en) / [Facebook](https://www.facebook.com/mokomizik) / [Soundcloud](https://soundcloud.com/mokomizik)
 
-### Buy Alonso Wilson de Briano’s reissue:
+### Buy Alonso Wilson de Briano’s LP: [Bandcamp](https://alonsowilsondebriano.bandcamp.com/album/fantastic-variety-in-the-music-of-panama-the-winsor-style-and-calypso-impressions)
 
 <br>
 
