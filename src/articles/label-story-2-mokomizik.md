@@ -42,7 +42,7 @@ Listen to Mokomizik’s Mixtape: SOUNDCLOUD
 
 <br>
 
-#### **[Buy / Listen](https://alonsowilsondebriano.bandcamp.com/album/fantastic-variety-in-the-music-of-panama-the-winsor-style-and-calypso-impressions)**
+### **[Buy / Listen](https://alonsowilsondebriano.bandcamp.com/album/fantastic-variety-in-the-music-of-panama-the-winsor-style-and-calypso-impressions)**
 
 ### **Alonso Wilson de Briano: Fantastic variety in the Music of Panama - The Winsor Style & Calypso impressions**
 
@@ -51,6 +51,8 @@ Listen to Mokomizik’s Mixtape: SOUNDCLOUD
 Sure, the dancehall of [Kafu Banton](https://en.wikipedia.org/wiki/Kafu_Banton) (and many more like [El General](https://youtu.be/NNWRCWkRr84) or [Nando Boom](https://youtu.be/iFJGKY23TWs) before him) has spread Worldwide like wildfire, and [Panamanian Reguetón](https://remezcla.com/features/music/tu-pum-pum-2/) can be heard from the US to Japan via Spain, but what came before? The country is culturally extremely rich, and 50 years ago was the cradle of incredible musical movements mixing Caribbean and Latin influences with Jazz and later Funk. So when I heard about Alonso Wilson’s repress I just had to know more !
 
 **Let’s just say that the LP does not disappoint !** Privately produced and distributed by Alonso himself in 1961, it is a wonder of references to the many influences in Panama of the time, ranging from Mambo to Calypso through pure Afro-Cuban Son, Bolero & Jazz, sung in both English & Spanish.
+
+<br>
 
 **Just listen to "*Never Never"* for example, a clever Calypso / Latin fusion:**
 
@@ -132,6 +134,8 @@ And so a lot of the information in that interview informed the biographical info
 
 ***Panamanian music from the 60s and 70s is really hot among die-hard record collectors - as diggers & djs yourselves, what's your take on this? I mean, the country, although magnificent and fascinating by many aspects, is relatively off the radar to the rest of the World - so what is it, in your opinion, that makes its music so sought-after?***
 
+<br>
+
 ![](/img/concolon-45.jpg)
 
 <br>
@@ -146,7 +150,9 @@ The final reason is there have been a number of great compilation reissues of 60
 
 <br>
 
-***On the same topic, what's your take on the resurfacing of such a rare record among collectors (asides from rarity)?***
+***On the same topic, what's your take on the resurfacing of such a rare record among collectors ?***
+
+
 
 **H&E**: Being a rare record doesn’t necessarily mean good music so it’s not everything when it comes to reissuing a record. For us, although rarity does come into it, it’s about how a record sounds and ultimately whether we dig the music.
 
