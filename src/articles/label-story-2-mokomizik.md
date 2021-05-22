@@ -86,6 +86,10 @@ Very exciting stuff, so I wanted to hear straight from Elise and Hvar how it all
 
 Aside from the label, we have been putting on soundsystem parties in **Copenhagen** called ***Love Jamboree***. It gives us a chance to share our records, which is super fun. We try to reflect our influences, which is mainly the UK scene. We lived in Manchester and London before moving to Denmark. Of course, with the pandemic we didn’t manage to play much last year, but we’re looking forward to getting these back up and running.
 
+<iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/260496761&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/mokomizik" title="Mokomizik Records" target="_blank" style="color: #cccccc; text-decoration: none;">Mokomizik Records</a> · <a href="https://soundcloud.com/mokomizik/extrasizeislandsjazz" title="Jazz Jamboree - Extra-Size Islands Jazz" target="_blank" style="color: #cccccc; text-decoration: none;">Jazz Jamboree - Extra-Size Islands Jazz</a></div>
+
+<br>
+
 <br>
 
 ***How did you come across the album originally, and why did you decide to pick this one as the first release?***
@@ -124,7 +128,13 @@ We actually found it really difficult to find information about Alonso as most p
 
 And so a lot of the information in that interview informed the biographical information we were able to piece together on Alonso and the record. It was also great to be able to share it with his family who were not aware of it.
 
+<br>
+
 ***Panamanian music from the 60s and 70s is really hot among die-hard record collectors - as diggers & djs yourselves, what's your take on this? I mean, the country, although magnificent and fascinating by many aspects, is relatively off the radar to the rest of the World - so what is it, in your opinion, that makes its music so sought-after?***
+
+![](/img/concolon-45.jpg)
+
+<br>
 
 **H**: There are several reasons we think. The first being there is so much unique music coming from this tiny country, especially from this period. It probably has a lot to do with Panama’s geography. Alonso himself said that it’s a country with a ‘foot in both sides’, meaning that because of its geographical position it’s got influences from both the Latin and English speaking worlds. There was also a lot of migration from the West-Indies during the construction of the canal - **Alonso’s father also came from Jamaica to work as a carpenter** - so this also had a big impact culturally. This melting pot of different cultures really created a fertile environment for creativity.*
 
