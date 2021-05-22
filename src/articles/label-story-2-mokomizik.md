@@ -104,7 +104,7 @@ We really want to do everything officially so it’s very important we are in to
 
 *The photo of the sign on the front cover of the record is the place. We understand the brother was disappointed that Alonso moved to the US and always thought Alonso would have had a more successful career musically if he’d stayed in Panama.*
 
-***I gathered that Alonso's son Santi de Briano is a famous New-York based jazz bass-player, who actually performed sometimes at Panama City's notorious Jazz festival - did he help you with the release?***
+***I gathered that Alonso's son*** [Santi de Briano](https://jazztimes.com/features/profiles/overdue-ovation-santi-debriano/) ***is a famous New-York based jazz bass-player, who performs sometimes at Panama City's notorious [Jazz festival](https://www.instagram.com/panamajazzfestival/?hl=en) - did he help you with the release?***
 
 <br>
 
@@ -120,7 +120,7 @@ And so a lot of the information in that interview informed the biographical info
 
 ***Panamanian music from the 60s and 70s is really hot among die-hard record collectors - as diggers & djs yourselves, what's your take on this? I mean, the country, although magnificent and fascinating by many aspects, is relatively off the radar to the rest of the World - so what is it, in your opinion, that makes its music so sought-after?***
 
-**\*H**: There are several reasons we think. The first being there is so much unique music coming from this tiny country, especially from this period. It probably has a lot to do with Panama’s geography. Alonso himself said that it’s a country with a ‘foot in both sides’, meaning that because of its geographical position it’s got influences from both the Latin and English speaking worlds. There was also a lot of migration from the West-Indies during the construction of the canal - Alonso’s father also came from Jamaica to work as a carpenter - so this also had a big impact culturally. This melting pot of different cultures really created a fertile environment for creativity.*
+**H**: There are several reasons we think. The first being there is so much unique music coming from this tiny country, especially from this period. It probably has a lot to do with Panama’s geography. Alonso himself said that it’s a country with a ‘foot in both sides’, meaning that because of its geographical position it’s got influences from both the Latin and English speaking worlds. There was also a lot of migration from the West-Indies during the construction of the canal - Alonso’s father also came from Jamaica to work as a carpenter - so this also had a big impact culturally. This melting pot of different cultures really created a fertile environment for creativity.*
 
 The second is the 60s and 70s, at least for us, are the golden era of recordings, and so listening to records from this time is quite special. The records that were done well, particularly in the 60s, have a lot of charm and character, which is due mostly to the technical limitations at that time.
 
