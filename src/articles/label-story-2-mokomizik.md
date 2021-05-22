@@ -24,17 +24,17 @@ date: 2021-05-22T02:41:36.645Z
 
 Their first cut as a label, just released this month, is a great piece of Latin & Caribbean Music history hailing all the way from **Panama**: [Alonso Wilson de Briano & his Winsor Style](https://alonsowilsondebriano.bandcamp.com/album/fantastic-variety-in-the-music-of-panama-the-winsor-style-and-calypso-impressions).
 
-#### To celebrate the event, we spoke to Mokomizik about the record’s story, and got a cool mixtape in the meantime !
+To celebrate the event, we spoke to Mokomizik about the record’s story, and got a cool mixtape in the meantime !
+
+
+
+### Listen to Mokomizik’s Mixtape on [](https://soundcloud.com/the-asymetrics/the-asymetrics-present-mokomizik-dusty-latin-grooves)[Soundcloud](https://soundcloud.com/the-asymetrics/the-asymetrics-present-mokomizik-dusty-latin-grooves)
 
 <br>
 
-Listen to Mokomizik’s Mixtape: SOUNDCLOUD
-
 <br>
 
-<br>
-
-**Now let's check this wicked LP !**
+#### **Now let's check this wicked LP !**
 
 <iframe style="border: 0; width: 100%; height: 42px;" src="https://bandcamp.com/EmbeddedPlayer/album=2700079607/size=small/bgcol=ffffff/linkcol=0687f5/track=2336917159/transparent=true/" seamless><a href="https://alonsowilsondebriano.bandcamp.com/album/fantastic-variety-in-the-music-of-panama-the-winsor-style-and-calypso-impressions">Fantastic Variety in the Music of Panama - The Winsor Style and Calypso Impressions by Alonso Wilson De Briano</a></iframe>
 
@@ -170,7 +170,9 @@ We chose to reissue it because we thought there are people like us who would lov
 
 ### If you’re in Copenhagen, you can catch Mokomizik at their *[Love Jamboree](https://www.mixcloud.com/sohesten/s%C3%B8hesten-010-love-jamboree-mokomizik/)* events, and for now, don’t miss their beautiful mixtape for the Asymetrics:
 
-SOUNDLOUD EMBEDD
+<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1053293920&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/the-asymetrics" title="The Asymetrics" target="_blank" style="color: #cccccc; text-decoration: none;">The Asymetrics</a> · <a href="https://soundcloud.com/the-asymetrics/the-asymetrics-present-mokomizik-dusty-latin-grooves" title="The Asymetrics present: Mokomizik - Dusty Latin Grooves" target="_blank" style="color: #cccccc; text-decoration: none;">The Asymetrics present: Mokomizik - Dusty Latin Grooves</a></div>
+
+<br>
 
 ### Find out more about Mokomizik on: [Instagram](https://www.instagram.com/mokomizik/?hl=en) / [Facebook](https://www.facebook.com/mokomizik) / [Soundcloud](https://soundcloud.com/mokomizik)
 
