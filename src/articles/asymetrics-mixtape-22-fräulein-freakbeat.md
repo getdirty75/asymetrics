@@ -16,6 +16,14 @@ tags:
   - "#Vinyl"
   - "#asymetricstapes"
 date: 2021-06-02T13:30:05.896Z
+outsideLinks:
+  outsideLinksList:
+    - text: Fräulein Freakbeat Mixes
+      link: https://www.mixcloud.com/fraeuleinfreakbeat/
+    - text: Interview with the 45 Kings
+      link: https://thefortyfivekings.com/2021/05/stories-about-records-fraulein-freakbeat/
+    - text: Live sets
+      link: https://www.youtube.com/channel/UCJF1V1Emh1k2sQMNtTn8mhw
 ---
 ![](/img/theasymetrics_fraulein_freakbeat_2.jpg)
 
