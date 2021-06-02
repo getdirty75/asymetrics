@@ -29,8 +29,6 @@ Direct Links:
 
 ### Tracklist
 
-
-
 1. **Joe Byrd and the Field Hippies** - You Can't Ever Come Down (Columbia, 1969)
 2. **The Bubble Puppy** ‎– Hot Smoke & Sasafrass (International Artists, 1969)
 3. **Evolution** - Dr. Vazquez (Dimensíon, 1970)
@@ -81,4 +79,10 @@ Sarah loves to collect **obscure 45s** and is focused on the period from the **l
 
 <br>
 
-In the absence of club gigs for the past year, Sarah has developed an impressive online presence
+In the absence of club gigs for the past year, Sarah has developed an impressive online presence, including several live streams with the excellent [The Forty Five Kings](https://thefortyfivekings.com/) crew and their **[Forty Five Queens](https://thefortyfivekings.com/category/features/45-queens-features/)** series (don't miss [her interview](https://thefortyfivekings.com/2021/05/stories-about-records-fraulein-freakbeat/?fbclid=IwAR2ZriatUHBEUkK_eT11RASkmorMS3IeAN4s_sF4jV-dWxTRQkQ9xqsDZ70) with Mr Lob) - as well as regular sets on her [](https://www.youtube.com/channel/UCJF1V1Emh1k2sQMNtTn8mhw)[Twitch](https://www.twitch.tv/fraeuleinfreakbeat) and [Youtube](https://www.youtube.com/channel/UCJF1V1Emh1k2sQMNtTn8mhw) channels, which are always great and full of fun !
+
+<iframe width="100%" height="380" src="https://www.youtube-nocookie.com/embed/RzFJXJ_dCZQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<br>
+
+### Catch Fräulein Freakbeat on [FB](https://www.facebook.com/FraeuleinFreakbeat/) / [Twitch](https://www.twitch.tv/fraeuleinfreakbeat) / [Youtube](https://www.youtube.com/channel/UCJF1V1Emh1k2sQMNtTn8mhw) / [Mixcloud](https://www.mixcloud.com/fraeuleinfreakbeat/)
