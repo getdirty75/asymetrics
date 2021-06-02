@@ -25,11 +25,11 @@ outsideLinks:
     - text: Live sets
       link: https://www.youtube.com/channel/UCJF1V1Emh1k2sQMNtTn8mhw
 ---
-6
+![](/img/theasymetrics_fraulein_freakbeat_2.jpg)
 
 <br>
 
-Direct Links: [Soundcloud](https://soundcloud.com/the-asymetrics/asymetrics-mixtape-22-fraulein-freakbeat-psychedelic-freakout) / Youtube
+Direct Links: [Soundcloud](https://soundcloud.com/the-asymetrics/asymetrics-mixtape-22-fraulein-freakbeat-psychedelic-freakout) / [Youtube](https://www.youtube.com/watch?v=Gr_qNMqdOJ8)
 
 ### Exceptional edition of the Asymetrics Mixtapes, from German record collector & rising dj **[Fräulein Freakbeat](https://www.facebook.com/FraeuleinFreakbeat/)**, who put together a rare vinyl selection of some of her favorite tunes to bounce to !
 
