@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
 title: "Yanneck: Asymetrics Bass Club - June 2021 "
-teaser: Fresh Monthly electronic selecta by Berlin based Yanneck.
+teaser: Fresh electronic selecta by Berlin based Yanneck.
 featuredimage: /img/194418514_217564363515933_4803514719399682564_n.jpg
 author: Asymetrics
 categories: mixtapes
