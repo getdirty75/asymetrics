@@ -29,7 +29,9 @@ outsideLinks:
     - text: Reggae LP Sandwich
       link: https://soundcloud.com/the-asymetrics/lord-sandwich-lp-reggae-sandwich
 ---
-5
+![](/img/theasymetrics_medusa_lordsandwich_1.jpg)
+
+<br>
 
 Direct links: [Soundcloud](https://soundcloud.com/the-asymetrics/lord-sandwich-meets-medusa-ispayola-rythm) / [Youtube](https://www.youtube.com/watch?v=PMdOk2LRg7E)
 
@@ -41,7 +43,7 @@ Direct links: [Soundcloud](https://soundcloud.com/the-asymetrics/lord-sandwich-m
 
 <iframe width="100%" height="500" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1063092442&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/the-asymetrics" title="The Asymetrics" target="_blank" style="color: #cccccc; text-decoration: none;">The Asymetrics</a> · <a href="https://soundcloud.com/the-asymetrics/lord-sandwich-meets-medusa-ispayola-rythm" title="The Asymetrics Present:  Lord Sandwich meets Medusa - Ispayola Rythm" target="_blank" style="color: #cccccc; text-decoration: none;">The Asymetrics Present:  Lord Sandwich meets Medusa - Ispayola Rythm</a></div>
 
-### Tracklist 
+### Tracklist
 
 01 **Enoch Light** - Tabu
 
