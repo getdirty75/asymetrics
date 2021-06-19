@@ -1,8 +1,8 @@
 ---
 templateKey: blog-post
 title: Introducing Mirtogi
-teaser: A beautiful patchwork of selected pieces by up & coming Greek
-  illustrator Mirtogi
+teaser: A beautiful patchwork of selected pieces by Greek illustrator Mirtogi,
+  delivered with a mixtape !
 featuredimage: /img/theasymetrics_mirtogi_17.jpg
 author: Asymetrics
 categories: artworks
@@ -25,7 +25,7 @@ outsideLinks:
 
 <br>
 
-Direct Links to Mirtogi's Asymetrics mix: Soundcloud / Mixcloud
+Direct Links to Mirtogi's Asymetrics mix: [Soundcloud](https://soundcloud.com/mlikes/asymetrics) / [Mixcloud](https://www.mixcloud.com/mirtolio/asymetrics/)
 
 ### Myrto Giotakou aka [Mirtogi](https://mirtogi.com/), is an Athens-based illustrator and visual designer, passionate about the use of vibrant color combinations.
 
@@ -174,7 +174,7 @@ We asked Mirtogi to share a collection of her work, simply described in her own 
 
 <br>
 
-### Hope you enjoyed the ride ! You can find out more about Mirtogi on her [website](https://mirtogi.com/) / [Instagram](https://www.instagram.com/mirtogi/) / [Ello page](https://ello.co/mirtogi)
+### Hope you enjoyed the ride ! You can find out more about Mirtogi on her [website](https://mirtogi.com/) / [Instagram](https://www.instagram.com/mirtogi/) / [Ello page](https://ello.co/mirtogi) / [Vimeo](https://vimeo.com/mirtogi)
 
 ### ... and check out her mixtapes on [Soundcloud](https://soundcloud.com/mlikes) & [Mixcloud ](https://www.mixcloud.com/mirtolio/)
 
