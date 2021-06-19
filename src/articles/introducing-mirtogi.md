@@ -12,6 +12,14 @@ tags:
   - "#Design"
   - "#Greece"
 date: 2021-06-19T08:02:58.404Z
+outsideLinks:
+  outsideLinksList:
+    - text: Mirtogi.com
+      link: https://mirtogi.com/
+    - text: Mirtogi mixtape for the Asymetrics
+      link: https://soundcloud.com/mlikes/asymetrics
+    - text: Mirtogi Links
+      link: https://linktr.ee/mirtogi
 ---
 ![](/img/theasymetrics_mirtogi_17.jpg)
 
@@ -19,7 +27,7 @@ date: 2021-06-19T08:02:58.404Z
 
 Direct Links to Mirtogi's Asymetrics mix: Soundcloud / Mixcloud
 
-### Myrto Giotakou aka [Mirtogi](https://mirtogi.com/), is an Athens-based illustrator and visual designer, passionate about the use of vibrant color combinations. 
+### Myrto Giotakou aka [Mirtogi](https://mirtogi.com/), is an Athens-based illustrator and visual designer, passionate about the use of vibrant color combinations.
 
 She draws inspiration from different stimuli, like comics, traditional and digital paintings, or musical sounds, and tends to experiment and produce pieces that indicate her state of mind. 
 
@@ -65,13 +73,11 @@ We asked Mirtogi to share a collection of her work, simply described in her own 
 
 *<br>*
 
-
-
 #### *Kitty*
 
 ![](/img/theasymetrics_mirtogi_5.jpg)
 
-*Freestyle doodle. It was around the time of experimenting with Photoshop, trying to get steady and thin line-art , which was basically the mission behind this and other drawings.*
+*Freestyle doodle experimenting with Photoshop, trying to get steady and thin line-art, which was basically the mission behind this and other drawings.*
 
 <br>
 
@@ -79,16 +85,14 @@ We asked Mirtogi to share a collection of her work, simply described in her own 
 
 ![](/img/theasymetrics_mirtogi_6.jpg)
 
-*This is one of the doodles that I wanted to trash afterwards, dissatisfied with the result, but, in retrospect, I find it kinda interesting. This happens a lot with doodling: You might hate the result, while some months later, looking back, you think 'this is kinda cool', especially because it's not exactly 'my style' but a result of experimentation of the moment.*
-
-\
+*This is one of the doodles that I wanted to trash afterwards, dissatisfied with the result, but, in retrospect, I find it kinda interesting. This happens a lot with doodling: You might hate the result, while some months later, looking back, you think 'this is kinda cool', especially because it's not exactly 'my style' but a result of experimentation of the moment.*\
 <br>
 
 #### *Boombox*
 
 ![](/img/theasymetrics_mirtogi_7.jpg)
 
-*Cover art for the single ["La Reina Del Funk"](https://www.youtube.com/watch?v=r-1Dkmhronc). This version is without the lettering. As a bit of inside info, it was probably the first time I created something new, combining pre-existing pictures as base (references). I usually draw from imagination, but I think there is a middle ground between freestyle and planning, which is best.*
+*Cover art for the single ["La Reina Del Funk"](https://www.youtube.com/watch?v=r-1Dkmhronc). This version is without the lettering.  It was probably the first time I created something new by combining pre-existing pictures as base (references). I usually draw from imagination, but I think there is a middle ground between freestyle and planning, which is best.*
 
 <br>
 
@@ -104,7 +108,7 @@ We asked Mirtogi to share a collection of her work, simply described in her own 
 
 ![](/img/theasymetrics_mirtogi_9.jpg)
 
-*As far as I remember, it was an experimentation with new for me drawing techniques in Photoshop.*
+*Experimentation with drawing techniques in Photoshop.*
 
 <br>
 
@@ -150,9 +154,28 @@ We asked Mirtogi to share a collection of her work, simply described in her own 
 
 ![](/img/theasymetrics_mirtogi_15.jpg)
 
-\
-From a series of minimal comical illustrations inspired by words and poems (made autumn '20), I aim to turn into a zine one day.\
-16. "Abstraction"\
-Abstract freehand minimal black and white digital drawing. The inspiration for this was the background music I was listening to on the occasion.\
-17. "Faces"\
-Minimal vector art, with the scope of animating it, to learn to use the animation software.
+*From a series of minimal comical illustrations inspired by words and poems (made autumn '20), I aim to turn into a zine one day.*
+
+<br>
+
+#### *Abstraction*
+
+![](/img/theasymetrics_mirtogi_16.jpg)
+
+*Abstract freehand minimal black and white digital drawing. The inspiration for this was the background music I was listening to on the occasion.*
+
+<br>
+
+#### *Faces*
+
+![](/img/theasymetrics_mirtogi_17.jpg)
+
+*Minimal vector art, with the scope of animating it, to learn to use the animation software.*
+
+<br>
+
+### Hope you enjoyed the ride ! You can find out more about Mirtogi on her [website](https://mirtogi.com/) / [Instagram](https://www.instagram.com/mirtogi/) / [Ello page](https://ello.co/mirtogi)
+
+### ... and check out her mixtapes on [Soundcloud](https://soundcloud.com/mlikes) & [Mixcloud ](https://www.mixcloud.com/mirtolio/)
+
+### Stay fresh !
