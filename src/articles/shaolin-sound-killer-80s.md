@@ -86,3 +86,5 @@ A word from Daniel :
 **Half Pint** - Officer
 
 ### Find out More about Shaolin Sound in our [previous intro article](https://theasymetrics.com/blog/shaolin-sound-special-discs-mixtape/), and follow on [Instagram](https://www.instagram.com/shaolin_sound/?hl=en) / [Youtube](https://www.youtube.com/channel/UCb_n9IVwUzFHxQ7RlnJH6kg) / [Soundcloud](https://soundcloud.com/shaolin_sound)
+
+### Stay Tuned !
