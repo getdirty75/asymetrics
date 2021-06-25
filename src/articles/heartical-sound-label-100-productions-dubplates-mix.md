@@ -15,6 +15,18 @@ tags:
   - "#dubplates"
   - "#mixtape"
 date: 2021-06-25T09:00:53.332Z
+outsideLinks:
+  outsideLinksList:
+    - text: Heartical Bandcamp
+      link: https://hearticalsound.bandcamp.com/
+    - text: Heartical channel
+      link: "www.youtube.com/mrheartical "
+    - text: Shaolin Sound Mixtapes
+      link: https://soundcloud.com/the-asymetrics/sets/shaolin-sound-mixtapes
+    - text: DJ Suspect Mixtape
+      link: https://theasymetrics.com/blog/asymetrics-mixtape-23-dj-suspect/
+    - text: Asymetrics' Rub a Dub Sandwich
+      link: https://theasymetrics.com/blog/lord-sandwich-sandwich-001/
 ---
 ![](/img/theasymetrics_sergio_heartical.jpg)
 
