@@ -3,7 +3,7 @@ templateKey: blog-post
 title: "Heartical Sound & Label : 100% productions & dubplates mix"
 teaser: "Exclusive mix for The Asymetrics : 100% Heartical Sound & Label
   productions & dubplates mixtape, with nuff exclusive & unreleased stuff ! "
-featuredimage: /img/logo-heartical_22years_black.jpg
+featuredimage: /img/theasymetrics_sergio_heartical.jpg
 author: Asymetrics
 categories: mixtapes
 tags:
@@ -28,7 +28,7 @@ outsideLinks:
     - text: Asymetrics' Rub a Dub Sandwich
       link: https://theasymetrics.com/blog/lord-sandwich-sandwich-001/
 ---
-![](/img/theasymetrics_sergio_heartical.jpg)
+![](/img/logo-heartical_22years_black.jpg)
 
 <br>
 
