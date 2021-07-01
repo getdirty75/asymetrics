@@ -114,9 +114,9 @@ I’ve always composed music since arriving in London, lots of different styles 
 
 At the time I was doing music with **Delroy Reid** who introduced me to **Wallace Adalphus** (Tufatuff juice). Delroy is a London busker who can rock a night bus for 3 stops slamming his guitar and putting a smile on most with his soulful heart breaking voice. Wallace is the hackney Cassava juice man from Tufatuff who always has a message. The first record featured those 2 friends.
 
-I like frienship stories behind bands andmusic making...
+I like frienship stories behind bands and music making...
 
-Our first special editions came from Anonym Zelig who handprinted lots of posters for the label as a great gift to kick things off and feel a bit more special , there were 4 different images with more or less 40 copies of each , it also kind of shaped the music behind each poster release.
+Our first special editions came from **Anonym Zelig** who handprinted lots of posters for the label as a great gift to kick things off and feel a bit more special , there were 4 different images with more or less 40 copies of each , it also kind of shaped the music behind each poster release we did.
 
 <br>
 
@@ -138,9 +138,13 @@ I try to release tracks that I think I would buy myself. It’s always a gamble 
 
 Friend and collaborator[ **Alex Dayo**](https://www.instagram.com/alexdayo_drummingschool/?hl=en) once shared an expression with me: *“it’s not looking at 3 stones that you're going to find a diamond “* so I’m trying to do as many stones as possible and I choose the best ones, I find lots of diamond-people in the process !
 
-***What's the story behind "Les Robots de Mono"? Can you tell us a it about the musicians behind the collective ?***
+***What's the story behind "Les Robots de Mono"? Can you tell us a it about the musicians behind the "People inside my Computer" collective ?***
 
 Les Robots de Mono comes from some robot sculptures my grandmother Mono did when she was young with old broken tv parts from the dumpster, she only did a few and never did sculptures again, they were in aHigh shelf at my grandparents. I always loved those robots.
+
+![](/img/theasymetrics_robots_de_mono.jpg)
+
+<br>
 
 Musicians on this record present an eclectic selection of friends:
 
@@ -148,7 +152,7 @@ Musicians on this record present an eclectic selection of friends:
 
 <br>
 
-On **“Oceans may be still”** is young Lisa Samuel, who lives 2 houses down my street and I whom met her through her neighbour Auntie Leslie who told me about her beautiful voice coming through her walls. Lisa was around the studio with her mum only one hour and improvised In the most natural and easy first take, she has a great talent.
+On **“Oceans may be still”** is young **Lisa Samuel**, who lives 2 houses down my street and I whom met her through her neighbour **Auntie Leslie** who told me about her beautiful voice coming through her walls. Lisa was around the studio with her mum only one hour and improvised In the most natural and easy first take, she has a great talent.
 
 **Alex Dayo**, with whom we recorded the percussion loop is the main person behind our **[Zantogola project](https://wahever.bandcamp.com/album/g-ndo-fara)**, I’m very thankful to him for the great human adventure that we livedg recording and mixing Zantogola, and all the great people I met in the process.
 
@@ -194,48 +198,50 @@ The **Afridada** project is a non profit organisation promoting Lobi culture in 
 
 <br>
 
+<br>
+
 I received so much inspiration from this part of the world that it’s a way to give back a bit and help a good cause.
 
-I don’t like the way African art has been portrayed like primitive in the past by Europeans, it is very pretentious position that suggest that it Is more simple , less complex and that European music is an evolution or a progress from it, this music has been underestimated in the past and Im glad to participate in releasing traditional lobi music that sounds so fresh and inspiring, I’ve learned a lot aligning my drum machines to the Lobi rhythms and still don’t fully understand some of the grooves.
+I don’t like the way African art has been portrayed as primitive in the past by Europeans, it is a very pretentious position that suggest that it Is more simple, less complex and that European music is an evolution or a progress from it, this music has been underestimated in the past and I'm glad to participate in releasing traditional Lobi music that sounds so fresh and inspiring, I’ve learned a lot aligning my drum machines to the Lobi rhythms and still don’t fully understand some of the grooves.
 
-For the Joy of Sound release, I was commissioned to help producing, editing and mixing their 20 th anniversary conceptual album,
+For the **Joy of Sound release**, I was commissioned to help producing, editing and mixing their 20 th anniversary conceptual album,
 
-It is a real mind opening experience to meet the Joy Of sound and William Longgden who has been their driving force for 20 years, when you see the people involved it gives you hope about humanity,
+It is a real mind opening experience to meet the Joy Of sound and **William Longgden** who has been their driving force for 20 years, when you see the people involved it gives you hope about humanity.
 
 Everybody is accepted and given the opportunity to play music together , people from all abilities , everybody can participate and is given responsibility and a role for the sound.
 
 <iframe src="https://player.vimeo.com/video/201551734" width="100%" height="380" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
 <p><a href="https://vimeo.com/201551734">Joy of Sound - Inclusive Instruments</a> from <a href="https://vimeo.com/user10838662">Joy of Sound</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
 
-It feels like going to the origins, treat music has a therapy with no separation between performer and public, not a show , just enjoying making sounds together. I love the sound of their sessions because it’s fully charged with emotions and has a particular touch due to the choice of their keys, the bespoke instruments and their jamming system. **William Longden** who created this charity is a forward thinker who helps society be more human. Please check online what they do or check the album press release to learn more about it
+It feels like going to the origins, treat music has a therapy with no separation between performer and public, not a show , just enjoying making sounds together. I love the sound of their sessions because it’s fully charged with emotions and has a particular touch due to the choice of their keys, the bespoke instruments and their jamming system. 
 
-The album is made of only one track that lasts for one hour, it took 2 years in the making and involves a lot of people has it was opened to everybody to have a part in the music.
+
 
 <br>
 
 ***What is your studio routine ?***
 
-I have a little room in my place where I have accumulated alll my instruments and sound toys, I love analoggique equipment and don’t like too much LCD screens and complicated programs, I like to work fast in an intuitive way, Watching Engineers like Lee Perry in his studio has inspired me a lot.
+I have a little room in my place where I have accumulated all my instruments and sound toys, I love analog equipment and don’t like LCD screens and complicated programs, I like to work fast in an intuitive way. Watching Engineers like **Lee Perry** in his studio has inspired me a lot.
 
-I love having a nice vibe with friends in the studio
+![](/img/theasymetrics_matteo_boyero_studio.jpeg)
 
-I have all my synths midi , lots of them have their own sequencer and I keep away from the computer as much as I can, I always have 3 or 4 tracks started with the Synths and drum machines and maybe percussions or steel drums or trumpet or guitar that I record my self and that I can propose to passing musicians . I love drum machines and start to have a satisfying collection, 
+<br>
 
-I love as well my old synths like the SH09, it all goes through my mixing desk and jams with spring reverb, delays and filter. Ableton does the job for me as I mainly just write midi parts and midi is cool on this program.
+I have all my synths in midi , lots of them have their own sequencers and I keep away from the computer as much as I can, I always have 3 or 4 tracks started with the synths and drum machines and maybe percussions, or steel drums, or trumpet or guitar that I record my self and that I can propose to passing musicians . I love drum machines and I'm starting to have a satisfying collection! 
 
-The Joy Of Sound though was a complete diffrent approach as not adding artefacts was part of the concept to keep the integrity of the original recordings and represent honestly all the people who were there, and their aesthetic is so particular, Pro tools seemed more adapted to edit the 100 and more tracks that overlaps through this 1 hour track.
+I also love my old synths like the **SH09**, it all goes through my mixing desk and jams with spring reverb, delays and filter. Ableton does the job for me as I mainly just write midi parts and midi is cool on this program.
 
-I forgot to say I got a steel drum orchestra some years ago so been experimenting with it on some tracks for the label.
-
-I like to try playing anything and trying new things, I’ve set up things differently lately to be able to prepare a proper live with machines and live musicians.
+I like to try playing anything and trying new things, I’ve set up things differently lately to be able to prepare a proper live with machines and musicians.
 
 \
-**Who does the dope artworks of your releases ?**
+**Finally, tell us about the dope Wahever artworks  !**
 
-My Cousin Basile Carel has designed most of the releases and the Wahever logo,
+![](/img/theasymetrics_basile_carel_artwork.jpg)
 
-when I need a design for a record, when he has time he takes his train from Paris to London and we spend 1 or 2 weeks working on the design while listening and looking at records.
+<br>
 
-Basile creates as well lamps that we are thinkingeventually to sell as well through the Wahever bandcamp as they look super cool and original.
+My Cousin **Basile Carel** has designed most of the releases and the Wahever logo, when I need a design for a record, if he has time he takes his train from Paris to London and we spend 1 or 2 weeks working on the design while listening to records.
 
-Anonym Zelig does the posters like said before - top friend !
+Basile also creates lamps that we are  considering selling as well through the Wahever bandcamp as they look super cool and original.
+
+**Anonym Zelig** does all the posters like said before - top friend !
