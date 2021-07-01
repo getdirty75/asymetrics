@@ -60,7 +60,7 @@ Also part of Wahever's ongoing avalanche of releases is the [Lobi Remix series](
 
 **Hou!** is part of a remix session by Boyero of a splendid EP titled ["Sounds from the Lobi Homeland"](https://wahever.bandcamp.com/album/sounds-from-the-lobi-homeland) which came out last month. The EP introduced live recordings from 6 different bands hailing from the Lobi country, an area spanning from South Burkina Faso to Northern Ghana and Ivory Coast.
 
-These were captured in Burkina Faso by Brussels-based sound engineer **[Peter Soldan](https://afridadarecordings.bandcamp.com/music)** on one of his regular motorbike trips through North and West Africa, during the annual Loropeni Djoro Festival ([https://afridadarecordings.​bandcamp.com/music](https://afridadarecordings.bandcamp.com/music)). Both the original EP and remix series are incredibly refreshing - you've been tipped !
+These were captured in Burkina Faso by Brussels-based sound engineer **[Peter Soldan](https://afridadarecordings.bandcamp.com/music)** on one of his regular motorbike trips through North and West Africa, during the annual **[Loropeni Djoro Festival]([https://afridadarecordings.​bandcamp.com/music](https://afridadarecordings.bandcamp.com/music))**. Both the original EP and remix series are incredibly refreshing - you've been tipped !
 
 <br>
 
@@ -72,7 +72,7 @@ These were captured in Burkina Faso by Brussels-based sound engineer **[Peter So
 
 <br>
 
-Finally, coming out in mid-July is **Wahever's most off-the-hook release to date**: a 1h track, 2 years in the making, co-produced with **[Joy of Sound](https://joyofsound.org/),** a charity dedicated to participatory music-making approaches that facilitate the active engagement of disabled and excluded people as co creators of original inclusive participatory community music and arts.
+Finally, coming out in mid-July is **Wahever's most off-the-hook release to date**: a 1h track, 2 years in the making, co-produced with **[Joy of Sound](https://joyofsound.org/),** a charity dedicated to participatory music-making approaches, that facilitate the active engagement of disabled and excluded people as co creators of original inclusive participatory community music and arts.
 
 ![](/img/joy-of-sound.png)
 
@@ -93,7 +93,10 @@ Stay tuned for that one !
 
 I was born in Paris 1981 and moved to London in 1999, working in restaurants when I arrived and going to lots of parties in the weekend !
 
-I then discovered electronic music more in depth and started to buy my first synths, studied sound engineering and started working as an assistant in a couple of studios. I realised I prefered producing and writing my own music rather than mixing other so I quickly quit ! Just after that I found a cooljob at Juno records where I could listen to records while reading all day, I worked there tillthey replaced me by a machine. I had accumulated lots of records by then, which was inspiring.\
+I then discovered electronic music more in depth and started to buy my first synths, studied sound engineering and started working as an assistant in a couple of studios. I realised I prefered producing and writing my own music rather than mixing others so I quickly quit ! 
+
+Just after that I found a cool job at Juno records where I could listen to records while reading all day, I worked there till they replaced me by a machine. I had accumulated lots of records by then, which was inspiring.
+
 I finally started the label in 2015 and have been living with small temporary jobs since then to be able to have time for music.
 
 \
@@ -130,13 +133,19 @@ Once I think there are 2 sides that I would like to have, I forward to friends a
 
 <br>
 
-Tracks are usually representative of the people around the Wahever playground at the time and I try to present an eclectic selection for each release, depending on the project.
-
-I have been lucky to come across very interesting projects. London is very good place in that aspect, the people here are so diverse and there are so many actors on the music scene.
+Tracks are usually representative of the people around the Wahever playground at the time and I try to present an eclectic selection for each release, depending on the project. London is very good place in that aspect, the people here are so diverse and there are so many actors on the music scene.
 
 I try to release tracks that I think I would buy myself. It’s always a gamble and pressing records is so expensive so I sometimes limit to digital. I wish every release would be on vinyl but I can’t afford it !
 
 Friend and collaborator[ **Alex Dayo**](https://www.instagram.com/alexdayo_drummingschool/?hl=en) once shared an expression with me: *“it’s not looking at 3 stones that you're going to find a diamond “* so I’m trying to do as many stones as possible and I choose the best ones, I find lots of diamond-people in the process !
+
+<iframe width="100%" height="380" src="https://www.youtube-nocookie.com/embed/IPNCyBFupek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<br>
+
+<br>
+
+<br>
 
 ***What's the story behind "Les Robots de Mono"? Can you tell us a it about the musicians behind the "People inside my Computer" collective ?***
 
@@ -152,9 +161,11 @@ Musicians on this record present an eclectic selection of friends:
 
 <br>
 
+<br>
+
 On **“Oceans may be still”** is young **Lisa Samuel**, who lives 2 houses down my street and I whom met her through her neighbour **Auntie Leslie** who told me about her beautiful voice coming through her walls. Lisa was around the studio with her mum only one hour and improvised In the most natural and easy first take, she has a great talent.
 
-**Alex Dayo**, with whom we recorded the percussion loop is the main person behind our **[Zantogola project](https://wahever.bandcamp.com/album/g-ndo-fara)**, I’m very thankful to him for the great human adventure that we livedg recording and mixing Zantogola, and all the great people I met in the process.
+**Alex Dayo**, with whom we recorded the percussion loop is the main person behind our **[Zantogola project](https://wahever.bandcamp.com/album/g-ndo-fara)**, I’m very thankful to him for the great human adventure that we lived recording and mixing Zantogola, and all the great people I met in the process.
 
 **"Harsimar"** was made with the members of **[Makindu](https://wahever.bandcamp.com/album/makindu)**, another Wahever ad-hoc band, that I met through a Joy of Sound session.
 
@@ -164,11 +175,15 @@ I have made lots of tracks with **Tim Wall** who is the main composer for Makind
 
 <br>
 
-The third track **"Outside In"** is a collage of sounds taken from a joy of Sound video, to which I h added a sax by Nick Onley and a clarinet by Tim Wall and extra bits I’ve recorded myself. Joy Of sound is the most luminous charity I came accross in London, I have met so many of the Wahever musicians at their weekly jams.
+<br>
 
-**“Too Hot to Work”** was produced with techno dj and long time friend Darc Marc (Stay up Forever), we made a track together in the first Wahever EP, and I wanted to have a track with him for the he Robots wich will be the last release with poster editions. David Kemp who plays the sax is also a member of Zantogola.
+The third track **"Outside In"** is a collage of sounds taken from a joy of Sound video, to which I added a sax by **Nick Onley** and a clarinet by **Tim Wall** and extra bits I’ve recorded myself. Joy Of sound is the most luminous charity I came accross in London, I have met so many of the Wahever musicians at their weekly jams.
+
+**“Too Hot to Work”** was produced with techno dj and long time friend **Darc Marc** (Stay up Forever), we made a track together in the first Wahever EP, and I wanted to have a track with him for the  Robots wich will be the last release with poster editions. **David Kemp** who plays the sax is also a member of Zantogola.
 
 <iframe style="border: 0; width: 100%; height: 42px;" src="https://bandcamp.com/EmbeddedPlayer/album=3382676391/size=small/bgcol=ffffff/linkcol=0687f5/track=3373507874/transparent=true/" seamless><a href="https://wahever.bandcamp.com/album/les-robots-de-mono">Les Robots de Mono by Matteo Boyero and the People Inside my Computer</a></iframe>
+
+<br>
 
 <br>
 
@@ -180,17 +195,19 @@ The last track **"Hyui"** I made on my own during the first confinement.
 
 A***nd how about the Lobi Series, how did you get acquainted with Afridada ?***
 
-Peter Soldan, co creator of Afridada, mixed the Zantogola album. He played me some Lobi music when we were at his studio in Brussels, and we decided it would be cool to re release them on Wahevver as they only had been self released on cd and sd cards, as part of a bigger selection which didn’t get enough attention. 
+**Peter Soldan**, co creator of Afridada, mixed the Zantogola album. He played me some Lobi music when we were at his studio in Brussels, and we decided it would be cool to re release them on Wahevver as they only had been self released on cd and sd cards, as part of a bigger selection which didn’t get enough attention. 
 
 ![](/img/afridada.jpg)
 
 <br>
 
-We then met the other main man behind Afridada, Clément Palé who is from Loropeni where the music has been recorded, Clément goes back with Peter every year to do those recordings at the Loropeni Djoro Festival, valorising the rich and complex lobi music. Clément is also a wicked bass player who used to play in Alex Dayo former band from Burkina Faso “Wountey”, he plays on “Nasa” the first track from the original EP.
+We then met the other main man behind Afridada, **Clément Palé** who is from Loropeni where the music has been recorded, Clément goes back with Peter every year to do those recordings at the Loropeni Djoro Festival, valorising the rich and complex lobi music. Clément is also a wicked bass player who used to play in Alex Dayo former band from Burkina Faso “Wountey”, he plays on “Nasa” the first track from the original EP.
 
-Peter Soldan is a brilliant sound engineer with a passion for west African music and motorbikes , he rides every year with his mobile studio from Brussels to Burkina through Senegal , Mali and other countries, sleeping alone in the desert and recording sounds throughout histrips.
+Peter Soldan is a brilliant sound engineer with a passion for west African music and motorbikes , he rides every year with his mobile studio from Brussels to Burkina through Senegal , Mali and other countries, sleeping alone in the desert and recording sounds throughout his trips.
 
-***I saw that many releases you do are philanthropic endeavors, can you tell us more about it ?***
+<br>
+
+***Many Wahever releases are philanthropic endeavors, can you tell us more about it ?***
 
 The **Afridada** project is a non profit organisation promoting Lobi culture in association with the **ACPL** (association culturelle du pays Lobi), it is a noble cause, and an honour for us to be helping.
 
