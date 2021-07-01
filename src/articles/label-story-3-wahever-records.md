@@ -40,7 +40,7 @@ But before we go further and let Matteo describe the dynamic behind the label, l
 
 #### Matteo Boyero and the People Inside my Computer - Harsimar feat Shreya Rai, Tim Wall and Randeep Bilku
 
-<iframe width="100%" height="380" src="https://www.youtube-nocookie.com/embed/21IqlVz2BRI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="100%" height="380" src="https://www.youtube-nocookie.com/embed/21IqlVz2BRI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen referrerpolicy="origin"></iframe>
 
 <br>
 
@@ -64,7 +64,7 @@ Also part of Wahever's ongoing avalanche of releases is the [Lobi Remix series](
 
 #### Kambiré Biliré: Hou! (Matteo Boyero Remix)
 
-<iframe width="100%" height="380" src="https://www.youtube-nocookie.com/embed/GlmwfHmSBTI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="100%" height="380" src="https://www.youtube-nocookie.com/embed/GlmwfHmSBTI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen referrerpolicy="origin"></iframe>
 
 <br>
 
@@ -151,7 +151,7 @@ I try to release tracks that I think I would buy myself. It’s always a gamble 
 
 Friend and collaborator[ **Alex Dayo**](https://www.instagram.com/alexdayo_drummingschool/?hl=en) once shared an expression with me: *“it’s not looking at 3 stones that you're going to find a diamond “* so I’m trying to do as many stones as possible and I choose the best ones, I find lots of diamond-people in the process !
 
-<iframe width="100%" height="380" src="https://www.youtube-nocookie.com/embed/IPNCyBFupek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="100%" height="380" src="https://www.youtube-nocookie.com/embed/IPNCyBFupek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen referrerpolicy="origin"></iframe>
 
 <br>
 
@@ -223,7 +223,7 @@ Peter Soldan is a brilliant sound engineer with a passion for west African music
 
 The **Afridada** project is a non profit organisation promoting Lobi culture in association with the **ACPL** (association culturelle du pays Lobi), it is a noble cause, and an honour for us to be helping.
 
-<iframe width="100%" height="380" src="https://www.youtube-nocookie.com/embed/L-zwQIm9lcI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="100%" height="380" src="https://www.youtube-nocookie.com/embed/L-zwQIm9lcI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen referrerpolicy="origin"></iframe>
 
 <br>
 
