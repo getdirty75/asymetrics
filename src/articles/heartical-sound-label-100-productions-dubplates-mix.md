@@ -20,7 +20,7 @@ outsideLinks:
     - text: Heartical Bandcamp
       link: https://hearticalsound.bandcamp.com/
     - text: Heartical channel
-      link: "www.youtube.com/mrheartical "
+      link: https://www.youtube.com/user/MrHeartical
     - text: Shaolin Sound Mixtapes
       link: https://soundcloud.com/the-asymetrics/sets/shaolin-sound-mixtapes
     - text: DJ Suspect Mixtape
@@ -34,7 +34,7 @@ outsideLinks:
 
 Direct Links: [Soundcloud](https://soundcloud.com/the-asymetrics/heartical-sound-mix) / [Youtube](https://www.youtube.com/watch?v=mbpOLGXGd7Q)
 
-### The Asymetrics are stoked to present this fire exclusive mix by mighty French soundsystem [Heartical](www.facebook.com/soundheartical), full up of dubplates, exclusives & forthcoming releases...
+### The Asymetrics are stoked to present this fire exclusive mix by mighty French soundsystem [Heartical](https://www.facebook.com/soundheartical), full up of dubplates, exclusives & forthcoming releases...
 
 ### Push the volume button way up and skank !
 
@@ -99,4 +99,4 @@ Heartical also took part in several national and international **soundclashes**,
 
 ### Check out Heartical's catalogue on [Bandcamp](https://hearticalsound.bandcamp.com/) or [Discogs](https://www.discogs.com/label/62993-Heartical)
 
-### ...and follow on [Facebook](www.facebook.com/soundheartical) / [Youtube](<www.youtube.com/mrheartical >) / [Instagram](https://www.instagram.com/heartical_soundandlabel/)
+### ...and follow on [](www.facebook.com/soundheartical)[Facebook](https://www.facebook.com/soundheartical) / [](<www.youtube.com/mrheartical >)[Youtube](https://www.youtube.com/user/MrHeartical) / [Instagram](https://www.instagram.com/heartical_soundandlabel/)
