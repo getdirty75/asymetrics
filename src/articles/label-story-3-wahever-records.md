@@ -17,6 +17,18 @@ tags:
   - "#label"
   - "#interview"
 date: 2021-07-01T08:36:47.786Z
+outsideLinks:
+  outsideLinksList:
+    - text: Wahever Records
+      link: https://wahever.bandcamp.com/music
+    - text: Matteo Boyero
+      link: https://www.facebook.com/wahever/
+    - text: '"Les Robots de Mono" limited EP'
+      link: https://wahever.bandcamp.com/album/les-robots-de-mono
+    - text: "Label Story #2: Mokomizik"
+      link: https://theasymetrics.com/blog/label-story-2-mokomizik/
+    - text: "Label Story #1: DNA records"
+      link: https://theasymetrics.com/blog/label-story-1-dna-records/
 ---
 ![](/img/theasymetrics_wahever_logo.jpg)
 
