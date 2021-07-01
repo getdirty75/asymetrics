@@ -262,3 +262,9 @@ My Cousin **Basile Carel** has designed most of the releases and the Wahever log
 Basile also creates lamps that we are  considering selling as well through the Wahever bandcamp as they look super cool and original.
 
 **Anonym Zelig** does all the posters like said before - top friend !
+
+<br>
+
+### Huge thanks to Matteo Boyero for taking some time with the Asymetrics !
+
+### Check out Wahever records catalog on [Bandcamp](https://wahever.bandcamp.com/music), and follow on [FB](https://www.facebook.com/WAHEVER-RECORDS-1558747787752328/) / [Instagram](https://www.instagram.com/wahever_records/) / [Youtube](https://www.youtube.com/channel/UCsRYS4PCxAtqx4tMg_uX3oA)
