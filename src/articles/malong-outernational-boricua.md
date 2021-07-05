@@ -17,8 +17,20 @@ tags:
   - "#Vinyl"
   - "#Mixtape"
 date: 2021-07-05T13:26:04.974Z
+outsideLinks:
+  outsideLinksList:
+    - text: Malong - Outernational Charanga
+      link: https://theasymetrics.com/blog/malong-outernational-charanga-selection/
+    - text: "Lord Sandwich & Medusa: Ispayola Rythm"
+      link: https://theasymetrics.com/blog/lord-sandwich-meets-medusa-ispayola-rythm/
+    - text: "Mokomizik: Dusty Latin Grooves"
+      link: https://theasymetrics.com/blog/label-story-2-mokomizik/
 ---
 ![](/img/boricua-final-cover.jpg)
+
+<br>
+
+Direct Link: [Soundcloud](https://soundcloud.com/the-asymetrics/malong-outernational-boricua)
 
 ### Following-up on my [previous Outernational mixtape](https://theasymetrics.com/blog/malong-outernational-charanga-selection/), I put together a selection of dusty records paying tribute to the massive influence of Puerto Rico in the golden era...
 
@@ -55,3 +67,9 @@ When Afro-Cuban beats like Charanga, Son Montuno or Mambo met Boricua styles [Bo
 12- **Dr Nico et l'Orchestre African Jazz** - Merengue Fafa (Congo / 1966)
 
 13- **Cyril Diaz Orchestra** - Mme Killio (Trinidad / 1958)
+
+<br>
+
+### If you're feeling the vibes and want more, check-out the [](https://www.youtube.com/playlist?list=PLZtgNolXlRSSYSXzkOXa2t-C0lC3XlCE2)[Bailando Asymetrico](https://www.youtube.com/playlist?list=PLZtgNolXlRSRexNmVSx8hAQoAbRkQyvOT) playlist on the Asymetrics Channel:
+
+<iframe width="100%" height="380" src="https://www.youtube.com/embed/playlist?list=PLZtgNolXlRSRexNmVSx8hAQoAbRkQyvOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen referrerpolicy="origin"></iframe>
