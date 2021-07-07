@@ -9,13 +9,21 @@ categories: mixtapes
 tags:
   - "#Soul"
   - "#Roots"
-  - "#Club"
+  - "#Bass"
   - "#Rave"
   - "#Jungle"
   - "#Drum&Bass"
   - "#Vinyl"
   - "#asymetricstapes"
 date: 2021-07-07T13:03:06.076Z
+outsideLinks:
+  outsideLinksList:
+    - text: M Boo on Soundcloud
+      link: https://soundcloud.com/thebdoubleo
+    - text: Grown Ass Folks Melodies
+      link: https://www.instagram.com/grownassfm/
+    - text: "DJ Pohy: We Want to Dance"
+      link: https://theasymetrics.com/blog/dj-pohy-we-want-to-dance/
 ---
 ![](/img/theasymetrics_m_boo_selecta.jpg)
 
@@ -23,7 +31,7 @@ date: 2021-07-07T13:03:06.076Z
 
 Direct Links: [Soundcloud](https://soundcloud.com/the-asymetrics/asymetrics-mixtape-24-m-boo-hotta-mix) / [Youtube](https://www.youtube.com/watch?v=a1n3WNMa088)
 
-### From the golden years of Drum'n'Bass to founding [ClekClekBoom](https://www.facebook.com/clekclekboom/) Recordings, the discrete Parisian digger has been letting his records speak for him since almost three decades. 
+### From the golden years of Drum'n'Bass to founding [ClekClekBoom](https://www.facebook.com/clekclekboom/) Recordings, the discrete Parisian digger has been letting his records speak for him since almost three decades.
 
 ### Bringing this 1hr mix to the Asymetrics crew straight from his vinyl vault with love.
 
@@ -74,3 +82,13 @@ Direct Links: [Soundcloud](https://soundcloud.com/the-asymetrics/asymetrics-mixt
 <br>
 
 ### M Boo
+
+![](/img/theasymetrics_m_boo.jpg)
+
+<br>
+
+Known in Paris as "Monsieur" Boo or [The Boo](https://www.facebook.com/thebdoubleo/), the French veteran has been active since the late 1990's, first as a trusted Jungle DJ in a budding local scene, and then more broadly touching anything Funk and Soul with Bass and Jungle grooves ! He is the co-founder of seminal label [ClekClek Boom Recordings](https://www.discogs.com/label/318125-ClekClekBoom-Recordings).
+
+M Boo is currently a resident at [Rinse France](https://www.instagram.com/rinsefrance/), where he recently launched a wicked monthly show called [Grown Ass Folks Melodies](https://www.instagram.com/grownassfm/)
+
+### Find out more about M Boo on [Facebook](https://www.facebook.com/thebdoubleo/) / [Instagram](https://www.instagram.com/monsieurboo/) / [Soundcloud](https://soundcloud.com/thebdoubleo)
