@@ -3,7 +3,7 @@ templateKey: blog-post
 title: "DNA records: Cambodia Reggae Special"
 teaser: DNA records are back with a scorching Reggae 45, straight outta Phnom
   Penh, Cambodia !
-featuredimage: /img/cambodia-a.jpg
+featuredimage: /img/cambodiacover.jpg
 author: Malong
 categories: news
 tags:
@@ -27,7 +27,9 @@ outsideLinks:
     - text: "Asymetrics label story #1: DNA Records"
       link: https://theasymetrics.com/blog/label-story-1-dna-records/
 ---
-![](/img/cambodia-a.jpg)
+![](/img/cambodiacover.jpg)
+
+<br>
 
 Direct Link to Premiere: Youtube / Soundcloud
 
