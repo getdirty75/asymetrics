@@ -31,11 +31,19 @@ outsideLinks:
 
 <br>
 
-Direct Link to Premiere: Youtube / Soundcloud
+Direct Link to Premiere: [Youtube](https://www.youtube.com/watch?v=fMmADfpfQh4) 
 
 ### After a successful [Chinese Reggae cut](https://theasymetrics.com/blog/label-story-1-dna-records/), DJ DSK's DNA records strike back with with a limited 45 showcasing two international bands based in the Khmer capital !
 
-EMBED
+<br>
+
+<iframe width="100%" height="380" src="https://www.youtube-nocookie.com/embed/fMmADfpfQh4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<br>
+
+<br>
+
+<br>
 
 The first cut showcases "**Cambodia"** by [Dub Addiction](https://www.last.fm/music/Dub+Addiction/+wiki), a combo of local and French, German, and Nigerian musicians, featuring Dj Khla, a political activist who is now living in exile in Europe after having fled his country because of military pressure on him and his family. He was able to escape Cambodia while on tour with Dub Addiction in Denmark.
 
