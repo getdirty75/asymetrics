@@ -14,6 +14,18 @@ tags:
   - "#Cambodia"
   - "#Vinyl"
 date: 2021-07-08T02:53:26.969Z
+outsideLinks:
+  outsideLinksList:
+    - text: DJ DSK / DNA records store
+      link: https://djdsk3000.bigcartel.com/
+    - text: DNA on Bandcamp
+      link: https://djdsk.bandcamp.com/music
+    - text: Dub Addiction
+      link: https://dubaddiction.bandcamp.com/music
+    - text: Vibratone
+      link: https://vibratone.bandcamp.com/album/phnom-penh-reggae
+    - text: "Asymetrics label story #1: DNA Records"
+      link: https://theasymetrics.com/blog/label-story-1-dna-records/
 ---
 ![](/img/cambodia-a.jpg)
 
