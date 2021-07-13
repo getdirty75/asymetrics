@@ -206,18 +206,30 @@ Looking around, one will also find Katibim's far reaching keys all the way in Pa
 
 While its Anatolian origins are pretty much established, Katibim has been so present in **Albanian, Ashkenazi, Bosnian, Bulgarian, Greek, Macedonian**, or even **Serbian** folklore for generations that a movie based on its controversial attribution was made in 2003:
 
-EMBED (whose is this song trailer):<https://www.youtube.com/watch?v=x8LrcGGJFLs&t=81s>
+<iframe width="100%" height="380" src="https://www.youtube-nocookie.com/embed/x8LrcGGJFLs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen referrerpolicy="origin"></iframe>
 
-["Whose is this song"](https://adelamedia.net/movies/whose-is-this-song.php)is a beautiful, and super fun documentary about Bulgarian director[Adela Peeva' s](https://adelamedia.net/adela-peeva.php)quest for Katibim's (facetiously) disputed origin; she traces the debate back to a dinner she was having in Istanbul where herself, a Turkish, a Macedonian, a Greek, and a Serbian friend all would have recognized the song as coming from their own country !
+<br>
 
-The film is poignant at times (when you can see nationalism take its ugly shape), and often emotional, and it’s well worth the 5 bucks to[watch on Vimeo’s on demand](https://vimeo.com/ondemand/whoseisthissong)platform !
+<br>
 
-Ulku Erakasin (Katip Director) in Whose is this song
+**["Whose is this song"](https://adelamedia.net/movies/whose-is-this-song.php)** is a beautiful, and super fun documentary about Bulgarian director [Adela Peeva' s](https://adelamedia.net/adela-peeva.php) quest for Katibim's (facetiously) disputed origin; she traces the debate back to a dinner she was having in Istanbul where herself, a Turkish, a Macedonian, a Greek, and a Serbian friend all would have recognized the song as coming from their own country !
 
-…..
+The film is poignant at times (when you can see nationalism take its ugly shape), and often emotional, and it’s well worth the 5 bucks to[ **watch on Vimeo’s** on demand](https://vimeo.com/ondemand/whoseisthissong) platform !
 
-So... I hope this little piece will inspire you to look back into the hundreds of major versions of the "Everybody's Song"; or dig deep and find cutting edge Uzbek or Afghani covers (no kidding though, there are some) in between two loud sessions of Samity's fantastic reboot... and I for one will wrap it up with this gorgeous 1949 recording by[Safiya Ayla](https://en.wikipedia.org/wiki/Safiye_Ayla), a cardinal Turkish singer (who may have inspired Eartha Kitt):
+![](/img/theasymetrics_whoseisthissong.jpg)
 
-EMBED:<https://www.youtube.com/watch?v=SFwCw1mZd1g>
+***Ulku Erakasin (Katip Director) in "Whose is this song"***
 
-Stay Fresh, and keep digging !
+<br>
+
+<br>
+
+So... I hope this little piece will inspire you to look back into the hundreds of major versions of the "Everybody's Song"; or dig deep and find cutting edge Uzbek or Afghani covers (no kidding though, there are some) in between two loud sessions of Samity's fantastic reboot... and I for one will wrap it up with this gorgeous 1949 recording by[ Safiya Ayla](https://en.wikipedia.org/wiki/Safiye_Ayla), a cardinal Turkish singer (who may have inspired Eartha Kitt):
+
+<iframe width="100%" height="380" src="https://www.youtube-nocookie.com/embed/SFwCw1mZd1g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen referrerpolicy="origin"></iframe>
+
+<br>
+
+<br>
+
+#### Stay Fresh, and keep digging !
