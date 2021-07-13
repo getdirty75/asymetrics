@@ -62,6 +62,10 @@ So popular is the song in Turkey, it inspired a classic movie released back in 1
 
 **Samity** was born in[ Kardzhali](https://en.wikipedia.org/wiki/Kardzhali), in the Eastern part of the Rhodope mountains in Bulgaria, an area largely populated by ethnic Turks. His grandmother used to sing many Turkish folk songs and *Katibim* was one of them. ***"I was really into the song as a kid"*** he says, ***"and it's funny because when I first heard Ken Boothe's version years later as a reggae musician, I instantly loved it but did not make the connection! It took me a few years and I wondered how this old song from way back in the Ottoman Empire had reached Jamaica".***
 
+![](/img/theasymetrics_katibim_postcard.jpg)
+
+<br>
+
 So Samity did a bit of research and found out this incredible piece of music history:
 
 [Munir Ertegun](https://en.wikipedia.org/wiki/Munir_Ertegun), one of the most prominent diplomats from the young Turkish Republic, proclaimed in 1923, was appointed Ambassador to the USA in 1934. He brought his pianist wife with him, and young son[ Ahmet Ertegun](https://en.wikipedia.org/wiki/Ahmet_Ertegun) who became a serious jazz enthusiast and eventually founded cornerstone label[ Atlantic Records](https://en.wikipedia.org/wiki/Atlantic_Records) in 1947 !
@@ -116,11 +120,15 @@ As it turns out, Katibim's beautiful melody has influenced musicians all over th
 
 <br>
 
-... just as well as in [Mohammed El-Bakkar's](https://en.wikipedia.org/wiki/Mohammed_El-Bakkar) 1957 cut from Egypt: "Banat Iskandaria" (the Girls from Alexandria):
+... just as well as in [Mohammed El-Bakkar's](https://en.wikipedia.org/wiki/Mohammed_El-Bakkar) 1957 cut from Egypt: **"Banat Iskandaria"** (the Girls from Alexandria):
 
-EMBED:<https://www.youtube.com/watch?v=5yoidKk0yrg>
+<iframe width="100%" height="380" src="https://www.youtube-nocookie.com/embed/5yoidKk0yrg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen referrerpolicy="origin"></iframe>
 
-A 17 year old[Chiemi Eri](https://en.wikipedia.org/wiki/Chiemi_Eri), on her way to become Japan’s Jazz superstar, and possibly inspired by Eartha Kitt, also recorded this hot version in 1954:
+<br>
+
+<br>
+
+A 17 year old[ Chiemi Eri](https://en.wikipedia.org/wiki/Chiemi_Eri), on her way to become Japan’s Jazz superstar, and possibly inspired by Eartha Kitt, also recorded this hot version in 1954:
 
 EMBED:<https://www.youtube.com/watch?v=0moQzHT5h3E>
 
