@@ -120,6 +120,8 @@ As it turns out, Katibim's beautiful melody has influenced musicians all over th
 
 <br>
 
+<br>
+
 ... just as well as in [Mohammed El-Bakkar's](https://en.wikipedia.org/wiki/Mohammed_El-Bakkar) 1957 cut from Egypt: **"Banat Iskandaria"** (the Girls from Alexandria):
 
 <iframe width="100%" height="380" src="https://www.youtube-nocookie.com/embed/5yoidKk0yrg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen referrerpolicy="origin"></iframe>
@@ -128,39 +130,81 @@ As it turns out, Katibim's beautiful melody has influenced musicians all over th
 
 <br>
 
+<br>
+
 A 17 year old[ Chiemi Eri](https://en.wikipedia.org/wiki/Chiemi_Eri), on her way to become Japan’s Jazz superstar, and possibly inspired by Eartha Kitt, also recorded this hot version in 1954:
 
-EMBED:<https://www.youtube.com/watch?v=0moQzHT5h3E>
+<iframe width="100%" height="380" src="https://www.youtube-nocookie.com/embed/0moQzHT5h3E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen referrerpolicy="origin"></iframe>
 
-… and then there is legendary Jazz flautist[Herbie Mann’s](https://en.wikipedia.org/wiki/Herbie_Mann)Uskudar (1967), arranged by another Turkish American,[Arif Mardin](https://en.wikipedia.org/wiki/Arif_Mardin):
+<br>
 
-EMBED:<https://www.youtube.com/watch?v=copHzWSlU_U>
+<br>
 
-Katibim even reached[Kazi Nasrul Islam](https://en.wikipedia.org/wiki/Kazi_Nazrul_Islam), Bangladesh’s most famous poet, who probably picked up the melody while fighting the 1st World War for the British empire, and turned it into a national hit that still resonates today: “Shukno Patar Nupur Paye”, interpreted here by[Pratima Banerjee](https://en.wikipedia.org/wiki/Pratima_Bandopadhyay)(1968):
+<br>
 
-EMBED:<https://www.youtube.com/watch?v=SIIXQwR9o3g>
+… and then there is legendary Jazz flautist[ Herbie Mann’s](https://en.wikipedia.org/wiki/Herbie_Mann) **Uskudar** (1967), arranged by another Turkish American,[ Arif Mardin](https://en.wikipedia.org/wiki/Arif_Mardin):
 
-Of course, while looking-up all this serious history, you could count on me to go and dig-up some twisted homages, such as this obscure, fuzzy, 1970 take by bizarre Argentinian band
+<iframe width="100%" height="380" src="https://www.youtube-nocookie.com/embed/copHzWSlU_U" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen referrerpolicy="origin"></iframe>
 
-[Kingston Karachi](https://www.discogs.com/artist/3068524-Kingston-Karachi):
+<br>
 
-EMBED: <https://www.youtube.com/watch?v=7dc8bRSdIfQ>
+<br>
 
-… or the super psychedelic disco of Osman Işmen Orkestrası, “Diskomatik Katibim” (1978):
+<br>
 
-EMBED:<https://www.youtube.com/watch?v=m-VegENdeH4>
+Katibim even reached [Kazi Nasrul Islam](https://en.wikipedia.org/wiki/Kazi_Nazrul_Islam), Bangladesh’s most famous poet, who probably picked up the melody while fighting the 1st World War for the British empire, and turned it into a national hit that still resonates today: **“Shukno Patar Nupur Paye”**, interpreted here by[ Pratima Banerjee](https://en.wikipedia.org/wiki/Pratima_Bandopadhyay) (1968):
 
-Seminal modern Funk and Acid Jazz band[Brooklyn Funk Essentials](Brooklyn%20Funk%20Essentials)also included this mind-blowing cover recorded in Istanbul in 1998, paying tribute both to Katibim’s origins and Ken Boothe by mashing-up the original with Boothe’s all time classic[“When I Fall in Love”](https://www.youtube.com/watch?v=ylSKRd-NCCU):
+<iframe width="100%" height="380" src="https://www.youtube-nocookie.com/embed/SIIXQwR9o3g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen referrerpolicy="origin"></iframe>
 
-EMBED :<https://www.youtube.com/watch?v=76axkgzkDbc>
+<br>
 
-Legend has it that Katibim may even have inspired the intro to Boney M's massive 1970's hit "Rasputin", even though the band has always denied it (hear for yourself, I for one believe it is clearly there!):
+<br>
 
-EMBED:<https://www.youtube.com/watch?v=Nl_Eo2QzqU4>
+<br>
 
-Looking around, one will also find Katibim's far reaching keys all the way in Pakistani, and even Malaysian hits... but even more important is the HUGE and astute debate about Katibim's origins all over the Balkans:
+Of course, while looking-up all this serious history, you could count on me to go and dig-up some twisted homages, such as this obscure, fuzzy, 1970 take by bizarre Argentinian band[ Kingston Karachi](https://www.discogs.com/artist/3068524-Kingston-Karachi):
 
-While its Anatolian origins are pretty much established, Katibim has been so present in Albanian, Ashkenazi, Bosnian, Bulgarian, Greek, Macedonian, or even Serbian folklore for generations that a movie based on its controversial attribution was made in 2003:
+<iframe width="100%" height="380" src="https://www.youtube-nocookie.com/embed/7dc8bRSdIfQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen referrerpolicy="origin"></iframe>
+
+<br>
+
+<br>
+
+<br>
+
+… or the super psychedelic disco of **Osman Işmen Orkestrası**, “Diskomatik Katibim” (1978):
+
+<iframe width="100%" height="380" src="https://www.youtube-nocookie.com/embed/m-VegENdeH4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen referrerpolicy="origin"></iframe>
+
+<br>
+
+<br>
+
+<br>
+
+Seminal modern Funk and Acid Jazz band[ Brooklyn Funk Essentials](Brooklyn%20Funk%20Essentials) also included this mind-blowing cover recorded in Istanbul in 1998, paying tribute both to Katibim’s origins and Ken Boothe by mashing-up the original with Boothe’s all time classic[ “When I Fall in Love”](https://www.youtube.com/watch?v=ylSKRd-NCCU):
+
+<iframe width="100%" height="380" src="https://www.youtube-nocookie.com/embed/76axkgzkDbc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen referrerpolicy="origin"></iframe>
+
+<br>
+
+<br>
+
+<br>
+
+Legend has it that Katibim may even have inspired the intro to **Boney M's** massive 1970's hit **"Rasputin"**, even though the band has always denied it (hear for yourself, I for one believe it is clearly there!):
+
+<iframe width="100%" height="380" src="https://www.youtube-nocookie.com/embed/Nl_Eo2QzqU4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen referrerpolicy="origin"></iframe>
+
+<br>
+
+<br>
+
+<br>
+
+Looking around, one will also find Katibim's far reaching keys all the way in Pakistani, and even Malaysian hits... but even more important is the **HUGE** and astute **debate** about Katibim's origins all over the **Balkans**:
+
+While its Anatolian origins are pretty much established, Katibim has been so present in **Albanian, Ashkenazi, Bosnian, Bulgarian, Greek, Macedonian**, or even **Serbian** folklore for generations that a movie based on its controversial attribution was made in 2003:
 
 EMBED (whose is this song trailer):<https://www.youtube.com/watch?v=x8LrcGGJFLs&t=81s>
 
