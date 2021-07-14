@@ -2,8 +2,8 @@
 templateKey: blog-post
 title: "Story of a track: Katibim"
 teaser: To celebrate the release of Samity's Katibim (feat. Orçun Sünear) on
-  Dubquake, we took a trip through the past and spoke to the Sofia Steppers Don
-  about the mysterious origins of this anthem !
+  mighty label Dubquake, we took a trip through the past and spoke to the Sofia
+  Steppers Don about the mysterious origins of this anthem !
 featuredimage: /img/theasymetrics_katibim_cover.jpg
 author: Malong
 categories: news
@@ -104,7 +104,7 @@ Just a few years later was Jamaica's independence (1962), and the island's radio
 
 As for Samity, the project had been on his mind for many years: ***"After my first gig in Istanbul years ago, I thought I needed something special for the Turkish massive. At first I thought I would try a Reggae cover of superstar [Baris Manco](https://en.wikipedia.org/wiki/Bar%C4%B1%C5%9F_Man%C3%A7o), but finally remembered Katibim”***;
 
-***"I did a first take 4 or 5 years ago that I voiced myself and which I shelved... Then came Covid last year, and I really wanted to do something meaningful for my crew in Turkey who were struggling, so I dug out the track from an old hard-drive, redid the instrumental completely and thought about [Orçun Sünear](https://www.instagram.com/orcunleosunear/?hl=en), who is the lead singer of [Sattas](https://www.facebook.com/sattasband), one of the biggest reggae bands in the country..."***
+***"I did a first take 4 or 5 years ago that I voiced myself and which I shelved... Then came Covid last year, and I really wanted to do something meaningful for my crew in Turkey who were struggling, so I dug out the track from an old hard-drive, redid the instrumental completely and thought about [Orçun Sünear](https://www.instagram.com/orcunleosunear/?hl=en), who is the lead singer in  [ Sattas](https://www.facebook.com/sattasband), one of the biggest reggae bands in the country..."***
 
 <br>
 
