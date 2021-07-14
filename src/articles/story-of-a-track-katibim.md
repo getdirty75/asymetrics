@@ -232,4 +232,16 @@ So... I hope this little piece will inspire you to look back into the hundreds o
 
 <br>
 
+### Buy Samity's "Katibim" single on [Dubquake](https://obf-dubquake-records.bandcamp.com/)...
+
+### ... and follow [Samity](https://www.facebook.com/samityindub), [Orçun Sünear,](https://www.instagram.com/orcunleosunear/) and [Sattas](https://www.facebook.com/sattasband)...
+
+<br>
+
+#### Finally, if you can't get enough of this legendary tune, check out the [Katibim playlist](https://www.youtube.com/playlist?list=PLZtgNolXlRST7qU02Hpdg0AR7Mon9ahYU) on the Asymetrics channel !
+
+<iframe width="100%" height="400" src="https://www.youtube-nocookie.com/embed/videoseries?list=PLZtgNolXlRST7qU02Hpdg0AR7Mon9ahYU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen referrerpolicy="origin"></iframe>
+
+<br>
+
 #### Stay Fresh, and keep digging !
