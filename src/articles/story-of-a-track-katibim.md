@@ -17,6 +17,20 @@ tags:
   - "#vinyl"
   - "#Interview"
 date: 2021-07-13T22:55:07.490Z
+outsideLinks:
+  outsideLinksList:
+    - text: Samity
+      link: https://www.facebook.com/samityindub
+    - text: Dubquake / OBF
+      link: https://obf-dubquake-records.bandcamp.com/
+    - text: Orçun Sünear
+      link: https://www.instagram.com/orcunleosunear/
+    - text: Rice & Peas Records
+      link: https://riceandpeasrecords.bandcamp.com/
+    - text: Sattas
+      link: https://www.facebook.com/sattasband
+    - text: Katibim Playlist
+      link: https://www.youtube.com/playlist?list=PLZtgNolXlRST7qU02Hpdg0AR7Mon9ahYU
 ---
 ![](/img/theasymetrics_katibim_flip.jpg)
 
@@ -240,7 +254,11 @@ So... I hope this little piece will inspire you to look back into the hundreds o
 
 #### Finally, if you can't get enough of this legendary tune, check out the [Katibim playlist](https://www.youtube.com/playlist?list=PLZtgNolXlRST7qU02Hpdg0AR7Mon9ahYU) on the Asymetrics channel !
 
-<iframe width="100%" height="400" src="https://www.youtube-nocookie.com/embed/videoseries?list=PLZtgNolXlRST7qU02Hpdg0AR7Mon9ahYU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen referrerpolicy="origin"></iframe>
+<iframe width="100%" height="400" src="https://www.youtube-nocookie.com/embed/playlist?list=PLZtgNolXlRST7qU02Hpdg0AR7Mon9ahYU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen referrerpolicy="origin"></iframe>
+
+<br>
+
+<br>
 
 <br>
 
